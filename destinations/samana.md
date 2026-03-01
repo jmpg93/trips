@@ -5,6 +5,7 @@
 ---
 
 ## 💰 Presupuesto y Estimación (8 Días / Pareja)
+
 | Item | Semana Santa | Temporada Alta |
 |------|--------------|----------------|
 | Vuelos | €1,400 - €1,800 | €1,600 - €2,200 |
@@ -19,11 +20,11 @@
 Las Galeras es el auténtico "fin del mundo" dominicano. El plan aquí es **inmersión total en naturaleza salvaje**, desconectando de los servicios masivos y madrugando para ver las playas vírgenes antes que nadie. El vibe es de pueblo de pescadores, con carreteras de tierra roja y selva densa.
 
 **Movilidad y Vida Local:**
-Para movernos, lo ideal es alquilar un **Quad (ATV)**. Las carreteras a playas como Rincón son bacheadas y de tierra, por lo que el quad nos dará la estabilidad necesaria en barro o arena. Para alcanzar joyas como Playa Frontón o Playa Madama, la única opción lógica es el **bote** desde la playa del pueblo. La comida será 100% local: pescado del día y langosta a la brasa en la misma arena de la playa, cenando en el pueblo en sitios pequeños de comida criolla como moro de guandules y tostones.
+Para movernos, lo ideal es alquilar un **Quad (ATV)**. Las carreteras a playas como Rincón son bacheados y de tierra, por lo que el quad nos dará la estabilidad necesaria en barro o arena. Para alcanzar joyas como Playa Frontón o Playa Madama, la única opción lógica es el **bote** desde la playa del pueblo. La comida será 100% local: pescado del día y langosta a la brasa en la misma arena de la playa, cenando en el pueblo en sitios pequeños de comida criolla como moro de guandules y tostones.
 
 **Hoja de Ruta Operativa:**
 1.  **Día 1: Llegada.** Traslado desde SDQ (3h), alquiler de Quad y atardecer en **La Playita**.
-2.  **Día 2: Playas Vírgenes.** Bote temprano a **Playa Frontón** (snorkel bajo el acantilado de 90m) y parada en **Playa Madama**.
+2.  **Día 3: Playas Vírgenes.** Bote temprano a **Playa Frontón** (snorkel bajo el acantilado de 90m) y parada en **Playa Madama**.
 3.  **Día 3: Exploración Terrestre.** Ruta en Quad a **Playa Rincón**, baño en el **Caño Frío** (agua dulce) y comida en chiringuitos de arena.
 4.  **Día 4: Inmersión.** Mañana de **Buceo en Cabo Cabrón** (paisajes submarinos dramáticos) y tarde opcional en el **Salto del Limón**.
 
