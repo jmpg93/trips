@@ -1,35 +1,44 @@
-# Travel Dashboard
+# Dashboard de Viajes
 
-Welcome to your travel planning repository.
+Bienvenido a tu repositorio de planificación de viajes.
 
-## 📅 Seasonal Matrix (Best Times to Visit)
+## 📅 Matriz Estacional (Mejores Épocas para Visitar)
 
-| Destination | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
+|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [🌴 Samaná](destinations/samana.md) | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | 🌀 | 🌀 | 🌧️ | ✅ |
 | [🇮🇸 Islandia](destinations/islandia.md) | ❄️ | ❄️ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
 | [🦁 Tanzania](destinations/tanzania.md) | ✅ | ✅ | 🌧️ | 🌧️ | 🌧️ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
 | [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
 | [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
 
-**Legend:**
-- 🐋: Whale Watching
-- ✅: Good Weather / Recommended
-- 🦁: Prime Safari (Great Migration)
-- ⛷️: Ski Season
-- ☀️: Hot / Peak Season
-- 🌀: Hurricane Season (Caution)
-- 🌧️: Rainy Season
-- 🌿: Summer (Long days)
-- 🍂: Autumn (Aurora potential)
-- ❄️: Winter (Ice caves / Aurora / Snow)
+**Leyenda:**
+- 🐋: Avistamiento de ballenas
+- ✅: Buen tiempo / Recomendado
+- 🦁: Safari Prime (Gran Migración)
+- ⛷️: Temporada de esquí
+- ☀️: Calor / Temporada alta
+- 🌀: Temporada de huracanes (Precaución)
+- 🌧️: Temporada de lluvias
+- 🌿: Verano (Días largos)
+- 🍂: Otoño (Potencial de auroras)
+- ❄️: Invierno (Cuevas de hielo / Auroras / Nieve)
 
-## Destinations
-- [🌴 Samaná, Dominican Republic](destinations/samana.md) (Planning 🔄)
-- [🇮🇸 Islandia (Iceland)](destinations/islandia.md) (Idea 💡)
-- [🦁 Tanzania & Zanzibar](destinations/tanzania.md) (Idea 💡)
-- [🇳🇴 Noruega (Norway)](destinations/noruega.md) (Idea 💡)
-- [🏔️ Zermatt (Ski Trip)](destinations/zermatt.md) (Idea 💡)
+## Destinos
+- [🌴 Samaná, República Dominicana](destinations/samana.md) (Planificando 🔄)
+- [🇮🇸 Islandia](destinations/islandia.md) (Idea 💡)
+- [🦁 Tanzania y Zanzíbar](destinations/tanzania.md) (Idea 💡)
+- [🇳🇴 Noruega](destinations/noruega.md) (Idea 💡)
+- [🏔️ Zermatt (Esquí)](destinations/zermatt.md) (Idea 💡)
 
+---
 
+## 📅 Historial de Viajes
+- [Ver todos los viajes pasados](history.md)
 
+---
+
+## 📌 Leyenda de Estados
+- ✅ Visitado
+- 🔄 Planificando
+- 💡 Ideas

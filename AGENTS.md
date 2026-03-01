@@ -1,7 +1,9 @@
 # Global Agent Preferences
 
-- **Home Base:** Madrid, Spain (MAD).
-- **Preferred Currency:** Euro (€). All price estimations and budgets must be in EUR.
-- **Travel Style:** Prefers a balance of "High Adventure" (Nature/Hiking/Diving) and "High Relax" (Boutique hotels/All-Inclusives).
-- **Diving:** Certified divers (since 2021, Bayahibe). Always look for diving opportunities.
-- **Logistics:** Prefers efficient transfers. Long drives (3h+) are considered a "downside" to be weighed against the destination's value.
+- **Idioma:** Español (Obligatorio para todas las comunicaciones y contenido).
+- **Home Base:** Madrid, España (MAD).
+- **Moneda Preferida:** Euro (€). Todas las estimaciones de precios y presupuestos deben estar en EUR.
+- **Estilo de Viaje:** Prefiere un equilibrio entre "Alta Aventura" (Naturaleza/Senderismo/Buceo) y "Alto Relax" (Hoteles boutique/All-Inclusives).
+- **Buceo:** Buceadores certificados (desde 2021, Bayahibe). Buscar siempre oportunidades de buceo.
+- **Logística:** Prefiere traslados eficientes. Los trayectos largos por carretera (3h+) se consideran un "punto negativo" a valorar frente al valor del destino.
+
