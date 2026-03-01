@@ -48,8 +48,12 @@ Al nivel de Vietnam, el hito aquí es el buceo en **Piedra Bonita (The Tower)**.
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-1.  **Día 1: El fin de la carretera.** Llegada a Las Galeras. El plan es bajar revoluciones tras el viaje. Atardecer en **La Playita**, cala tranquila ideal para el primer contacto con el vibe local.
-2.  **Día 2: El acantilado indómito.** Bote a **Playa Frontón**. Snorkel bajo un acantilado de mármol de 90m. De vuelta, parada en **Playa Madama**. Comida: Langosta fresca en la arena.
+### Día 1: El fin de la carretera
+Llegada a Las Galeras. El plan es bajar revoluciones tras el viaje. Atardecer en **La Playita**, cala tranquila ideal para el primer contacto con el vibe local y el sonido de las bachatas del pueblo.
+
+### Día 2: El acantilado indómito
+Bote temprano a **Playa Frontón**. Snorkel bajo un imponente acantilado de mármol de 90m que cae sobre el arrecife. De vuelta, parada en **Playa Madama**, una cala escondida donde la selva toca el agua. Comida: Langosta fresca asada en la arena.
+
 <table>
   <tr>
     <td width="50%"><b>Playa Frontón</b></td>
@@ -61,7 +65,9 @@ Al nivel de Vietnam, el hito aquí es el buceo en **Piedra Bonita (The Tower)**.
   </tr>
 </table>
 
-3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad hasta **Playa Rincón**. Visita al **Caño Frío**, un río de agua helada que desemboca en el mar. Comida: Pescado frito en los puestos locales.
+### Día 3: El mix de agua dulce y salada
+Ruta en Quad a través de plantaciones hasta **Playa Rincón**. Recorrido por sus kilómetros de arena blanca hasta el **Caño Frío**, un río cristalino que desemboca en el mar bajo túneles de manglares. Comida: Pescado frito en los puestos locales.
+
 <table>
   <tr>
     <td width="50%"><b>Playa Rincón</b></td>
@@ -73,7 +79,9 @@ Al nivel de Vietnam, el hito aquí es el buceo en **Piedra Bonita (The Tower)**.
   </tr>
 </table>
 
-4.  **Día 4: El abismo submarino.** Buceo técnico en **Cabo Cabrón**. Tarde: trekking al **Salto del Limón** (evitar caballos).
+### Día 4: El abismo submarino
+Día de buceo técnico en **Cabo Cabrón** (Piedra Bonita). Por la tarde, si hay energía, trekking al **Salto del Limón** (evitar caballos para una experiencia más auténtica y ética).
+
 <table>
   <tr>
     <td width="50%"><b>Salto del Limón</b></td>
