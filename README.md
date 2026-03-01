@@ -19,19 +19,6 @@
 
 ---
 
-## 📍 Estado de la Investigación
-- [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🇨🇷 Costa Rica](destinations/costarica.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🇴🇲 Omán](destinations/oman.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🌋 Azores](destinations/azores.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🛶 Panamá](destinations/panama.md) —— **Estado:** 🔄 Planificando
-- [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** ✅ **Estratégico Completo**
-
----
-
 ## 🛠️ Recursos Rápidos
 - [📊 Historial de Viajes](history.md)
 - [⚙️ Reglas del Agente (GEMINI.md)](GEMINI.md)
