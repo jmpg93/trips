@@ -28,6 +28,7 @@
 ---
 
 ## 💰 Presupuesto Estimado (Pareja / 8 Días)
+
 | Concepto | Temp. Lluvias (Mar/Abr) | Pico Safari (Jul/Ago) |
 |----------|-------------------------|-----------------------|
 | Vuelos | €1,800 - €2,400 | €2,200 - €3,000 |

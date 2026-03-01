@@ -30,6 +30,7 @@
 ---
 
 ## 💰 Presupuesto Estimado (Pareja / 7 Días)
+
 | Concepto | Semana Santa | Verano (Jul/Ago) |
 |----------|--------------|-------------------|
 | Vuelos | €400 - €700 | €600 - €1,000 |

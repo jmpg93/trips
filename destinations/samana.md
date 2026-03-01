@@ -34,6 +34,7 @@ Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 ---
 
 ## 💰 Presupuesto Estimado (Pareja / 8 Días)
+
 | Item | Semana Santa | Temporada Alta |
 |------|--------------|----------------|
 | Vuelos | €1,400 - €1,800 | €1,600 - €2,200 |

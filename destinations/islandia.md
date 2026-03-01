@@ -5,6 +5,7 @@
 ---
 
 ## 📅 Temporadas y Decisión
+
 | Mes | Vibe | Pro | Contra | Estrategia |
 |-----|------|-----|--------|------------|
 | **Jun-Ago** | Verano | 24h luz / F-Roads OK | Caro / Masificado | Camper/Caravana (Libertad) |
@@ -48,6 +49,7 @@
 ---
 
 ## 💰 Presupuesto Estimado (Pareja / 7 Días)
+
 | Concepto | Marzo (4x4 + Hoteles) | Verano (Camper) |
 |----------|-----------------------|-----------------|
 | Vuelos (MAD) | €500 - €800 | €700 - €1,100 |

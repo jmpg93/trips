@@ -19,6 +19,7 @@
 ---
 
 ## 💰 Presupuesto Estimado (Pareja / 6 Días)
+
 | Concepto | Primavera (Mar/Abr) | Pico Invierno (Ene/Feb) |
 |----------|---------------------|--------------------------|
 | Vuelos (MAD-GVA) | €200 - €400 | €300 - €600 |
