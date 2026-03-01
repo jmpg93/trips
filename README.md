@@ -1,6 +1,7 @@
 # Control de Viajes
 
 ## Matriz de Decisión
+- [📊 Ver Comparativa Final Estratégica (Semana Santa)](COMPARATIVA.md)
 
 | Destino | Estilo | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
