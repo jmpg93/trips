@@ -1,11 +1,10 @@
-# 🌴 Samaná, RD (Control)
+# 🌴 Samaná, RD (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)
 
 ---
 
-## 💰 Presupuesto Estimado (Pareja / 8 Días)
-
+## 💰 Presupuesto y Estimación (8 Días / Pareja)
 | Item | Semana Santa | Temporada Alta |
 |------|--------------|----------------|
 | Vuelos | €1,400 - €1,800 | €1,600 - €2,200 |
@@ -16,38 +15,32 @@
 
 ---
 
-## 🎯 Estrategia: Balance Naturaleza + Relax
-Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
+## 🧗 Estrategia Fase 1: Las Galeras - Aventura Salvaje (Días 1-4)
+Las Galeras es el auténtico "fin del mundo" dominicano. El plan aquí es **inmersión total en naturaleza salvaje**, desconectando de los servicios masivos y madrugando para ver las playas vírgenes antes que nadie. El vibe es de pueblo de pescadores, con carreteras de tierra roja y selva densa.
 
-### 🧗 Fase 1: Las Galeras - Inmersión Salvaje (Días 1-4)
-![Las Galeras y Playa Frontón](https://lp-cms-production.imgix.net/2019-06/9d7f9dc821fda47cd26694c1871c74f3-playa-rincon.jpg?auto=format,compress&q=72&w=1095&fit=crop&crop=faces,edges)
+**Movilidad y Vida Local:**
+Para movernos, lo ideal es alquilar un **Quad (ATV)**. Las carreteras a playas como Rincón son bacheadas y de tierra, por lo que el quad nos dará la estabilidad necesaria en barro o arena. Para alcanzar joyas como Playa Frontón o Playa Madama, la única opción lógica es el **bote** desde la playa del pueblo. La comida será 100% local: pescado del día y langosta a la brasa en la misma arena de la playa, cenando en el pueblo en sitios pequeños de comida criolla como moro de guandules y tostones.
 
-**Logística Clave (vía Las Galeras Guide / Los Viajes de Ramón):**
-- **Vibe:** "Primer Destino Sostenible del Mundo". Pueblo auténtico donde "termina la carretera".
-- **Playa Frontón:** Acantilado de 90m sobre el mar. Solo accesible por bote (20 min) o caminata por la selva.
-- **Playa Madama:** Cala pequeña y virgen, ideal para snorkel. Acceso por bote o sendero.
-- **Playa Rincón:** Famosa por su "caño frío" (río de agua dulce que desemboca en el mar). Acceso por bote desde Las Galeras o coche (carretera bacheada).
-- **Movilidad:** Se recomienda alquilar **quads (ATV) o bicicletas** para moverse entre playas de difícil acceso.
-- **Actividad Top:** Buceo en "Cabo Cabrón" y avistamiento de ballenas (Enero-Marzo).
-
-### 🍹 Fase 2: Cayo Levantado / Las Terrenas (Días 5-8)
-- **Foco:** Relax total y servicios.
-- **Las Terrenas:** Si buscas más oferta de restaurantes y ambiente europeo/local mezclado.
-- **Recomendación:** **Cayo Levantado Resort** (Isla privada, lujo).
+**Hoja de Ruta Operativa:**
+1.  **Día 1: Llegada.** Traslado desde SDQ (3h), alquiler de Quad y atardecer en **La Playita**.
+2.  **Día 2: Playas Vírgenes.** Bote temprano a **Playa Frontón** (snorkel bajo el acantilado de 90m) y parada en **Playa Madama**.
+3.  **Día 3: Exploración Terrestre.** Ruta en Quad a **Playa Rincón**, baño en el **Caño Frío** (agua dulce) y comida en chiringuitos de arena.
+4.  **Día 4: Inmersión.** Mañana de **Buceo en Cabo Cabrón** (paisajes submarinos dramáticos) y tarde opcional en el **Salto del Limón**.
 
 ---
 
-## 📅 Logística y Fechas (28 Mar - 5 Abr)
-- **Vuelos:** [✈️ MAD -> Samaná (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
-- **Estancia:** [🏨 Hoteles Samaná (Booking)](https://www.booking.com/searchresults.es.html?ss=Samana%2C+Dominican+Republic&checkin=2026-03-28&checkout=2026-04-05&group_adults=2)
-- **Traslado:** SDQ -> Samaná (3h aprox). 
-  - Privado: $150-200.
-  - Coche: Carretera con 4 peajes (~$40 total).
+## 🍹 Estrategia Fase 2: Cayo Levantado / Las Terrenas - Relax de Lujo (Días 5-8)
+Tras la intensidad de la aventura salvaje, el plan es **mimo máximo y servicios**. Esta fase está diseñada para disfrutar de instalaciones de alta gama, spas y cenas sofisticadas. Es el momento de bajar el ritmo y dejarse llevar por el lujo de un resort bien seleccionado.
+
+**Vibe y Servicios:**
+Si nos alojamos en **Cayo Levantado Resort**, el movimiento será en lanchas privadas o caminando por la isla. Si preferimos **Las Terrenas**, alquilaremos una **Scooter** para explorar el pueblo, que tiene una oferta gastronómica excelente (mix europeo y local). La comida aquí será más refinada, combinando la alta cocina del resort con restaurantes de autor en el pueblo.
 
 ---
 
-## 📝 Notas
-- **Sostenibilidad:** Respeto estricto a las vedas de pesca (langosta/lambí) y reducción de plásticos.
-- **Ambiente:** Sonido de bachata y merengue auténtico. Ideal para desconexión tecnológica.
-- **Diferencia:** Es el viaje de naturaleza real en RD.
-- **Contra:** El traslado de 3h desde SDQ es el principal punto negativo a valorar.
+## ✈️ Logística Crítica y Enlaces
+El principal peaje de este viaje es el **traslado de 3 horas desde SDQ a Samaná**. Es el coste a pagar por la exclusividad y la naturaleza real. 
+
+- **Vuelos:** [✈️ Buscar MAD -> Samaná (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
+- **Estancia:** [🏨 Reservar Hoteles Samaná (Booking)](https://www.booking.com/searchresults.es.html?ss=Samana%2C+Dominican+Republic&checkin=2026-03-28&checkout=2026-04-05&group_adults=2)
+- **Sostenibilidad:** Respeto absoluto a las vedas de pesca y reducción de plásticos en el primer destino sostenible del mundo.
+- **Buceo:** Como buceadores certificados, nuestro foco debe ser **Cabo Cabrón**, con sus paredes y cuevas submarinas únicas en el Caribe.
