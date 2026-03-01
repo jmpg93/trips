@@ -19,7 +19,7 @@
 | 2018 | Ávila | |
 | 2018 | Canarias | |
 | 2018 | Roma | |
-| 2019 | [🇨🇴 Colombia](Colombia.numbers) | Viaje detallado en archivo Numbers. |
+| 2019 | [🇨🇴 Colombia](Colombia.pdf) | Itinerario Pro: Bogotá, Pereira (Eje Cafetero), Cartagena, San Andrés, Medellín. |
 | 2019 | Mallorca | |
 | 2020 | Algarve | |
 | 2021 | República Dominicana | Bayahibe (1 semana). Títulos de buceo Scuba obtenidos aquí. |
