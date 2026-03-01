@@ -12,8 +12,16 @@
 | Transportes | €900 - €1,400 | Alquiler 4x4 con Tienda de Techo (Roof-top tent) |
 | Alojamiento | €1,500 - €2,500 | Mix Alila Jabal Akhdar + Wild Camping + The Chedi |
 | Actividades | €600 - €900 | Guías Canyoning + Buceo Dimaniyat + Majlis al Jinn |
-| Comida/Extras | €500 - €800 | Supermercados Lulu + Cenas en Mascate |
+| Extras | €500 - €800 | Supermercados Lulu + Cenas en Mascate |
 | **Total** | **€4,200 - €6,700** | **Presupuesto por pareja / 10 días** |
+
+---
+
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Alojamiento (Tienda de Techo vs Hoteles):** Se ha elegido **4x4 con rooftop tent** para la Fase 1 porque permite la autonomía total de dormir en dunas o cañones (wild camping legal), algo que los hoteles fijos limitarían logísticamente.
+- **Actividad (Snake Canyon Right Fork vs Left):** Se prioriza el **Right Fork** porque es el más técnico y el que requiere el salto obligatorio de 6m, encajando con tu búsqueda de "aventura real".
+- **Ruta (Travesía Desierto vs Campamento Fijo):** Se justifica la **travesía completa de Wahiba Sands** hacia el mar porque ofrece un componente de expedición técnica superior a simplemente dormir en un campamento turístico.
+- **Recuperación (Alila vs Mascate):** Se elige **Alila Jabal Akhdar** al final de la ruta porque el componente arquitectónico y su ubicación a 2,000m justifican el gasto tras 4 días de acampada salvaje.
 
 ---
 
@@ -34,26 +42,15 @@
 
 ---
 
-## 🗺️ Estrategia por Fases
-Omán en grupo es libertad total. La **Fase 1 (Agua y Desierto)** busca la autonomía con el 4x4 y las tiendas de techo, alternando la frescura de los wadis con el silencio de las dunas de Wahiba. La **Fase 2 (Montaña y Lujo)** es el reset tras la aventura técnica, durmiendo al borde de acantilados en la cordillera de Al Hajar.
-
-**Vibe de Grupo:**
-Cenas al aire libre junto al fuego en zonas de wild camping, conducción técnica en convoy por el desierto y desafíos físicos en los cañones.
-
----
-
 ## 🔥 Hito de Aventura Real: Snake Canyon y Majlis al Jinn
-Omán ofrece dos experiencias que igualan o superan la espeleología en Vietnam:
-- **Snake Canyon (Wadi Bani Awf):** Una grieta estrecha en la montaña que requiere saltos obligatorios de 5-6m a pozas profundas y rápeles técnicos. No hay vuelta atrás una vez empiezas.
-- **Majlis al Jinn:** Una de las cámaras subterráneas más grandes del mundo. Requiere permiso especial y un rápel de 120m-150m en volado (caída libre) por el techo de la cueva.
+- **Snake Canyon:** Grieta técnica con saltos de 6m y rápeles. No hay vuelta atrás.
+- **Majlis al Jinn:** Rápel de 120m en volado por el techo de la cueva (requiere permiso).
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del incienso a la cueva acuática
-Llegada a **Mascate**, donde el aire huele a incienso y sal. Tras recoger el 4x4, bajamos por la costa hasta **Wadi Shab**. El plan es caminar 45 min entre paredes de roca hasta llegar a las pozas turquesas y nadar a través de un "ojo de cerradura" hasta una cascada dentro de una cueva.
-
 <table>
   <tr>
     <td width="50%"><b>Mascate / Mutrah</b></td>
@@ -65,44 +62,14 @@ Llegada a **Mascate**, donde el aire huele a incienso y sal. Tras recoger el 4x4
   </tr>
 </table>
 
-### Día 3 y 4: El océano de arena
-Entrada en **Wahiba Sands**. Aquí la aventura es la conducción: desinflar neumáticos a 15-20 psi y navegar por dunas de hasta 100m. Wild camping total bajo un cielo sin contaminación lumínica. El día 4 cruzamos el desierto hasta las **Sugar Dunes** de Al Khaluf, donde la arena blanca muere en el mar.
-
-<table>
-  <tr>
-    <td width="50%"><b>Wahiba Sands</b></td>
-    <td width="50%"><b>Dunas Al Khaluf</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
-  </tr>
-</table>
-
-### Día 5 y 6: El Gran Cañón de Arabia
-Subida a **Jebel Shams** (3,000m). El plan es el **Balcony Walk**, un sendero colgado del abismo que termina en una **Via Ferrata** técnica para escalar 400m verticales. El aire es fresco y el paisaje es puramente geológico.
-
-<table>
-  <tr>
-    <td width="50%"><b>Jebel Shams</b></td>
-    <td width="50%"><b>Balcony Walk View</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
-  </tr>
-</table>
-
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca entres en un Wadi si hay nubes de lluvia en el horizonte (las inundaciones relámpago son letales y súbitas). No conduzcas por las dunas solo con un coche; siempre en convoy de al menos 2 vehículos.
-- **Logística 4x4:** Es obligatorio llevar un compresor de aire (para inflar tras el desierto), planchas de desatasco y al menos 7L de agua por persona/día en el desierto.
-- **Respeto:** Omán es conservador. Hombros y rodillas cubiertos en pueblos y mercados. En los wadis, usar camisetas técnicas para nadar si hay gente local.
-- **Permisos:** Majlis al Jinn requiere trámite con el Ministerio de Turismo con semanas de antelación.
+- **Factor "Ni de Coña":** Nunca entrar en un Wadi con nubes de lluvia (inundaciones relámpago letales). No conducir dunas solo (convoy obligatorio).
+- **Logística:** 7L agua/persona/día en desierto. Compresor de aire obligatorio.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Mascate (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/mct/260328/260405/?adults=2&currency=EUR)
-- **Alquiler Overlander:** [🚗 4x4 con Tienda de Techo (iDrive4x4 / Nomad)](https://idrive4x4.com/rent-a-4x4-with-rooftop-tent-oman/)
+- **Vuelos:** [✈️ Buscar MAD -> Mascate](https://www.skyscanner.es/transport/flights/mad/mct/260328/260405/?adults=2&currency=EUR)
+- **Alquiler Overlander:** [🚗 4x4 con Tienda de Techo](https://idrive4x4.com/rent-a-4x4-with-rooftop-tent-oman/)

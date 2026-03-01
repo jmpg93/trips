@@ -17,6 +17,14 @@
 
 ---
 
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Ruta (Costa Sur vs Ring Road):** Se ha **descartado dar la vuelta completa a la isla** (Ring Road) porque en 8 días obligaría a conducir 5-6h diarias, arruinando el componente de relax. Se prioriza la **Costa Sur** para maximizar el tiempo en glaciares y cuevas de hielo.
+- **Transporte (4x4 vs Camper):** Se elige **SUV 4x4 con hoteles** descartando la Camper porque en marzo el viento es extremo y muchos campings están cerrados; la comodidad de una cama caliente tras el buceo a 2°C es innegociable.
+- **Actividad (Silfra vs Otros buceos):** Se prioriza **Silfra** como hito técnico único sobre buceos oceánicos que pueden cancelarse por tormentas.
+- **Seguros (SAAP vs Estándar):** Se justifica la inclusión obligatoria del **seguro de ceniza y arena (SAAP)** porque en primavera el deshielo expone el material volcánico que el viento usa para "lijar" los coches.
+
+---
+
 ## 🗓️ Itinerario Detallado (Logística)
 
 | Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
@@ -34,22 +42,21 @@
 ---
 
 ## 🗺️ Estrategia por Fases
-Islandia en Semana Santa es una lucha entre el final del invierno y el inicio de la primavera. La **Fase 1 (Círculo Dorado y Cascadas)** es la introducción visual y geológica. La **Fase 2 (Glaciares y Hielo)** en el sureste es donde ocurre la aventura real, aprovechando los últimos días de estabilidad de las cuevas de hielo azul.
+- **Fase 1 (Círculo Dorado):** Introducción geológica y buceo continental.
+- **Fase 2 (Glaciares y Hielo):** Aventura real en el sureste. Alojamiento: **ION Adventure Hotel**.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Buceo en Silfra y Cuevas de Vatnajökull
-Al nivel de tus expediciones en Vietnam, Islandia ofrece dos hitos únicos:
-- **Buceo en la Fisura de Silfra:** Inmersión entre las placas tectónicas de Eurasia y América. Visibilidad de 100m+. *Nota:* Requiere certificación de Traje Seco o 10 inmersiones logueadas con traje seco en los últimos 2 años.
-- **Expedición a las Cuevas de Hielo Azul:** Solo accesibles hasta principios de abril. Requiere transporte en Super Jeep y guía glaciar. Es una estructura efímera que desaparece cada año.
+- **La Experiencia:** Inmersión entre placas tectónicas (visibilidad 100m+).
+- **Ice Caves:** Última oportunidad antes del cierre por deshielo.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1 y 2: El aterrizaje en Marte y la brecha continental
-Recogida del 4x4 y baño termal en **Blue Lagoon**. El segundo día es el plato fuerte: **Silfra**. Como buceadores, "volar" entre placas tectónicas con visibilidad infinita es único. Por la tarde, la fuerza de **Gullfoss** y los estallidos de **Geysir**.
-
+### Día 1 y 2: El aterrizaje en Marte
+Llegada, **Blue Lagoon** y **Silfra**.
 <table>
   <tr>
     <td width="50%"><b>Fisura de Silfra</b></td>
@@ -61,46 +68,14 @@ Recogida del 4x4 y baño termal en **Blue Lagoon**. El segundo día es el plato 
   </tr>
 </table>
 
-### Día 3 y 4: El rugido del agua y la arena negra
-Ruta por la costa sur visitando **Seljalandsfoss** y la imponente **Skógafoss**. Noche en Vík para intentar cazar **Auroras Boreales** sobre las columnas de basalto de Reynisfjara. El día 4 incluye la expedición en Super Jeep a la cueva de hielo bajo el volcán Katla.
-
-<table>
-  <tr>
-    <td width="50%"><b>Skógafoss</b></td>
-    <td width="50%"><b>Auroras Boreales</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/skogafoss.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/northern-lights.jpg" width="100%"></td>
-  </tr>
-</table>
-
-### Día 5 y 6: El reino del hielo cristalino
-Llegada a **Jökulsárlón**. Ver icebergs flotando que acaban en la **Diamond Beach**. El día 6 lo dedicamos a **Skaftafell** para un trekking con crampones sobre el glaciar Falljökull, viendo grietas y formaciones de hielo milenario.
-
-<table>
-  <tr>
-    <td width="50%"><b>Laguna Glaciar</b></td>
-    <td width="50%"><b>Diamond Beach</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-  </tr>
-</table>
-
-### Día 7, 8 y 9: El regreso a la civilización
-Iniciamos la vuelta hacia el oeste. Parada en **Sky Lagoon** para un baño ritual frente al océano. El día 8 es para explorar **Reikiavik**: diseño, gastronomía local (probar el bacalao) y la arquitectura de Harpa antes de volar de vuelta el domingo.
-
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca abras la puerta del coche sin sujetarla (el viento puede arrancarla). No te acerques al agua en Reynisfjara (olas traicioneras mortales).
-- **Seguro del Coche:** Contratar SIEMPRE **SCDW, GP (Gravel Protection)** y **SAAP (Sand and Ash Protection)**.
-- **Logística:** Consultar cada mañana **road.is** y **vedur.is**. Si hay alerta roja, no se conduce.
+- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (viento huracanado). No acercarse al agua en Reynisfjara.
+- **Logística:** Consultar **road.is** y **vedur.is** cada 2 horas.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Reikiavik (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
+- **Vuelos:** [✈️ Buscar MAD -> Reikiavik](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
 - **Alquiler Coche:** [🚗 Reservar 4x4 (Blue Car Rental / Lotus)](https://www.booking.com/cars/city/is/reykjavik.es.html?checkin=2026-03-28&checkout=2026-04-05)
