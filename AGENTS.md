@@ -9,12 +9,13 @@ Cada nuevo destino debe seguir este flujo narrativo y estratégico:
 
 1. **Título y Estatus:** Nombre del destino y estado de la investigación.
 2. **💰 Presupuesto Global:** Resumen rápido de costes por categoría.
-3. **🗺️ Estrategia por Fases:** Narrativa cohesionada sobre el Vibe y el balance Aventura/Relax.
-4. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Vietnam).
-5. **🗓️ Itinerario Detallado (Tabla Pro):** Tabla granular por días siguiendo el modelo del PDF de Vietnam (Día, Transporte, Alojamiento, Actividades, Comida, Notas).
-6. **🖼️ Layout de Imágenes:** Uso de tablas HTML de 2 columnas sin encabezados para cuadrículas limpias.
-7. **⚠️ Check de Supervivencia:** Consejos "insider" y "Factor Ni de Coña".
-8. **✈️ Logística Crítica:** Enlaces directos y traslados base.
+3. **🗓️ Itinerario Detallado (Tabla Pro):** Tabla granular (estilo Vietnam PDF) con transporte, alojamiento, actividades y notas operativas.
+4. **🗺️ Estrategia por Fases:** Narrativa cohesionada sobre el Vibe y el balance Aventura/Relax.
+5. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Vietnam).
+6. **📅 Hoja de Ruta Narrativa:** Detalle día a día narrativo centrado en la experiencia (qué ver y qué hacer).
+7. **🖼️ Layout de Imágenes:** Uso de tablas HTML de 2 columnas sin encabezados para cuadrículas limpias.
+8. **⚠️ Check de Supervivencia:** Consejos "insider" y "Factor Ni de Coña".
+9. **✈️ Logística Crítica:** Enlaces directos y traslados base.
 
 ## 🛠️ Reglas de Contenido
 - **Filtro de Utilidad:** Solo datos críticos.
