@@ -1,6 +1,4 @@
-# Control de Viajes
-
-## Matriz de Decisión
+# Matriz de Decisión
 
 | Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
