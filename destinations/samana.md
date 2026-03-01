@@ -12,23 +12,24 @@
 | Transportes | €300 - €500 | Traslado SDQ + Alquiler Quad/Moto |
 | Alojamiento | €1,600 - €2,400 | Chalet Tropical (Boutique) + Cayo Levantado |
 | Actividades | €400 - €600 | Buceo Técnico + Excursiones |
-| Comida/Extras| €400 - €600 | Pescado con Coco + Cenas Las Terrenas |
+| Extras | €400 - €600 | Pescado local + Cenas Las Terrenas |
 | **Total** | **€4,100 - €6,000** | **Presupuesto por pareja / 8 días** |
 
 ---
 
 ## 🗓️ Itinerario Detallado (Logística)
 
-| Día | Ciudad/Zona | Transporte | Alojamiento | Actividades | Comida | Recomendaciones y Notas |
-|:---:|:---:|:---|:---|:---|:---:|:---|
-| 1 | Las Galeras | Taxi SDQ (3h) | Chalet Tropical | Llegada y Quad | Local | Alquilar Quad (ATV). Atardecer en La Playita. |
-| 2 | Las Galeras | Bote / Quad | Chalet Tropical | Playa Frontón y Madama | Pescado Coco | Llevar escarpines. Frontón: acantilado de 90m. |
-| 3 | Las Galeras | Quad (ATV) | Chalet Tropical | Playa Rincón / Caño Frío | Frito local | Baño en el Caño Frío (agua dulce entre manglares). |
-| 4 | Las Galeras | Bote Buceo | Chalet Tropical | **Buceo Piedra Bonita** | Yoselin | Inmersión en "The Tower" (Pináculo 60m). |
-| 5 | L. Terrenas | Transfer Privado | Cayo Levantado | Traslado y Check-in | Resort | Cambio de fase. Dejar el Quad, relax total. |
-| 6 | C. Levantado | Lancha | Cayo Levantado | Relax / Playa Privada | Resort | Disfrutar de las instalaciones del islote. |
-| 7 | L. Terrenas | Scooter | Cayo Levantado | Explorar Las Terrenas | Autor | Cena en el pueblo. Restaurante El Pescador. |
-| 8 | Madrid | Taxi SDQ (3h) | Vuelo | Vuelo de regreso | N/A | Salir con 6h de margen respecto al vuelo. |
+| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
+|:---:|:---:|:---:|:---|:---|:---|
+| 28 Mar | 1 | Las Galeras | Taxi SDQ (3h) | Llegada y Quad | Alquilar Quad (ATV). Atardecer en La Playita. |
+| 29 Mar | 2 | Las Galeras | Bote / Quad | Playas Frontón y Madama | Llevar escarpines. Frontón: acantilado de 90m. |
+| 30 Mar | 3 | Las Galeras | Quad (ATV) | Playa Rincón / Caño Frío | Baño en el Caño Frío (agua dulce entre manglares). |
+| 31 Mar | 4 | Las Galeras | Bote Buceo | **Buceo Piedra Bonita** | Inmersión en "The Tower" (Pináculo 60m). |
+| 01 Abr | 5 | L. Terrenas | Transfer Privado | Traslado y Check-in | Cambio de fase. Dejar el Quad, relax total. |
+| 02 Abr | 6 | C. Levantado | Lancha | Relax / Playa Privada | Disfrutar de las instalaciones del islote. |
+| 03 Abr | 7 | L. Terrenas | Scooter | Explorar Las Terrenas | Cena en el pueblo. Restaurante El Pescador. |
+| 04 Abr | 8 | L. Terrenas | Lancha/Relax | Últimas compras | Disfrutar de la mañana. Preparar maletas. |
+| 05 Abr | 9 | Madrid | Taxi SDQ (3h) | Vuelo de regreso | Salir con 6h de margen respecto al vuelo. |
 
 ---
 
