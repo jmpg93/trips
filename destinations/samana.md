@@ -30,13 +30,22 @@ Si buscas algo al nivel de Vietnam, el hito aquí es la **Exploración de Cabo C
 **Hoja de Ruta Operativa Día a Día:**
 1.  **Día 1: El fin de la carretera.** Traslado desde SDQ (3h), alquiler de Quad y atardecer en **La Playita**.
 2.  **Día 2: El acantilado indómito.** Bote temprano a **Playa Frontón** y **Playa Madama**.
-![Playa Frontón](../assets/destinations/samana/playa-fronton.jpg)
-![Playa Madama](../assets/destinations/samana/playa-madama.jpg)
+
+| | |
+|:---:|:---:|
+| <img src="../assets/destinations/samana/playa-fronton.jpg" width="100%" /> | <img src="../assets/destinations/samana/playa-madama.jpg" width="100%" /> |
+
 3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad a **Playa Rincón** y baño en el **Caño Frío**.
-![Playa Rincón](../assets/destinations/samana/playa-rincon.jpg)
-![Caño Frío](../assets/destinations/samana/cano-frio.jpg)
+
+| | |
+|:---:|:---:|
+| <img src="../assets/destinations/samana/playa-rincon.jpg" width="100%" /> | <img src="../assets/destinations/samana/cano-frio.jpg" width="100%" /> |
+
 4.  **Día 4: El abismo submarino.** Inmersiones técnicas en **Cabo Cabrón** y tarde en el **Salto del Limón**.
-![Salto del Limón](../assets/destinations/samana/salto-del-limon.jpg)
+
+| | |
+|:---:|:---:|
+| <img src="../assets/destinations/samana/salto-del-limon.jpg" width="50%" /> | |
 
 ---
 

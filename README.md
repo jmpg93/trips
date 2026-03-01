@@ -1,4 +1,6 @@
-# Matriz de Decisión
+# Control de Viajes
+
+## Matriz de Decisión
 
 | Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12,12 +14,12 @@
 
 ---
 
-## 📍 Destinos en Investigación
-- [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** 🔄 Planificando (Semana Santa)
-- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** 💡 Idea
-- [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Idea
-- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Idea
-- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Idea
+## 📍 Estado de la Investigación
+- [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
+- [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
+- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
+- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 
 ---
 
