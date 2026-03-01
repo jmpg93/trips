@@ -16,7 +16,7 @@
 
 ## 📍 Estado de la Investigación
 - [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
+- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
