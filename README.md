@@ -1,7 +1,7 @@
 # Control de Viajes
 
 ## Matriz de Decisión
-- [📊 Ver Comparativa Final Estratégica (Semana Santa)](COMPARATIVA.md)
+- [📊 Ver Comparativa Final Estratégico (Semana Santa)](COMPARATIVA.md)
 
 | Destino | Estilo | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12,6 +12,8 @@
 | [🏔️ Zermatt](destinations/zermatt.md) | Esquí y Lujo | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
 | [🇨🇷 Costa Rica](destinations/costarica.md) | Pura Vida y Selva | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ |
 | [🇴🇲 Omán](destinations/oman.md) | Desierto y Wadis | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | ☀️ | ✅ | ✅ | ✅ |
+| [🌋 Azores](destinations/azores.md) | Canyoning y Termas | 🌧️ | 🌧️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ✅ | 🌧️ | 🌧️ |
+| [🛶 Panamá](destinations/panama.md) | Isla Salvaje y Kunas | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ✅ |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
@@ -24,6 +26,8 @@
 - [🇴🇲 Omán](destinations/oman.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🌋 Azores](destinations/azores.md) —— **Estado:** 🔄 Planificando
+- [🛶 Panamá](destinations/panama.md) —— **Estado:** 🔄 Planificando
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** ✅ **Estratégico Completo**
 
 ---
