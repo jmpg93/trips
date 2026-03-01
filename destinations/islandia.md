@@ -12,8 +12,8 @@
 | Transportes | €1,000 - €1,400 | Alquiler 4x4 (Imprescindible) + Fuel |
 | Alojamiento | €1,800 - €2,800 | Mix Boutique Adventure + Guesthouses |
 | Actividades | €800 - €1,200 | Buceo Silfra + Cuevas de Hielo + Blue Lagoon |
-| Comida/Extras | €1,000 - €1,500 | Restaurantes nivel alto + Supermercado Bónus |
-| **Total** | **€5,100 - €7,700** | **Presupuesto por pareja / 8 días** |
+| Extras | €1,000 - €1,500 | Restaurantes nivel alto + Supermercado Bónus |
+| **Total** | **€5,100 - €7,700** | **Presupuesto por pareja / 9 días** |
 
 ---
 
@@ -36,29 +36,24 @@
 ## 🗺️ Estrategia por Fases
 Islandia en Semana Santa es una lucha entre el final del invierno y el inicio de la primavera. La **Fase 1 (Círculo Dorado y Cascadas)** es la introducción visual y geológica. La **Fase 2 (Glaciares y Hielo)** en el sureste es donde ocurre la aventura real, aprovechando los últimos días de estabilidad de las cuevas de hielo azul.
 
-**Alojamiento Estratégico:**
-Para mantener tu nivel, priorizamos el **ION Adventure Hotel** (diseño industrial en campo de lava) y el **Umi Hotel** (minimalismo nórdico a los pies del volcán Eyjafjallajökull).
-
 ---
 
 ## 🔥 Hito de Aventura Real: Buceo en Silfra y Cuevas de Vatnajökull
 Al nivel de tus expediciones en Vietnam, Islandia ofrece dos hitos únicos:
-- **Buceo en la Fisura de Silfra:** Inmersión entre las placas tectónicas de Eurasia y América. Visibilidad de 100m+. *Nota:* Requiere certificación de Traje Seco o 10 inmersiones logueadas con traje seco en los últimos 2 años. Si no, se puede optar por el snorkel (vibe similar).
+- **Buceo en la Fisura de Silfra:** Inmersión entre las placas tectónicas de Eurasia y América. Visibilidad de 100m+. *Nota:* Requiere certificación de Traje Seco o 10 inmersiones logueadas con traje seco en los últimos 2 años.
 - **Expedición a las Cuevas de Hielo Azul:** Solo accesibles hasta principios de abril. Requiere transporte en Super Jeep y guía glaciar. Es una estructura efímera que desaparece cada año.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1: El aterrizaje en Marte
-Recogida del 4x4 en el aeropuerto. La primera sensación de Islandia es el viento constante y el paisaje de lava negra. Baño termal en **Blue Lagoon** para resetear del vuelo y noche en los alrededores de Thingvellir.
+### Día 1 y 2: El aterrizaje en Marte y la brecha continental
+Recogida del 4x4 y baño termal en **Blue Lagoon**. El segundo día es el plato fuerte: **Silfra**. Como buceadores, "volar" entre placas tectónicas con visibilidad infinita es único. Por la tarde, la fuerza de **Gullfoss** y los estallidos de **Geysir**.
 
-### Día 2: La brecha entre continentes
-Día dedicado al Círculo Dorado. El plato fuerte es **Silfra**. Como buceadores, "volar" literalmente entre dos placas tectónicas con agua a 2°C es una experiencia de otro planeta. Por la tarde, ver la fuerza de la cascada **Gullfoss**.
 <table>
   <tr>
-    <td width="50%"><b>Buceo en Silfra</b></td>
-    <td width="50%"><b>Gullfoss / Geysir</b></td>
+    <td width="50%"><b>Fisura de Silfra</b></td>
+    <td width="50%"><b>Geysir / Gullfoss</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/islandia/silfra.jpg" width="100%"></td>
@@ -66,8 +61,9 @@ Día dedicado al Círculo Dorado. El plato fuerte es **Silfra**. Como buceadores
   </tr>
 </table>
 
-### Día 3: El rugido del agua
-Ruta por la costa sur. Visita a **Seljalandsfoss** (donde puedes caminar detrás del agua) y la imponente **Skógafoss**. Al atardecer, llegada a las playas de arena negra de Vík.
+### Día 3 y 4: El rugido del agua y la arena negra
+Ruta por la costa sur visitando **Seljalandsfoss** y la imponente **Skógafoss**. Noche en Vík para intentar cazar **Auroras Boreales** sobre las columnas de basalto de Reynisfjara. El día 4 incluye la expedición en Super Jeep a la cueva de hielo bajo el volcán Katla.
+
 <table>
   <tr>
     <td width="50%"><b>Skógafoss</b></td>
@@ -79,12 +75,13 @@ Ruta por la costa sur. Visita a **Seljalandsfoss** (donde puedes caminar detrás
   </tr>
 </table>
 
-### Día 4: El reino del hielo cristalino
-Llegada a **Jökulsárlón**. Ver icebergs flotando que acaban en la **Diamond Beach**. Si las condiciones lo permiten, expedición a una cueva de hielo azul en el glaciar Vatnajökull.
+### Día 5 y 6: El reino del hielo cristalino
+Llegada a **Jökulsárlón**. Ver icebergs flotando que acaban en la **Diamond Beach**. El día 6 lo dedicamos a **Skaftafell** para un trekking con crampones sobre el glaciar Falljökull, viendo grietas y formaciones de hielo milenario.
+
 <table>
   <tr>
-    <td width="50%"><b>Jökulsárlón</b></td>
-    <td width="50%"><b>Cueva de Hielo Azul</b></td>
+    <td width="50%"><b>Laguna Glaciar</b></td>
+    <td width="50%"><b>Diamond Beach</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
@@ -92,12 +89,15 @@ Llegada a **Jökulsárlón**. Ver icebergs flotando que acaban en la **Diamond B
   </tr>
 </table>
 
+### Día 7, 8 y 9: El regreso a la civilización
+Iniciamos la vuelta hacia el oeste. Parada en **Sky Lagoon** para un baño ritual frente al océano. El día 8 es para explorar **Reikiavik**: diseño, gastronomía local (probar el bacalao) y la arquitectura de Harpa antes de volar de vuelta el domingo.
+
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca abras la puerta del coche sin sujetarla con las dos manos (el viento puede arrancarla literalmente). No te acerques al agua en Reynisfjara (olas traicioneras "sneaker waves" mortales).
-- **Seguro del Coche:** Contratar SIEMPRE **SCDW, GP (Gravel Protection)** y, muy importante en primavera, **SAAP (Sand and Ash Protection)** para evitar facturas de miles de euros por "chorreo" de arena volcánica.
-- **Logística:** Consultar cada mañana **road.is** (carreteras) y **vedur.is** (clima). Si hay alerta roja por viento, el plan se para.
+- **Factor "Ni de Coña":** Nunca abras la puerta del coche sin sujetarla (el viento puede arrancarla). No te acerques al agua en Reynisfjara (olas traicioneras mortales).
+- **Seguro del Coche:** Contratar SIEMPRE **SCDW, GP (Gravel Protection)** y **SAAP (Sand and Ash Protection)**.
+- **Logística:** Consultar cada mañana **road.is** y **vedur.is**. Si hay alerta roja, no se conduce.
 
 ---
 
