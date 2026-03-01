@@ -22,8 +22,8 @@
 - [🇨🇷 Costa Rica](destinations/costarica.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇴🇲 Omán](destinations/oman.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
-- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 
 ---
 
