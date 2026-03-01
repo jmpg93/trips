@@ -2,14 +2,14 @@
 
 ## Matriz de Decisión
 
-| Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
-|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [🌴 Samaná](destinations/samana.md) | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | 🌀 | 🌀 | 🌧️ | ✅ |
-| [🇮🇸 Islandia](destinations/islandia.md) | ❄️ | ❄️ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
-| [🦁 Tanzania](destinations/tanzania.md) | ✅ | ✅ | 🌧️ | 🌧️ | 🌧️ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
-| [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
-| [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
-| [🇨🇷 Costa Rica](destinations/costarica.md) | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ |
+| Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic | Estilo |
+|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| [🌴 Samaná](destinations/samana.md) | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | 🌀 | 🌀 | 🌧️ | ✅ | Naturaleza y Relax |
+| [🇮🇸 Islandia](destinations/islandia.md) | ❄️ | ❄️ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ | 4x4 y Frío Épico |
+| [🦁 Tanzania](destinations/tanzania.md) | ✅ | ✅ | 🌧️ | 🌧️ | 🌧️ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ | Safari y Playa |
+| [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ | Fiordos y Diseño |
+| [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ | Esquí y Lujo |
+| [🇨🇷 Costa Rica](destinations/costarica.md) | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ | Pura Vida y Selva |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
