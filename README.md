@@ -19,8 +19,8 @@
 - [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇨🇷 Costa Rica](destinations/costarica.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
-- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 
 ---
