@@ -1,6 +1,6 @@
-# 📂 Control de Viajes
+# Control de Viajes
 
-## 🗓️ Matriz de Decisión (Temporalidad)
+## Matriz de Decisión
 
 | Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
