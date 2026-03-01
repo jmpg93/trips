@@ -42,15 +42,16 @@
 ---
 
 ## 🔥 Hito de Aventura Real: Empakaai Crater Hike y Migration Tracking
-- **Empakaai Trek:** Descenso a pie escoltado por ranger a una caldera virgen con lago de flamencos.
-- **Migration Tracking:** Navegación táctica en 4x4 por el Serengeti central en busca de las manadas.
+- **Empakaai Trek:** Descenso a pie escoltado por ranger a una caldera virgen con lago de flamencos. El valor diferencial es el esfuerzo físico y la ausencia total de otros turistas.
+- **Migration Tracking:** Navegación táctica en 4x4 por el Serengeti central en busca de las manadas en movimiento.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del Baobab al Cráter Perdido
-Llegada a las faldas del Kilimanjaro. El plato fuerte es **Empakaai**: un trekking salvaje escoltados por un ranger armado, sintiendo el latido de la tierra volcánica bajo los pies.
+- **Logística:** **1h de transfer** al llegar. El día 2, **3h de 4x4** hasta Tarangire.
+- **Valor Diferencial:** Tarangire es necesario para ver manadas de elefantes entre baobabs centenarios. **Empakaai** es el hito de aventura real: bajar a pie 300m por una pared selvática hasta el fondo de una caldera volcánica virgen donde el único sonido es el de los flamencos. Es la antítesis del safari enlatado.
 
 <table>
   <tr>
@@ -64,7 +65,8 @@ Llegada a las faldas del Kilimanjaro. El plato fuerte es **Empakaai**: un trekki
 </table>
 
 ### Día 3 y 4: La Gran Migración en el lodo
-Entrada al **Serengeti**. En abril, el verde es tan intenso que duele a la vista. Veremos escenas de depredadores (leones, guepardos) en un entorno de exclusividad total, navegando el lodo en expedición táctica.
+- **Logística:** **4-5h de conducción técnica** por el Serengeti.
+- **Valor Diferencial:** El valor de abril es la **exclusividad absoluta**. Podrás ver escenas de caza de leones y guepardos sin 20 jeeps rodeándote. Navegar el lodo del Serengeti es una expedición táctica que requiere un 4x4 real y pericia, convirtiendo el traslado en parte de la aventura.
 
 <table>
   <tr>
@@ -77,13 +79,14 @@ Entrada al **Serengeti**. En abril, el verde es tan intenso que duele a la vista
   </tr>
 </table>
 
-### Día 5 y 6: El salto al azul
-Salto a **Zanzíbar**. Al llegar al norte (Nungwi), el mar nos recibe con una calma inusual. Los primeros paseos por Stone Town y las playas blancas sirven de preludio al buceo técnico.
+### Día 5 y 6: El salto al Índico
+- **Logística:** **1.5h de vuelo interno** desde Seronera a Zanzíbar (ZNZ).
+- **Valor Diferencial:** Zanzíbar es necesaria para el reset de salitre. El valor diferencial es llegar a **Stone Town** al atardecer; el laberinto de coral y madera huele a clavo y especias, preparando el cuerpo para el buceo técnico del día siguiente.
 
 <table>
   <tr>
     <td width="50%"><b>Stone Town</b></td>
-    <td width="50%"><b>Nungwi Beach</b></td>
+    <td width="50%"><b>Zanzíbar Vibe</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
@@ -91,8 +94,9 @@ Salto a **Zanzíbar**. Al llegar al norte (Nungwi), el mar nos recibe con una ca
   </tr>
 </table>
 
-### Día 7, 8 y 9: El espejo del Índico
-Inmersiones en **Mnemba Atoll** y **Leven Bank**. El agua está tan clara que parece que vuelas sobre los arrecifes. Tras dos días de buceo intenso con delfines y bancos de pelágicos, disfrutamos del relax final antes del vuelo de regreso.
+### Día 7, 8 y 9: El espejo del Índico y el Abismo
+- **Logística:** **45 min de lancha rápida** desde Nungwi. El día 8, **1h** a mar abierto para Leven Bank.
+- **Valor Diferencial:** **Mnemba Atoll** en abril ofrece una visibilidad récord (hasta 60m) porque no hay viento. Es como volar. **Leven Bank** es el hito técnico para buceadores avanzados: una montaña submarina en mitad del canal de Pemba con corrientes fuertes y bancos masivos de atunes y jureles. Es el cierre de alta intensidad antes de volar a Madrid.
 
 <table>
   <tr>
@@ -109,7 +113,7 @@ Inmersiones en **Mnemba Atoll** y **Leven Bank**. El agua está tan clara que pa
 
 ## ⚠️ Check de Supervivencia (Agente)
 - **Factor "Ni de Coña":** No escatimar en el 4x4. No beber agua no embotellada.
-- **Salud:** Vacuna Fiebre Amarilla obligatoria.
+- **Salud:** Vacuna Fiebre Amarilla obligatoria. Malarone recomendado.
 
 ---
 
