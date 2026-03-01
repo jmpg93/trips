@@ -7,5 +7,7 @@
 - **Buceo:** Buceadores certificados (desde 2021, Bayahibe). Buscar siempre oportunidades de buceo.
 - **Logística:** Prefiere traslados eficientes. Los trayectos largos por carretera (3h+) se consideran un "punto negativo" a valorar frente al valor del destino.
 - **Referencias Externas:** Al procesar información de webs externas, incluir ÚNICAMENTE los datos críticos y de utilidad directa (ej. seguridad, costes, logística clave). En caso de duda sobre la utilidad de un dato, omitirlo para mantener los documentos breves y funcionales.
+- **Imágenes:** Incluir imágenes (mapas, hitos visuales o ambiente) cuando aporten valor estratégico o ayuden a visualizar la logística del viaje (ej. mapas de rutas o fotos de alojamientos/buceo).
+
 
 

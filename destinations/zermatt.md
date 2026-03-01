@@ -1,6 +1,8 @@
 # 🏔️ Zermatt (Control Esquí)
+![Matterhorn Zermatt](https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?auto=format&fit=crop&w=800&q=80)
 
 **Estado:** 💡 Idea (Primavera)
+
 
 ---
 
