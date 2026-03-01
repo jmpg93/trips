@@ -10,6 +10,7 @@
 | [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ | Fiordos y Diseño |
 | [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ | Esquí y Lujo |
 | [🇨🇷 Costa Rica](destinations/costarica.md) | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ | Pura Vida y Selva |
+| [🇴🇲 Omán](destinations/oman.md) | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | ☀️ | ✅ | ✅ | ✅ | Desierto y Wadis |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
@@ -19,6 +20,7 @@
 - [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇨🇷 Costa Rica](destinations/costarica.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🇴🇲 Omán](destinations/oman.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
