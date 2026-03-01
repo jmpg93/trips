@@ -18,10 +18,8 @@
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Transporte (Quad vs Coche/Moto):** Se ha elegido **Quad (ATV)** para la Fase 1 porque las carreteras internas de Las Galeras y el acceso a Playa Rincón son de tierra roja y muy bacheados; el Quad ofrece estabilidad en barro tras lluvias tropicales que una moto no tiene.
-- **Localización (Las Galeras vs Samaná Pueblo):** Se descarta Samaná Pueblo por ser demasiado ruidoso y comercial. **Las Galeras** ofrece la autenticidad de "fin de carretera" que buscas.
-- **Fase 2 (Cayo Levantado vs All-Inclusive Bávaro):** Se elige **Cayo Levantado** porque permite mantener el vibe de isla privada y exclusividad, evitando el turismo de masas de Punta Cana/Bávaro.
-- **Actividad (Cabo Cabrón vs Bayahibe):** Aunque Bayahibe es más fácil, se prioriza **Cabo Cabrón** por el paisaje geológico (paredes verticales) que encaja con vuestro nivel de buceadores certificados.
+- **Transporte (Quad vs Coche):** El Quad es innegociable por el estado de la carretera a Playa Rincón y los senderos de Las Galeras; un coche sufriría y una moto es inestable en el barro de marzo.
+- **Ruta (Las Galeras vs Terrenas):** Se prioriza Las Galeras para el inicio porque es donde ocurre la aventura real (Frontón/Cabo Cabrón). Terrenas se deja para el final por su mejor oferta de ocio y relax.
 
 ---
 
@@ -41,25 +39,23 @@
 
 ---
 
-## 🗺️ Estrategia por Fases
-- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Alojamiento sugerido: **Chalet Tropical Bio-Hotel** (estilo Karst). Foco en naturaleza cruda y buceo técnico.
-- **Fase 2 (Cayo Levantado):** Reset necesario. Aislamiento total en una isla privada con servicios de alta gama.
-
----
-
 ## 🔥 Hito de Aventura Real: Expedición a Cabo Cabrón
-- **La Experiencia:** Buceo en **Piedra Bonita (The Tower)**. Pináculo submarino de 7m a 60m.
-- **Centro Sugerido:** **Las Galeras Divers** (grupos reducidos).
+- **La Experiencia:** Buceo en **Piedra Bonita (The Tower)**. Pináculo submarino de 7m a 60m. Único sitio del Caribe con esta verticalidad volcánica.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1: El fin de la carretera
-Llegada y atardecer en **La Playita**.
+- **Logística:** Tras recoger el Quad en el pueblo (10 min), tardarás solo **15 min** por un camino de tierra en llegar a **La Playita**.
+- **Por qué ir:** Es el hito de bienvenida. Aguas cristalinas y tranquilas que no requieren esfuerzo logístico. Imprescindible para ver tu primer atardecer con un coco loco local.
 
-### Día 2: El acantilado indómito
-Bote a **Playa Frontón** y **Playa Madama**.
+### Día 2: El acantilado indómito (Frontón vs Madama)
+- **Logística:** **25 min en lancha rápida** desde el muelle de Las Galeras.
+- **Por qué ir:** 
+    - **Playa Frontón:** Es necesaria por su escala masiva (acantilado de 90m) y buceo de pared. Es la playa más "Vietnam" de RD.
+    - **Playa Madama:** Es el contrapunto necesario; una cala diminuta y cerrada donde el snorkel es mucho más tranquilo y protegido.
+
 <table>
   <tr>
     <td width="50%"><b>Playa Frontón</b></td>
@@ -72,7 +68,9 @@ Bote a **Playa Frontón** y **Playa Madama**.
 </table>
 
 ### Día 3: El mix de agua dulce y salada
-Ruta en Quad a **Playa Rincón** y **Caño Frío**.
+- **Logística:** **30-40 min en Quad** por una ruta bacheada pero preciosa entre cocoteros.
+- **Por qué ir:** Playa Rincón es una de las 10 mejores del mundo, pero el verdadero valor diferencial es el **Caño Frío**. Es necesario porque permite bañarse en agua dulce helada tras el calor del mar, bajo un túnel natural de manglares único en la zona.
+
 <table>
   <tr>
     <td width="50%"><b>Playa Rincón</b></td>
@@ -88,10 +86,8 @@ Ruta en Quad a **Playa Rincón** y **Caño Frío**.
 
 ## ⚠️ Check de Supervivencia (Agente)
 - **Factor "Ni de Coña":** Evitar Playa Frontón con viento norte fuerte. No aceptar caballos en Salto del Limón.
-- **Equipo:** Escarpines, repelente potente, luz química para cuevas.
 
 ---
 
 ## ✈️ Logística Crítica
 - **Vuelos:** [✈️ Buscar MAD -> Samaná](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
-- **Estancia:** [🏨 Reservar Samaná (Booking)](https://www.booking.com/searchresults.es.html?ss=Samana%2C+Dominican+Republic&checkin=2026-03-28&checkout=2026-04-05&group_adults=2)

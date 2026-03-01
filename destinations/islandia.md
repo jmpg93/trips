@@ -18,10 +18,8 @@
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Costa Sur vs Ring Road):** Se ha **descartado dar la vuelta completa a la isla** (Ring Road) porque en 8 días obligaría a conducir 5-6h diarias, arruinando el componente de relax. Se prioriza la **Costa Sur** para maximizar el tiempo en glaciares y cuevas de hielo.
-- **Transporte (4x4 vs Camper):** Se elige **SUV 4x4 con hoteles** descartando la Camper porque en marzo el viento es extremo y muchos campings están cerrados; la comodidad de una cama caliente tras el buceo a 2°C es innegociable.
-- **Actividad (Silfra vs Otros buceos):** Se prioriza **Silfra** como hito técnico único sobre buceos oceánicos que pueden cancelarse por tormentas.
-- **Seguros (SAAP vs Estándar):** Se justifica la inclusión obligatoria del **seguro de ceniza y arena (SAAP)** porque en primavera el deshielo expone el material volcánico que el viento usa para "lijar" los coches.
+- **Ruta (Costa Sur vs Ring Road):** Se ha **descartado dar la vuelta completa** para evitar 40h de conducción total. Priorizamos la Costa Sur porque concentra los 3 hitos de aventura real (Silfra, Katla y Vatnajökull) en un radio de 4h.
+- **Transporte (4x4 vs SUV):** Se justifica el **4x4 con ruedas de clavos** por la frecuencia de ventiscas de nieve en el paso de montaña de Hellisheiði en marzo.
 
 ---
 
@@ -41,22 +39,21 @@
 
 ---
 
-## 🗺️ Estrategia por Fases
-- **Fase 1 (Círculo Dorado):** Introducción geológica y buceo continental.
-- **Fase 2 (Glaciares y Hielo):** Aventura real en el sureste. Alojamiento: **ION Adventure Hotel**.
-
----
-
 ## 🔥 Hito de Aventura Real: Buceo en Silfra y Cuevas de Vatnajökull
-- **La Experiencia:** Inmersión entre placas tectónicas (visibilidad 100m+).
-- **Ice Caves:** Última oportunidad antes del cierre por deshielo.
+- **Silfra:** El único buceo del mundo donde puedes tocar dos continentes. Agua filtrada por lava durante 100 años (pureza absoluta).
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1 y 2: El aterrizaje en Marte
-Llegada, **Blue Lagoon** y **Silfra**.
+### Día 1: El aterrizaje en Marte
+- **Logística:** **20 min en 4x4** desde el aeropuerto a Blue Lagoon.
+- **Por qué ir:** Es el hito de transición necesario. Tras el vuelo, sumergirse en aguas a 38°C en mitad de un campo de lava negra resetea el cuerpo para la aventura fría que viene.
+
+### Día 2: La brecha continental (Silfra)
+- **Logística:** **45 min desde Reikiavik**. El buceo dura unos 30-40 min debido al frío (2°C).
+- **Por qué ir:** Es el hito técnico más potente de Europa. La visibilidad de +100m da una sensación de ingravidez que no existe en el mar. Es una visita obligatoria por su valor geológico único.
+
 <table>
   <tr>
     <td width="50%"><b>Fisura de Silfra</b></td>
@@ -68,14 +65,22 @@ Llegada, **Blue Lagoon** y **Silfra**.
   </tr>
 </table>
 
----
+### Día 3: El rugido del agua
+- **Logística:** **2h de conducción** desde el Círculo Dorado. 
+- **Por qué ir:** **Skógafoss** es necesaria porque permite subir por una escalera lateral para ver la caída desde arriba, ofreciendo una escala de poder que no tiene Seljalandsfoss.
 
-## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (viento huracanado). No acercarse al agua en Reynisfjara.
-- **Logística:** Consultar **road.is** y **vedur.is** cada 2 horas.
+<table>
+  <tr>
+    <td width="50%"><b>Skógafoss</b></td>
+    <td width="50%"><b>Auroras Boreales</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/islandia/skogafoss.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/islandia/northern-lights.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
 ## ✈️ Logística Crítica
 - **Vuelos:** [✈️ Buscar MAD -> Reikiavik](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
-- **Alquiler Coche:** [🚗 Reservar 4x4 (Blue Car Rental / Lotus)](https://www.booking.com/cars/city/is/reykjavik.es.html?checkin=2026-03-28&checkout=2026-04-05)

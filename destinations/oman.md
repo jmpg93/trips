@@ -18,10 +18,8 @@
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Alojamiento (Tienda de Techo vs Hoteles):** Se ha elegido **4x4 con rooftop tent** para la Fase 1 porque permite la autonomía total de dormir en dunas o cañones (wild camping legal), algo que los hoteles fijos limitarían logísticamente.
-- **Actividad (Snake Canyon Right Fork vs Left):** Se prioriza el **Right Fork** porque es el más técnico y el que requiere el salto obligatorio de 6m, encajando con tu búsqueda de "aventura real".
-- **Ruta (Travesía Desierto vs Campamento Fijo):** Se justifica la **travesía completa de Wahiba Sands** hacia el mar porque ofrece un componente de expedición técnica superior a simplemente dormir en un campamento turístico.
-- **Recuperación (Alila vs Mascate):** Se elige **Alila Jabal Akhdar** al final de la ruta porque el componente arquitectónico y su ubicación a 2,000m justifican el gasto tras 4 días de acampada salvaje.
+- **Transporte (4x4 Roof-top vs Hoteles):** La tienda de techo es vital para acampar en las dunas altas de Wahiba Sands donde no hay hoteles; ahorra 2h de trayecto diario de entrada/salida al desierto.
+- **Ruta (Wadi Shab vs Wadi Bani Khalid):** Se prioriza **Wadi Shab** como primer contacto porque el nado hacia la cueva es más técnico y espectacular que el acceso fácil de Bani Khalid.
 
 ---
 
@@ -43,15 +41,15 @@
 ---
 
 ## 🔥 Hito de Aventura Real: Snake Canyon y Majlis al Jinn
-- **Snake Canyon:** Grieta técnica con saltos de 6m y rápeles. No hay vuelta atrás.
-- **Majlis al Jinn:** Rápel de 120m en volado por el techo de la cueva (requiere permiso).
+- **Snake Canyon:** Grieta técnica con saltos de 6m y rápeles. Es el hito de "máximo impacto" del viaje.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del incienso a la cueva acuática
-Llegada a **Mascate** y descenso a **Wadi Shab**. El plan es nadar a través de un "ojo de cerradura" hasta una cascada dentro de una cueva. Es la inmersión inicial en la geología de Omán.
+- **Logística:** **1.5h de 4x4** desde Mascate hasta el parking de **Wadi Shab**, seguido de **45 min de caminata** por el cañón.
+- **Por qué ir:** El valor diferencial es el final del nado: atravesar una grieta estrecha en el agua (el "ojo de cerradura") para entrar en una bóveda con una cascada atronadora. Es una inmersión geológica que no tiene ningún otro wadi.
 
 <table>
   <tr>
@@ -64,22 +62,13 @@ Llegada a **Mascate** y descenso a **Wadi Shab**. El plan es nadar a través de 
   </tr>
 </table>
 
-### Día 3 y 4: El océano de arena
-Navegación por las dunas de **Wahiba Sands**. Wild camping total bajo un cielo sin contaminación lumínica y cruce profundo hacia las **Sugar Dunes**. Autonomía absoluta con el 4x4.
-
-<table>
-  <tr>
-    <td width="50%"><b>Wahiba Sands</b></td>
-    <td width="50%"><b>Dunas Al Khaluf</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 3: El océano de arena (Wahiba Sands)
+- **Logística:** **2h de conducción** desde la costa. Requiere **desinflar neumáticos** (15-20 psi).
+- **Por qué ir:** Es necesario para vivir la autonomía real. Dormir en lo alto de una duna de 100m sin nadie alrededor (gracias a la tienda de techo) ofrece un silencio absoluto que los campamentos turísticos pierden por el ruido de generadores.
 
 ### Día 5 y 6: El Gran Cañón de Arabia
-Subida a **Jebel Shams**. Recorrido por el **Balcony Walk** que termina en una **Via Ferrata** vertical de 400m sobre el abismo. Aire fresco y vistas geológicas masivas.
+- **Logística:** **3h de subida** en 4x4 desde Nizwa por carreteras de gran pendiente.
+- **Por qué ir:** **Jebel Shams** es necesario por el **Balcony Walk**. Es un sendero colgado de un abismo de 1,000m. El valor añadido es la **Via Ferrata** final: permite subir verticalmente por la roca, convirtiendo un trekking en una experiencia técnica.
 
 <table>
   <tr>
@@ -92,28 +81,7 @@ Subida a **Jebel Shams**. Recorrido por el **Balcony Walk** que termina en una *
   </tr>
 </table>
 
-### Día 7, 8, 9 y 10: Cañones, Abismos y el Índico
-El día 7 entramos en el **Snake Canyon**: saltos de 6m y rápeles técnicos. El día 8 es de recuperación en el **Alila Jabal Akhdar**, colgados de un acantilado a 2,000m. Terminamos con buceo en las **Islas Dimaniyat**, el "Galápagos de Oriente Medio", antes del regreso.
-
-<table>
-  <tr>
-    <td width="50%"><b>Snake Canyon</b></td>
-    <td width="50%"><b>Buceo Dimaniyat</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/wadi-shab.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/diving.jpg" width="100%"></td>
-  </tr>
-</table>
-
----
-
-## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No entrar en Wadis si hay nubes de lluvia (inundaciones relámpago). No conducir dunas solo (convoy).
-- **Logística:** 7L agua/persona/día en desierto.
-
 ---
 
 ## ✈️ Logística Crítica
 - **Vuelos:** [✈️ Buscar MAD -> Mascate](https://www.skyscanner.es/transport/flights/mad/mct/260328/260405/?adults=2&currency=EUR)
-- **Alquiler Overlander:** [🚗 4x4 con Tienda de Techo](https://idrive4x4.com/rent-a-4x4-with-rooftop-tent-oman/)

@@ -9,19 +9,19 @@
 Cada nuevo destino debe seguir este flujo narrativo y estratégico:
 
 1. **Título y Estatus:** Nombre del destino y estado de la investigación.
-2. **💰 Presupuesto Global:** Resumen rápido de costes por categoría (Vuelos, Transporte, Alojamiento, Actividades, Comida).
-3. **🗓️ Itinerario Detallado (Tabla Pro):** Tabla granular (estilo Vietnam/Costa Rica) con columnas: Día, Ciudad/Zona, Transporte, Alojamiento, Actividades, Comida, Recomendaciones y Notas.
-4. **🗺️ Estrategia por Fases:** Narrativa cohesionada sobre el Vibe y el balance Aventura/Relax.
-5. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Hang Va en Vietnam o Rappel/Volcanes en Costa Rica).
-6. **📅 Hoja de Ruta Narrativa:** Detalle día a día narrativo centrado en la experiencia.
-7. **🖼️ Layout de Imágenes:** Uso de tablas HTML puras (sin `<thead>` ni `<th>`) de 2 columnas para cuadrículas limpias.
-8. **⚠️ Check de Supervivencia:** Consejos "insider", equipo necesario (ropa secado rápido, escarpines, etc.) y el "Factor Ni de Coña". Incluir siempre horarios de apertura y días gratuitos (modelo París).
-9. **🚆 Optimización de Costes:** Buscar activamente pases de transporte (JR Pass, Swiss Pass) y estrategias de ahorro sin sacrificar el vibe.
-10. **✈️ Logística Crítica:** Enlaces directos, traslados base y tiempos de conexión exactos.
+2. **💰 Presupuesto Global:** Resumen rápido de costes por categoría.
+3. **⚖️ Justificación de Decisiones (Lógica Atómica):** Razones técnicas del transporte, ruta y descartes.
+4. **🗓️ Itinerario Detallado (Tabla Pro):** Tabla granular con columnas: Fecha, Día, Ciudad/Zona, Transporte, Actividades, Recomendaciones y Notas.
+5. **🗺️ Estrategia por Fases:** Narrativa cohesionada sobre el Vibe y balance Aventura/Relax.
+6. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Vietnam).
+7. **📅 Hoja de Ruta Narrativa:** Detalle diario con información extra obligatoria:
+    - **Logística:** Tiempo estimado de traslado y medio exacto.
+    - **Valor Diferencial:** Qué diferencia ese punto de otros y por qué es una visita necesaria.
+8. **🖼️ Layout de Imágenes:** Uso de tablas HTML puras de 2 columnas con títulos en fila superior.
+9. **⚠️ Check de Supervivencia:** Consejos "insider", equipo necesario y el "Factor Ni de Coña".
+10. **✈️ Logística Crítica:** Enlaces directos y traslados base.
 
 ## 🛠️ Reglas de Contenido
-- **Filtro de Utilidad:** Solo datos críticos. Si es irrelevante para la toma de decisiones, se omite.
-- **Justificación de Decisiones Clave:** Cada decisión estratégica (descartar una ciudad, elegir un transporte específico o priorizar una actividad sobre otra) debe incluir una justificación explícita basada en logística, coste o valor de la experiencia.
+- **Filtro de Utilidad:** Si un dato no es crítico para decidir, se omite.
+- **Justificación Obligatoria:** Cada decisión estratégica debe explicarse.
 - **Activos:** Imágenes descargadas localmente en `assets/destinations/[nombre]/`.
-- **Tablas:** Siempre dejar una línea en blanco antes de cualquier tabla.
-- **Aprendizaje Continuo:** Basarse en los viajes pasados (Vietnam, Costa Rica, Colombia, Japón, Indonesia, París) para entender el nivel de aventura (espeleología, quads, buceo) y la precisión logística requerida.
