@@ -25,8 +25,13 @@ Para movernos, lo ideal es alquilar un **Quad (ATV)**. Las carreteras a playas c
 **Hoja de Ruta Operativa Día a Día:**
 1.  **Día 1: El fin de la carretera.** Tras la paliza del traslado desde SDQ (3h), el plan es alquilar el Quad y bajar revoluciones. Iremos a **La Playita**, una cala de aguas tranquilas a la que se llega por un camino rodeado de cocoteros. Es el sitio perfecto para el primer coco loco y ver el atardecer mientras el pueblo empieza a encender sus bachatas.
 2.  **Día 2: El acantilado indómito.** Madrugaremos para coger un bote a **Playa Frontón**. Veremos desde el mar el imponente acantilado de 90 metros que cae sobre una playa de coral. Pasaremos la mañana haciendo snorkel entre las rocas y, de vuelta, pararemos en **Playa Madama**, una cala escondida donde la selva casi toca el agua. Comida: Langosta asada por los locales en la misma playa.
+![Playa Frontón](../assets/destinations/samana/playa-fronton.jpg)
+![Playa Madama](../assets/destinations/samana/playa-madama.jpg)
 3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad a través de plantaciones de cacao y café hasta **Playa Rincón**. Tras recorrer sus kilómetros de arena blanca, caminaremos hasta el final de la playa donde desemboca el **Caño Frío**. Nos bañaremos en sus aguas cristalinas y heladas bajo un túnel de manglares para quitarnos el salitre antes de comer.
+![Playa Rincón](../assets/destinations/samana/playa-rincon.jpg)
+![Caño Frío](../assets/destinations/samana/cano-frio.jpg)
 4.  **Día 4: El abismo submarino.** Como buceadores certificados, este día es para **Cabo Cabrón**. Haremos dos inmersiones en sus paredes verticales que caen al abismo y sus formaciones de cuevas volcánicas. Por la tarde, si aún hay energía, haremos el trekking al **Salto del Limón** para ver la cascada de 40 metros y bañarnos en su poza natural.
+![Salto del Limón](../assets/destinations/samana/salto-del-limon.jpg)
 
 ---
 
