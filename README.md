@@ -9,6 +9,7 @@
 | [🦁 Tanzania](destinations/tanzania.md) | ✅ | ✅ | 🌧️ | 🌧️ | 🌧️ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
 | [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
 | [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
+| [🇨🇷 Costa Rica](destinations/costarica.md) | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
@@ -17,6 +18,7 @@
 ## 📍 Estado de la Investigación
 - [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** ✅ **Estratégico Completo**
+- [🇨🇷 Costa Rica](destinations/costarica.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Boceto (Pendiente Refinar)
