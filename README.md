@@ -14,6 +14,7 @@
 | [🇴🇲 Omán](destinations/oman.md) | Desierto y Wadis | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | ☀️ | ✅ | ✅ | ✅ |
 | [🌋 Azores](destinations/azores.md) | Canyoning y Termas | 🌧️ | 🌧️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ✅ | 🌧️ | 🌧️ |
 | [🛶 Panamá](destinations/panama.md) | Isla Salvaje y Kunas | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ✅ |
+| [🇬🇷 Creta](destinations/creta.md) | Montaña y Gorges | ✅ | ✅ | ✅ | ✅ | 🌿 | 🌿 | ☀️ | ☀️ | 🌿 | 🌿 | ✅ | ✅ |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
