@@ -7,18 +7,19 @@
 ## 🎯 Estrategia: Balance Naturaleza + Relax
 Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 
-### 🧗 Fase 1: Las Galeras (Días 1-4)
-![Las Galeras](https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80)
-- **Foco:** Buceo y naturaleza salvaje. Menos servicios, más desconexión.
-- **Inmersiones:** "The Tower" o "Cabo Cabrón".
-- **Hitos:** 
-  - **Playa Frontón:** Solo bote (20 min) o caminata 2h.
-  - **Playa Rincón:** Acceso por bote desde Las Galeras o 4x4 (carretera en mal estado).
-  - **Salto del Limón:** Entrada ~50 DOP + propina guía (ir temprano para evitar grupos).
+### 🧗 Fase 1: Las Galeras - Inmersión Salvaje (Días 1-4)
+![Las Galeras y Playa Frontón](https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80)
+
+**Logística Clave (vía Los Viajes de Ramón):**
+- **Vibe:** Pueblo auténtico de pescadores. "Donde termina la carretera".
+- **Playa Frontón:** La joya. Acantilado de 90m sobre el mar. Solo accesible por bote (20 min desde el pueblo) o caminata dura por la selva.
+- **Playa Madama:** Cala pequeña y virgen, ideal para snorkel. También acceso por bote o sendero.
+- **Playa Rincón:** Considerada de las mejores del mundo. Se puede ir en bote desde Las Galeras (más cómodo) o en coche (carretera bacheada).
+- **Actividad Top:** Buceo en "Cabo Cabrón" (paisaje submarino dramático).
 
 ### 🍹 Fase 2: Cayo Levantado / Las Terrenas (Días 5-8)
-- **Foco:** Relax total.
-- **Las Terrenas:** Mejor zona para cenas y ambiente local si se quiere salir del resort.
+- **Foco:** Relax total y servicios.
+- **Las Terrenas:** Si buscas más oferta de restaurantes y ambiente europeo/local mezclado.
 - **Recomendación:** **Cayo Levantado Resort** (Isla privada, lujo).
 
 ---
