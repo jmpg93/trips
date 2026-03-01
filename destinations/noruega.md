@@ -5,6 +5,7 @@
 ---
 
 ## 📅 Temporadas
+
 - **Jun-Ago (Verano):** Senderismo total, días infinitos.
 - **Mar-Abr (Primavera):** Paisaje nevado, auroras aún posibles, menos gente.
 

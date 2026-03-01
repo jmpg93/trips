@@ -3,7 +3,6 @@
 
 **Estado:** 💡 Idea (Primavera)
 
-
 ---
 
 ## ⛷️ Esquí de Primavera

@@ -10,7 +10,6 @@ Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 ### 🧗 Fase 1: Las Galeras (Días 1-4)
 ![Las Galeras](https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80)
 - **Foco:** Buceo y naturaleza salvaje. Menos servicios, más desconexión.
-
 - **Inmersiones:** "The Tower" o "Cabo Cabrón".
 - **Hitos:** 
   - **Playa Frontón:** Solo bote (20 min) o caminata 2h.
