@@ -7,16 +7,16 @@
 ## 📋 Protocolo de Destinos (Template Obligatorio)
 Cada nuevo destino debe seguir este flujo narrativo y estratégico:
 
-1. **Título y Estatus:** Nombre del destino y estado de la investigación (🔄 Planificando / 💡 Idea).
-2. **💰 Presupuesto y Estimación:** Tabla comparativa (Semana Santa vs Temporada Alta).
-3. **🗺️ Estrategia por Fases:** Narrativa cohesionada que explique el "porqué" de cada zona y el balance Aventura/Relax.
-4. **🔥 Hito de Aventura Real:** Una actividad única, de alto impacto (estilo Vietnam), con logística y nivel de dificultad.
-5. **📅 Hoja de Ruta Operativa:** Detalle día a día de qué hacer y qué ver (visual y directo).
-6. **🖼️ Layout de Imágenes:** Uso de tablas Markdown para crear cuadrículas (grids) de imágenes estables (máximo 2 columnas).
-7. **⚠️ Check de Supervivencia:** Consejos "insider", equipo necesario y el "Factor Ni de Coña" (riesgos/estafas).
-8. **✈️ Logística Crítica:** Vuelos, traslados y enlaces directos de búsqueda.
+1. **Título y Estatus:** Nombre del destino y estado de la investigación.
+2. **💰 Presupuesto Global:** Resumen rápido de costes por categoría.
+3. **🗺️ Estrategia por Fases:** Narrativa cohesionada sobre el Vibe y el balance Aventura/Relax.
+4. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Vietnam).
+5. **🗓️ Itinerario Detallado (Tabla Pro):** Tabla granular por días siguiendo el modelo del PDF de Vietnam (Día, Transporte, Alojamiento, Actividades, Comida, Notas).
+6. **🖼️ Layout de Imágenes:** Uso de tablas HTML de 2 columnas sin encabezados para cuadrículas limpias.
+7. **⚠️ Check de Supervivencia:** Consejos "insider" y "Factor Ni de Coña".
+8. **✈️ Logística Crítica:** Enlaces directos y traslados base.
 
 ## 🛠️ Reglas de Contenido
-- **Filtro de Utilidad:** Si un dato no es crítico para la toma de decisiones o la seguridad, se omite.
-- **Narrativa:** Evitar fragmentación. La información debe fluir con un hilo conductor claro.
-- **Activos:** Las imágenes deben descargarse localmente en `assets/destinations/[nombre]/` para asegurar estabilidad.
+- **Filtro de Utilidad:** Solo datos críticos.
+- **Activos:** Imágenes descargadas localmente en `assets/destinations/[nombre]/`.
+- **Tablas:** Siempre dejar una línea en blanco antes de cualquier tabla para asegurar el renderizado.
