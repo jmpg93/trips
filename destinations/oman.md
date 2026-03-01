@@ -51,6 +51,8 @@
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del incienso a la cueva acuática
+Llegada a **Mascate** y descenso a **Wadi Shab**. El plan es nadar a través de un "ojo de cerradura" hasta una cascada dentro de una cueva. Es la inmersión inicial en la geología de Omán.
+
 <table>
   <tr>
     <td width="50%"><b>Mascate / Mutrah</b></td>
@@ -62,11 +64,53 @@
   </tr>
 </table>
 
+### Día 3 y 4: El océano de arena
+Navegación por las dunas de **Wahiba Sands**. Wild camping total bajo un cielo sin contaminación lumínica y cruce profundo hacia las **Sugar Dunes**. Autonomía absoluta con el 4x4.
+
+<table>
+  <tr>
+    <td width="50%"><b>Wahiba Sands</b></td>
+    <td width="50%"><b>Dunas Al Khaluf</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/oman/wahiba-sands.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El Gran Cañón de Arabia
+Subida a **Jebel Shams**. Recorrido por el **Balcony Walk** que termina en una **Via Ferrata** vertical de 400m sobre el abismo. Aire fresco y vistas geológicas masivas.
+
+<table>
+  <tr>
+    <td width="50%"><b>Jebel Shams</b></td>
+    <td width="50%"><b>Vistas Cañón</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8, 9 y 10: Cañones, Abismos y el Índico
+El día 7 entramos en el **Snake Canyon**: saltos de 6m y rápeles técnicos. El día 8 es de recuperación en el **Alila Jabal Akhdar**, colgados de un acantilado a 2,000m. Terminamos con buceo en las **Islas Dimaniyat**, el "Galápagos de Oriente Medio", antes del regreso.
+
+<table>
+  <tr>
+    <td width="50%"><b>Snake Canyon</b></td>
+    <td width="50%"><b>Buceo Dimaniyat</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/oman/wadi-shab.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/oman/diving.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca entrar en un Wadi con nubes de lluvia (inundaciones relámpago letales). No conducir dunas solo (convoy obligatorio).
-- **Logística:** 7L agua/persona/día en desierto. Compresor de aire obligatorio.
+- **Factor "Ni de Coña":** No entrar en Wadis si hay nubes de lluvia (inundaciones relámpago). No conducir dunas solo (convoy).
+- **Logística:** 7L agua/persona/día en desierto.
 
 ---
 

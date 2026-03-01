@@ -50,6 +50,8 @@
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del Baobab al Cráter Perdido
+Llegada a las faldas del Kilimanjaro. El plato fuerte es **Empakaai**: un trekking salvaje escoltados por un ranger armado, sintiendo el latido de la tierra volcánica bajo los pies.
+
 <table>
   <tr>
     <td width="50%"><b>Ngorongoro Highlands</b></td>
@@ -61,11 +63,53 @@
   </tr>
 </table>
 
+### Día 3 y 4: La Gran Migración en el lodo
+Entrada al **Serengeti**. En abril, el verde es tan intenso que duele a la vista. Veremos escenas de depredadores (leones, guepardos) en un entorno de exclusividad total, navegando el lodo en expedición táctica.
+
+<table>
+  <tr>
+    <td width="50%"><b>Serengeti Green Season</b></td>
+    <td width="50%"><b>Fauna Salvaje</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El salto al azul
+Salto a **Zanzíbar**. Al llegar al norte (Nungwi), el mar nos recibe con una calma inusual. Los primeros paseos por Stone Town y las playas blancas sirven de preludio al buceo técnico.
+
+<table>
+  <tr>
+    <td width="50%"><b>Stone Town</b></td>
+    <td width="50%"><b>Nungwi Beach</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: El espejo del Índico
+Inmersiones en **Mnemba Atoll** y **Leven Bank**. El agua está tan clara que parece que vuelas sobre los arrecifes. Tras dos días de buceo intenso con delfines y bancos de pelágicos, disfrutamos del relax final antes del vuelo de regreso.
+
+<table>
+  <tr>
+    <td width="50%"><b>Buceo en Zanzíbar</b></td>
+    <td width="50%"><b>Arrecifes Coral</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No escatimar en el 4x4 (el lodo es real). No beber agua no embotellada.
-- **Salud:** Vacuna Fiebre Amarilla obligatoria. Malarone recomendado.
+- **Factor "Ni de Coña":** No escatimar en el 4x4. No beber agua no embotellada.
+- **Salud:** Vacuna Fiebre Amarilla obligatoria.
 
 ---
 

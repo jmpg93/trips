@@ -49,7 +49,23 @@
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: El pueblo sin coches y la frontera invisible
+Llegada en tren. El silencio de Zermatt, roto solo por los pequeños taxis eléctricos, es el primer impacto. El segundo día cruzamos a Italia esquiando por el **Passo San Teodulo** para comer en Cervinia; la diferencia de precio y el vibe italiano compensan el esfuerzo.
+
+<table>
+  <tr>
+    <td width="50%"><b>Vistas Matterhorn</b></td>
+    <td width="50%"><b>Zermatt Village</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/matterhorn.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/village.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: Hierro, Hielo y Vértigo
+Subida al **Gornergrat** en el histórico tren de cremallera. El día 4 es para el **Gorge Adventure**: sentir la fuerza del deshielo bajo tus pies mientras te cuelgas de una tirolina entre paredes heladas. Es la aventura técnica pura.
+
 <table>
   <tr>
     <td width="50%"><b>Gorner Gorge</b></td>
@@ -58,6 +74,34 @@
   <tr>
     <td><img src="../assets/destinations/zermatt/gorge.jpg" width="100%"></td>
     <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El techo de Europa y el polvo de tarde
+Día de expedición al **Breithorn**. Caminar sobre el glaciar hasta superar los 4,000 metros. El esfuerzo físico es alto, pero la vista de los Alpes desde arriba no tiene rival. La tarde del día 6 es para esquiar en la zona de **Sunnegga**, donde el sol de tarde aguanta mejor.
+
+<table>
+  <tr>
+    <td width="50%"><b>Glacier Paradise</b></td>
+    <td width="50%"><b>Sunnegga</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: Vuelo térmico y el reset de lujo
+El día 7 aprovechamos las térmicas de primavera para un **vuelo en parapente** biplaza desde Rothorn; ver la cara norte del Matterhorn a la altura de los ojos es el hito visual final. El día 8 es de relax total en el spa de **The Omnia** o **Riffelalp**, alternando sauna y baños exteriores frente al pico. Regreso a Ginebra el domingo para el vuelo.
+
+<table>
+  <tr>
+    <td width="50%"><b>Parapente Térmico</b></td>
+    <td width="50%"><b>The Omnia Style</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/village.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/omnia.jpg" width="100%"></td>
   </tr>
 </table>
 

@@ -37,18 +37,34 @@
 | 02 Abr | 6 | Monteverde | 4x4 | Selvatura / Canopy | Los puentes colgantes más largos. |
 | 03 Abr | 7 | Santa Teresa | 4x4 + Ferry | Playa y Surf | Cruce en Ferry de Puntarenas. Vibe hippy-luxe. |
 | 04 Abr | 8 | Santa Teresa | 4x4 | Relax / Atardecer | Desconexión final antes del regreso. |
-| 05 Abr | 9 | Madrid | 4x4 -> SJO | Vuelo de regreso | Salir con 7h de antelación (tráfico). |
+| 05 Abr | 9 | Madrid | 4x4 -> SJO | Vuelo de regreso | Salir con 7h de margen (tráfico). |
 
 ---
 
 ## 🔥 Hito de Aventura Real: Rafting Clase IV en Río Pacuare
-- **La Experiencia:** Descenso de 30km por cañón tropical virgen. Cascadas que caen al río.
+- **La Experiencia:** Descenso de 30km por cañón tropical virgen. Cascadas que caen directamente al río.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: El Amazonas de Centroamérica
+Inmersión inicial en los canales de **Tortuguero**. Kayak al amanecer para ver perezosos y caimanes antes de iniciar la ruta hacia el interior volcánico.
+
+<table>
+  <tr>
+    <td width="50%"><b>Canales de Tortuguero</b></td>
+    <td width="50%"><b>Fauna Salvaje</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: La fuerza del Volcán y el Pacuare
+Llegada a **La Fortuna**. El plan es combinar el trekking por las coladas de lava del Arenal con el plato fuerte: el descenso en rafting por el **Río Pacuare**. Es la aventura táctica pura entre cañones selváticos.
+
 <table>
   <tr>
     <td width="50%"><b>Volcán Arenal</b></td>
@@ -60,14 +76,42 @@
   </tr>
 </table>
 
+### Día 5 y 6: Entre las nubes
+Subida a **Monteverde**. Caminar por los puentes colgantes a 50 metros de altura sobre el dosel del bosque nuboso. Es el momento del **Canopy** (tirolinas kilométricas) y la observación del Quetzal.
+
+<table>
+  <tr>
+    <td width="50%"><b>Puentes Colgantes</b></td>
+    <td width="50%"><b>Bosque Nuboso</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: El Pacífico salvaje
+Bajada a **Santa Teresa**. Cruce épico en el ferry de Puntarenas. El plan es surf, atardeceres en la playa y desconexión total en villas privadas. El domingo, salida temprana hacia SJO para el vuelo de regreso, sorteando el denso tráfico de Semana Santa.
+
+<table>
+  <tr>
+    <td width="50%"><b>Santa Teresa Beach</b></td>
+    <td width="50%"><b>Manuel Antonio (Alternativa)</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/manuel-antonio.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/manuel-antonio.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No dejar NADA dentro del coche (robos frecuentes). Reservar ferry online con semanas de antelación.
-- **Gastronomía:** Comer en las **Sodas** (Plato: Casado).
+- **Factor "Ni de Coña":** No dejar nada en el coche. Reservar ferry online con semanas de antelación.
+- **Logística:** Las carreteras de Nicoya requieren 4x4 real.
 
 ---
 
 ## ✈️ Logística Crítica
 - **Vuelos:** [✈️ Buscar MAD -> San José](https://www.skyscanner.es/transport/flights/mad/sjo/260328/260405/?adults=2&currency=EUR)
-- **Ferry:** [🚢 Reserva Online Ferry (Naviera Tambor)](https://www.navieratambor.com/)
+- **Ferry:** [🚢 Reserva Online Ferry](https://www.navieratambor.com/)
