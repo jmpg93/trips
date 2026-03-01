@@ -23,7 +23,7 @@
 ---
 
 ## 🗺️ Ruta 7 Días (Estrategia Sur)
-![Ruta Sur Islandia](https://images.unsplash.com/photo-1504829857797-ddff29c27947?auto=format&fit=crop&w=800&q=80)
+![Ruta Sur Islandia](https://images.unsplash.com/photo-1520637102912-2df6bb2aec6d?auto=format&fit=crop&w=800&q=80)
 1. **Círculo Dorado:** Thingvellir, Geysir, Gullfoss.
 
 2. **Cascadas Sur:** Seljalandsfoss y Skógafoss.
