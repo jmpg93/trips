@@ -5,6 +5,7 @@
 ---
 
 ## 💰 Presupuesto Global Estimado
+
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
 | Vuelos | €1,400 - €1,800 | Madrid - Santo Domingo (Directo) |
@@ -52,6 +53,7 @@ Al nivel de Vietnam (Hang Va o Ha Giang), el hito aquí es la exploración de es
 ---
 
 ## 🖼️ Galería Visual
+
 <table>
   <tr>
     <td width="50%"><img src="../assets/destinations/samana/playa-fronton.jpg" width="100%"></td>
