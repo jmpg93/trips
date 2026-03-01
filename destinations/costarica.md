@@ -18,10 +18,9 @@
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** porque en Semana Santa el colapso turístico es total (colas de 4h para entrar al parque); se elige **Santa Teresa** porque, aunque es concurrido, ofrece un vibe más joven, exclusivo y fluido para la aventura.
-- **Actividad (Río Pacuare vs Río Balsa):** Se prioriza el **Pacuare** (Clase IV) porque es el hito de aventura real de Costa Rica, descartando el Balsa (Clase II-III) por ser demasiado "familiar" para tu perfil.
-- **Transporte (SUV 4x4 vs Sedán):** Se justifica el **alquiler de un 4x4 real** incluso si es más caro, porque para llegar a Santa Teresa las carreteras de la península de Nicoya tienen tramos de tierra y cruce de riachuelos que un sedán no superaría.
-- **Logística (Ferry Puntarenas vs Vuelo Interno):** Se elige el **Ferry con reserva online** para mantener la flexibilidad del coche en la península, descartando el vuelo interno por el coste extra y la limitación de equipaje para equipo técnico.
+- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** como base principal porque en Semana Santa el colapso turístico es total; se elige **Santa Teresa** porque ofrece un vibe más exclusivo y fluido, aunque mantendremos una visita rápida si la logística lo permite.
+- **Actividad (Río Pacuare vs Río Balsa):** Se prioriza el **Pacuare** (Clase IV) porque es el hito de aventura real, descartando el Balsa por ser demasiado sencillo para vuestro perfil aventurero.
+- **Transporte (SUV 4x4 vs Sedán):** El **4x4 es obligatorio** para la península de Nicoya (Santa Teresa) debido a las carreteras de lastre y posibles cruces de ríos en transición a lluvias.
 
 ---
 
@@ -41,15 +40,23 @@
 
 ---
 
+## 🗺️ Estrategia por Fases
+- **Fase 1 (Naturaleza y Volcanes):** Inmersión en la selva caribeña y la fuerza geotérmica de Arenal. Alojamiento: **Nayara Tented Camp**.
+- **Fase 2 (Aventura en las Nubes):** Trekking técnico y canopy en Monteverde.
+- **Fase 3 (Pacífico Hiper-Relajado):** Cierre en Santa Teresa, buscando el vibe de surf y atardeceres exclusivos lejos de las masas.
+
+---
+
 ## 🔥 Hito de Aventura Real: Rafting Clase IV en Río Pacuare
-- **La Experiencia:** Descenso de 30km por cañón tropical virgen. Cascadas que caen directamente al río.
+- **La Experiencia:** Descenso de 30km por un cañón tropical virgen. El valor diferencial es la inaccesibilidad del entorno; solo se ve desde el río.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1 y 2: El Amazonas de Centroamérica
-Inmersión inicial en los canales de **Tortuguero**. Kayak al amanecer para ver perezosos y caimanes antes de iniciar la ruta hacia el interior volcánico.
+### Día 1 y 2: El Amazonas de Centroamérica (Tortuguero)
+- **Logística:** **3h de coche** hasta La Pavona + **1h de lancha rápida** por los canales selváticos.
+- **Valor Diferencial:** Tortuguero es necesario por ser el "Amazonas" de Costa Rica. El nado en kayak al amanecer permite ver fauna que no verás en el resto del país debido a la densidad de la selva caribeña.
 
 <table>
   <tr>
@@ -62,8 +69,9 @@ Inmersión inicial en los canales de **Tortuguero**. Kayak al amanecer para ver 
   </tr>
 </table>
 
-### Día 3 y 4: La fuerza del Volcán y el Pacuare
-Llegada a **La Fortuna**. El plan es combinar el trekking por las coladas de lava del Arenal con el plato fuerte: el descenso en rafting por el **Río Pacuare**. Es la aventura táctica pura entre cañones selváticos.
+### Día 3 y 4: La fuerza del Volcán y el Pacuare (La Fortuna)
+- **Logística:** **4h de traslado** (Bote-Coche-Bote). El rafting del día 4 dura unas **5h** de acción pura.
+- **Valor Diferencial:** **Arenal** es el hito geológico con su cono perfecto. El **Río Pacuare** es obligatorio por ser uno de los 5 mejores ríos del mundo para rafting; sus paredes de roca de 100m y cascadas internas lo hacen el hito de adrenalina del viaje.
 
 <table>
   <tr>
@@ -76,8 +84,9 @@ Llegada a **La Fortuna**. El plan es combinar el trekking por las coladas de lav
   </tr>
 </table>
 
-### Día 5 y 6: Entre las nubes
-Subida a **Monteverde**. Caminar por los puentes colgantes a 50 metros de altura sobre el dosel del bosque nuboso. Es el momento del **Canopy** (tirolinas kilométricas) y la observación del Quetzal.
+### Día 5 y 6: Entre las nubes (Monteverde)
+- **Logística:** **3.5h de 4x4** por carreteras de montaña. Los puentes colgantes requieren **2h de trekking**.
+- **Valor Diferencial:** Monteverde es necesario por el cambio de ecosistema. El valor diferencial es caminar sobre el dosel del bosque nuboso a 50m de altura, una perspectiva vertical que no ofrecen las selvas bajas de la costa.
 
 <table>
   <tr>
@@ -90,25 +99,19 @@ Subida a **Monteverde**. Caminar por los puentes colgantes a 50 metros de altura
   </tr>
 </table>
 
-### Día 7, 8 y 9: El Pacífico salvaje
-Bajada a **Santa Teresa**. Cruce épico en el ferry de Puntarenas. El plan es surf, atardeceres en la playa y desconexión total en villas privadas. El domingo, salida temprana hacia SJO para el vuelo de regreso, sorteando el denso tráfico de Semana Santa.
+### Día 7 y 8: El Pacífico salvaje (Santa Teresa)
+- **Logística:** **4h de 4x4** incluyendo el cruce en el **Ferry de Puntarenas (1.5h)**.
+- **Valor Diferencial:** **Santa Teresa** es necesaria para escapar del colapso de Manuel Antonio. Ofrece un valor diferencial de "hippy-luxe": atardeceres con surfistas, fogatas en la playa y villas privadas en las colinas que no tienen el ruido de los resorts masivos. Es el cierre de relax auténtico.
 
-<table>
-  <tr>
-    <td width="50%"><b>Santa Teresa Beach</b></td>
-    <td width="50%"><b>Manuel Antonio (Alternativa)</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/costarica/manuel-antonio.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/manuel-antonio.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 9: El regreso logístico
+- **Logística:** **5-6h de 4x4** de regreso a SJO. Es crítico salir temprano para evitar el atasco masivo del domingo de Semana Santa.
+- **Valor Diferencial:** Cierre del ciclo. El último "Gallo Pinto" (desayuno local) antes de entregar el 4x4 y volar a Madrid.
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No dejar nada en el coche. Reservar ferry online con semanas de antelación.
-- **Logística:** Las carreteras de Nicoya requieren 4x4 real.
+- **Factor "Ni de Coña":** No dejar nada en el coche (ni 5 min). Reservar el Ferry de Puntarenas online con semanas de antelación o perderás 5h de cola.
+- **Equipo:** Chubasquero técnico (incluso en época seca llueve en Tortuguero/Monteverde), calzado con agarre para el barro.
 
 ---
 
