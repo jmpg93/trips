@@ -1,0 +1,6 @@
+title: My Travel Planning Repo
+description: Exploring the world, one destination at a time.
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # This allows us to use any GitHub Pages theme easily.
