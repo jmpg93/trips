@@ -21,6 +21,7 @@ Cada nuevo destino debe seguir este flujo narrativo y estratégico:
 
 ## 🛠️ Reglas de Contenido
 - **Filtro de Utilidad:** Solo datos críticos. Si es irrelevante para la toma de decisiones, se omite.
+- **Justificación de Decisiones Clave:** Cada decisión estratégica (descartar una ciudad, elegir un transporte específico o priorizar una actividad sobre otra) debe incluir una justificación explícita basada en logística, coste o valor de la experiencia.
 - **Activos:** Imágenes descargadas localmente en `assets/destinations/[nombre]/`.
 - **Tablas:** Siempre dejar una línea en blanco antes de cualquier tabla.
 - **Aprendizaje Continuo:** Basarse en los viajes pasados (Vietnam, Costa Rica, Colombia, Japón, Indonesia, París) para entender el nivel de aventura (espeleología, quads, buceo) y la precisión logística requerida.
