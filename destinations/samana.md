@@ -33,8 +33,8 @@
 ---
 
 ## 🗺️ Estrategia por Fases
-- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Alojamiento sugerido: **Chalet Tropical Bio-Hotel** (villas de piedra integradas en la selva, estilo Karst).
-- **Fase 2 (Cayo Levantado):** Reset necesario. Aislamiento total en una isla privada con servicios de alta gama.
+- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Alojamiento sugerido: **Chalet Tropical Bio-Hotel** (villas de piedra integradas en la selva, estilo Karst). Foco en naturaleza cruda y buceo técnico.
+- **Fase 2 (Cayo Levantado):** Reset necesario. Aislamiento total en una isla privada con servicios de alta gama. Foco en relax total, spa y gastronomía refinada tras la intensidad de la selva.
 
 ---
 
@@ -84,6 +84,14 @@ Al nivel de Vietnam, el hito aquí es el buceo en **Piedra Bonita (The Tower)**.
     <td></td>
   </tr>
 </table>
+
+---
+
+## 🍹 Estrategia Fase 2: Relax de Lujo (Días 5-8)
+Tras la intensidad de la aventura salvaje, el plan es **mimo máximo y servicios**. Esta fase está diseñada para disfrutar de instalaciones de alta gama, spas y cenas sofisticadas. Es el momento de bajar el ritmo y dejarse llevar por el lujo de un resort bien seleccionado.
+
+**Vibe y Servicios:**
+Si nos alojamos en **Cayo Levantado Resort**, el movimiento será en lanchas privadas o caminando por la isla. Si preferimos **Las Terrenas**, alquilaremos una **Scooter** para explorar el pueblo, que tiene una oferta gastronómica excelente (mix europeo y local). La comida aquí será más refinada, combinando la alta cocina del resort con restaurantes de autor en el pueblo (ej. El Pescador).
 
 ---
 
