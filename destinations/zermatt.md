@@ -42,15 +42,16 @@
 ---
 
 ## 🔥 Hito de Aventura Real: Breithorn Ascent y Gorge Adventure
-- **Breithorn (4,164m):** Expedición con crampones para alcanzar una cumbre de 4,000m.
-- **Gorge Adventure:** Recorrido técnico por desfiladero con saltos y tirolinas.
+- **Breithorn (4,164m):** Expedición con crampones para alcanzar una cumbre de 4,000m. El valor diferencial es la sensación de alta montaña real sin ser un escalador profesional.
+- **Gorge Adventure:** Recorrido técnico por desfiladero con saltos y tirolinas sobre aguas glaciares.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: El pueblo sin coches y la frontera invisible
-Llegada en tren. El silencio de Zermatt, roto solo por los pequeños taxis eléctricos, es el primer impacto. El segundo día cruzamos a Italia esquiando por el **Passo San Teodulo** para comer en Cervinia; la diferencia de precio y el vibe italiano compensan el esfuerzo.
+- **Logística:** **3.5h de tren SBB** desde el aeropuerto de Ginebra. El día 2, cruce esquiando a Italia a través de **Plateau Rosa (3,480m)**.
+- **Valor Diferencial:** Zermatt es necesaria por su pureza; el aire huele a nieve y pino gracias a la ausencia de coches. El valor diferencial es comer en **Cervinia** (Italia) el día 2; es el único sitio de los Alpes donde puedes desayunar una fondue suiza y almorzar una pasta artesana italiana bajando la misma montaña.
 
 <table>
   <tr>
@@ -64,7 +65,8 @@ Llegada en tren. El silencio de Zermatt, roto solo por los pequeños taxis eléc
 </table>
 
 ### Día 3 y 4: Hierro, Hielo y Vértigo
-Subida al **Gornergrat** en el histórico tren de cremallera. El día 4 es para el **Gorge Adventure**: sentir la fuerza del deshielo bajo tus pies mientras te cuelgas de una tirolina entre paredes heladas. Es la aventura técnica pura.
+- **Logística:** **33 min en tren de cremallera** hasta Gornergrat. El día 4, traslado corto a pie hasta el desfiladero de Furi.
+- **Valor Diferencial:** **Gornergrat** ofrece la panorámica de 360° más famosa de Suiza. El **Gorge Adventure** es necesario para romper la rutina del esquí; sentir la fuerza del deshielo bajo tus pies mientras te cuelgas de una tirolina es la aventura técnica que define este viaje.
 
 <table>
   <tr>
@@ -78,7 +80,8 @@ Subida al **Gornergrat** en el histórico tren de cremallera. El día 4 es para 
 </table>
 
 ### Día 5 y 6: El techo de Europa y el polvo de tarde
-Día de expedición al **Breithorn**. Caminar sobre el glaciar hasta superar los 4,000 metros. El esfuerzo físico es alto, pero la vista de los Alpes desde arriba no tiene rival. La tarde del día 6 es para esquiar en la zona de **Sunnegga**, donde el sol de tarde aguanta mejor.
+- **Logística:** **40 min de teleférico** hasta Klein Matterhorn (3,883m). El ascenso al Breithorn dura unas **3-4h ida y vuelta**.
+- **Valor Diferencial:** El **Breithorn** es obligatorio por el hito de los 4,000m; es vuestro "Hang Va" alpino. Caminar encordados sobre el glaciar es una experiencia de equipo real. La tarde del día 6 en la cara norte asegura la mejor nieve polvo de primavera de toda Europa.
 
 <table>
   <tr>
@@ -92,7 +95,8 @@ Día de expedición al **Breithorn**. Caminar sobre el glaciar hasta superar los
 </table>
 
 ### Día 7, 8 y 9: Vuelo térmico y el reset de lujo
-El día 7 aprovechamos las térmicas de primavera para un **vuelo en parapente** biplaza desde Rothorn; ver la cara norte del Matterhorn a la altura de los ojos es el hito visual final. El día 8 es de relax total en el spa de **The Omnia** o **Riffelalp**, alternando sauna y baños exteriores frente al pico. Regreso a Ginebra el domingo para el vuelo.
+- **Logística:** **20 min de vuelo** biplaza. Día 8: cero traslados, relax total en el hotel.
+- **Valor Diferencial:** El **vuelo en parapente** desde Rothorn es necesario para ver la escala real de la cara norte del Matterhorn. El día 8 en el spa de **The Omnia** o **Riffelalp** es el valor diferencial del lujo suizo: recuperar los músculos frente al fuego antes del largo viaje de tren de regreso el domingo.
 
 <table>
   <tr>
@@ -108,8 +112,9 @@ El día 7 aprovechamos las térmicas de primavera para un **vuelo en parapente**
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No cruzar a Italia con viento fuerte (riesgo de cierre de remonte y taxi de €500). No esquiar fuera de pista sin guía (grietas).
-- **Logística:** Comprar la **Half Fare Card** (120 CHF).
+- **Factor "Ni de Coña":** No cruzar a Italia con viento fuerte (riesgo de cierre de remonte y taxi de €500). No esquiar fuera de pista sin guía (grietas glaciares).
+- **Logística:** Comprar la **Half Fare Card** (120 CHF). Se amortiza en el primer día.
+- **Equipo:** Crema solar categoría 50 (el reflejo del glaciar es brutal en marzo).
 
 ---
 
