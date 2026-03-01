@@ -28,24 +28,30 @@ Si buscas algo al nivel de Vietnam, el hito aquí es la **Exploración de Cabo C
 - **Nivel:** Alto. Requiere buena condición física y confianza en el agua.
 
 **Hoja de Ruta Operativa Día a Día:**
-1.  **Día 1: El fin de la carretera.** Traslado desde SDQ (3h), alquiler de Quad y atardecer en **La Playita**.
-2.  **Día 2: El acantilado indómito.** Bote temprano a **Playa Frontón** y **Playa Madama**.
-
-| | |
-|:---:|:---:|
-| <img src="../assets/destinations/samana/playa-fronton.jpg" width="100%" /> | <img src="../assets/destinations/samana/playa-madama.jpg" width="100%" /> |
+1.  **Día 1: El fin de la carretera.** Tras la paliza del traslado desde SDQ (3h), el plan es alquilar el Quad y bajar revoluciones. Iremos a **La Playita**, una cala de aguas tranquilas a la que se llega por un camino rodeado de cocoteros. Es el sitio perfecto para el primer coco loco y ver el atardecer mientras el pueblo empieza a encender sus bachatas.
+2.  **Día 2: El acantilado indómito.** Madrugaremos para coger un bote a **Playa Frontón** y **Playa Madama**.
+<table>
+  <tr>
+    <td width="50%"><img src="../assets/destinations/samana/playa-fronton.jpg" width="100%"></td>
+    <td width="50%"><img src="../assets/destinations/samana/playa-madama.jpg" width="100%"></td>
+  </tr>
+</table>
 
 3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad a **Playa Rincón** y baño en el **Caño Frío**.
-
-| | |
-|:---:|:---:|
-| <img src="../assets/destinations/samana/playa-rincon.jpg" width="100%" /> | <img src="../assets/destinations/samana/cano-frio.jpg" width="100%" /> |
+<table>
+  <tr>
+    <td width="50%"><img src="../assets/destinations/samana/playa-rincon.jpg" width="100%"></td>
+    <td width="50%"><img src="../assets/destinations/samana/cano-frio.jpg" width="100%"></td>
+  </tr>
+</table>
 
 4.  **Día 4: El abismo submarino.** Inmersiones técnicas en **Cabo Cabrón** y tarde en el **Salto del Limón**.
-
-| | |
-|:---:|:---:|
-| <img src="../assets/destinations/samana/salto-del-limon.jpg" width="50%" /> | |
+<table>
+  <tr>
+    <td width="50%"><img src="../assets/destinations/samana/salto-del-limon.jpg" width="100%"></td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 
