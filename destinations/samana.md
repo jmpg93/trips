@@ -10,9 +10,9 @@
 |-----------|------------|-------|
 | Vuelos | €1,400 - €1,800 | Madrid - Santo Domingo (Directo) |
 | Transportes | €300 - €500 | Traslado SDQ + Alquiler Quad/Moto |
-| Alojamiento | €1,600 - €2,400 | Mix Boutique + All-Inclusive |
-| Actividades | €400 - €600 | Buceo Cabo Cabrón + Excursiones |
-| Comida/Extras| €400 - €600 | Pescado local + Cenas Las Terrenas |
+| Alojamiento | €1,600 - €2,400 | Chalet Tropical (Boutique) + Cayo Levantado |
+| Actividades | €400 - €600 | Buceo Técnico + Excursiones |
+| Comida/Extras| €400 - €600 | Pescado con Coco + Cenas Las Terrenas |
 | **Total** | **€4,100 - €6,000** | **Presupuesto por pareja / 8 días** |
 
 ---
@@ -21,34 +21,35 @@
 
 | Día | Ciudad/Zona | Transporte | Alojamiento | Actividades | Comida | Recomendaciones y Notas |
 |:---:|:---:|:---|:---|:---|:---:|:---|
-| 1 | Las Galeras | Taxi SDQ (3h) | Boutique Las Galeras | Llegada y Quad | Local | Alquilar Quad nada más llegar. Atardecer en La Playita. |
-| 2 | Las Galeras | Bote / Quad | Boutique Las Galeras | Playa Frontón y Madama | Playa | Llevar escarpines. Frontón tiene el acantilado de 90m. |
-| 3 | Las Galeras | Quad (ATV) | Boutique Las Galeras | Playa Rincón / Caño Frío | Local | Baño en el río Caño Frío para quitarse la sal. |
-| 4 | Las Galeras | Bote Buceo | Boutique Las Galeras | **Buceo Cabo Cabrón** | Local | Inmersiones técnicas. Tarde: Salto del Limón (a pie). |
-| 5 | L. Terrenas | Transfer Privado | Resort Lujo | Traslado y Check-in | Resort | Cambio de fase. Dejar el Quad, pasar al relax total. |
-| 6 | C. Levantado | Lancha | Resort Lujo | Relax / Playa Privada | Resort | Disfrutar de las instalaciones del islote. |
-| 7 | L. Terrenas | Scooter | Resort Lujo | Explorar Las Terrenas | Autor | Cena en el pueblo. Vibe europeo/local. |
+| 1 | Las Galeras | Taxi SDQ (3h) | Chalet Tropical | Llegada y Quad | Local | Alquilar Quad (ATV). Atardecer en La Playita. |
+| 2 | Las Galeras | Bote / Quad | Chalet Tropical | Playa Frontón y Madama | Pescado Coco | Llevar escarpines. Frontón: acantilado de 90m. |
+| 3 | Las Galeras | Quad (ATV) | Chalet Tropical | Playa Rincón / Caño Frío | Frito local | Baño en el Caño Frío (agua dulce entre manglares). |
+| 4 | Las Galeras | Bote Buceo | Chalet Tropical | **Buceo Piedra Bonita** | Yoselin | Inmersión en "The Tower" (Pináculo 60m). |
+| 5 | L. Terrenas | Transfer Privado | Cayo Levantado | Traslado y Check-in | Resort | Cambio de fase. Dejar el Quad, relax total. |
+| 6 | C. Levantado | Lancha | Cayo Levantado | Relax / Playa Privada | Resort | Disfrutar de las instalaciones del islote. |
+| 7 | L. Terrenas | Scooter | Cayo Levantado | Explorar Las Terrenas | Autor | Cena en el pueblo. Restaurante El Pescador. |
 | 8 | Madrid | Taxi SDQ (3h) | Vuelo | Vuelo de regreso | N/A | Salir con 6h de margen respecto al vuelo. |
 
 ---
 
 ## 🗺️ Estrategia por Fases
-El plan se divide en dos energías opuestas. La **Fase 1 (Las Galeras)** busca la desconexión total en el "fin del mundo" dominicano; aquí el lujo es la ubicación, no el servicio. La **Fase 2 (Cayo Levantado/Terrenas)** es el reset necesario con servicios de alta gama tras la intensidad de la selva.
+- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Alojamiento sugerido: **Chalet Tropical Bio-Hotel** (villas de piedra integradas en la selva, estilo Karst).
+- **Fase 2 (Cayo Levantado):** Reset necesario. Aislamiento total en una isla privada con servicios de alta gama.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Expedición a Cabo Cabrón
-Al nivel de Vietnam (Hang Va o Ha Giang), el hito aquí es la exploración de este cabo virgen.
-- **La Experiencia:** Buceo técnico en paredes que caen al abismo y la "Cueva del Tiburón". Es una zona de acantilados volcánicos indómitos donde solo llegas por mar o mediante expediciones pesadas.
-- **Nivel:** Alto. Exige confianza en el agua y capacidad de adaptación a logística de bote pequeño.
+Al nivel de Vietnam, el hito aquí es el buceo en **Piedra Bonita (The Tower)**.
+- **La Experiencia:** Pináculo submarino que cae verticalmente desde los 7m hasta los 60m. Paisaje dramático de paredes y cuevas.
+- **Centro Sugerido:** **Las Galeras Divers** (especialistas en grupos pequeños y rutas técnicas).
+- **Nivel:** Exigente. Corrientes atlánticas y profundidad.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-1.  **Día 1: El fin de la carretera.** Tras la paliza del traslado desde SDQ (3h), el plan es alquilar el Quad y bajar revoluciones. Iremos a **La Playita**, una cala de aguas tranquilas a la que se llega por un camino rodeado de cocoteros. Es el sitio perfecto para el primer coco loco y ver el atardecer mientras el pueblo empieza a encender sus bachatas.
-
-2.  **Día 2: El acantilado indómito.** Madrugaremos para coger un bote a **Playa Frontón**. Veremos desde el mar el imponente acantilado de 90 metros que cae sobre una playa de coral. Pasaremos la mañana haciendo snorkel entre las rocas y, de vuelta, pararemos en **Playa Madama**, una cala escondida donde la selva casi toca el agua. Comida: Langosta asada por los locales en la misma playa.
+1.  **Día 1: El fin de la carretera.** Llegada a Las Galeras. El plan es bajar revoluciones tras el viaje. Atardecer en **La Playita**, cala tranquila ideal para el primer contacto con el vibe local.
+2.  **Día 2: El acantilado indómito.** Bote a **Playa Frontón**. Snorkel bajo un acantilado de mármol de 90m. De vuelta, parada en **Playa Madama**. Comida: Langosta fresca en la arena.
 <table>
   <tr>
     <td width="50%"><b>Playa Frontón</b></td>
@@ -60,7 +61,7 @@ Al nivel de Vietnam (Hang Va o Ha Giang), el hito aquí es la exploración de es
   </tr>
 </table>
 
-3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad a través de plantaciones de cacao y café hasta **Playa Rincón**. Tras recorrer sus kilómetros de arena blanca, caminaremos hasta el final de la playa donde desemboca el **Caño Frío**. Nos bañaremos en sus aguas cristalinas y heladas bajo un túnel de manglares para quitarnos el salitre antes de comer.
+3.  **Día 3: El mix de agua dulce y salada.** Ruta en Quad hasta **Playa Rincón**. Visita al **Caño Frío**, un río de agua helada que desemboca en el mar. Comida: Pescado frito en los puestos locales.
 <table>
   <tr>
     <td width="50%"><b>Playa Rincón</b></td>
@@ -72,7 +73,7 @@ Al nivel de Vietnam (Hang Va o Ha Giang), el hito aquí es la exploración de es
   </tr>
 </table>
 
-4.  **Día 4: El abismo submarino.** Como buceadores certificados, este día es para **Cabo Cabrón**. Haremos dos inmersiones en sus paredes verticales que caen al abismo y sus formaciones de cuevas volcánicas. Por la tarde, si aún hay energía, haremos el trekking al **Salto del Limón** para ver la cascada de 40 metros y bañarnos en su poza natural.
+4.  **Día 4: El abismo submarino.** Buceo técnico en **Cabo Cabrón**. Tarde: trekking al **Salto del Limón** (evitar caballos).
 <table>
   <tr>
     <td width="50%"><b>Salto del Limón</b></td>
@@ -86,21 +87,13 @@ Al nivel de Vietnam (Hang Va o Ha Giang), el hito aquí es la exploración de es
 
 ---
 
-## 🍹 Estrategia Fase 2: Cayo Levantado / Las Terrenas - Relax de Lujo (Días 5-8)
-Tras la intensidad de la aventura salvaje, el plan es **mimo máximo y servicios**. Esta fase está diseñada para disfrutar de instalaciones de alta gama, spas y cenas sofisticadas. 
-
-**Vibe y Servicios:**
-Si nos alojamos en **Cayo Levantado Resort**, el movimiento será en lanchas privadas o caminando por la isla. Si preferimos **Las Terrenas**, alquilaremos una **Scooter** para explorar el pueblo, que tiene una oferta gastronómica excelente (mix europeo y local). La comida aquí será más refinada, combinando la alta cocina del resort con restaurantes de autor en el pueblo.
-
----
-
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No uses caballos para el Salto del Limón (maltrato y barro excesivo). No navegues a Frontón si hay viento norte fuerte.
-- **Equipo Must:** Escarpines (Frontón es roca pura), repelente "Jejenes" (atardecer en arena), bolsa estanca.
-- **Conexión:** Muelle de Las Galeras a las 4pm: compra pescado al pescador y llévalo al chiringuito.
+- **Factor "Ni de Coña":** Evitar Playa Frontón con viento norte fuerte (peligroso para botes pequeños). No aceptar caballos en Salto del Limón (barro y maltrato).
+- **Gastronomía:** Probar el **Pescado con Coco** estilo Samaná y las empanadas de **Yoselin**.
+- **Equipo:** Escarpines (Frontón es coralino), repelente potente (jejenes), luz química para buceo en cuevas.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Samaná (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
+- **Vuelos:** [✈️ MAD -> Samaná (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
 - **Estancia:** [🏨 Reservar Samaná (Booking)](https://www.booking.com/searchresults.es.html?ss=Samana%2C+Dominican+Republic&checkin=2026-03-28&checkout=2026-04-05&group_adults=2)
