@@ -4,6 +4,18 @@
 
 ---
 
+## 💰 Presupuesto Estimado (Pareja / 8 Días)
+
+| Item | Semana Santa | Temporada Alta |
+|------|--------------|----------------|
+| Vuelos | €1,400 - €1,800 | €1,600 - €2,200 |
+| Boutique (4d) | €400 - €600 | €600 - €900 |
+| All-Inclusive (4d) | €1,200 - €1,800 | €1,800 - €2,500 |
+| Buceo (4-6 inms) | €300 - €400 | €300 - €400 |
+| **Total** | **€3,800 - €5,100** | **€4,800 - €6,500** |
+
+---
+
 ## 🎯 Estrategia: Balance Naturaleza + Relax
 Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 
@@ -31,18 +43,6 @@ Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 - **Traslado:** SDQ -> Samaná (3h aprox). 
   - Privado: $150-200.
   - Coche: Carretera con 4 peajes (~$40 total).
-
----
-
-## 💰 Presupuesto Estimado (Pareja / 8 Días)
-
-| Item | Semana Santa | Temporada Alta |
-|------|--------------|----------------|
-| Vuelos | €1,400 - €1,800 | €1,600 - €2,200 |
-| Boutique (4d) | €400 - €600 | €600 - €900 |
-| All-Inclusive (4d) | €1,200 - €1,800 | €1,800 - €2,500 |
-| Buceo (4-6 inms) | €300 - €400 | €300 - €400 |
-| **Total** | **€3,800 - €5,100** | **€4,800 - €6,500** |
 
 ---
 

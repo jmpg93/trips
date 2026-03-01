@@ -4,6 +4,18 @@
 
 ---
 
+## 💰 Presupuesto Estimado (Pareja / 7 Días)
+
+| Concepto | Marzo (4x4 + Hoteles) | Verano (Camper) |
+|----------|-----------------------|-----------------|
+| Vuelos (MAD) | €500 - €800 | €700 - €1,100 |
+| Vehículo + Fuel | €900 - €1,300 | €1,400 - €2,000 |
+| Alojamiento | €1,200 - €1,800 | €600 - €900 (Campings) |
+| Comida/Actividades| €1,000 - €1,500 | €1,000 - €1,500 |
+| **Total** | **€3,600 - €5,400** | **€3,700 - €5,500** |
+
+---
+
 ## 📅 Temporadas y Decisión
 
 | Mes | Vibe | Pro | Contra | Estrategia |
@@ -44,15 +56,3 @@
 - **Vuelos:** [✈️ MAD -> Reikiavik (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
 - **Coche 4x4:** [🚗 Alquiler 4x4 (Imprescindible en marzo)](https://www.booking.com/cars/city/is/reykjavik.es.html?pickup_datetime=2026-03-28+10%3A00&return_datetime=2026-04-05+10%3A00)
 - **Webs Críticas:** [En.vedur.is (Clima)](https://en.vedur.is/) | [Road.is (Estado carreteras)](https://www.road.is/)
-
----
-
-## 💰 Presupuesto Estimado (Pareja / 7 Días)
-
-| Concepto | Marzo (4x4 + Hoteles) | Verano (Camper) |
-|----------|-----------------------|-----------------|
-| Vuelos (MAD) | €500 - €800 | €700 - €1,100 |
-| Vehículo + Fuel | €900 - €1,300 | €1,400 - €2,000 |
-| Alojamiento | €1,200 - €1,800 | €600 - €900 (Campings) |
-| Comida/Actividades| €1,000 - €1,500 | €1,000 - €1,500 |
-| **Total** | **€3,600 - €5,400** | **€3,700 - €5,500** |
