@@ -2,21 +2,8 @@
 
 | Año | Destino | Detalles |
 |-----|---------|----------|
-| 2014 | Benidorm | |
-| 2014 | Nochevieja | |
-| 2015 | Ámsterdam | |
-| 2015 | Comunión pipe | |
-| 2015 | Madrid Río | |
-| 2015 | Peñíscola | |
-| 2015 | Peñíscola con Daniela | |
-| 2015 | Torneo LoL | |
-| 2015 | Quitándome el lastre | |
-| 2016 | Oporto | |
 | 2016 | [🇫🇷 París](Paris.pdf) | Lista de comprobación: Louvre (gratis viernes), Torre Eiffel, Versalles. Plan de comidas incluido. |
 | 2017 | Tailandia | |
-| 2017 | Domingo en Toledo | |
-| 2017 | Londres | |
-| 2018 | Ávila | |
 | 2018 | Canarias | |
 | 2018 | Roma | |
 | 2019 | [🇨🇴 Colombia](Colombia.pdf) | Itinerario Pro: Bogotá, Pereira (Eje Cafetero), Cartagena, San Andrés, Medellín. |
