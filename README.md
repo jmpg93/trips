@@ -26,7 +26,7 @@
 - [🇴🇲 Omán](destinations/oman.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** ✅ **Estratégico Completo**
-- [🌋 Azores](destinations/azores.md) —— **Estado:** 🔄 Planificando
+- [🌋 Azores](destinations/azores.md) —— **Estado:** ✅ **Estratégico Completo**
 - [🛶 Panamá](destinations/panama.md) —— **Estado:** 🔄 Planificando
 - [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** ✅ **Estratégico Completo**
 
