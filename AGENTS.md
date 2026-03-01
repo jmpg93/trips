@@ -14,11 +14,12 @@ Cada nuevo destino debe seguir este flujo narrativo y estratégico:
 5. **🔥 Hito de Aventura Real:** Actividad única de alto impacto (estilo Hang Va en Vietnam o Rappel/Volcanes en Costa Rica).
 6. **📅 Hoja de Ruta Narrativa:** Detalle día a día narrativo centrado en la experiencia.
 7. **🖼️ Layout de Imágenes:** Uso de tablas HTML puras (sin `<thead>` ni `<th>`) de 2 columnas para cuadrículas limpias.
-8. **⚠️ Check de Supervivencia:** Consejos "insider", equipo necesario (ej. ropa secado rápido) y el "Factor Ni de Coña".
-9. **✈️ Logística Crítica:** Enlaces directos y traslados base.
+8. **⚠️ Check de Supervivencia:** Consejos "insider", equipo necesario (ropa secado rápido, escarpines, etc.) y el "Factor Ni de Coña". Incluir siempre horarios de apertura y días gratuitos (modelo París).
+9. **🚆 Optimización de Costes:** Buscar activamente pases de transporte (JR Pass, Swiss Pass) y estrategias de ahorro sin sacrificar el vibe.
+10. **✈️ Logística Crítica:** Enlaces directos, traslados base y tiempos de conexión exactos.
 
 ## 🛠️ Reglas de Contenido
 - **Filtro de Utilidad:** Solo datos críticos. Si es irrelevante para la toma de decisiones, se omite.
 - **Activos:** Imágenes descargadas localmente en `assets/destinations/[nombre]/`.
 - **Tablas:** Siempre dejar una línea en blanco antes de cualquier tabla.
-- **Aprendizaje Continuo:** Basarse en los viajes pasados (Vietnam, Costa Rica, Colombia) para entender el nivel de aventura (espeleología, quads, barcos) y la precisión logística requerida.
+- **Aprendizaje Continuo:** Basarse en los viajes pasados (Vietnam, Costa Rica, Colombia, Japón, Indonesia, París) para entender el nivel de aventura (espeleología, quads, buceo) y la precisión logística requerida.
