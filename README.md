@@ -1,8 +1,6 @@
-# Dashboard de Viajes
+# 📂 Control de Viajes
 
-Bienvenido a tu repositorio de planificación de viajes.
-
-## 📅 Matriz Estacional (Mejores Épocas para Visitar)
+## 🗓️ Matriz de Decisión (Temporalidad)
 
 | Destino | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -12,33 +10,21 @@ Bienvenido a tu repositorio de planificación de viajes.
 | [🇳🇴 Noruega](destinations/noruega.md) | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
 | [🏔️ Zermatt](destinations/zermatt.md) | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
 
-**Leyenda:**
-- 🐋: Avistamiento de ballenas
-- ✅: Buen tiempo / Recomendado
-- 🦁: Safari Prime (Gran Migración)
-- ⛷️: Temporada de esquí
-- ☀️: Calor / Temporada alta
-- 🌀: Temporada de huracanes (Precaución)
-- 🌧️: Temporada de lluvias
-- 🌿: Verano (Días largos)
-- 🍂: Otoño (Potencial de auroras)
-- ❄️: Invierno (Cuevas de hielo / Auroras / Nieve)
-
-## Destinos
-- [🌴 Samaná, República Dominicana](destinations/samana.md) (Planificando 🔄)
-- [🇮🇸 Islandia](destinations/islandia.md) (Idea 💡)
-- [🦁 Tanzania y Zanzíbar](destinations/tanzania.md) (Idea 💡)
-- [🇳🇴 Noruega](destinations/noruega.md) (Idea 💡)
-- [🏔️ Zermatt (Esquí)](destinations/zermatt.md) (Idea 💡)
+**Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
 ---
 
-## 📅 Historial de Viajes
-- [Ver todos los viajes pasados](history.md)
+## 📍 Destinos en Investigación
+- [🌴 Samaná, RD](destinations/samana.md) —— **Estado:** 🔄 Planificando (Semana Santa)
+- [🇮🇸 Islandia](destinations/islandia.md) —— **Estado:** 💡 Idea
+- [🦁 Tanzania](destinations/tanzania.md) —— **Estado:** 💡 Idea
+- [🇳🇴 Noruega](destinations/noruega.md) —— **Estado:** 💡 Idea
+- [🏔️ Zermatt](destinations/zermatt.md) —— **Estado:** 💡 Idea
 
 ---
 
-## 📌 Leyenda de Estados
-- ✅ Visitado
-- 🔄 Planificando
-- 💡 Ideas
+## 🛠️ Recursos Rápidos
+- [📊 Historial de Viajes](history.md)
+- [⚙️ Preferencias (AGENTS.md)](AGENTS.md)
+- [✈️ Skyscanner (MAD)](https://www.skyscanner.es/)
+- [🏨 Booking](https://www.booking.com/)
