@@ -34,6 +34,6 @@
 
 ## 🛠️ Recursos Rápidos
 - [📊 Historial de Viajes](history.md)
-- [⚙️ Preferencias (AGENTS.md)](AGENTS.md)
+- [⚙️ Reglas del Agente (GEMINI.md)](GEMINI.md)
 - [✈️ Skyscanner (MAD)](https://www.skyscanner.es/)
 - [🏨 Booking](https://www.booking.com/)
