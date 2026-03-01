@@ -8,14 +8,15 @@
 Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 
 ### 🧗 Fase 1: Las Galeras - Inmersión Salvaje (Días 1-4)
-![Las Galeras y Playa Frontón](https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80)
+![Las Galeras y Playa Frontón](https://lp-cms-production.imgix.net/2019-06/9d7f9dc821fda47cd26694c1871c74f3-playa-rincon.jpg?auto=format,compress&q=72&w=1095&fit=crop&crop=faces,edges)
 
-**Logística Clave (vía Los Viajes de Ramón):**
-- **Vibe:** Pueblo auténtico de pescadores. "Donde termina la carretera".
-- **Playa Frontón:** La joya. Acantilado de 90m sobre el mar. Solo accesible por bote (20 min desde el pueblo) o caminata dura por la selva.
-- **Playa Madama:** Cala pequeña y virgen, ideal para snorkel. También acceso por bote o sendero.
-- **Playa Rincón:** Considerada de las mejores del mundo. Se puede ir en bote desde Las Galeras (más cómodo) o en coche (carretera bacheada).
-- **Actividad Top:** Buceo en "Cabo Cabrón" (paisaje submarino dramático).
+**Logística Clave (vía Las Galeras Guide / Los Viajes de Ramón):**
+- **Vibe:** "Primer Destino Sostenible del Mundo". Pueblo auténtico donde "termina la carretera".
+- **Playa Frontón:** Acantilado de 90m sobre el mar. Solo accesible por bote (20 min) o caminata por la selva.
+- **Playa Madama:** Cala pequeña y virgen, ideal para snorkel. Acceso por bote o sendero.
+- **Playa Rincón:** Famosa por su "caño frío" (río de agua dulce que desemboca en el mar). Acceso por bote desde Las Galeras o coche (carretera bacheada).
+- **Movilidad:** Se recomienda alquilar **quads (ATV) o bicicletas** para moverse entre playas de difícil acceso.
+- **Actividad Top:** Buceo en "Cabo Cabrón" y avistamiento de ballenas (Enero-Marzo).
 
 ### 🍹 Fase 2: Cayo Levantado / Las Terrenas (Días 5-8)
 - **Foco:** Relax total y servicios.
@@ -46,5 +47,7 @@ Para evitar repetir el "solo All-Inclusive" de otros viajes a RD:
 ---
 
 ## 📝 Notas
+- **Sostenibilidad:** Respeto estricto a las vedas de pesca (langosta/lambí) y reducción de plásticos.
+- **Ambiente:** Sonido de bachata y merengue auténtico. Ideal para desconexión tecnológica.
 - **Diferencia:** Es el viaje de naturaleza real en RD.
 - **Contra:** El traslado de 3h desde SDQ es el principal punto negativo a valorar.
