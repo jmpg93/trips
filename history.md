@@ -19,7 +19,7 @@
 | 2018 | Ávila | |
 | 2018 | Canarias | |
 | 2018 | Roma | |
-| 2019 | Colombia | |
+| 2019 | [🇨🇴 Colombia](Colombia.numbers) | Viaje detallado en archivo Numbers. |
 | 2019 | Mallorca | |
 | 2020 | Algarve | |
 | 2021 | República Dominicana | Bayahibe (1 semana). Títulos de buceo Scuba obtenidos aquí. |
@@ -29,4 +29,5 @@
 | 2024 | Bali | |
 | 2024 | Venecia | |
 | 2025 | México | |
-| 2025 | Vietnam | |
+| 2025 | [🇻🇳 Vietnam](Vietnam.pdf) | Itinerario Pro: Hanoi, Ninh Binh, Cao Bang, Phong Nha, HCM. Espeleología Hang Va. |
+| 2026 | [🇨🇷 Costa Rica](Costa%20rica.pdf) | Itinerario Pro: Tortuguero, La Fortuna, Monteverde, Manuel Antonio, Santa Teresa. |
