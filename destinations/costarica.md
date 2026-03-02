@@ -56,25 +56,65 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1 y 2: El Amazonas de Centroamérica
-- **Logística:** **3h de conducción** a La Pavona + **1h de lancha rápida**.
-- **Valor Diferencial:** **Tortuguero** es necesario por su aislamiento; no hay carreteras. El valor diferencial es recorrer los canales en kayak al amanecer, donde el sonido de los monos aulladores define el vibe de Costa Rica.
+### Día 1 y 2: El Amazonas de Centroamérica (Tortuguero)
+- **Logística:** **3h de conducción** a La Pavona + **1h de lancha rápida** por los canales selváticos.
+- **Valor Diferencial:** **Tortuguero** es necesario por su aislamiento radical; no hay carreteras. El valor diferencial es recorrer los canales en kayak al amanecer, donde el sonido de la selva caribeña es el hito de inmersión total.
 
-### Día 3 y 4: El Pacuare y el Coloso
-- **Logística:** Traslados en 4x4. El rafting del día 4 dura **5h**.
-- **Valor Diferencial:** El **Pacuare** es obligatorio; es el hito de adrenalina del viaje. Sus paredes de roca de 100m con cascadas cayendo al río lo hacen visualmente imbatible.
+<table>
+  <tr>
+    <td width="50%"><b>Canales de Tortuguero</b></td>
+    <td width="50%"><b>Fauna Salvaje</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
+  </tr>
+</table>
 
-### Día 5 y 6: El dosel del mundo
+### Día 3 y 4: El Pacuare y el Coloso (La Fortuna)
+- **Logística:** Traslados en 4x4. El rafting del día 4 dura **5h** de acción pura.
+- **Valor Diferencial:** **Arenal** es el hito geológico. El **Pacuare** es obligatorio por ser vuestro hito de adrenalina; sus paredes de roca de 100m con cascadas cayendo al río lo hacen visualmente imbatible frente a cualquier otro río del país.
+
+<table>
+  <tr>
+    <td width="50%"><b>Volcán Arenal</b></td>
+    <td width="50%"><b>Rafting Pacuare</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/arenal.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/pacuare.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El dosel del mundo (Monteverde)
 - **Logística:** **3.5h de 4x4** por pistas de lastre.
-- **Valor Diferencial:** **Monteverde** aporta la perspectiva vertical. El valor diferencial es caminar sobre puentes colgantes envueltos en la niebla del bosque nuboso, un ecosistema místico que contrasta con el calor de la costa.
+- **Valor Diferencial:** **Monteverde** aporta la perspectiva vertical. El valor diferencial es caminar sobre puentes colgantes a 50m de altura, un ecosistema místico que contrasta con el calor de la costa.
+
+<table>
+  <tr>
+    <td width="50%"><b>Puentes Colgantes</b></td>
+    <td width="50%"><b>Bosque Nuboso</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7 y 8: El Pacífico salvaje (Santa Teresa)
+- **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**.
+- **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas que ofrecen un silencio que no existe en las zonas de resorts.
+
+### Día 9: El regreso logístico
+- **Logística:** **5-6h de 4x4** de regreso a SJO.
+- **Valor Diferencial:** Cierre del ciclo. Salida extremadamente temprana para evitar el bloqueo del tráfico del domingo de Semana Santa y asegurar el vuelo directo a Madrid.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** por el colapso masivo de Semana Santa (colas de 4h). Se elige Santa Teresa por su vibe más joven y fluido.
-- **Actividad (Pacuare vs Balsa):** Se prioriza **Pacuare** porque ofrece un cañón virgen, mientras que el río Balsa es demasiado comercial para vuestro perfil.
-- **Transporte (SUV 4x4 vs Sedán):** El **4x4 es obligatorio** para Nicoya; el lastre y las pendientes de Santa Teresa destrozarían un coche normal.
-- **Utilidad:** Se ha eliminado la parada en centros comerciales de San José para ganar un día extra en el Pacífico.
+- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** por el colapso masivo de Semana Santa. Se elige Santa Teresa por su fluidez para la aventura.
+- **Actividad (Pacuare vs Balsa):** Se prioriza **Pacuare** por su cañón virgen inaccesible por tierra.
+- **Transporte (SUV 4x4 vs Sedán):** El **4x4 es obligatorio** para Nicoya debido al estado de las carreteras de tierra.
 
 ---
 
@@ -97,8 +137,8 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No dejar nada de valor en el coche. Reservar el ferry online con semanas de antelación (**Naviera Tambor**).
-- **Logística:** El tráfico el domingo de regreso a SJO es infernal; salir con 7h de antelación.
+- **Factor "Ni de Coña":** No dejar nada en el coche. Reservar el ferry online con semanas de antelación.
+- **Logística:** El tráfico el domingo de regreso es crítico; salir con 7h de antelación.
 
 ---
 

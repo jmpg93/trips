@@ -57,38 +57,59 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 
 ### Día 1 y 2: El aterrizaje en Marte y la brecha continental
 - **Logística:** **20 min en 4x4** desde el aeropuerto. Día 2: **45 min** de Reikiavik a Þingvellir.
-- **Valor Diferencial:** **Blue Lagoon** es vital para aclimatar el cuerpo al choque térmico. **Silfra** es el hito técnico más potente de Europa; es el único lugar donde puedes tocar dos continentes bajo el agua con visibilidad de cristal.
-
-### Día 3 y 4: El rugido del agua y la cueva volcánica
-- **Logística:** **2h de conducción** por la Route 1. Día 4: **45 min en Super Jeep** al interior del glaciar.
-- **Valor Diferencial:** **Skógafoss** ofrece la escala de poder del agua. La **Cueva de Katla** es necesaria por su valor visual: hielo mezclado con ceniza negra de erupciones históricas, un vibe muy diferente a las cuevas azules.
+- **Valor Diferencial:** **Blue Lagoon** es vital para aclimatar el cuerpo al choque térmico. **Silfra** (UNESCO) es el hito técnico más potente de Europa; es el único lugar donde puedes tocar dos continentes bajo el agua con visibilidad de cristal. Es una inmersión geológica pura.
 
 <table>
   <tr>
     <td width="50%"><b>Fisura de Silfra</b></td>
-    <td width="50%"><b>Cascada Skógafoss</b></td>
+    <td width="50%"><b>Geysir / Gullfoss</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/islandia/silfra.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/islandia/geysir.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 3 y 4: El rugido del agua y la cueva volcánica
+- **Logística:** **2h de conducción** por la Route 1. Día 4: **45 min en Super Jeep** al interior del glaciar.
+- **Valor Diferencial:** **Skógafoss** ofrece la escala de poder del agua. La **Cueva de Katla** es necesaria por su valor visual: hielo mezclado con ceniza negra de erupciones históricas, un vibe dramático muy diferente a las cuevas azules estándar.
+
+<table>
+  <tr>
+    <td width="50%"><b>Skógafoss</b></td>
+    <td width="50%"><b>Auroras Boreales</b></td>
+  </tr>
+  <tr>
     <td><img src="../assets/destinations/islandia/skogafoss.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/islandia/northern-lights.jpg" width="100%"></td>
   </tr>
 </table>
 
 ### Día 5 y 6: El reino del hielo cristalino
 - **Logística:** **2.5h de coche** hacia el Este. El día 6 requiere **3h de actividad física** intensa con crampones.
-- **Valor Diferencial:** **Jökulsárlón** es el hito visual del viaje; icebergs flotando hacia el mar. El trekking en **Falljökull** es necesario para vivir la escala real del glaciar y sus grietas milenarias.
+- **Valor Diferencial:** **Jökulsárlón** es el hito visual del viaje; icebergs del tamaño de camiones flotando hacia el mar. El trekking en **Falljökull** es necesario para vivir la escala real del glaciar y sus grietas milenarias, un reto físico que recompensa con paisajes de otro mundo.
+
+<table>
+  <tr>
+    <td width="50%"><b>Laguna Glaciar</b></td>
+    <td width="50%"><b>Diamond Beach</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 7, 8 y 9: El ritual del Sky Lagoon y el Harpa
-- **Logística:** **4h de conducción** de regreso. Día 8: movimiento a pie por Reikiavik.
-- **Valor Diferencial:** **Sky Lagoon** es el cierre de relax necesario frente al Atlántico. **Reikiavik** aporta el valor arquitectónico (Harpa) y gastronómico, centrando el día 8 en cultura y no en consumo comercial.
+- **Logística:** **4h de conducción** de regreso al Oeste. Día 8: movimiento a pie por el centro de Reikiavik.
+- **Valor Diferencial:** **Sky Lagoon** es necesario para cerrar el ciclo; su piscina infinity sobre el océano es el hito de relax final. **Reikiavik** aporta el valor cultural y arquitectónico (Harpa), centrando el final en la gastronomía local de alta calidad.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
 - **Ruta (Costa Sur vs Ring Road):** Se ha **descartado la vuelta completa** para evitar 40h de conducción. Se prioriza la Costa Sur para asegurar los hitos técnicos sin fatiga logística.
 - **Transporte (4x4 vs SUV Estándar):** Se justifica el **4x4 con piggdekk** por las ventiscas frecuentes en los pasos de montaña del sur en marzo.
-- **Actividad (Katla vs Blue Caves):** Se incluyen ambas para comparar el hielo fósil (negro) con el hielo estacional (azul).
-- **UNESCO:** Se ha priorizado **Þingvellir** por su valor como primer parlamento del mundo y frontera tectónica.
+- **UNESCO:** Se ha priorizado **Þingvellir** por su valor geológico y histórico incalculable.
 
 ---
 
@@ -111,11 +132,11 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (el viento las arranca). No acercarse al agua en Reynisfjara (sneaker waves mortales).
-- **Seguros:** Contratar **GP** y **SAAP** (protección contra arena y ceniza) obligatoriamente.
+- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (el viento las arranca). No acercarse al agua en Reynisfjara.
+- **Seguros:** Contratar **GP** y **SAAP** obligatoriamente.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Reikiavik (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
-- **Logística:** [🌐 Estado Carreteras (Road.is)](https://www.road.is/)
+- **Vuelos:** [✈️ Buscar MAD -> Reikiavik](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
+- **Logística:** [🌐 Road.is](https://www.road.is/)

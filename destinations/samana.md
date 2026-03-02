@@ -35,10 +35,10 @@
 | 30 Mar | 3 | Las Galeras | Quad (45m) | Playa Rincón / Caño Frío | Baño en río dulce para reset térmico. |
 | 31 Mar | 4 | Las Galeras | Bote Buceo (30m) | **Buceo Cabo Cabrón** | Inmersión en "The Tower". |
 | 01 Abr | 5 | L. Terrenas | Transfer (1h) | Traslado y Check-in | Cambio a fase de relax total. |
-| 02 Abr | 6 | C. Levantado | Lancha (15m) | Relax / Isla Privada | Disfrutar de la exclusividad del islote. |
+| 02 Abr | 6 | C. Levantado | Lancha (15m) | Relax / Isla Privada | Disfrutar de las instalaciones del islote. |
 | 03 Abr | 7 | Las Terrenas | Scooter (15m) | Gastronomía de Autor | Cena en El Pescador (Vibe europeo). |
 | 04 Abr | 8 | Las Terrenas | Scooter / Relax | Exploración Costera | Atardecer en Playa Bonita. |
-| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (8h 30m) | Regreso | Salida con 6h de margen respecto al vuelo. |
+| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (8h 30m) | Regreso | Salir con 6h de margen respecto al vuelo. |
 
 ---
 
@@ -59,24 +59,77 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
 - **Logística:** **3h de taxi** desde SDQ. El movimiento en el pueblo es a pie o en Quad.
 - **Valor Diferencial:** **Las Galeras** es necesaria por ser el punto más indómito de la isla. El valor diferencial es el atardecer en **La Playita**, donde la selva muere en el mar sin el ruido de los grandes resorts.
 
-### Día 2: El acantilado indómito
-- **Logística:** **25 min de lancha rápida** desde el muelle.
-- **Valor Diferencial:** **Playa Frontón** es el hito visual; su acantilado de 90m es la estampa más salvaje de RD. **Playa Madama** aporta el valor de la intimidad, una cala cerrada donde el bosque tropical abraza la arena.
+### Día 2: El acantilado indómito (Frontón vs Madama)
+- **Logística:** **25 min en lancha rápida** desde el muelle de Las Galeras.
+- **Valor Diferencial:** **Playa Frontón** es necesaria por su escala masiva (acantilado de 90m) y buceo de pared. **Playa Madama** es el contrapunto íntimo para snorkel protegido.
+
+<table>
+  <tr>
+    <td width="50%"><b>Playa Frontón</b></td>
+    <td width="50%"><b>Playa Madama</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/samana/playa-fronton.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/samana/playa-madama.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 3: El mix de agua dulce y salada
 - **Logística:** **45 min en Quad** por caminos de tierra roja y cocoteros.
-- **Valor Diferencial:** El **Caño Frío** en Playa Rincón es el valor diferencial; permite bañarse en agua cristalina helada bajo manglares, un reset térmico vital tras la exposición al sol del Caribe.
+- **Valor Diferencial:** El **Caño Frío** en Playa Rincón es el valor diferencial; permite bañarse en agua cristalina helada bajo manglares, un reset térmico vital tras la exposición al sol.
+
+<table>
+  <tr>
+    <td width="50%"><b>Playa Rincón</b></td>
+    <td width="50%"><b>Caño Frío</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/samana/playa-rincon.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/samana/cano-frio.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 4: El abismo submarino
-- **Logística:** **30 min de navegación** a mar abierto.
-- **Valor Diferencial:** El buceo en **Cabo Cabrón** es vuestro reto de alto impacto. No es buceo de recreo estándar; las paredes y cuevas volcánicas ofrecen un nivel de aventura técnica que no se encuentra en Bayahibe.
+- **Logística:** **30 min de navegación** a mar abierto. Tarde: **45 min de caminata** al Salto del Limón.
+- **Valor Diferencial:** El buceo en **Cabo Cabrón** es vuestro reto de alto impacto. El **Salto del Limón** es el hito terrestre; la cascada de 40m es impresionante y el valor diferencial es hacer el trekking a pie.
+
+<table>
+  <tr>
+    <td width="50%"><b>Salto del Limón</b></td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/samana/salto-del-limon.jpg" width="100%"></td>
+    <td></td>
+  </tr>
+</table>
+
+### Día 5: El reset de lujo
+- **Logística:** **1h de traslado** + **15 min de lancha** al islote.
+- **Valor Diferencial:** El cambio de fase es necesario para procesar la aventura previa. **Cayo Levantado** ofrece el aislamiento total en una isla privada con servicios que Las Galeras no tiene.
+
+### Día 6: Silencio en el islote
+- **Logística:** Cero traslados. Movimiento caminando por la playa privada.
+- **Valor Diferencial:** Día dedicado al relax absoluto. Es el momento de disfrutar de la exclusividad del islote sin interrupciones externas.
+
+### Día 7: La gastronomía de Las Terrenas
+- **Logística:** **20 min en lancha** + **15 min en Scooter**.
+- **Valor Diferencial:** **Las Terrenas** es necesaria por su contraste cultural (mix europeo/dominicano). El valor diferencial es la cena en **El Pescador** para probar la alta cocina del pueblo.
+
+### Día 8: El ritual de despedida
+- **Logística:** Movimiento libre en Scooter.
+- **Valor Diferencial:** Última exploración de calas como Playa Bonita. Es el día de disfrutar de los últimos baños en aguas cristalinas antes del regreso.
+
+### Día 9: El regreso
+- **Logística:** **3h de traslado privado** hasta SDQ. Vuelo de **8h 30m** a Madrid.
+- **Valor Diferencial:** Cierre del ciclo. Salida con margen amplio para asegurar el vuelo directo sin estrés.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
 - **Transporte (Quad vs Coche):** Se elige el **Quad (ATV)** porque las lluvias de marzo convierten los accesos a las playas en lodazales; el Quad asegura tracción y estabilidad.
-- **Ruta (Las Galeras vs Bávaro):** Se descarta Punta Cana por ser un modelo comercial saturado. Se elige Samaná para mantener el nivel de aventura de vuestros viajes pasados.
-- **Alojamiento (Chalet Tropical):** Se elige por su diseño orgánico (piedra/madera) que replica la sensación de las Karst Villas de Vietnam.
+- **Ruta (Las Galeras vs Bávaro):** Se descarta Punta Cana por ser un modelo comercial saturado. Se elige Samaná para mantener el nivel de aventura.
+- **Alojamiento (Chalet Tropical):** Se elige por su diseño orgánico que replica la sensación de las Karst Villas de Vietnam.
 - **Utilidad:** Se ha eliminado el día de "compras" del borrador inicial para priorizar el relax técnico en playa.
 
 ---

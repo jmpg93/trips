@@ -56,24 +56,71 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selv�
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: Del Baobab al Cráter Perdido
-- **Logística:** **3h de 4x4** por pistas de tierra roja.
-- **Valor Diferencial:** **Tarangire** es necesario por sus baobabs gigantes. **Empakaai** aporta el valor de la conexión física; es el único lugar donde dejarás el coche para sentir el pulso de la tierra volcánica entre flamencos.
+- **Logística:** **1h de transfer** al llegar. El día 2, **3h de 4x4** hasta Tarangire.
+- **Valor Diferencial:** **Tarangire** es necesario por sus baobabs gigantes. **Empakaai** aporta el valor de la conexión física; es el único lugar donde dejarás el coche para sentir el pulso de la tierra volcánica entre flamencos en un trekking salvaje escoltado.
+
+<table>
+  <tr>
+    <td width="50%"><b>Ngorongoro Highlands</b></td>
+    <td width="50%"><b>Cráter Empakaai</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/ngorongoro.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/crater.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 3 y 4: La Gran Migración en el lodo
 - **Logística:** **4-5h de conducción técnica** diaria buscando las manadas.
-- **Valor Diferencial:** El **Serengeti (UNESCO)** en abril es vuestro hito de exclusividad. Verás a los depredadores activos en un entorno vibrante, sin el polvo y las caravanas de jeeps del verano. El lodo es el reto logístico que asegura la soledad.
+- **Valor Diferencial:** El **Serengeti (UNESCO)** en abril es vuestro hito de exclusividad. Verás a los depredadores activos en un entorno vibrante sin las caravanas de jeeps del verano. Navegar el lodo es una expedición táctica que requiere un 4x4 real y pericia.
 
-### Día 5 y 6: El laberinto de Stone Town
-- **Logística:** **1.5h de vuelo** para ganar un día completo en la isla.
+<table>
+  <tr>
+    <td width="50%"><b>Serengeti Green Season</b></td>
+    <td width="50%"><b>Fauna Salvaje</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El salto al Índico
+- **Logística:** **1.5h de vuelo interno** desde Seronera a Zanzíbar (ZNZ).
 - **Valor Diferencial:** **Stone Town (UNESCO)** es necesaria por su carga histórica. El valor diferencial es el laberinto de coral que huele a especias, un reset cultural antes del buceo profundo en el Índico.
+
+<table>
+  <tr>
+    <td width="50%"><b>Stone Town</b></td>
+    <td width="50%"><b>Nungwi Beach</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: El espejo del Índico y el Abismo
+- **Logística:** **45 min de lancha rápida** desde Nungwi. El día 8, **1h** a mar abierto.
+- **Valor Diferencial:** **Mnemba Atoll** en abril ofrece una visibilidad récord (hasta 60m) porque no hay viento. **Leven Bank** es el hito técnico para buceadores avanzados: una montaña submarina con corrientes fuertes y bancos masivos de pelágicos. Es el cierre de alta intensidad.
+
+<table>
+  <tr>
+    <td width="50%"><b>Buceo en Zanzíbar</b></td>
+    <td width="50%"><b>Arrecifes Coral</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Temporada (Abril vs Julio):** Se elige **Abril** para evitar las multitudes y acceder a lodges de lujo a precio reducido, aceptando el riesgo de lluvia por la recompensa de la visibilidad de buceo récord.
-- **Logística (Vuelo vs Ferry):** Se justifica el **vuelo interno a ZNZ** para evitar 6h de trayecto penoso por carretera y mar movido, priorizando vuestro tiempo en el agua.
-- **UNESCO:** Se ha integrado **Serengeti, Ngorongoro y Stone Town** como hitos obligatorios del itinerario.
-- **Utilidad:** Se ha eliminado cualquier parada en centros comerciales de Arusha para maximizar el tiempo de safari real.
+- **Temporada (Abril vs Julio):** Se elige **Abril** para evitar las multitudes y acceder a lodges de lujo a precio reducido, priorizando la exclusividad sobre el clima seco.
+- **Logística (Vuelo vs Ferry):** Se justifica el **vuelo interno a ZNZ** para evitar 6h de trayecto por carretera y mar movido.
+- **Actividad (Empakaai vs Ngorongoro estándar):** Se prioriza el trekking a pie para añadir el componente físico que define vuestro estilo.
 
 ---
 
@@ -92,12 +139,6 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selv�
   L.circleMarker([-6.16, 39.20], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Stone Town (UNESCO)');
   L.circleMarker([-5.72, 39.30], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Nungwi / Mnemba');
 </script>
-
----
-
-## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No escatimar en el calzado; el barro en Empakaai es traicionero. No beber agua no embotellada (riesgo bacteriano alto en lluvias).
-- **Salud:** Vacuna de la Fiebre Amarilla obligatoria. Malarone para la malaria.
 
 ---
 
