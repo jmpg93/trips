@@ -55,6 +55,21 @@ No es solo buceo. Es una incursión en la barrera externa de la **Reserva Seaflo
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: El salto al aislamiento
+- **Logística:** **11h de vuelo** a Bogotá + **2h** a San Andrés. Día 2: **20 min** en avioneta Satena.
+- **Valor Diferencial:** **San Andrés** es necesaria para la transición logística. El valor diferencial es el vuelo en avioneta sobre el "mar de los siete colores"; ver la barrera de coral desde el aire es el primer hito visual antes de pisar Providencia.
+
+<table>
+  <tr>
+    <td width="50%"><b>Vuelo a Providencia</b></td>
+    <td width="50%"><b>Vibe de la Isla</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/providencia/boat.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/providencia/village.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: El Jardín del Edén Submarino
 - **Logística:** **15 min en lancha rápida** desde Southwest Bay. El día 4 incluye **30 min de kayak** a través de manglares.
 - **Valor Diferencial:** La barrera de Providencia es necesaria por su pureza; al estar tan aislada, el coral está en perfecto estado. **Cayo Cangrejo** es el hito visual: un domo volcánico rodeado de aguas turquesas donde el hito es el snorkel con tortugas marinas en completa soledad.
@@ -82,6 +97,21 @@ No es solo buceo. Es una incursión en la barrera externa de la **Reserva Seaflo
   <tr>
     <td><img src="../assets/destinations/providencia/peak.jpg" width="100%"></td>
     <td><img src="../assets/destinations/providencia/village.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: La Bahía de Manzanillo y el retorno
+- **Logística:** Movimiento en **Mula (4x4)** por la carretera perimetral. Día 8: regreso a San Andrés (ADZ) en vuelo de mañana.
+- **Valor Diferencial:** **Manzanillo** es necesaria por su cultura raizal intacta; es el lugar para procesar el viaje con música reggae y comida local. El regreso a **San Andrés** permite una última inmersión urbana antes del vuelo nocturno a Madrid, cerrando el ciclo de aislamiento.
+
+<table>
+  <tr>
+    <td width="50%"><b>Playa Manzanillo</b></td>
+    <td width="50%"><b>Cierre en ADZ</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/providencia/village.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/providencia/boat.jpg" width="100%"></td>
   </tr>
 </table>
 
