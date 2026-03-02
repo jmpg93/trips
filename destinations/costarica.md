@@ -96,14 +96,14 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
     <td width="50%"><b>Bosque Nuboso</b></td>
   </tr>
   <tr>
-    <td><img src="../assets/destinations/costarica/hanging-bridges.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
     <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
   </tr>
 </table>
 
-### Día 7 y 8: El Pacífico salvaje (Santa Teresa)
-- **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**.
-- **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas que ofrecen un silencio que no existe en las zonas de resorts.
+### Día 7, 8 y 9: El Pacífico salvaje (Santa Teresa)
+- **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**. Día 9: **5h de conducción** de regreso a SJO.
+- **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas. El regreso a San José marca el cierre de un ciclo de inmersión total en la "Pura Vida".
 
 <table>
   <tr>
@@ -115,10 +115,6 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
     <td><img src="../assets/destinations/costarica/santa-teresa.jpg" width="100%"></td>
   </tr>
 </table>
-
-### Día 9: El regreso logístico
-- **Logística:** **5-6h de 4x4** de regreso a SJO.
-- **Valor Diferencial:** Cierre del ciclo. Salida extremadamente temprana para evitar el bloqueo del tráfico del domingo de Semana Santa y asegurar el vuelo directo a Madrid.
 
 ---
 
