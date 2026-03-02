@@ -9,108 +9,113 @@
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
 | Vuelos | €500 - €800 | Madrid - Keflavík (KEF) |
-| Transportes | €1,000 - €1,400 | Alquiler 4x4 (Imprescindible) + Fuel |
-| Alojamiento | €1,800 - €2,800 | Mix Boutique Adventure + Guesthouses |
+| Transportes | €1,000 - €1,400 | Alquiler 4x4 (Piggdekk) + Fuel |
+| Alojamiento | €1,800 - €2,800 | Mix Boutique Adventure (ION) + Guesthouses |
 | Actividades | €800 - €1,200 | Buceo Silfra + Cuevas de Hielo + Blue Lagoon |
-| Extras | €1,000 - €1,500 | Restaurantes nivel alto + Supermercado Bónus |
+| Comida/Extras | €1,000 - €1,500 | Restaurantes nivel alto + Supermercado Bónus |
 | **Total** | **€5,100 - €7,700** | **Presupuesto por pareja / 9 días** |
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Costa Sur vs Ring Road):** Se ha **descartado dar la vuelta completa** para evitar 40h de conducción total. Priorizamos la Costa Sur porque concentra los 3 hitos de aventura real (Silfra, Katla y Vatnajökull) en un radio de 4h, permitiendo un ritmo de "aventura con relax".
-- **Transporte (4x4 vs SUV estándar):** Se justifica el **4x4 con ruedas de clavos** (piggdekk) por la frecuencia de ventiscas de nieve y placas de hielo en los pasos de montaña del sur durante finales de marzo.
-- **Alojamiento (Boutique Adventure vs Guesthouses):** Se eligen hoteles como el **ION Adventure** para elevar la experiencia visual del viaje, alineándola con el estilo de vuestros viajes anteriores.
+## 🚀 Highlights de Actividades
+- **UNESCO World Heritage:** Parque Nacional de Þingvellir.
+- **Buceo en Silfra:** Inmersión entre las placas de Eurasia y América. Visibilidad +100m.
+- **Cuevas de Hielo Azul:** Expedición técnica en el glaciar Vatnajökull.
+- **ION Adventure Hotel:** Diseño brutalista en mitad de un campo de lava.
+- **Auroras Boreales:** Temporada final de avistamiento en cielos oscuros.
 
 ---
 
 ## 🗓️ Itinerario Detallado (Logística)
 
-| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
-|:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | KEF / Blue Lagoon | 4x4 Rental | Llegada y Relax | Recoger 4x4. Baño en Blue Lagoon al llegar. |
-| 29 Mar | 2 | Círculo Dorado | 4x4 | Thingvellir / Geysir | Snorkel/Buceo Silfra por la mañana. |
-| 30 Mar | 3 | Costa Sur | 4x4 | Seljalandsfoss / Skógafoss | Ver cascadas. Noche en Vík (Aurora hunting). |
-| 31 Mar | 4 | Vík / Katla | 4x4 + Super Jeep | Cueva Hielo Katla | Playa Reynisfjara. Tour Cueva de Hielo Negra. |
-| 01 Abr | 5 | Jökulsárlón | 4x4 | Laguna Glaciar | Diamond Beach. Última oportunidad Blue Ice Cave. |
-| 02 Abr | 6 | Skaftafell | 4x4 | Trekking Glaciar | Caminata sobre hielo en Falljökull. |
-| 03 Abr | 7 | Selfoss / KEF | 4x4 | Sky Lagoon / Reikiavik | Regreso al oeste. Cena en la capital. |
-| 04 Abr | 8 | Reikiavik | 4x4 / Taxi | Compras y Museos | Visita Hallgrímskirkja y Harpa. |
-| 05 Abr | 9 | Madrid | 4x4 Drop-off | Vuelo de regreso | Devolver coche con 3h de antelación. |
+| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
+|:---:|:---:|:---|:---|:---|:---|
+| 28 Mar | 1 | KEF / Blue Lagoon | Vuelo (4h 30m) | Llegada y Reset Geotérmico | Recogida 4x4. Baño Blue Lagoon. |
+| 29 Mar | 2 | Círculo Dorado | 4x4 (45m) | UNESCO Þingvellir / Silfra | Buceo Silfra por la mañana. Geysir tarde. |
+| 30 Mar | 3 | Costa Sur | 4x4 (2h) | Seljalandsfoss / Skógafoss | Cascada secreta Gljufrabui. Noche en Vík. |
+| 31 Mar | 4 | Vík / Katla | Super Jeep (45m) | Cueva Hielo Katla | Playa Reynisfjara (columnas basalto). |
+| 01 Abr | 5 | Jökulsárlón | 4x4 (2.5h) | Laguna Glaciar | Icebergs en Diamond Beach. |
+| 02 Abr | 6 | Skaftafell | 4x4 (1h) | Trekking Glaciar | Caminata técnica sobre Falljökull. |
+| 03 Abr | 7 | Selfoss | 4x4 (4h) | Sky Lagoon | Regreso hacia el Oeste. Infinity pool oceánica. |
+| 04 Abr | 8 | Reikiavik | 4x4 / Pie | Harpa y Hallgrímskirkja | Exploración urbana y gastronomía local. |
+| 05 Abr | 9 | Madrid | Vuelo (4h 30m) | Regreso | Devolución coche 3h antes. |
 
 ---
 
 ## 🗺️ Estrategia por Fases
-Islandia en Semana Santa es una lucha entre el final del invierno y el inicio de la primavera. La **Fase 1 (Círculo Dorado y Cascadas)** es la introducción visual y geológica. La **Fase 2 (Glaciares y Hielo)** en el sureste es donde ocurre la aventura real, aprovechando los últimos días de estabilidad de las cuevas de hielo azul antes de que se inunden por el deshielo.
+- **Fase 1 (Círculo Dorado):** Inmersión geológica y el reto técnico de Silfra.
+- **Fase 2 (Hielo y Fuego):** Expediciones glaciares en el sureste y caza de auroras.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Buceo en Silfra y Cuevas de Vatnajökull
-- **Buceo en Silfra:** Único sitio del mundo para tocar dos continentes bajo el agua.
-- **Cuevas de Hielo Azul:** Estructuras efímeras que solo existen en invierno. Expedición técnica en Super Jeep.
+Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto de ingravidez en agua a 2°C. Las cuevas de hielo azul en Vatnajökull son la despedida del invierno ártico.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: El aterrizaje en Marte y la brecha continental
-- **Logística:** **20 min en 4x4** al llegar para Blue Lagoon. El día 2, **45 min** desde Reikiavik hasta Silfra.
-- **Valor Diferencial:** **Blue Lagoon** es el reset necesario; bañarse en lava a 38°C mientras fuera hace 2°C prepara el cuerpo. **Silfra** es innegociable: la visibilidad de +100m da una sensación de ingravidez que no existe en ningún mar tropical. Es la pureza geológica absoluta.
+- **Logística:** **20 min en 4x4** desde el aeropuerto. Día 2: **45 min** de Reikiavik a Þingvellir.
+- **Valor Diferencial:** **Blue Lagoon** es vital para aclimatar el cuerpo al choque térmico. **Silfra** es el hito técnico más potente de Europa; es el único lugar donde puedes tocar dos continentes bajo el agua con visibilidad de cristal.
+
+### Día 3 y 4: El rugido del agua y la cueva volcánica
+- **Logística:** **2h de conducción** por la Route 1. Día 4: **45 min en Super Jeep** al interior del glaciar.
+- **Valor Diferencial:** **Skógafoss** ofrece la escala de poder del agua. La **Cueva de Katla** es necesaria por su valor visual: hielo mezclado con ceniza negra de erupciones históricas, un vibe muy diferente a las cuevas azules.
 
 <table>
   <tr>
     <td width="50%"><b>Fisura de Silfra</b></td>
-    <td width="50%"><b>Geysir / Gullfoss</b></td>
+    <td width="50%"><b>Cascada Skógafoss</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/islandia/silfra.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/geysir.jpg" width="100%"></td>
-  </tr>
-</table>
-
-### Día 3 y 4: El rugido del agua y la cueva volcánica
-- **Logística:** **2h de conducción** por la Route 1. El día 4, traslado de **45 min en Super Jeep** para entrar al glaciar.
-- **Valor Diferencial:** **Skógafoss** permite sentir el poder del agua desde su base y desde su cima (vía escalera lateral). La **Cueva de Hielo de Katla** es necesaria porque, a diferencia de las azules, tiene capas de ceniza negra de erupciones pasadas, ofreciendo un contraste visual dramático único.
-
-<table>
-  <tr>
-    <td width="50%"><b>Skógafoss</b></td>
-    <td width="50%"><b>Auroras Boreales</b></td>
-  </tr>
-  <tr>
     <td><img src="../assets/destinations/islandia/skogafoss.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/northern-lights.jpg" width="100%"></td>
   </tr>
 </table>
 
 ### Día 5 y 6: El reino del hielo cristalino
-- **Logística:** **2.5h de coche** hacia el Este. El día 6, **3h de trekking técnico** con crampones en el glaciar.
-- **Valor Diferencial:** **Jökulsárlón** es el hito visual de la expedición; ver icebergs del tamaño de camiones flotar hacia el mar es hipnótico. El trekking en **Falljökull** es necesario para entender la escala del hielo: caminarás sobre grietas profundas y formaciones que tienen miles de años.
+- **Logística:** **2.5h de coche** hacia el Este. El día 6 requiere **3h de actividad física** intensa con crampones.
+- **Valor Diferencial:** **Jökulsárlón** es el hito visual del viaje; icebergs flotando hacia el mar. El trekking en **Falljökull** es necesario para vivir la escala real del glaciar y sus grietas milenarias.
 
-<table>
-  <tr>
-    <td width="50%"><b>Laguna Glaciar</b></td>
-    <td width="50%"><b>Diamond Beach</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 7, 8 y 9: El ritual del Sky Lagoon y el Harpa
+- **Logística:** **4h de conducción** de regreso. Día 8: movimiento a pie por Reikiavik.
+- **Valor Diferencial:** **Sky Lagoon** es el cierre de relax necesario frente al Atlántico. **Reikiavik** aporta el valor arquitectónico (Harpa) y gastronómico, centrando el día 8 en cultura y no en consumo comercial.
 
-### Día 7, 8 y 9: El regreso y el ritual del Sky Lagoon
-- **Logística:** **4h de conducción** de regreso al Oeste. El día 8, movimiento a pie por el centro de la capital.
-- **Valor Diferencial:** **Sky Lagoon** es necesario para cerrar el ciclo; su piscina infinity sobre el océano Atlántico es más íntima que Blue Lagoon. **Reikiavik** aporta el valor cultural: diseño nórdico en Harpa y una última cena de bacalao islandés de alta calidad antes de volar.
+---
+
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Ruta (Costa Sur vs Ring Road):** Se ha **descartado la vuelta completa** para evitar 40h de conducción. Se prioriza la Costa Sur para asegurar los hitos técnicos sin fatiga logística.
+- **Transporte (4x4 vs SUV Estándar):** Se justifica el **4x4 con piggdekk** por las ventiscas frecuentes en los pasos de montaña del sur en marzo.
+- **Actividad (Katla vs Blue Caves):** Se incluyen ambas para comparar el hielo fósil (negro) con el hielo estacional (azul).
+- **UNESCO:** Se ha priorizado **Þingvellir** por su valor como primer parlamento del mundo y frontera tectónica.
+
+---
+
+## 🗺️ Mapa Interactivo
+<div id="map" style="height: 400px;"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([64.5, -18.5], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+  L.marker([64.25, -21.12]).addTo(map).bindPopup('Þingvellir (UNESCO) / Silfra');
+  L.marker([63.88, -22.44]).addTo(map).bindPopup('Blue Lagoon');
+  L.marker([63.41, -19.00]).addTo(map).bindPopup('Vík / Katla');
+  L.marker([64.04, -16.17]).addTo(map).bindPopup('Jökulsárlón');
+  L.marker([64.12, -21.81]).addTo(map).bindPopup('Reikiavik');
+</script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca abras la puerta del coche sin sujetarla (el viento puede arrancarla). No te acerques al agua en Reynisfjara (olas traicioneras mortales).
-- **Seguro del Coche:** Contratar SIEMPRE **SCDW, GP** y **SAAP (Sand and Ash Protection)**.
-- **Logística:** Consultar cada mañana **road.is** y **vedur.is**. Si hay alerta roja, no se conduce.
+- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (el viento las arranca). No acercarse al agua en Reynisfjara (sneaker waves mortales).
+- **Seguros:** Contratar **GP** y **SAAP** (protección contra arena y ceniza) obligatoriamente.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Reikiavik](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
-- **Alquiler Coche:** [🚗 Reservar 4x4 (Blue Car Rental / Lotus)](https://www.booking.com/cars/city/is/reykjavik.es.html?checkin=2026-03-28&checkout=2026-04-05)
+- **Vuelos:** [✈️ Buscar MAD -> Reikiavik (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
+- **Logística:** [🌐 Estado Carreteras (Road.is)](https://www.road.is/)

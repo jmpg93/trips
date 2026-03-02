@@ -9,47 +9,60 @@
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
 | Vuelos | €400 - €700 | Madrid - Bergen (BGO) o Oslo (OSL) |
-| Transportes | €800 - €1,200 | Alquiler coche (Piggdekk) + Tren Flåm |
-| Alojamiento | €2,000 - €3,500 | Juvet Landscape + Hotel Alexandra |
-| Actividades | €900 - €1,400 | Buceo Gulen + Loen Skylift |
-| Extras | €1,200 - €1,800 | Restaurantes alto nivel + Supermercados |
+| Transportes | €800 - €1,200 | Alquiler coche SUV (Piggdekk) + Tren Flåm |
+| Alojamiento | €2,000 - €3,500 | Juvet Landscape + Hotel Alexandra + Boutique |
+| Actividades | €900 - €1,400 | Buceo Gulen + Loen Skylift + Crucero Fiordos |
+| Comida/Extras | €1,200 - €1,800 | Restaurantes nivel alto + Supermercado Rema 1000 |
 | **Total** | **€5,300 - €8,600** | **Presupuesto por pareja / 9 días** |
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Actividad (Buceo Gulen vs Trekking Preikestolen):** Se ha **priorizado el buceo en Gulen** porque en marzo la visibilidad submarina es récord (40m), mientras que los trekkings icónicos como Preikestolen o Trolltunga son peligrosos o están cerrados por nieve/hielo en estas fechas.
-- **Ruta (Bergen-Loen vs Círculo Polar):** Se elige la zona de los fiordos centrales descartando Tromsø para evitar vuelos internos extra y asegurar una experiencia cohesionada de **diseño y naturaleza** en coche.
-- **Transporte (Coche con Piggdekk vs Tren):** Se justifica el **coche de alquiler con neumáticos de clavos (piggdekk)** sobre el tren para poder llegar al Juvet Landscape Hotel y Gulen, lugares inaccesibles mediante transporte público eficiente.
-- **Alojamiento (Juvet vs Hotel Estándar):** Se elige el **Juvet** a pesar de su precio porque es un hito arquitectónico en sí mismo que define la experiencia de este viaje.
+## 🚀 Highlights de Actividades
+- **UNESCO World Heritage:** Bryggen en Bergen y el Nærøyfjord (fiordos occidentales).
+- **Buceo en Pecios (Gulen):** Visibilidad máxima anual (40m) en marzo.
+- **Tren de Flåm:** Una de las rutas ferroviarias más empinadas y visuales del mundo.
+- **Juvet Landscape Hotel:** Inmersión arquitectónica total en la selva noruega.
+- **Loen Skylift:** Ascenso vertical a 1011m sobre el abismo del Nordfjord.
 
 ---
 
 ## 🗓️ Itinerario Detallado (Logística)
 
-| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
-|:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | Bergen | Vuelo / Bus | Llegada y Bryggen | Funicular Fløibanen al atardecer. |
-| 29 Mar | 2 | Bergen / Gulen | Alquiler Coche | Mercado Pescado -> Gulen | Traslado al centro de buceo (2.5h). |
-| 30 Mar | 3 | Gulen | Bote Buceo | **Buceo Pecios (Wrecks)** | Hito aventura. Visibilidad máxima (30m+). |
-| 31 Mar | 4 | Flåm / Aurland | Coche (3h) | Tren de Flåm | Paisaje invernal espectacular. |
-| 01 Abr | 5 | Nærøyfjord | Bote Eléctrico | Crucero Fiordos | Navegación silenciosa. |
-| 02 Abr | 6 | Loen | Coche (4h) | Loen Skylift | Subida al Mt. Hoven (1011m). |
-| 03 Abr | 7 | Valldal / Juvet | Coche (3h) | Relax en Juvet | Estancia en Landscape Room. |
-| 04 Abr | 8 | Ålesund / Bergen | Coche / Vuelo | Explorar Ålesund | Subida al Mt. Aksla. |
-| 05 Abr | 9 | Madrid | Taxi BGO | Vuelo de regreso | Devolver coche en BGO. |
+| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
+|:---:|:---:|:---|:---|:---|:---|
+| 28 Mar | 1 | Bergen | Vuelo (3h 45m) | Llegada y UNESCO Bryggen | Recogida coche. Funicular Fløibanen. |
+| 29 Mar | 2 | Gulen | Coche (2.5h) | Traslado y Briefing Buceo | Mercado de pescado Bergen -> Gulen. |
+| 30 Mar | 3 | Gulen | Bote Buceo | **Buceo Pecios II GM** | Visibilidad de cristal (40m). |
+| 31 Mar | 4 | Flåm / Aurland | Coche (3h) | UNESCO Nærøyfjord | Tren de Flåm y Mirador Stegastein. |
+| 01 Abr | 5 | Loen | Coche (4h) | Loen Skylift | Subida al Mt. Hoven. Raquetas de nieve. |
+| 02 Abr | 6 | Valldal | Coche (3h) | Juvet Landscape | Relax en hotel de diseño orgánico. |
+| 03 Abr | 7 | Ålesund | Coche (2h) | Estilo Art Nouveau | Subida al mirador Aksla (418 escalones). |
+| 04 Abr | 8 | Bergen | Coche (6h) | Ruta Panorámica | Regreso a Bergen bordeando fiordos. |
+| 05 Abr | 9 | Madrid | Vuelo (3h 45m) | Regreso | Devolución coche 3h antes. |
 
 ---
 
-## 🔥 Hito de Aventura Real: Buceo en Gulen y el Skylift de Loen
-- **Buceo Gulen:** Inmersión en pecios de la II GM con visibilidad de cristal.
-- **Loen Skylift:** Subida vertical a 1011m para expedición en raquetas.
+## 🗺️ Estrategia por Fases
+- **Fase 1 (Buceo y Fiordos):** Foco en el agua más clara del año en Gulen y la mística de los fiordos nevados (UNESCO).
+- **Fase 2 (Diseño y Altura):** Arquitectura de vanguardia (Juvet) y vistas aéreas extremas desde los Skylifts.
+
+---
+
+## 🔥 Hito de Aventura Real: Buceo en Pecios de Gulen
+Inmersión técnica en el *SS Frankenwald* o el doble pecio *Ferndale & Parat*. En marzo, el "winter clear-out" permite una visibilidad de 40m, algo imposible en verano. Requiere traje seco.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: El puerto vikingo y el salto al Atlántico
+- **Logística:** **3h 45m de vuelo** MAD-BGO. Traslado de **2.5h en coche** hacia el norte por la E39.
+- **Valor Diferencial:** **Bergen** es necesaria por **Bryggen (UNESCO)**; las casas de madera del siglo XIV son el hito histórico. **Gulen** es obligatorio porque ofrece el buceo técnico más puro de Noruega, lejos de las rutas turísticas.
+
 ### Día 3 y 4: El abismo de hierro y el tren de los sueños
+- **Logística:** **30 min en bote** a los puntos de buceo. Día 4: **3h de conducción** por túneles kilométricos.
+- **Valor Diferencial:** Bucear en pecios de la II GM con visibilidad infinita es vuestro reto técnico. El **Tren de Flåm** y el **Nærøyfjord (UNESCO)** son necesarios por su escala visual masiva; el fiordo es tan estrecho que parece cerrarse sobre el barco.
+
 <table>
   <tr>
     <td width="50%"><b>Buceo en Gulen</b></td>
@@ -61,14 +74,48 @@
   </tr>
 </table>
 
+### Día 5 y 6: Vértigo en Loen y arquitectura en Juvet
+- **Logística:** **4h de coche** hacia el Nordfjord. El Skylift sube en **5 min**. Día 6: **3h** por la Ruta Nacional Turística.
+- **Valor Diferencial:** **Loen** es necesario por el Skylift; estar a 1000m sobre el fiordo con raquetas de nieve es el hito de adrenalina visual. **Juvet Landscape Hotel** es el valor diferencial del lujo: dormir en una caja de cristal donde la pared es el bosque vivo.
+
+### Día 7, 8 y 9: La ciudad del fuego y el largo regreso
+- **Logística:** **2h de conducción** hasta Ålesund. Día 8: **6h de coche** Bergen (la ruta más larga del viaje).
+- **Valor Diferencial:** **Ålesund** es necesaria por su arquitectura Art Nouveau única tras el gran incendio de 1904. El viaje de regreso por la costa es el hito de conducción *slow* antes de volar a Madrid el domingo.
+
+---
+
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Actividad (Gulen vs Preikestolen):** Se prioriza **Gulen** porque en marzo la visibilidad es de 40m (máxima anual), mientras que los senderos de Preikestolen están helados y peligrosos.
+- **Transporte (Coche vs Tren):** Se elige **SUV 4x4 con piggdekk** para poder llegar a Juvet y Gulen, inaccesibles por tren eficiente.
+- **Ruta (Loen vs Tromsø):** Se descarta el Norte para evitar vuelos internos y colas en aeropuertos, priorizando la fluidez de la carretera.
+- **UNESCO:** Se ha incluido obligatoriamente **Bryggen** y el **Nærøyfjord** como pilares culturales del viaje.
+
+---
+
+## 🗺️ Mapa Interactivo
+<div id="map" style="height: 400px;"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([61.0, 6.0], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+  L.marker([60.39, 5.32]).addTo(map).bindPopup('Bergen (UNESCO)');
+  L.marker([60.97, 5.07]).addTo(map).bindPopup('Gulen (Buceo)');
+  L.marker([60.86, 7.11]).addTo(map).bindPopup('Flåm (Tren)');
+  L.marker([61.87, 6.85]).addTo(map).bindPopup('Loen (Skylift)');
+  L.marker([62.23, 7.23]).addTo(map).bindPopup('Juvet Landscape');
+</script>
+
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No confiar en Google Maps para ferrys (usar **Entur.no**). No subir a pasos de montaña cerrados (**Vegvesen.no**).
-- **Logística:** Comprar alcohol en el Duty Free (Vinmonopolet es prohibitivo).
+- **Factor "Ni de Coña":** No confíes en los horarios de Google Maps para los ferrys; usa la app **Entur**. No intentes Preikestolen sin guía y crampones en marzo.
+- **Logística:** Compra alcohol en el Duty Free de Madrid o Bergen; en las montañas es imposible o prohibitivo.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Bergen](https://www.skyscanner.es/transport/flights/mad/bgo/260328/260405/?adults=2&currency=EUR)
-- **Trenes:** [🚆 Tren Flåm (Vy.no)](https://www.vy.no/)
+- **Vuelos:** [✈️ Buscar MAD -> Bergen (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/bgo/260328/260405/?adults=2&currency=EUR)
+- **Carreteras:** [🚦 Estado en tiempo real (Vegvesen)](https://www.vegvesen.no/trafikk)

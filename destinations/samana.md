@@ -17,122 +17,94 @@
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Transporte (Quad vs Coche):** El Quad es innegociable por el estado de la carretera a Playa Rincón y los senderos de Las Galeras; un coche sufriría y una moto es inestable en el barro de marzo.
-- **Ruta (Las Galeras vs Terrenas):** Se prioriza Las Galeras para el inicio porque es donde ocurre la aventura real (Frontón/Cabo Cabrón). Terrenas se deja para el final por su mejor oferta de ocio y relax.
+## 🚀 Highlights de Actividades
+- **Buceo en Piedra Bonita:** El pináculo submarino más dramático de la isla (60m).
+- **Playa Frontón:** Acantilado de mármol de 90m accesible solo por mar.
+- **Caño Frío:** Baño en río de agua dulce entre manglares en Playa Rincón.
+- **Cayo Levantado:** Aislamiento total en una isla privada de lujo.
+- **Observación de Ballenas:** Final de la temporada de ballenas jorobadas.
 
 ---
 
 ## 🗓️ Itinerario Detallado (Logística)
 
-| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
+| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
 |:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | Las Galeras | Taxi SDQ (3h) | Llegada y Quad | Alquilar Quad (ATV). Atardecer en La Playita. |
-| 29 Mar | 2 | Las Galeras | Bote / Quad | Playas Frontón y Madama | Llevar escarpines. Frontón: acantilado de 90m. |
-| 30 Mar | 3 | Las Galeras | Quad (ATV) | Playa Rincón / Caño Frío | Baño en el Caño Frío (agua dulce entre manglares). |
-| 31 Mar | 4 | Las Galeras | Bote Buceo | **Buceo Piedra Bonita** | Inmersión en "The Tower" (Pináculo 60m). |
-| 01 Abr | 5 | L. Terrenas | Transfer Privado | Traslado y Check-in | Cambio de fase. Dejar el Quad, relax total. |
-| 02 Abr | 6 | C. Levantado | Lancha | Relax / Playa Privada | Disfrutar de las instalaciones del islote. |
-| 03 Abr | 7 | L. Terrenas | Scooter | Explorar Las Terrenas | Cena en el pueblo. Restaurante El Pescador. |
-| 04 Abr | 8 | L. Terrenas | Lancha/Relax | Últimas compras | Disfrutar de la mañana. Preparar maletas. |
-| 05 Abr | 9 | Madrid | Taxi SDQ (3h) | Vuelo de regreso | Salir con 6h de margen respecto al vuelo. |
+| 28 Mar | 1 | Las Galeras | Vuelo (8h 30m) + Taxi (3h) | Llegada y Quad | Traslado SDQ -> Las Galeras. |
+| 29 Mar | 2 | Las Galeras | Bote (25m) / Quad | Playas Frontón y Madama | Snorkel técnico en arrecife de pared. |
+| 30 Mar | 3 | Las Galeras | Quad (45m) | Playa Rincón / Caño Frío | Baño en río dulce para reset térmico. |
+| 31 Mar | 4 | Las Galeras | Bote Buceo (30m) | **Buceo Cabo Cabrón** | Inmersión en "The Tower". |
+| 01 Abr | 5 | L. Terrenas | Transfer (1h) | Traslado y Check-in | Cambio a fase de relax total. |
+| 02 Abr | 6 | C. Levantado | Lancha (15m) | Relax / Isla Privada | Disfrutar de la exclusividad del islote. |
+| 03 Abr | 7 | Las Terrenas | Scooter (15m) | Gastronomía de Autor | Cena en El Pescador (Vibe europeo). |
+| 04 Abr | 8 | Las Terrenas | Scooter / Relax | Exploración Costera | Atardecer en Playa Bonita. |
+| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (8h 30m) | Regreso | Salida con 6h de margen respecto al vuelo. |
 
 ---
 
 ## 🗺️ Estrategia por Fases
-- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Alojamiento sugerido: **Chalet Tropical Bio-Hotel** (estilo Karst). Foco en naturaleza cruda y buceo técnico.
-- **Fase 2 (Cayo Levantado):** Reset necesario. Aislamiento total en una isla privada con servicios de alta gama. Foco en relax total, spa y gastronomía refinada tras la intensidad de la selva.
+- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Foco en naturaleza cruda y buceo técnico.
+- **Fase 2 (Cayo Levantado):** Reset necesario tras la intensidad de la selva. Aislamiento total y spa.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Expedición a Cabo Cabrón
-- **La Experiencia:** Buceo en **Piedra Bonita (The Tower)**. Pináculo submarino de 7m a 60m. Único sitio del Caribe con esta verticalidad volcánica.
-- **Centro Sugerido:** **Las Galeras Divers** (especialistas en grupos pequeños y rutas técnicas).
+Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae verticalmente hasta los 60m. Requiere confianza en corrientes atlánticas y ofrece el paisaje submarino más vertical del Caribe.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1: El fin de la carretera
-- **Logística:** Tras recoger el Quad en el pueblo (10 min), tardarás solo **15 min** por un camino de tierra en llegar a **La Playita**.
-- **Valor Diferencial:** Es el hito de bienvenida. Aguas cristalinas y tranquilas que no requieren esfuerzo logístico. Imprescindible para ver tu primer atardecer con un coco loco local y bajar las revoluciones tras el vuelo.
+- **Logística:** **3h de taxi** desde SDQ. El movimiento en el pueblo es a pie o en Quad.
+- **Valor Diferencial:** **Las Galeras** es necesaria por ser el punto más indómito de la isla. El valor diferencial es el atardecer en **La Playita**, donde la selva muere en el mar sin el ruido de los grandes resorts.
 
-### Día 2: El acantilado indómito (Frontón vs Madama)
-- **Logística:** **25 min en lancha rápida** desde el muelle de Las Galeras.
-- **Valor Diferencial:** 
-    - **Playa Frontón:** Necesaria por su escala masiva (acantilado de 90m) y buceo de pared. Es la playa más indómita de RD.
-    - **Playa Madama:** El contrapunto necesario; una cala diminuta y cerrada donde el snorkel es mucho más tranquilo y protegido.
-
-<table>
-  <tr>
-    <td width="50%"><b>Playa Frontón</b></td>
-    <td width="50%"><b>Playa Madama</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/samana/playa-fronton.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/samana/playa-madama.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 2: El acantilado indómito
+- **Logística:** **25 min de lancha rápida** desde el muelle.
+- **Valor Diferencial:** **Playa Frontón** es el hito visual; su acantilado de 90m es la estampa más salvaje de RD. **Playa Madama** aporta el valor de la intimidad, una cala cerrada donde el bosque tropical abraza la arena.
 
 ### Día 3: El mix de agua dulce y salada
-- **Logística:** **35-45 min en Quad** por una ruta bacheada pero espectacular entre cocoteros y granjas de cacao.
-- **Valor Diferencial:** Playa Rincón es necesaria por su extensión infinita, pero el valor real es el **Caño Frío**. Permite bañarse en agua dulce helada bajo un túnel de manglares para quitarse la sal antes de comer pescado frito en la arena.
+- **Logística:** **45 min en Quad** por caminos de tierra roja y cocoteros.
+- **Valor Diferencial:** El **Caño Frío** en Playa Rincón es el valor diferencial; permite bañarse en agua cristalina helada bajo manglares, un reset térmico vital tras la exposición al sol del Caribe.
 
-<table>
-  <tr>
-    <td width="50%"><b>Playa Rincón</b></td>
-    <td width="50%"><b>Caño Frío</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/samana/playa-rincon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/samana/cano-frio.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 4: El abismo submarino
+- **Logística:** **30 min de navegación** a mar abierto.
+- **Valor Diferencial:** El buceo en **Cabo Cabrón** es vuestro reto de alto impacto. No es buceo de recreo estándar; las paredes y cuevas volcánicas ofrecen un nivel de aventura técnica que no se encuentra en Bayahibe.
 
-### Día 4: El abismo submarino y el trekking del barro
-- **Logística:** **30 min en lancha de buceo** hasta Cabo Cabrón. Tarde: **45 min de caminata** hasta la base del Salto del Limón.
-- **Valor Diferencial:** El buceo en **Piedra Bonita** es obligatorio por ser un pináculo que desaparece en el azul (único en RD). El **Salto del Limón** es el hito terrestre; la cascada de 40m es impresionante, pero el valor diferencial es hacerlo a pie (sin caballos) para vivir el trekking real por la selva.
+---
 
-<table>
-  <tr>
-    <td width="50%"><b>Salto del Limón</b></td>
-    <td width="50%"><b>Buceo Cabo Cabrón</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/samana/salto-del-limon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/samana/playa-fronton.jpg" width="100%"></td>
-  </tr>
-</table>
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Transporte (Quad vs Coche):** Se elige el **Quad (ATV)** porque las lluvias de marzo convierten los accesos a las playas en lodazales; el Quad asegura tracción y estabilidad.
+- **Ruta (Las Galeras vs Bávaro):** Se descarta Punta Cana por ser un modelo comercial saturado. Se elige Samaná para mantener el nivel de aventura de vuestros viajes pasados.
+- **Alojamiento (Chalet Tropical):** Se elige por su diseño orgánico (piedra/madera) que replica la sensación de las Karst Villas de Vietnam.
+- **Utilidad:** Se ha eliminado el día de "compras" del borrador inicial para priorizar el relax técnico en playa.
 
-### Día 5: El reset de lujo
-- **Logística:** **1h de traslado privado** desde Las Galeras hasta el puerto de Samaná + **15 min de lancha** al islote.
-- **Valor Diferencial:** El cambio de fase es necesario para procesar la aventura de los días previos. **Cayo Levantado** ofrece el aislamiento total en una isla privada con servicios de 5 estrellas que Las Galeras no tiene.
+---
 
-### Día 6: Silencio en el islote
-- **Logística:** Cero traslados. Movimiento caminando por la playa privada o en lancha del hotel.
-- **Valor Diferencial:** Día dedicado al relax absoluto y el spa. Es el momento de disfrutar de la exclusividad del islote sin interrupciones externas.
-
-### Día 7: La gastronomía de Las Terrenas
-- **Logística:** **20 min en lancha** a tierra firme + **15 min en Scooter** por el pueblo.
-- **Valor Diferencial:** Las Terrenas es necesaria por su contraste cultural. Es el mix perfecto entre lo dominicano y lo europeo (francés/italiano). El valor diferencial es la cena en **El Pescador** para probar la alta cocina del pueblo.
-
-### Día 8: El ritual de despedida
-- **Logística:** Movimiento libre en Scooter o relax en playa privada.
-- **Valor Diferencial:** Últimas compras de café y ron local en el pueblo. Es el día de "bajar la persiana" y disfrutar de los últimos baños en aguas cristalinas antes del cierre logístico.
-
-### Día 9: El regreso
-- **Logística:** **3h de traslado privado** hasta el aeropuerto SDQ.
-- **Valor Diferencial:** Cierre del ciclo. Salida con 6h de antelación para asegurar el vuelo directo a Madrid sin estrés.
+## 🗺️ Mapa Interactivo
+<div id="map" style="height: 400px;"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([19.2, -69.4], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+  L.marker([19.29, -69.20]).addTo(map).bindPopup('Las Galeras');
+  L.marker([19.31, -69.15]).addTo(map).bindPopup('Playa Frontón');
+  L.marker([19.29, -69.24]).addTo(map).bindPopup('Playa Rincón / Caño Frío');
+  L.marker([19.17, -69.28]).addTo(map).bindPopup('Cayo Levantado');
+  L.marker([19.31, -69.53]).addTo(map).bindPopup('Las Terrenas');
+</script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Evitar Playa Frontón con viento norte fuerte (peligroso para botes pequeños). No aceptar caballos en Salto del Limón (barro y maltrato).
-- **Gastronomía:** Probar el **Pescado con Coco** estilo Samaná y las empanadas de **Yoselin**.
-- **Equipo:** Escarpines (Frontón es coralino), repelente potente (jejenes), luz química para buceo en cuevas.
+- **Factor "Ni de Coña":** No aceptar caballos en Salto del Limón (maltrato y barro). No ir a Frontón si hay viento norte fuerte.
+- **Equipo:** Escarpines (Frontón es roca pura), repelente potente para jejenes.
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Samaná](https://www.skyscanner.es/transport/flights/mad/azs/260328/260405/?adults=2&currency=EUR)
-- **Estancia:** [🏨 Reservar Samaná (Booking)](https://www.booking.com/searchresults.es.html?ss=Samana%2C+Dominican+Republic&checkin=2026-03-28&checkout=2026-04-05&group_adults=2)
+- **Vuelos:** [✈️ Buscar MAD -> Santo Domingo](https://www.skyscanner.es/transport/flights/mad/sdq/260328/260405/?adults=2&currency=EUR)
+- **Buceo:** [🤿 Las Galeras Divers](https://www.las-galeras-divers.com/)
