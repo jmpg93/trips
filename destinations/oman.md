@@ -34,7 +34,7 @@
 | 31 Mar | 4 | Wadi Bani Khalid | 4x4 (1.5h) | Pozas y Cuevas | Exploración Muqal Cave. Cruce profundo. |
 | 01 Abr | 5 | Nizwa / Bahla | 4x4 (2.5h) | UNESCO Bahla | Mercado Nizwa y fuerte Patrimonio Mundial. |
 | 02 Abr | 6 | Jebel Shams | 4x4 (3h) | Via Ferrata | Hito Aventura: Escalada 400m sobre el abismo. |
-| 03 Abr | 7 | Snake Canyon | 4x4 (2h) | **Canyoning Técnico** | Saltos obligatorios y rápeles (Right Fork). |
+| 03 Abr | 7 | Snake Canyon | 4x4 (2h) | **Canyoning Técnico** | Hito Aventura: Saltos, toboganes y rapel (Right Fork). |
 | 04 Abr | 8 | Jebel Akhdar | 4x4 (1.5h) | Alila / Relax | Recuperación en hotel de lujo a 2000m. |
 | 05 Abr | 9 | Mascate / Dimaniyat| 4x4 (2.5h) | Buceo UNESCO | Inmersión en arrecifes vírgenes. |
 | 06 Abr | 10 | Madrid | Vuelo (10h 30m) | Regreso | Devolución coche 3h antes. |
@@ -117,23 +117,49 @@ El Snake Canyon es vuestro hito de adrenalina técnica; una grieta en la roca qu
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([23.0, 58.0], 7);
+  var map = L.map('map').setView([23.0, 58.5], 7);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([23.58, 58.40], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Mascate');
-  L.circleMarker([22.84, 59.24], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Wadi Shab');
-  L.circleMarker([22.40, 58.70], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Wahiba Sands');
-  L.circleMarker([22.93, 57.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Nizwa');
-  L.circleMarker([23.20, 57.26], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Jebel Shams');
-  L.circleMarker([23.21, 57.43], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Snake Canyon');
-  L.circleMarker([23.85, 58.08], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Dimaniyat Islands (UNESCO)');
+
+  var points = [
+    [23.58, 58.40], // 1. Mascate
+    [22.84, 59.24], // 2. Wadi Shab
+    [22.40, 58.70], // 3. Wahiba Sands
+    [22.93, 57.53], // 4. Nizwa / Bahla
+    [23.20, 57.26], // 5. Jebel Shams
+    [23.21, 57.43], // 6. Snake Canyon
+    [23.07, 57.66], // 7. Alila Jebel Akhdar
+    [23.85, 58.08], // 8. Dimaniyat Islands
+    [23.58, 58.40]  // 9. Regreso Mascate
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Mascate');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Wadi Shab');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Wahiba Sands');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Nizwa / Bahla (UNESCO)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Jebel Shams (Via Ferrata)');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Snake Canyon');
+  createLabel(7, points[6]).addTo(map).bindPopup('7. Alila Jabal Akhdar');
+  createLabel(8, points[7]).addTo(map).bindPopup('8. Dimaniyat (UNESCO)');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** Nunca entrar en un Wadi con nubes de lluvia. No conducir dunas solo.
+- **Factor "Ni de Coña":** Nunca entrar en un Wadi con nubes de lluvia (flujos relámpago mortales). No conducir dunas solo (mínimo 2 coches).
 - **Logística:** 7L agua/persona/día en desierto. Compresor de aire obligatorio.
 
 ---

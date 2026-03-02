@@ -122,11 +122,32 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([64.25, -21.12], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Þingvellir (UNESCO) / Silfra');
-  L.circleMarker([63.88, -22.44], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Blue Lagoon');
-  L.circleMarker([63.41, -19.00], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Vík / Katla');
-  L.circleMarker([64.04, -16.17], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Jökulsárlón');
-  L.circleMarker([64.12, -21.81], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Reikiavik');
+
+  var points = [
+    [63.88, -22.44], // 1. Blue Lagoon
+    [64.25, -21.12], // 2. Thingvellir / Silfra
+    [63.41, -19.00], // 3. Vík / Katla
+    [64.04, -16.17], // 4. Jökulsárlón
+    [64.12, -21.81]  // 5. Reikiavik
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Blue Lagoon');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Þingvellir (UNESCO) / Silfra');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Vík / Cueva Katla');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Jökulsárlón / Glaciar');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Reikiavik');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---
@@ -138,5 +159,5 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Reikiavik](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
+- **Vuelos:** [✈️ Buscar MAD -> Reikiavik (Skyscanner)](https://www.skyscanner.es/transport/flights/mad/kef/260328/260405/?adults=2&currency=EUR)
 - **Logística:** [🌐 Road.is](https://www.road.is/)

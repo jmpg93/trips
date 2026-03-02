@@ -17,19 +17,20 @@
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Transporte (Half Fare Card vs Swiss Pass):** Se justifica la elección de la **Half Fare Card (120 CHF)** sobre el Swiss Travel Pass porque, al estar centrados en una sola región (Zermatt), los trayectos en tren son pocos, pero los remontes de montaña son muy caros; la HFC descuenta el 50% en TODO, ahorrando unos 50-80 CHF por persona frente al pase ilimitado.
-- **Logística (Comer en Italia vs Suiza):** Se recomienda **cruzar a Cervinia (Italia) para el almuerzo** porque la diferencia de precio en restauración es de un 40% menos y permite disfrutar de gastronomía italiana auténtica sin salir del dominio de esquí.
-- **Alojamiento (Riffelalp vs Pueblo):** Se elige el **Riffelalp Resort 2222m** porque su ubicación en la montaña ofrece el impacto visual más potente del Matterhorn, justificando la logística del tren de cremallera necesario para entrar y salir.
-- **Actividad (Breithorn vs Esquí Estándar):** Se prioriza la **ascensión al Breithorn** para añadir un hito de "montañismo real" (4,000m) a un viaje que de otro modo sería solo de esquí comercial.
+## 🚀 Highlights de Actividades
+- **Esquí Internacional:** Cruce de fronteras Suiza-Italia por el glaciar.
+- **Breithorn Ascent:** Cumbre de 4,164m sobre terreno glaciar técnico.
+- **Gornergrat Railway:** El tren de cremallera más alto de Europa al aire libre.
+- **Gorge Adventure:** Circuito técnico sobre el desfiladero del Gorner.
+- **The Omnia / Riffelalp:** Experiencias de diseño y spa de máxima categoría.
 
 ---
 
 ## 🗓️ Itinerario Detallado (Logística)
 
-| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Recomendaciones y Notas |
-|:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | GVA / Zermatt | Tren SBB | Traslado Alpes | Comprar Half Fare Card al llegar. |
+| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
+|:---:|:---:|:---|:---|:---|:---|
+| 28 Mar | 1 | GVA / Zermatt | Tren SBB (3.5h) | Traslado Alpes | Comprar Half Fare Card al llegar. |
 | 29 Mar | 2 | Matterhorn Ski | Ski Int. | Esquí Internacional | Cruzar a Italia (Cervinia) para comer. |
 | 30 Mar | 3 | Gornergrat | Tren Cremallera | Vistas / Esquí | Subida a 3,089m. Fotos Matterhorn. |
 | 31 Mar | 4 | Gorner Gorge | Guía Técnico | **Gorge Adventure** | Hito Aventura: Tirolinas sobre río. |
@@ -37,12 +38,18 @@
 | 02 Abr | 6 | Matterhorn Ski | Ski Int. | Sunnegga / Rothorn | Esquí en cara norte. |
 | 03 Abr | 7 | Zermatt Village | Parapente | Vuelo Térmico | Tandem Rothorn -> Zermatt. |
 | 04 Abr | 8 | Zermatt | Spa / Relax | Recuperación Lujo | Tarde en spa de The Omnia o Riffelalp. |
-| 05 Abr | 9 | GVA / Madrid | Tren SBB | Vuelo de regreso | Traslado tren 3.5h. |
+| 05 Abr | 9 | GVA / Madrid | Tren SBB (3.5h) | Vuelo de regreso | Traslado tren al aeropuerto. |
+
+---
+
+## 🗺️ Estrategia por Fases
+- **Fase 1 (Adrenalina y Cumbres):** Aprovechar la altitud extrema (3,883m) para actividades técnicas sobre hielo y cumbre de 4,000m.
+- **Fase 2 (Lifestyle y Relax):** Cultura del "Après-ski" sofisticado y gastronomía alpina.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Breithorn Ascent y Gorge Adventure
-- **Breithorn (4,164m):** Expedición con crampones para alcanzar una cumbre de 4,000m. El valor diferencial es la sensación de alta montaña real sin ser un escalador profesional.
+- **Breithorn (4,164m):** Expedición con crampones para alcanzar una cumbre de 4,000m. El valor diferencial es la sensación de alta montaña real.
 - **Gorge Adventure:** Recorrido técnico por desfiladero con saltos y tirolinas sobre aguas glaciares.
 
 ---
@@ -50,23 +57,12 @@
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: El pueblo sin coches y la frontera invisible
-- **Logística:** **3.5h de tren SBB** desde el aeropuerto de Ginebra. El día 2, cruce esquiando a Italia a través de **Plateau Rosa (3,480m)**.
-- **Valor Diferencial:** Zermatt es necesaria por su pureza; el aire huele a nieve y pino gracias a la ausencia de coches. El valor diferencial es comer en **Cervinia** (Italia) el día 2; es el único sitio de los Alpes donde puedes desayunar una fondue suiza y almorzar una pasta artesana italiana bajando la misma montaña.
-
-<table>
-  <tr>
-    <td width="50%"><b>Vistas Matterhorn</b></td>
-    <td width="50%"><b>Zermatt Village</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/zermatt/matterhorn.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/zermatt/village.jpg" width="100%"></td>
-  </tr>
-</table>
+- **Logística:** **3.5h de tren SBB** desde Ginebra. El día 2, cruce esquiando a Italia vía **Plateau Rosa**.
+- **Valor Diferencial:** Zermatt es necesaria por su pureza. El valor diferencial es comer en **Cervinia** (Italia); es el único sitio de los Alpes donde puedes desayunar una fondue suiza y almorzar pasta italiana artesana bajando la misma montaña.
 
 ### Día 3 y 4: Hierro, Hielo y Vértigo
-- **Logística:** **33 min en tren de cremallera** hasta Gornergrat. El día 4, traslado corto a pie hasta el desfiladero de Furi.
-- **Valor Diferencial:** **Gornergrat** ofrece la panorámica de 360° más famosa de Suiza. El **Gorge Adventure** es necesario para romper la rutina del esquí; sentir la fuerza del deshielo bajo tus pies mientras te cuelgas de una tirolina es la aventura técnica que define este viaje.
+- **Logística:** **33 min en tren de cremallera**. El día 4, traslado corto a pie hasta Furi.
+- **Valor Diferencial:** **Gornergrat** ofrece la panorámica más icónica de los Alpes. El **Gorge Adventure** es el valor diferencial técnico: sentir el deshielo bajo tus pies mientras te cuelgas de una tirolina entre paredes heladas.
 
 <table>
   <tr>
@@ -79,42 +75,68 @@
   </tr>
 </table>
 
-### Día 5 y 6: El techo de Europa y el polvo de tarde
-- **Logística:** **40 min de teleférico** hasta Klein Matterhorn (3,883m). El ascenso al Breithorn dura unas **3-4h ida y vuelta**.
-- **Valor Diferencial:** El **Breithorn** es obligatorio por el hito de los 4,000m; es vuestro "Hang Va" alpino. Caminar encordados sobre el glaciar es una experiencia de equipo real. La tarde del día 6 en la cara norte asegura la mejor nieve polvo de primavera de toda Europa.
-
-<table>
-  <tr>
-    <td width="50%"><b>Glacier Paradise</b></td>
-    <td width="50%"><b>Sunnegga</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
-  </tr>
-</table>
+### Día 5 y 6: El techo de Europa
+- **Logística:** **40 min de teleférico**. Ascenso al Breithorn de **4h**.
+- **Valor Diferencial:** El **Breithorn** es vuestro hito de 4,000m. Caminar encordados sobre el glaciar es la experiencia de equipo definitiva. La tarde del día 6 en la cara norte asegura la mejor nieve de primavera de Europa.
 
 ### Día 7, 8 y 9: Vuelo térmico y el reset de lujo
-- **Logística:** **20 min de vuelo** biplaza. Día 8: cero traslados, relax total en el hotel.
-- **Valor Diferencial:** El **vuelo en parapente** desde Rothorn es necesario para ver la escala real de la cara norte del Matterhorn. El día 8 en el spa de **The Omnia** o **Riffelalp** es el valor diferencial del lujo suizo: recuperar los músculos frente al fuego antes del largo viaje de tren de regreso el domingo.
+- **Logística:** **20 min de vuelo**. Día 8: relax total.
+- **Valor Diferencial:** El **parapente** desde Rothorn es necesario para ver la cara norte del Matterhorn a la altura de los ojos. El spa final es el valor diferencial del lujo suizo para recuperar el cuerpo antes del regreso.
 
-<table>
-  <tr>
-    <td width="50%"><b>Parapente Térmico</b></td>
-    <td width="50%"><b>The Omnia Style</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/zermatt/village.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/zermatt/omnia.jpg" width="100%"></td>
-  </tr>
-</table>
+---
+
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Transporte (Half Fare Card):** Se elige sobre el Swiss Pass porque descuenta el 50% en los carísimos remontes de Zermatt, ahorrando +€100 por persona.
+- **Logística (Comer en Italia):** Justificado por el 40% de ahorro en restauración y la calidad gastronómica superior.
+- **Actividad (Breithorn):** Se prioriza para añadir un hito de montañismo técnico a un viaje de esquí comercial.
+
+---
+
+## 🗺️ Mapa Interactivo
+<div id="map" style="height: 400px;"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([45.97, 7.70], 11);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  var points = [
+    [46.23, 6.10], // 1. Ginebra (Aeropuerto)
+    [46.02, 7.74], // 2. Zermatt Village
+    [45.93, 7.71], // 3. Matterhorn Glacier Paradise
+    [45.93, 7.63], // 4. Breithorn
+    [45.92, 7.62], // 5. Cervinia (Italia)
+    [45.98, 7.78], // 6. Gornergrat
+    [46.02, 7.74]  // 7. Regreso Zermatt
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Ginebra');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Zermatt Village');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Glacier Paradise');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Breithorn (4,164m)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Cervinia (Italia)');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Gornergrat');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
+</script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No cruzar a Italia con viento fuerte (riesgo de cierre de remonte y taxi de €500). No esquiar fuera de pista sin guía (grietas glaciares).
-- **Logística:** Comprar la **Half Fare Card** (120 CHF). Se amortiza en el primer día.
-- **Equipo:** Crema solar categoría 50 (el reflejo del glaciar es brutal en marzo).
+- **Factor "Ni de Coña":** No cruzar a Italia con viento fuerte. No esquiar fuera de pista sin guía.
+- **Logística:** Comprar la **Half Fare Card**.
 
 ---
 

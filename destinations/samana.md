@@ -121,7 +121,7 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
 - **Valor Diferencial:** Última exploración de calas como Playa Bonita. Es el día de disfrutar de los últimos baños en aguas cristalinas antes del regreso.
 
 ### Día 9: El regreso
-- **Logística:** **3h de traslado privado** hasta SDQ. Vuelo de **8h 30m** a Madrid.
+- **Logística:** **3h de traslado privado** hasta el aeropuerto SDQ. Vuelo de **8h 30m** a Madrid.
 - **Valor Diferencial:** Cierre del ciclo. Salida con margen amplio para asegurar el vuelo directo sin estrés.
 
 ---
@@ -143,11 +143,32 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([19.29, -69.20], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Las Galeras');
-  L.circleMarker([19.31, -69.15], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Playa Frontón');
-  L.circleMarker([19.29, -69.24], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Playa Rincón / Caño Frío');
-  L.circleMarker([19.17, -69.28], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Cayo Levantado');
-  L.circleMarker([19.31, -69.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Las Terrenas');
+
+  var points = [
+    [18.43, -69.67], // 1. Aeropuerto SDQ (Estimado)
+    [19.29, -69.20], // 2. Las Galeras
+    [19.17, -69.28], // 3. Cayo Levantado
+    [19.31, -69.53], // 4. Las Terrenas
+    [18.43, -69.67]  // 5. Regreso SDQ
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Inicio: SDQ');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Las Galeras (Aventura)');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Cayo Levantado (Isla)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Las Terrenas (Cena)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Fin: SDQ');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---

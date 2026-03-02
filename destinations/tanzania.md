@@ -17,12 +17,10 @@
 
 ---
 
-## 🚀 Highlights de Actividades
-- **UNESCO World Heritage:** Parque Nacional Serengeti y Zona de Conservación Ngorongoro.
-- **UNESCO World Heritage:** Stone Town en Zanzíbar.
-- **The Great Migration:** Seguimiento de las manadas en la "Green Season".
-- **Trekking Empakaai:** Descenso a pie a un cráter virgen con rangers.
-- **Buceo Mnemba Atoll:** Visibilidad récord (hasta 60m) en abril.
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Temporada (Abril vs Julio):** Se elige **Abril** para evitar las multitudes y acceder a lodges de lujo a precio reducido, priorizando la exclusividad sobre el clima seco.
+- **Logística (Vuelo vs Ferry):** Se justifica el **vuelo interno a ZNZ** para evitar 6h de trayecto penoso por carretera y mar movido.
+- **Actividad (Empakaai vs Ngorongoro estándar):** Se prioriza el trekking a pie para añadir el componente físico que define vuestro estilo.
 
 ---
 
@@ -38,13 +36,16 @@
 | 02 Abr | 6 | Zanzíbar | Vuelo Interno (1.5h)| UNESCO Stone Town | Vuelo Seronera -> ZNZ. Paseo histórico. |
 | 03 Abr | 7 | Nungwi | Lancha (45m) | **Buceo Mnemba Atoll**| Visibilidad de cristal (hasta 60m). |
 | 04 Abr | 8 | Nungwi | Lancha | Buceo Leven Bank | Buceo técnico en corrientes. |
-| 05 Abr | 9 | Madrid | Transfer + Vuelo | Regreso | Salida con 4h de margen por tráfico. |
+| 05 Abr | 9 | Madrid | Transfer + Vuelo | Regreso | Salir con 4h de margen por tráfico. |
 
 ---
 
-## 🗺️ Estrategia por Fases
-- **Fase 1 (Safari de Lodo y Verde):** Aprovechar la exclusividad de la "temporada esmeralda". Alojamiento: **Ngorongoro Crater Lodge**.
-- **Fase 2 (Zanzíbar Cristalino):** El secreto de los buceadores: mar como un espejo tras cesar los monzones.
+## 🚀 Highlights de Actividades
+- **UNESCO World Heritage:** Parque Nacional Serengeti y Zona de Conservación Ngorongoro.
+- **UNESCO World Heritage:** Stone Town en Zanzíbar.
+- **The Great Migration:** Seguimiento de las manadas en la "Green Season".
+- **Trekking Empakaai:** Descenso a pie a un cráter virgen con rangers.
+- **Buceo Mnemba Atoll:** Visibilidad récord (hasta 60m) en abril.
 
 ---
 
@@ -92,7 +93,7 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selv�
 <table>
   <tr>
     <td width="50%"><b>Stone Town</b></td>
-    <td width="50%"><b>Nungwi Beach</b></td>
+    <td width="50%"><b>Zanzíbar Vibe</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
@@ -117,28 +118,51 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selv�
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Temporada (Abril vs Julio):** Se elige **Abril** para evitar las multitudes y acceder a lodges de lujo a precio reducido, priorizando la exclusividad sobre el clima seco.
-- **Logística (Vuelo vs Ferry):** Se justifica el **vuelo interno a ZNZ** para evitar 6h de trayecto por carretera y mar movido.
-- **Actividad (Empakaai vs Ngorongoro estándar):** Se prioriza el trekking a pie para añadir el componente físico que define vuestro estilo.
-
----
-
 ## 🗺️ Mapa Interactivo
 <div id="map" style="height: 400px;"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([-3.0, 37.0], 7);
+  var map = L.map('map').setView([-4.5, 37.5], 7);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([-3.37, 36.68], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Arusha');
-  L.circleMarker([-3.24, 35.48], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Ngorongoro (UNESCO)');
-  L.circleMarker([-2.33, 34.83], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Serengeti (UNESCO)');
-  L.circleMarker([-6.16, 39.20], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Stone Town (UNESCO)');
-  L.circleMarker([-5.72, 39.30], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Nungwi / Mnemba');
+
+  var points = [
+    [-3.37, 36.68], // 1. Arusha
+    [-3.85, 35.95], // 2. Tarangire
+    [-2.95, 35.82], // 3. Empakaai
+    [-2.33, 34.83], // 4. Serengeti
+    [-6.16, 39.20], // 5. Stone Town
+    [-5.72, 39.30], // 6. Nungwi / Mnemba
+    [-6.22, 39.22]  // 7. Regreso ZNZ
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Arusha');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Tarangire');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Empakaai (Trekking)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Serengeti (UNESCO)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Stone Town (UNESCO)');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Nungwi / Mnemba');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
+
+---
+
+## ⚠️ Check de Supervivencia (Agente)
+- **Factor "Ni de Coña":** No escatimar en el 4x4. No beber agua no embotellada.
+- **Salud:** Vacuna Fiebre Amarilla obligatoria. Malarone recomendado.
 
 ---
 

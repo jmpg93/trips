@@ -17,12 +17,10 @@
 
 ---
 
-## 🚀 Highlights de Actividades
-- **Biodiversidad Única:** Tortuguero y el desove de tortugas (según fechas).
-- **Rafting Río Pacuare:** Clase IV en uno de los ríos más bellos del mundo.
-- **Volcán Arenal:** Trekking por coladas de lava y aguas termales volcánicas.
-- **Monteverde:** Canopy y puentes colgantes sobre el bosque nuboso.
-- **Santa Teresa:** Surf y "hippy-luxe" vibe en el Pacífico.
+## ⚖️ Justificación de Decisiones (Lógica Atómica)
+- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** por el colapso masivo de Semana Santa. Se elige Santa Teresa por su vibe más joven y fluido para la aventura.
+- **Actividad (Pacuare vs Balsa):** Se prioriza **Pacuare** por su cañón virgen inaccesible por tierra, descartando el Balsa por ser demasiado comercial.
+- **Transporte (SUV 4x4 vs Sedán):** El **4x4 es obligatorio** para Nicoya debido al estado de las carreteras de tierra.
 
 ---
 
@@ -42,10 +40,12 @@
 
 ---
 
-## 🗺️ Estrategia por Fases
-- **Fase 1 (Selva y Volcanes):** Inmersión profunda en la biodiversidad. Alojamiento: **Nayara Tented Camp**.
-- **Fase 2 (Altura y Adrenalina):** Verticalidad en Monteverde y Pacuare.
-- **Fase 3 (Pura Vida):** Cierre exclusivo en Santa Teresa, lejos de las masas.
+## 🚀 Highlights de Actividades
+- **Biodiversidad Única:** Tortuguero y el desove de tortugas (según fechas).
+- **Rafting Río Pacuare:** Clase IV en uno de los ríos más bellos del mundo.
+- **Volcán Arenal:** Trekking por coladas de lava y aguas termales volcánicas.
+- **Monteverde:** Canopy y puentes colgantes sobre el bosque nuboso.
+- **Santa Teresa:** Surf y "hippy-luxe" vibe en el Pacífico.
 
 ---
 
@@ -57,7 +57,7 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: El Amazonas de Centroamérica (Tortuguero)
-- **Logística:** **3h de conducción** a La Pavona + **1h de lancha rápida** por los canales selváticos.
+- **Logística:** **3h de conducción** a La Pavona + **1h de lancha rápida**.
 - **Valor Diferencial:** **Tortuguero** es necesario por su aislamiento radical; no hay carreteras. El valor diferencial es recorrer los canales en kayak al amanecer, donde el sonido de la selva caribeña es el hito de inmersión total.
 
 <table>
@@ -111,13 +111,6 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 
 ---
 
-## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Santa Teresa vs Manuel Antonio):** Se ha **descartado Manuel Antonio** por el colapso masivo de Semana Santa. Se elige Santa Teresa por su fluidez para la aventura.
-- **Actividad (Pacuare vs Balsa):** Se prioriza **Pacuare** por su cañón virgen inaccesible por tierra.
-- **Transporte (SUV 4x4 vs Sedán):** El **4x4 es obligatorio** para Nicoya debido al estado de las carreteras de tierra.
-
----
-
 ## 🗺️ Mapa Interactivo
 <div id="map" style="height: 400px;"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -127,11 +120,35 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([10.54, -83.50], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Tortuguero');
-  L.circleMarker([10.47, -84.64], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Volcán Arenal');
-  L.circleMarker([9.93, -83.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Río Pacuare (Rafting)');
-  L.circleMarker([10.30, -84.81], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Monteverde');
-  L.circleMarker([9.64, -85.17], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Santa Teresa');
+
+  var points = [
+    [9.93, -84.08],  // 1. San José
+    [10.54, -83.50], // 2. Tortuguero
+    [10.47, -84.64], // 3. La Fortuna (Arenal)
+    [9.93, -83.53],  // 4. Río Pacuare
+    [10.30, -84.81], // 5. Monteverde
+    [9.64, -85.17],  // 6. Santa Teresa
+    [9.93, -84.08]   // 7. Regreso SJO
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. San José');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Tortuguero');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. La Fortuna (Arenal)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Río Pacuare (Rafting)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Monteverde');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Santa Teresa');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---

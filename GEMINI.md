@@ -16,7 +16,7 @@ Cada destino debe seguir este flujo estrictamente:
 6. **🔥 Hito de Aventura Real:** Actividad única de alto impacto.
 7. **📅 Hoja de Ruta Narrativa:** Detalle diario centrado en la experiencia (Logística y Valor Diferencial obligatorios).
 8. **⚖️ Justificación de Decisiones (Lógica Atómica):** Justificación de transportes, rutas y descartes DESPUÉS de la narrativa para dar contexto.
-9. **🗺️ Mapa Interactivo (Leaflet):** Bloque HTML con mapa Leaflet utilizando `L.circleMarker` (vectorial) para asegurar que los puntos carguen correctamente sin depender de imágenes externas.
+9. **🗺️ Mapa Interactivo (Leaflet):** Bloque HTML con mapa Leaflet utilizando `L.divIcon` para mostrar burbujas rojas numeradas visibles permanentemente, conectadas cronológicamente mediante `L.polyline` (estilo discontinuo) para visualizar la ruta.
 10. **🖼️ Layout de Imágenes:** Tablas HTML puras de 2 columnas con títulos.
 11. **⚠️ Check de Supervivencia:** Consejos "insider" y "Factor Ni de Coña".
 12. **✈️ Logística Crítica:** Enlaces directos.
