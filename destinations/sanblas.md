@@ -49,11 +49,26 @@
 ---
 
 ## 🔥 Hito de Aventura Real: Expedición a los Cayos Holandeses
-No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz de navegar en mar abierto. El hito es fondear en una barrera de coral que actúa como escudo frente al Atlántico, ofreciendo el agua más clara y la fauna marina más densa de todo el Caribe panameño, en un entorno de aislamiento absoluto.
+No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz de navegar en mar abierto. El hito es fondearlo en una barrera de coral que actúa como escudo frente al Atlántico, ofreciendo el agua más clara y la fauna marina más densa de todo el Caribe panameño, en un entorno de aislamiento absoluto.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
+
+### Día 1 y 2: El salto a la comarca y el zarpe
+- **Logística:** **3h de 4x4** por la cordillera (curvas extremas). Zarpe en **lancha rápida (30 min)** al velero.
+- **Valor Diferencial:** **Panamá Ciudad** es necesaria para entender el contraste; pasar de los rascacielos al aislamiento total de Guna Yala en pocas horas es el hito de desconexión. El zarpe al atardecer en los Cayos Limones marca el inicio del silencio digital.
+
+<table>
+  <tr>
+    <td width="50%"><b>Acceso en 4x4</b></td>
+    <td width="50%"><b>Vida a Bordo</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/sanblas/island.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/sanblas/boat.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 3 y 4: El Pecio de Coral y el Viento Alisio
 - **Logística:** **30 min de navegación** entre cayos. Día 4 incluye una travesía de **3h a vela**.
@@ -84,6 +99,10 @@ No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz
     <td><img src="../assets/destinations/sanblas/culture.jpg" width="100%"></td>
   </tr>
 </table>
+
+### Día 7, 8 y 9: La despedida de Chichime y el regreso
+- **Logística:** **3h de navegación** de regreso. Día 8: **3h de 4x4** de vuelta a PTY.
+- **Valor Diferencial:** **Isla Chichime** es necesaria por su vibe social; es el punto de encuentro de otros veleros, ofreciendo un cierre cultural antes de volver. El regreso a **Panamá Ciudad** permite una cena de despedida en el Casco Viejo, cerrando el ciclo entre lo colonial y lo indígena.
 
 ---
 

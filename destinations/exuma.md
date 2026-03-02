@@ -55,6 +55,21 @@ No es una excursión turística. Thunderball Grotto exige entrar buceando bajo l
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: Logística y el salto al corazón de los cayos
+- **Logística:** **9h de vuelo** MAD-NAS. Al día siguiente, **35 min de avioneta** ligera a Staniel Cay.
+- **Valor Diferencial:** **Nassau** es necesaria para la transición; el contraste entre la capital comercial y el aislamiento visual de los cayos es masivo. **Staniel Cay** es el valor diferencial: estar en el epicentro náutico del mundo, donde el ritmo lo marcan las mareas y no los relojes.
+
+<table>
+  <tr>
+    <td width="50%"><b>Llegada a Nassau</b></td>
+    <td width="50%"><b>Puerto de Staniel Cay</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/exuma/island.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/exuma/boat.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: La Cueva de Cristal y los Guardianes del Arrecife
 - **Logística:** **10 min en lancha rápida** desde Staniel Cay. El día 4 incluye una navegación de **45 min** hacia el norte.
 - **Valor Diferencial:** **Thunderball Grotto** es necesario por su valor cinematográfico y geológico; es una catedral natural iluminada por tragaluces. **Compass Cay** es el hito de adrenalina: nadar entre decenas de tiburones nodriza que patrullan los muelles y arrecifes, un encuentro táctico de gran impacto visual.
@@ -84,6 +99,10 @@ No es una excursión turística. Thunderball Grotto exige entrar buceando bajo l
     <td><img src="../assets/destinations/exuma/boat.jpg" width="100%"></td>
   </tr>
 </table>
+
+### Día 7, 8 y 9: Little Exuma y el cierre en Nassau
+- **Logística:** **45 min en lancha** hacia el sur. Día 8: **35 min de avioneta** de regreso.
+- **Valor Diferencial:** **Little Exuma** aporta el valor terrestre; cruzar el puente hacia el Trópico de Cáncer para disfrutar de playas salvajes. El regreso a **Nassau** permite cerrar el viaje con una cena boutique en la capital, procesando la intensidad visual de los cayos antes de volar a Madrid.
 
 ---
 
