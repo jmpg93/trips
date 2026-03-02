@@ -59,13 +59,58 @@ El buceo en Coiba es vuestro hito técnico; sus corrientes y la escala de sus ba
 - **Logística:** **30 min de taxi** desde PTY.
 - **Valor Diferencial:** El **Casco Viejo (UNESCO)** es necesario por su contraste; ver rascacielos del siglo XXI desde una calle colonial define la personalidad de Panamá. Es el hito cultural de bienvenida.
 
+<table>
+  <tr>
+    <td width="50%"><b>Casco Viejo UNESCO</b></td>
+    <td width="50%"><b>Skyline de Panamá</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/panama/casco.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/panama/canal.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 2 y 3: El archipiélago prohibido (San Blas)
 - **Logística:** **3h de 4x4** por selva + **30 min de lancha rápida** saltando olas.
 - **Valor Diferencial:** **Guna Yala** es obligatorio por su exclusividad cultural. El valor diferencial es dormir en una cabaña de paja sin luz gestionada por indígenas, algo imposible de replicar en otros destinos.
 
+<table>
+  <tr>
+    <td width="50%"><b>Islas San Blas</b></td>
+    <td width="50%"><b>Cultura Guna</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/panama/sanblas.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/panama/sanblas.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 4: El canal y el salto al Pacífico
+- **Logística:** **3h de 4x4** de regreso a la capital. Tarde de logística para el vuelo a David.
+- **Valor Diferencial:** El **Canal de Panamá** es necesario por su valor técnico e ingeniería. El valor diferencial es observar el paso de los Panamax desde las esclusas de Miraflores, un hito de escala industrial antes de volver a la naturaleza salvaje.
+
 ### Día 5 y 6: El santuario de pelágicos (Coiba)
 - **Logística:** **1h de vuelo** a David + **1.5h de lancha rápida** a mar abierto.
 - **Valor Diferencial:** **Isla Coiba (UNESCO)** es el hito de aventura real. El buceo técnico aquí es obligatorio por la densidad de fauna: es el único sitio de la región donde verás tiburones punta blanca en cada inmersión.
+
+<table>
+  <tr>
+    <td width="50%"><b>Buceo en Coiba</b></td>
+    <td width="50%"><b>Fauna Pelágica</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/panama/coiba.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/panama/coiba.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7 y 8: Exploración final y el Hub
+- **Logística:** Movimiento en lancha entre los islotes de Coiba. Día 8: regreso a PTY en vuelo de la tarde.
+- **Valor Diferencial:** La exploración del **Granito de Oro** es necesaria para ver la pureza de los arrecifes del Pacífico. El regreso a **Panamá City** permite una cena de autor en el Casco, cerrando el viaje con el lujo gastronómico del hub.
+
+### Día 9: El regreso logístico
+- **Logística:** **30 min de transfer** al aeropuerto PTY.
+- **Valor Diferencial:** Cierre del ciclo. Tiempo para procesar la dualidad Caribe/Pacífico antes del vuelo directo a Madrid.
 
 ---
 

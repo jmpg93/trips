@@ -60,6 +60,17 @@
 - **Logística:** **3.5h de tren SBB** desde Ginebra. El día 2, cruce esquiando a Italia vía **Plateau Rosa**.
 - **Valor Diferencial:** Zermatt es necesaria por su pureza. El valor diferencial es comer en **Cervinia** (Italia); es el único sitio de los Alpes donde puedes desayunar una fondue suiza y almorzar pasta italiana artesana bajando la misma montaña.
 
+<table>
+  <tr>
+    <td width="50%"><b>Zermatt Village</b></td>
+    <td width="50%"><b>Matterhorn Peak</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/village.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/matterhorn.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: Hierro, Hielo y Vértigo
 - **Logística:** **33 min en tren de cremallera**. El día 4, traslado corto a pie hasta Furi.
 - **Valor Diferencial:** **Gornergrat** ofrece la panorámica más icónica de los Alpes. El **Gorge Adventure** es el valor diferencial técnico: sentir el deshielo bajo tus pies mientras te cuelgas de una tirolina entre paredes heladas.
@@ -79,9 +90,31 @@
 - **Logística:** **40 min de teleférico**. Ascenso al Breithorn de **4h**.
 - **Valor Diferencial:** El **Breithorn** es vuestro hito de 4,000m. Caminar encordados sobre el glaciar es la experiencia de equipo definitiva. La tarde del día 6 en la cara norte asegura la mejor nieve de primavera de Europa.
 
+<table>
+  <tr>
+    <td width="50%"><b>Cumbre Breithorn</b></td>
+    <td width="50%"><b>Glaciar</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/ski.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 7, 8 y 9: Vuelo térmico y el reset de lujo
 - **Logística:** **20 min de vuelo**. Día 8: relax total.
 - **Valor Diferencial:** El **parapente** desde Rothorn es necesario para ver la cara norte del Matterhorn a la altura de los ojos. El spa final es el valor diferencial del lujo suizo para recuperar el cuerpo antes del regreso.
+
+<table>
+  <tr>
+    <td width="50%"><b>Hotel The Omnia</b></td>
+    <td width="50%"><b>Spa Alpino</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/zermatt/omnia.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/zermatt/omnia.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ---
 

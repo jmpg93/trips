@@ -55,6 +55,21 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
+### Día 1 y 2: El laberinto rojo y el Atlas
+- **Logística:** **20 min de transfer** al Riad. Día 2: **6h de conducción** técnica por el Tizi n'Tichka.
+- **Valor Diferencial:** **Marrakech** es necesaria por el impacto sensorial de Jemaa el-Fna. Cruzar el **Alto Atlas** aporta el valor geográfico; pasar de la ciudad a las montañas nevadas y luego al valle árido en un solo día es el hito de contraste térmico.
+
+<table>
+  <tr>
+    <td width="50%"><b>Medina de Marrakech</b></td>
+    <td width="50%"><b>Alto Atlas</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/marruecos/marrakech.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/marruecos/marrakech.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ### Día 3 y 4: El abrazo del Sáhara
 - **Logística:** **4h de 4x4** desde Dades. El día 4 es un raid de **5h** por el interior de las dunas.
 - **Valor Diferencial:** **Merzouga** es necesaria por la escala de sus dunas (Erg Chebbi). El valor diferencial es la navegación 4x4 pura; sentir la potencia del motor mientras escalas montañas de arena naranja. La noche bajo las estrellas es el hito de desconexión radical.
@@ -70,6 +85,10 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
   </tr>
 </table>
 
+### Día 5: Barro y Cine (Ait Ben Haddou)
+- **Logística:** **5h de 4x4** hacia el Oeste.
+- **Valor Diferencial:** **Ait Ben Haddou (UNESCO)** es necesaria por su arquitectura de adobe. El valor diferencial es caminar por el Ksar al amanecer, antes de que lleguen los buses, para sentir el silencio de una ciudad milenaria que parece un decorado eterno.
+
 ### Día 6 y 7: La brisa de Mogador (Essaouira)
 - **Logística:** **6h de traslado** cruzando el Atlas. El día 7 son **4h de quad** por la costa.
 - **Valor Diferencial:** **Essaouira (UNESCO)** es necesaria por su arquitectura blanca y azul y su historia pirata. El valor diferencial es el quad por las dunas que mueren en el mar; un paisaje que mezcla el desierto con el Atlántico salvaje.
@@ -84,6 +103,10 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
     <td><img src="../assets/destinations/marruecos/quads.jpg" width="100%"></td>
   </tr>
 </table>
+
+### Día 8 y 9: El regreso a la ciudad roja
+- **Logística:** **3h de conducción** rectilínea hacia Marrakech.
+- **Valor Diferencial:** El último día en Marrakech es necesario para el "debriefing" del viaje en un hammam tradicional. Es el valor diferencial del relax tras la intensidad del desierto y los quads, cerrando el viaje con la gastronomía de autor marroquí.
 
 ---
 

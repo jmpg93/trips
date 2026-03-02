@@ -8,21 +8,21 @@
 
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
-| Vuelos | €200 - €450 | Madrid - Ponta Delgada (PDL) - Vía Lisboa o Directo |
-| Transportes | €350 - €550 | Alquiler coche SUV + Vuelo interno a Pico (SATA) |
-| Alojamiento | €1,200 - €1,800 | Mix Eco-Design (Furnas) + Casas Piedra (Pico) |
-| Actividades | €600 - €900 | Canyoning + Subida al Pico + Ballenas |
-| Comida/Extras | €500 - €800 | Gastronomía local (Cozido) + Cenas nivel medio |
-| **Total** | **€2,850 - €4,500** | **Presupuesto por pareja / 9 días** |
+| Vuelos | €250 - €450 | Madrid - Ponta Delgada (PDL) |
+| Transportes | €300 - €500 | Alquiler coche SUV + Vuelo interno |
+| Alojamiento | €1,200 - €1,800 | Santa Barbara Eco-Beach + Furnas Boutique |
+| Actividades | €500 - €800 | Canyoning técnico + Avistamiento cetáceos |
+| Comida/Extras | €500 - €800 | Cozido das Furnas + Restaurantes locales |
+| **Total** | **€2,750 - €4,350** | **Presupuesto por pareja / 9 días** |
 
 ---
 
 ## 🚀 Highlights de Actividades
-- **UNESCO World Heritage:** Paisaje de los viñedos de la Isla de Pico.
-- **Canyoning Técnico:** Descenso de cascadas en bosques de laurisilva en São Miguel.
-- **Mt. Pico (2.351m):** Ascenso a la montaña más alta de Portugal.
-- **Termas de Furnas:** Baños en aguas calientes naturales en mitad de la selva.
-- **Avistamiento de Ballenas:** Salidas en zodiac rápida para ver cachalotes residentes.
+- **Hito de Aventura:** Canyoning técnico en la isla de São Jorge o Flores.
+- **Sete Cidades:** Trekking por el borde de la caldera volcánica (Laguna Verde y Azul).
+- **Termas Naturales:** Baños en Poça da Dona Beija y Caldeira Velha.
+- **Avistamiento de Ballenas:** Expedición en lancha rápida para avistamiento de cetáceos.
+- **Pico (Opcional):** Ascenso al punto más alto de Portugal (2,351m).
 
 ---
 
@@ -30,54 +30,86 @@
 
 | Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
 |:---:|:---:|:---|:---|:---|:---|
-| 28 Mar | 1 | Ponta Delgada | Vuelo (3h) | Arribo y Coche | Recogida coche SUV. Cena en el puerto. |
-| 29 Mar | 2 | Sete Cidades | Coche (30m) | Trekking Miradores | Vista de la Lagoa Azul y Verde (UNESCO Tentative). |
-| 30 Mar | 3 | Ribeira Grande | Coche (40m) | **Canyoning Técnico** | Hito Aventura: Saltos y rápeles en selva. |
-| 31 Mar | 4 | Furnas | Coche (30m) | Termas y Cozido | Baño nocturno en Poça da Dona Beija. |
-| 01 Abr | 5 | Isla de Pico | Vuelo (50m) | Salto a Pico | Vuelo SATA. Recogida SUV en PIX. |
-| 02 Abr | 6 | Mt. Pico | Trekking (8h) | **Subida al Pico** | Hito Aventura: 2.351m sobre el océano. |
-| 03 Abr | 7 | Lajes do Pico | Coche (25m) | Ballenas y UNESCO | Avistamiento fauna + Viñedos UNESCO. |
-| 04 Abr | 8 | Madalena | Coche | Costa Norte Pico | Atardecer en paisaje volcánico. |
-| 05 Abr | 9 | Madrid | Vuelo (3h) | Regreso | Vuelo Pico -> PDL -> Madrid. |
+| 28 Mar | 1 | Ponta Delgada | Vuelo (3h) | Llegada y Puerto | Recogida coche. Cena en puerto. |
+| 29 Mar | 2 | Sete Cidades | Coche (45m) | Trekking Calderas | Vista desde Vista do Rei. |
+| 30 Mar | 3 | Lagoa do Fogo | Coche (30m) | Trekking y Termas | Baño en Caldeira Velha. |
+| 31 Mar | 4 | Furnas | Coche (40m) | Geotermia | Cozido das Furnas. Baño nocturno. |
+| 01 Abr | 5 | São Jorge | Vuelo (50m) | Traslado Isla | Salto a la isla de las fajãs. |
+| 02 Abr | 6 | Fajãs S. Jorge | Coche / Pie | **Canyoning Técnico** | Descenso de cascadas al mar. |
+| 03 Abr | 7 | Fajãs S. Jorge | Pie | Trekking Fajãs | Inmersión en naturaleza pura. |
+| 04 Abr | 8 | Ponta Delgada | Vuelo (50m) | Regreso a S. Miguel | Últimas compras y cena final. |
+| 05 Abr | 9 | Madrid | Vuelo (3h) | Regreso | Devolución coche 3h antes. |
 
 ---
 
 ## 🗺️ Estrategia por Fases
-- **Fase 1 (São Miguel):** Inmersión en la geología más exuberante. Foco en el agua y el vapor. Alojamiento: **Octant Furnas**.
-- **Fase 2 (Isla de Pico):** El desafío físico. Foco en la roca desnuda, el volcán y la cultura del vino en piedra (UNESCO).
+- **Fase 1 (São Miguel):** Inmersión geotérmica y visual. Alojamiento boutique en **Furnas**.
+- **Fase 2 (São Jorge):** El reto técnico. Canyoning y aislamiento en las fajãs.
 
 ---
 
-## 🔥 Hito de Aventura Real: Canyoning y Subida al Pico
-Azores ofrece vuestro reto técnico europeo: rápeles de 30m en mitad de la selva atlántica y una ascensión vertical de 8 horas al Mt. Pico sobre roca volcánica suelta. No es senderismo, es expedición pura en soledad.
+## 🔥 Hito de Aventura Real: Canyoning en São Jorge
+São Jorge ofrece el canyoning más espectacular de Europa; descensos técnicos que terminan literalmente en el océano Atlántico. Es vuestro reto de aventura real para este viaje.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1 y 2: Lagos de leyenda y el borde del cráter
-- **Logística:** **30 min de coche** desde PDL. El trekking dura **4h**.
-- **Valor Diferencial:** **Sete Cidades** es necesaria por su escala visual masiva. Ver los dos lagos de colores diferentes desde el borde del volcán es el hito paisajístico que define la isla. El valor diferencial es el silencio del cráter al atardecer.
+### Día 1 y 2: El cráter esmeralda
+- **Logística:** **45 min de conducción** por carreteras de hortensias.
+- **Valor Diferencial:** **Sete Cidades** es necesaria por su escala visual masiva. El valor diferencial es el trekking por la cresta de la caldera, donde ves el azul y el verde en un entorno volcánico único.
 
-### Día 3 y 4: La fuerza del agua y el vapor
-- **Logística:** **40 min de coche** al punto de inicio. El canyoning dura **4h**.
-- **Valor Diferencial:** El **Canyoning** es obligatorio por ser de los mejores del mundo técnico. **Furnas** aporta el valor del "Cozido" bajo tierra y el baño termal nocturno, una experiencia geotérmica única que regenera el cuerpo tras el barranquismo.
+<table>
+  <tr>
+    <td width="50%"><b>Sete Cidades</b></td>
+    <td width="50%"><b>Costa Volcánica</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/azores/sete-cidades.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/azores/sete-cidades.jpg" width="100%"></td>
+  </tr>
+</table>
 
-### Día 5 y 6: El gigante del Atlántico
-- **Logística:** **50 min de vuelo** (SATA). El ascenso al Pico requiere **8h** de actividad física alta.
-- **Valor Diferencial:** **Mt. Pico** es el hito de aventura real. Estar por encima de las nubes en una isla en mitad del océano es una sensación de aislamiento brutal. Es una visita necesaria para todo aventurero técnico que pise Azores.
+### Día 3 y 4: El vapor de la tierra (Furnas)
+- **Logística:** **40 min de coche**. Movimiento lento entre calderas.
+- **Valor Diferencial:** **Furnas** es necesaria por la inmersión geotérmica. El valor diferencial es el baño nocturno en aguas ferrosas a 38°C bajo la lluvia atlántica, un hito de relax técnico.
 
-### Día 7, 8 y 9: Ballenas y el legado UNESCO
-- **Logística:** **25 min de coche** a Lajes. Salida en zodiac de **3h**.
-- **Valor Diferencial:** Azores es un santuario mundial de cetáceos. El valor diferencial es el avistamiento en **zodiacs**, añadiendo velocidad y cercanía. Los **Viñedos de Pico (UNESCO)** son necesarios por su ingenio: km de muros de piedra volcánica para proteger la uva, un paisaje cultural único.
+<table>
+  <tr>
+    <td width="50%"><b>Termas de Furnas</b></td>
+    <td width="50%"><b>Fumarolas</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/azores/furnas.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/azores/furnas.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 5 y 6: El verticalismo de São Jorge
+- **Logística:** **50 min de vuelo** inter-islas. El canyoning dura **5h** de actividad intensa.
+- **Valor Diferencial:** **São Jorge** es el valor diferencial de aventura. El canyoning aquí es obligatorio porque no existe otro lugar con esa configuración de cascadas que vierten directamente al mar.
+
+<table>
+  <tr>
+    <td width="50%"><b>Canyoning Técnico</b></td>
+    <td width="50%"><b>Fajãs de São Jorge</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/azores/canyoning.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/azores/canyoning.jpg" width="100%"></td>
+  </tr>
+</table>
+
+### Día 7, 8 y 9: El regreso a la capital
+- **Logística:** Trekking costero por las fajãs. Vuelo de regreso a PDL el día 8.
+- **Valor Diferencial:** Caminar por las **fajãs** es necesario para entender la geografía de aislamiento de las Azores. El cierre en Ponta Delgada aporta el valor gastronómico final del archipiélago.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Transporte (Coche vs Bus):** El coche SUV es vital para llegar a los inicios de los senderos de canyoning que el transporte público ignora totalmente.
-- **Ruta (São Miguel + Pico):** Se elige Pico descartando otras islas porque ofrece el hito físico más potente de Portugal y los **Viñedos UNESCO**.
-- **Logística (Vuelo Interno):** Se justifica el vuelo PDL-PIX para evitar 6h de ferry movido, maximizando el tiempo de trekking real.
-- **Utilidad:** Se ha eliminado cualquier tiempo en centros comerciales de Ponta Delgada para priorizar la estancia en las termas de Furnas.
+- **Ruta (S. Jorge vs Flores):** Se elige **São Jorge** por la logística de vuelos más fiable en marzo, asegurando el hito de canyoning sin riesgo de cancelaciones por niebla.
+- **Transporte (SUV):** Se justifica el **SUV** para los accesos a los inicios de los senderos en São Miguel, a menudo por pistas de tierra húmeda.
+- **Alojamiento:** Se prioriza el **Furnas Boutique** para asegurar el reset térmico tras las caminatas.
 
 ---
 
@@ -86,19 +118,16 @@ Azores ofrece vuestro reto técnico europeo: rápeles de 30m en mitad de la selv
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([38.0, -27.0], 7);
+  var map = L.map('map').setView([38.5, -28.0], 7);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
 
   var points = [
     [37.74, -25.67], // 1. Ponta Delgada
-    [37.85, -25.78], // 2. Sete Cidades
-    [37.77, -25.32], // 3. Furnas
-    [38.47, -28.40], // 4. Mt. Pico (Isla de Pico)
-    [38.40, -28.25], // 5. Lajes do Pico
-    [38.53, -28.53], // 6. Viñedos UNESCO
-    [37.74, -25.67]  // 7. Regreso PDL
+    [37.87, -25.78], // 2. Sete Cidades
+    [37.77, -25.31], // 3. Furnas
+    [38.68, -28.20]  // 4. São Jorge
   ];
 
   function createLabel(number, label) {
@@ -113,10 +142,8 @@ Azores ofrece vuestro reto técnico europeo: rápeles de 30m en mitad de la selv
 
   createLabel(1, points[0]).addTo(map).bindPopup('1. Ponta Delgada');
   createLabel(2, points[1]).addTo(map).bindPopup('2. Sete Cidades');
-  createLabel(3, points[2]).addTo(map).bindPopup('3. Furnas (Canyoning)');
-  createLabel(4, points[3]).addTo(map).bindPopup('4. Mt. Pico (Hito)');
-  createLabel(5, points[4]).addTo(map).bindPopup('5. Lajes do Pico (Ballenas)');
-  createLabel(6, points[5]).addTo(map).bindPopup('6. Viñedos UNESCO');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Furnas (Termas)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. São Jorge (Canyoning)');
 
   L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
@@ -124,11 +151,11 @@ Azores ofrece vuestro reto técnico europeo: rápeles de 30m en mitad de la selv
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No subir al Pico sin GPS o guía si hay nubes bajas; la visibilidad desaparece en segundos. 
-- **Equipo:** Botas Vibram real y chubasquero Gore-Tex innegociable.
+- **Factor "Ni de Coña":** No bañarse en el mar sin bandera verde (corrientes atlánticas traicioneras).
+- **Logística:** Reservar coche con 3 meses de antelación; el stock es limitado.
 
 ---
 
 ## ✈️ Logística Crítica
 - **Vuelos:** [✈️ Buscar MAD -> Ponta Delgada](https://www.skyscanner.es/transport/flights/mad/pdl/260328/260405/?adults=2&currency=EUR)
-- **Internos:** [✈️ SATA Air Açores](https://www.azoresairlines.pt/en)
+- **Canyoning:** [🧗 Azores Adventure Islands](https://www.azoresadventureislands.com/)
