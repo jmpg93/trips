@@ -97,15 +97,29 @@ Inmersión técnica en el *SS Frankenwald* o el doble pecio *Ferndale & Parat*. 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([61.0, 6.0], 6);
+  var map = L.map('map').setView([61.5, 6.5], 6);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([60.39, 5.32], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Bergen (UNESCO)');
-  L.circleMarker([60.97, 5.07], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Gulen (Buceo)');
-  L.circleMarker([60.86, 7.11], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Flåm (Tren)');
-  L.circleMarker([61.87, 6.85], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Loen (Skylift)');
-  L.circleMarker([62.23, 7.23], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Juvet Landscape');
+
+  var points = [
+    [60.39, 5.32], // 1. Bergen
+    [60.97, 5.07], // 2. Gulen
+    [60.86, 7.11], // 3. Flåm
+    [61.87, 6.85], // 4. Loen
+    [62.23, 7.23], // 5. Juvet
+    [62.47, 6.15], // 6. Ålesund
+    [60.39, 5.32]  // 7. Regreso Bergen
+  ];
+
+  L.circleMarker(points[0], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('1. Bergen (UNESCO)');
+  L.circleMarker(points[1], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('2. Gulen (Buceo)');
+  L.circleMarker(points[2], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('3. Flåm (Tren)');
+  L.circleMarker(points[3], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('4. Loen (Skylift)');
+  L.circleMarker(points[4], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('5. Juvet Landscape');
+  L.circleMarker(points[5], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('6. Ålesund');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---
