@@ -10,6 +10,7 @@
 | **Islandia** | 8 | 5 | 10 | 4h 30m | 4x4 | 6.400 € | **Top Visual:** Silfra + Ice Caves. Riesgo de viento extremo (Piggdekk obligatorio). |
 | **Marruecos**| 8 | 5 | 8 | 2h 00m | 4x4 + Quads | 3.800 € | **Eficiencia:** Raid 4x4 Sáhara y Quads Essaouira. El mejor ratio Aventura/Vuelo. |
 | **Providencia**| 8 | 7 | 8 | 13h 00m* | Mula (4x4) | 4.100 € | **Aislamiento:** 3ª barrera coralina y trekking El Pico. Sin infraestructura masiva. |
+| **Irlanda** | 7 | 6 | 9 | 2h 45m | SUV | 4.000 € | **Celta:** Expedición Skellig Michael (UNESCO) y Wild Atlantic Way. Clima inestable. |
 | **Exuma** | 7 | 8 | 10 | 9h 35m* | Lancha | 7.000 € | **Lujo Náutico:** Blue Holes y navegación privada. Presupuesto muy elevado. |
 | **Samaná** | 6 | 9 | 6 | 8h 30m | SUV / Transf.| 5.050 € | **Opc. Segura:** Buceo técnico en Cabo Cabrón. Máximo relax post-inmersión. |
 | **Tanzania** | 5 | 7 | 8 | 12h 00m | 4x4 Safari | 5.650 € | **Riesgo:** Safari + Zanzíbar. Penalizado por riesgo de lluvias en abril. |
@@ -33,6 +34,7 @@
 | [🛶 Panamá](destinations/panama.md) | Isla Salvaje y Kunas | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ✅ |
 | [🇬🇷 Creta](destinations/creta.md) | Montaña y Gorges | ✅ | ✅ | ✅ | ✅ | 🌿 | 🌿 | ☀️ | ☀️ | 🌿 | 🌿 | ✅ | ✅ |
 | [🇲🇦 Marruecos](destinations/marruecos.md) | Raid 4x4 y Costa | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ❌ | ❌ | ☀️ | ✅ | ✅ | ✅ |
+| [🇮🇪 Irlanda](destinations/irlanda.md) | Acantilados y Pubs | 🌧️ | 🌧️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ✅ | 🌧️ | 🌧️ |
 | [🇨🇴 Providencia](destinations/providencia.md)| Buceo y Aislamiento | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ☀️ |
 | [🇧🇸 Exuma](destinations/exuma.md) | Lujo y Navegación | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ☀️ |
 | [🇵🇦 San Blas](destinations/sanblas.md) | Velero y Desconexión | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ✅ |
