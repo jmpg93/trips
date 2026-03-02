@@ -22,22 +22,22 @@
 
 | Destino | Estilo | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [🌴 Samaná](destinations/samana.md) | Naturaleza y Relax | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | 🌀 | 🌀 | 🌧️ | ✅ |
-| [🇮🇸 Islandia](destinations/islandia.md) | 4x4 y Frío Épico | ❄️ | ❄️ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
-| [🦁 Tanzania](destinations/tanzania.md) | Safari y Playa | ✅ | ✅ | 🌧️ | 🌧️ | 🌧️ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
+| [🌴 Samaná](destinations/samana.md) | Naturaleza y Relax | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | ❌ | ❌ | 🌧️ | ✅ |
+| [🇮🇸 Islandia](destinations/islandia.md) | 4x4 y Frío Épico | ❌ | ❌ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❌ |
+| [🦁 Tanzania](destinations/tanzania.md) | Safari y Playa | ✅ | ✅ | 🌧️ | ❌ | ❌ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
 | [🇳🇴 Noruega](destinations/noruega.md) | Fiordos y Diseño | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
 | [🏔️ Zermatt](destinations/zermatt.md) | Esquí y Lujo | ⛷️ | ⛷️ | ⛷️ | ⛷️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | 🏔️ | ⛷️ | ⛷️ |
-| [🇨🇷 Costa Rica](destinations/costarica.md) | Pura Vida y Selva | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ☀️ |
-| [🇴🇲 Omán](destinations/oman.md) | Desierto y Wadis | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | ☀️ | ✅ | ✅ | ✅ |
-| [🌋 Azores](destinations/azores.md) | Canyoning y Termas | 🌧️ | 🌧️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ✅ | 🌧️ | 🌧️ |
-| [🛶 Panamá](destinations/panama.md) | Isla Salvaje y Kunas | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ✅ |
+| [🇨🇷 Costa Rica](destinations/costarica.md) | Pura Vida y Selva | ☀️ | ☀️ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ☀️ |
+| [🇴🇲 Omán](destinations/oman.md) | Desierto y Wadis | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ❌ | ❌ | ☀️ | ✅ | ✅ | ✅ |
+| [🌋 Azores](destinations/azores.md) | Canyoning y Termas | ❌ | ❌ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ✅ | 🌧️ | 🌧️ |
+| [🛶 Panamá](destinations/panama.md) | Isla Salvaje y Kunas | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ✅ |
 | [🇬🇷 Creta](destinations/creta.md) | Montaña y Gorges | ✅ | ✅ | ✅ | ✅ | 🌿 | 🌿 | ☀️ | ☀️ | 🌿 | 🌿 | ✅ | ✅ |
-| [🇲🇦 Marruecos](destinations/marruecos.md) | Raid 4x4 y Costa | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | ☀️ | ✅ | ✅ | ✅ |
-| [🇨🇴 Providencia](destinations/providencia.md)| Buceo y Aislamiento | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | 🌀 | 🌀 | 🌧️ | ☀️ |
-| [🇧🇸 Exuma](destinations/exuma.md) | Lujo y Navegación | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | 🌀 | 🌀 | 🌧️ | ☀️ |
-| [🇵🇦 San Blas](destinations/sanblas.md) | Velero y Desconexión | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ✅ |
+| [🇲🇦 Marruecos](destinations/marruecos.md) | Raid 4x4 y Costa | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ❌ | ❌ | ☀️ | ✅ | ✅ | ✅ |
+| [🇨🇴 Providencia](destinations/providencia.md)| Buceo y Aislamiento | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ☀️ |
+| [🇧🇸 Exuma](destinations/exuma.md) | Lujo y Navegación | ☀️ | ☀️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ☀️ |
+| [🇵🇦 San Blas](destinations/sanblas.md) | Velero y Desconexión | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | ❌ | ❌ | 🌧️ | ✅ |
 
-**Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
+**Refs:** ❌ No Recomendado | 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
 
 ---
 
