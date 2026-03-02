@@ -1,8 +1,24 @@
 # Control de Viajes
 
-## Matriz de Decisión Estratégica
-- [📊 Ver Comparativa Táctica (Semana Santa)](#-matriz-de-decisión-táctica)
-- [🚀 Ver Factibilidad Logística](#-factibilidad-logística)
+## 📊 Matriz de Evaluación Técnica (Semana Santa 2026)
+- [🚀 Ir a Tabla de Disponibilidad Estacional](#-disponibilidad-y-estilo-de-viaje)
+
+| Destino | Aventura | Visual | Vuelo (MAD) | Transporte | Presupuesto | Análisis Técnico y Estratégico |
+|:---|:---:|:---:|:---:|:---:|:---:|:---|
+| **Omán** | 10 | 10 | 10h 30m | 4x4 | 5.450 € | **Ganador Técnico:** Caving (Majlis al Jinn) y Snake Canyon. Clima perfecto. |
+| **San Blas** | 9 | 10 | 14h 00m* | 4x4 + Velero| 4.500 € | **Hito Salvaje:** Desconexión radical y navegación pura Guna. Logística compleja. |
+| **Islandia** | 8 | 10 | 4h 30m | 4x4 | 6.400 € | **Top Visual:** Silfra + Ice Caves. Riesgo de viento extremo (Piggdekk obligatorio). |
+| **Marruecos**| 8 | 8 | 2h 00m | 4x4 + Quads | 3.800 € | **Eficiencia:** Raid 4x4 Sáhara y Quads Essaouira. El mejor ratio Aventura/Vuelo. |
+| **Providencia**| 8 | 8 | 13h 00m* | Mula (4x4) | 4.100 € | **Aislamiento:** 3ª barrera coralina y trekking El Pico. Sin infraestructura masiva. |
+| **Exuma** | 7 | 10 | 9h 35m* | Lancha | 7.000 € | **Lujo Náutico:** Blue Holes y navegación privada. Presupuesto muy elevado. |
+| **Samaná** | 6 | 6 | 8h 30m | SUV / Transf.| 5.050 € | **Opc. Segura:** Buceo técnico en Cabo Cabrón. Menor reto físico/montaña. |
+| **Tanzania** | 5 | 8 | 12h 00m | 4x4 Safari | 5.650 € | **Riesgo:** Safari + Zanzíbar. Penalizado por riesgo de lluvias en abril. |
+
+\* *Incluye conexiones técnicas y saltos locales.*
+
+---
+
+## 🗓️ Disponibilidad y Estilo de Viaje
 
 | Destino | Estilo | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -22,36 +38,6 @@
 | [🇵🇦 San Blas](destinations/sanblas.md) | Velero y Desconexión | ✅ | ✅ | ✅ | ✅ | 🌧️ | 🌧️ | 🌿 | 🌿 | 🌧️ | 🌧️ | 🌧️ | ✅ |
 
 **Refs:** 🐋 Ballenas | ✅ OK | 🦁 Safari | ⛷️ Esquí | ☀️ Calor | 🌀 Huracanes | 🌧️ Lluvia | 🌿 Verano | 🍂 Auroras | ❄️ Nieve
-
----
-
-## ⚖️ Matriz de Decisión Táctica (Semana Santa 2026)
-
-Este bloque filtra los destinos bajo criterios de **Impacto Visual**, **Nivel de Aventura** y **Vibe del Viaje**, buscando siempre el equilibrio entre reto físico y exclusividad.
-
-| Destino | Potencial Aventura | Impacto Visual | Veredicto | Justificación Estratégica |
-|:---:|:---:|:---:|:---:|:---|
-| **Omán** | 🔥🔥🔥🔥🔥 | 🌌🌌🌌🌌🌌 | **GANADOR** | Caving técnico (Majlis al Jinn) y Snake Canyon. Impacto total. |
-| **San Blas** | 🔥🔥🔥🔥 | 🌌🌌🌌🌌🌌 | **Hito Salvaje**| Desconexión radical en velero y cultura Guna. Navegación pura. |
-| **Marruecos**| 🔥🔥🔥🔥 | 🌌🌌🌌🌌 | **Eficaz** | Raid 4x4 Merzouga + Quads Essaouira. Autonomía y desierto real. |
-| **Providencia**| 🔥🔥🔥🔥 | 🌌🌌🌌🌌 | **Aislado** | 3ª barrera coralina. Buceo y trekking "El Pico" en soledad. |
-| **Islandia** | 🔥🔥🔥🔥 | 🌌🌌🌌🌌🌌 | **TOP 2** | Silfra + Cuevas de Hielo. Visualmente imbatible, muy técnico. |
-| **Exuma** | 🔥🔥🔥 | 🌌🌌🌌🌌🌌 | **Lujo Náutico**| Blue Holes y navegación privada. El agua más pura, coste alto. |
-| **Samaná** | 🔥🔥🔥 | 🌌🌌🌌 | **Opc. Segura** | Buceo técnico y relax. Menos impacto de montaña/reto. |
-| **Tanzania** | 🔥🔥🔥 | 🌌🌌🌌🌌 | **Riesgo** | Safari + Zanzíbar. El riesgo de lluvia en abril penaliza. |
-
-## 🚀 Factibilidad Logística
-
-| Destino | Vuelo (MAD) | Transporte Local | Presupuesto (€) | Factor Crítico |
-|:---:|:---:|:---:|:---:|:---|
-| **Omán** | 10h 30m | 4x4 (Indispensable) | 5.450 € | Visibilidad Buceo |
-| **Marruecos**| 2h 00m | 4x4 + Quads | 3.800 € | Multitudes en Marrakech |
-| **San Blas** | 14h 00m* | 4x4 + Velero | 4.500 € | Cero señal móvil / Electrónica |
-| **Providencia**| 13h 00m* | Mula (4x4) | 4.100 € | Aislamiento y falta de cajeros |
-| **Exuma** | 9h 35m* | Lancha Rápida | 7.000 € | Coste de logística náutica |
-| **Islandia** | 4h 30m | 4x4 (Piggdekk) | 6.400 € | Viento extremo (arranca puertas) |
-
-\* *Incluye conexiones y saltos locales.*
 
 ---
 
