@@ -80,7 +80,7 @@ No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz
     <td width="50%"><b>Navegación a Vela</b></td>
   </tr>
   <tr>
-    <td><img src="../assets/destinations/sanblas/reef.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/sanblas/shipwreck.jpg" width="100%"></td>
     <td><img src="../assets/destinations/sanblas/boat.jpg" width="100%"></td>
   </tr>
 </table>
@@ -95,7 +95,7 @@ No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz
     <td width="50%"><b>Cultura Indígena</b></td>
   </tr>
   <tr>
-    <td><img src="../assets/destinations/sanblas/island.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/sanblas/holandeses.jpg" width="100%"></td>
     <td><img src="../assets/destinations/sanblas/culture.jpg" width="100%"></td>
   </tr>
 </table>

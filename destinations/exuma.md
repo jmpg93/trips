@@ -80,7 +80,7 @@ No es una excursión turística. Thunderball Grotto exige entrar buceando bajo l
     <td width="50%"><b>Tiburones Nodriza</b></td>
   </tr>
   <tr>
-    <td><img src="../assets/destinations/exuma/blue-hole.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/exuma/thunderball.jpg" width="100%"></td>
     <td><img src="../assets/destinations/exuma/sharks.jpg" width="100%"></td>
   </tr>
 </table>
@@ -92,11 +92,11 @@ No es una excursión turística. Thunderball Grotto exige entrar buceando bajo l
 <table>
   <tr>
     <td width="50%"><b>Bancos de Arena</b></td>
-    <td width="50%"><b>Navegación Privada</b></td>
+    <td width="50%"><b>Cerdos Nadadores</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/exuma/island.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/exuma/boat.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/exuma/pigs.jpg" width="100%"></td>
   </tr>
 </table>
 
