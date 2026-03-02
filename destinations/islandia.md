@@ -101,11 +101,11 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([64.25, -21.12]).addTo(map).bindPopup('Þingvellir (UNESCO) / Silfra');
-  L.marker([63.88, -22.44]).addTo(map).bindPopup('Blue Lagoon');
-  L.marker([63.41, -19.00]).addTo(map).bindPopup('Vík / Katla');
-  L.marker([64.04, -16.17]).addTo(map).bindPopup('Jökulsárlón');
-  L.marker([64.12, -21.81]).addTo(map).bindPopup('Reikiavik');
+  L.circleMarker([64.25, -21.12], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Þingvellir (UNESCO) / Silfra');
+  L.circleMarker([63.88, -22.44], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Blue Lagoon');
+  L.circleMarker([63.41, -19.00], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Vík / Katla');
+  L.circleMarker([64.04, -16.17], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Jökulsárlón');
+  L.circleMarker([64.12, -21.81], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Reikiavik');
 </script>
 
 ---

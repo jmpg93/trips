@@ -87,13 +87,13 @@ El Snake Canyon es vuestro hito de adrenalina técnica; una grieta en la roca qu
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([23.58, 58.40]).addTo(map).bindPopup('Mascate');
-  L.marker([22.84, 59.24]).addTo(map).bindPopup('Wadi Shab');
-  L.marker([22.40, 58.70]).addTo(map).bindPopup('Wahiba Sands');
-  L.marker([22.93, 57.53]).addTo(map).bindPopup('Nizwa');
-  L.marker([23.20, 57.26]).addTo(map).bindPopup('Jebel Shams');
-  L.marker([23.21, 57.43]).addTo(map).bindPopup('Snake Canyon');
-  L.marker([23.85, 58.08]).addTo(map).bindPopup('Dimaniyat Islands (UNESCO)');
+  L.circleMarker([23.58, 58.40], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Mascate');
+  L.circleMarker([22.84, 59.24], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Wadi Shab');
+  L.circleMarker([22.40, 58.70], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Wahiba Sands');
+  L.circleMarker([22.93, 57.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Nizwa');
+  L.circleMarker([23.20, 57.26], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Jebel Shams');
+  L.circleMarker([23.21, 57.43], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Snake Canyon');
+  L.circleMarker([23.85, 58.08], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Dimaniyat Islands (UNESCO)');
 </script>
 
 ---

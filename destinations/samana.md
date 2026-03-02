@@ -90,11 +90,11 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([19.29, -69.20]).addTo(map).bindPopup('Las Galeras');
-  L.marker([19.31, -69.15]).addTo(map).bindPopup('Playa Frontón');
-  L.marker([19.29, -69.24]).addTo(map).bindPopup('Playa Rincón / Caño Frío');
-  L.marker([19.17, -69.28]).addTo(map).bindPopup('Cayo Levantado');
-  L.marker([19.31, -69.53]).addTo(map).bindPopup('Las Terrenas');
+  L.circleMarker([19.29, -69.20], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Las Galeras');
+  L.circleMarker([19.31, -69.15], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Playa Frontón');
+  L.circleMarker([19.29, -69.24], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Playa Rincón / Caño Frío');
+  L.circleMarker([19.17, -69.28], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Cayo Levantado');
+  L.circleMarker([19.31, -69.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Las Terrenas');
 </script>
 
 ---

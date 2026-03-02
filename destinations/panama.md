@@ -86,9 +86,9 @@ El buceo en Coiba no es recreativo suave; sus corrientes y la escala de sus banc
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([8.98, -79.52]).addTo(map).bindPopup('Panamá City (UNESCO)');
-  L.marker([9.55, -78.95]).addTo(map).bindPopup('San Blas (Guna Yala)');
-  L.marker([7.43, -81.78]).addTo(map).bindPopup('Isla Coiba (UNESCO)');
+  L.circleMarker([8.98, -79.52], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Panamá City (UNESCO)');
+  L.circleMarker([9.55, -78.95], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('San Blas (Guna Yala)');
+  L.circleMarker([7.43, -81.78], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Isla Coiba (UNESCO)');
 </script>
 
 ---

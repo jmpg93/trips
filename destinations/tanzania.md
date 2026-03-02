@@ -86,11 +86,11 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selvÃ
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: 'Â© OpenStreetMap'
   }).addTo(map);
-  L.marker([-3.37, 36.68]).addTo(map).bindPopup('Arusha');
-  L.marker([-3.24, 35.48]).addTo(map).bindPopup('Ngorongoro (UNESCO)');
-  L.marker([-2.33, 34.83]).addTo(map).bindPopup('Serengeti (UNESCO)');
-  L.marker([-6.16, 39.20]).addTo(map).bindPopup('Stone Town (UNESCO)');
-  L.marker([-5.72, 39.30]).addTo(map).bindPopup('Nungwi / Mnemba');
+  L.circleMarker([-3.37, 36.68], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Arusha');
+  L.circleMarker([-3.24, 35.48], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Ngorongoro (UNESCO)');
+  L.circleMarker([-2.33, 34.83], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Serengeti (UNESCO)');
+  L.circleMarker([-6.16, 39.20], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Stone Town (UNESCO)');
+  L.circleMarker([-5.72, 39.30], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Nungwi / Mnemba');
 </script>
 
 ---

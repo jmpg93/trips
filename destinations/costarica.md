@@ -87,11 +87,11 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([10.54, -83.50]).addTo(map).bindPopup('Tortuguero');
-  L.marker([10.47, -84.64]).addTo(map).bindPopup('Volcán Arenal');
-  L.marker([9.93, -83.53]).addTo(map).bindPopup('Río Pacuare (Rafting)');
-  L.marker([10.30, -84.81]).addTo(map).bindPopup('Monteverde');
-  L.marker([9.64, -85.17]).addTo(map).bindPopup('Santa Teresa');
+  L.circleMarker([10.54, -83.50], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Tortuguero');
+  L.circleMarker([10.47, -84.64], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Volcán Arenal');
+  L.circleMarker([9.93, -83.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Río Pacuare (Rafting)');
+  L.circleMarker([10.30, -84.81], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Monteverde');
+  L.circleMarker([9.64, -85.17], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Santa Teresa');
 </script>
 
 ---

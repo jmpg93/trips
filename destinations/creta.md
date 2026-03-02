@@ -86,11 +86,11 @@ Ha Gorge es vuestro "Hang Va" mediterráneo: una falla tectónica tan estrecha q
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([35.51, 24.02]).addTo(map).bindPopup('Chania');
-  L.marker([35.22, 24.09]).addTo(map).bindPopup('Lefka Ori (Nieve)');
-  L.marker([35.20, 24.08]).addTo(map).bindPopup('Loutro (Inaccesible)');
-  L.marker([35.08, 25.83]).addTo(map).bindPopup('Ha Gorge (Hito)');
-  L.marker([35.37, 24.47]).addTo(map).bindPopup('Rethymno');
+  L.circleMarker([35.51, 24.02], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Chania');
+  L.circleMarker([35.22, 24.09], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Lefka Ori (Nieve)');
+  L.circleMarker([35.20, 24.08], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Loutro (Inaccesible)');
+  L.circleMarker([35.08, 25.83], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Ha Gorge (Hito)');
+  L.circleMarker([35.37, 24.47], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Rethymno');
 </script>
 
 ---

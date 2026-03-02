@@ -86,10 +86,10 @@ Azores ofrece vuestro reto técnico europeo: rápeles de 30m en mitad de la selv
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.marker([37.74, -25.67]).addTo(map).bindPopup('Ponta Delgada');
-  L.marker([37.77, -25.32]).addTo(map).bindPopup('Furnas (Termas)');
-  L.marker([38.47, -28.40]).addTo(map).bindPopup('Mt. Pico (Hito)');
-  L.marker([38.53, -28.53]).addTo(map).bindPopup('Viñedos Pico (UNESCO)');
+  L.circleMarker([37.74, -25.67], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Ponta Delgada');
+  L.circleMarker([37.77, -25.32], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Furnas (Termas)');
+  L.circleMarker([38.47, -28.40], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Mt. Pico (Hito)');
+  L.circleMarker([38.53, -28.53], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Viñedos Pico (UNESCO)');
 </script>
 
 ---
