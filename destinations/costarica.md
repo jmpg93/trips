@@ -67,7 +67,7 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
   </tr>
   <tr>
     <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/fauna.jpg" width="100%"></td>
   </tr>
 </table>
 
@@ -96,7 +96,7 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
     <td width="50%"><b>Bosque Nuboso</b></td>
   </tr>
   <tr>
-    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/hanging-bridges.jpg" width="100%"></td>
     <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
   </tr>
 </table>
@@ -104,6 +104,17 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 ### Día 7 y 8: El Pacífico salvaje (Santa Teresa)
 - **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**.
 - **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas que ofrecen un silencio que no existe en las zonas de resorts.
+
+<table>
+  <tr>
+    <td width="50%"><b>Playa Santa Teresa</b></td>
+    <td width="50%"><b>Sunset en el Pacífico</b></td>
+  </tr>
+  <tr>
+    <td><img src="../assets/destinations/costarica/santa-teresa.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/costarica/santa-teresa.jpg" width="100%"></td>
+  </tr>
+</table>
 
 ### Día 9: El regreso logístico
 - **Logística:** **5-6h de 4x4** de regreso a SJO.

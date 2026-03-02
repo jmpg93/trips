@@ -96,7 +96,7 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
   </tr>
   <tr>
     <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
+    <td><img src="../assets/destinations/islandia/diamond-beach.jpg" width="100%"></td>
   </tr>
 </table>
 
