@@ -1,22 +1,37 @@
-# 📊 Comparativa Estratégica: Semana Santa 2026
+# 📊 Matriz de Decisión Estratégica: Semana Santa 2026
 
-Esta comparativa evalúa los destinos basándose en el historial de viajes (Vietnam, Colombia, Indonesia) y el nivel de aventura requerido (tipo Hang Va).
+Este documento es una **matriz viva** diseñada para filtrar destinos mediante el "Filtro Hang Va": Aventura técnica, autonomía (4x4) e impacto visual.
 
-## 🥊 Tabla de Decisión Final
+## ⚖️ Matriz de Decisión (Filtro Aventura)
 
-| Destino | Nivel Aventura | Precio Est. | Vuelo | Factor Logístico | Veredicto | Justificación de Decisión |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| **Omán** | 🔥🔥🔥🔥🔥 | 5.450 € | 10h 30m | Excelente (4x4) | **GANADOR** | Combina caving técnico, cañones y desierto con clima perfecto. Máxima autonomía. |
-| **Islandia** | 🔥🔥🔥🔥 | 6.400 € | 4h 30m | Crítico (Viento) | **TOP 2** | Hitos únicos (Silfra/Ice Caves). Muy caro, pero visualmente imbatible. |
-| **Samaná** | 🔥🔥🔥 | 5.050 € | 8h 30m | Medio (Transfer) | **Opc. Segura** | Relax asegurado. El buceo en Cabo Cabrón es el único hito de nivel alto. |
-| **Zermatt** | 🔥🔥🔥 | 7.000 € | 2h 00m* | Excelente (Tren) | **Lujo/Esquí** | Si apetece nieve, es el mejor momento por altitud. Coste muy elevado. |
-| **Tanzania** | 🔥🔥🔥 | 5.650 € | 12h 00m | Riesgo (Lluvia) | **Apuesta** | El riesgo de lodo en safari compensa por los precios y la visibilidad de buceo. |
-| **Costa Rica**| 🔥🔥🔥 | 5.850 € | 11h 00m | Malo (Multitud) | **DESCARTADO** | El colapso por Semana Santa arruina la experiencia de naturaleza y fluidez. |
-| **Noruega** | 🔥🔥🔥 | 6.950 € | 3h 45m | Limitado (Nieve) | **DESCARTADO** | Demasiadas carreteras icónicas cerradas. Solo recomendado por el buceo en Gulen. |
+| Destino | Nivel Aventura | Puntuación "Hang Va" | Veredicto | Justificación Estratégica |
+|:---:|:---:|:---:|:---:|:---|
+| **Omán** | 🔥🔥🔥🔥🔥 | 10/10 | **GANADOR** | Caving técnico (Majlis al Jinn) y Snake Canyon. Es el hito más puro. |
+| **Marruecos**| 🔥🔥🔥🔥 | 9/10 | **NUEVO TOP** | Raid 4x4 Merzouga + Quads Essaouira. Autonomía total y desierto real. |
+| **Islandia** | 🔥🔥🔥🔥 | 8/10 | **TOP 2** | Silfra (UNESCO) + Cuevas de Hielo. Visualmente imbatible, muy técnico. |
+| **Samaná** | 🔥🔥🔥 | 6/10 | **Opc. Segura** | Buceo en Cabo Cabrón (Técnico) + Relax. Falta el "punch" de montaña. |
+| **Zermatt** | 🔥🔥🔥 | 5/10 | **Lujo/Esquí** | Prioriza nieve y Matterhorn. Aventura controlada en entorno de lujo. |
+| **Tanzania** | 🔥🔥🔥 | 5/10 | **Riesgo** | Safari + Zanzíbar. El riesgo de lluvia en abril penaliza la logística. |
+| **Costa Rica**| 🔥🔥🔥 | 4/10 | **DESCARTADO**| Colapso por Semana Santa. Pierde la esencia de "selva virgen". |
+| **Noruega** | 🔥🔥🔥 | 3/10 | **DESCARTADO**| Carreteras cerradas por nieve. Solo para buceo técnico en Gulen. |
 
-\* *Tiempo de vuelo a Ginebra (GVA); requiere 3h 30m adicionales de tren SBB hasta Zermatt.*
+## 🚀 Factibilidad Logística (Living Data)
+
+| Destino | Vuelo (MAD) | Transporte Local | Presupuesto (€) | Factor Crítico |
+|:---:|:---:|:---:|:---:|:---|
+| **Omán** | 10h 30m | 4x4 (Indispensable) | 5.450 € | Visibilidad Buceo (Marzo-Abril) |
+| **Marruecos**| 2h 00m | 4x4 + Quads | 3.800 € | Gestión de Multitudes en Marrakech |
+| **Islandia** | 4h 30m | 4x4 (Piggdekk) | 6.400 € | Viento (Arranca puertas de coches) |
+| **Samaná** | 8h 30m | SUV / Transfer | 5.050 € | Estado de pistas en Playa Frontón |
+| **Zermatt** | 5h 30m* | Tren (SBB) | 7.000 € | Acceso prohibido a coches térmicos |
+| **Tanzania** | 12h 00m | 4x4 Safari | 5.650 € | Lluvia y lodo en parques nacionales |
+
+\* *Incluye vuelo a GVA + transferencia en tren.*
 
 ## 🎯 Recomendación del Agente
-Si buscas algo al nivel de **Hang Va (Vietnam)**, tu destino es **Omán**. El sistema de Snake Canyon y el rápel de Majlis al Jinn son experiencias de "una vez en la vida" que encajan con vuestra progresión como viajeros y buceadores.
+Si buscas **impacto técnico máximo** (Caving/Cañones), **Omán** sigue siendo el rey. 
 
-Si prefieres priorizar el **buceo técnico y el paisaje dramático** sin importar el frío, **Islandia** es la alternativa.
+Sin embargo, **Marruecos** se posiciona como la opción más **eficiente y equilibrada**: vuelo corto, presupuesto ajustado y una dosis de aventura real muy alta con el raid 4x4 en el Sáhara y los quads en Essaouira. Es vuestra mejor alternativa si preferís menos horas de avión y más horas de actividad.
+
+---
+*Este documento se actualiza automáticamente con cada nuevo destino añadido.*
