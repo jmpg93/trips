@@ -61,16 +61,7 @@ El Snake Canyon es vuestro hito de adrenalina técnica; una grieta en la roca qu
 - **Logística:** **1.5h de 4x4** desde Mascate hasta Wadi Shab. El nado en el wadi dura unos **40 min**.
 - **Valor Diferencial:** **Mascate** es vital por el contraste cultural. **Wadi Shab** es obligatorio por el final técnico: atravesar una grieta en el agua para entrar en la bóveda de la cascada, una experiencia de inmersión geológica única en Arabia.
 
-<table>
-  <tr>
-    <td width="50%"><b>Mascate / Mutrah</b></td>
-    <td width="50%"><b>Wadi Shab</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/muscat.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/wadi-shab.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El océano de arena roja y blanca
 - **Logística:** **2h de conducción** bajando presión. Día 4: travesía profunda de **4h** hacia la costa.
@@ -80,16 +71,7 @@ El Snake Canyon es vuestro hito de adrenalina técnica; una grieta en la roca qu
 - **Logística:** **3h de subida** técnica en 4x4. La Via Ferrata requiere **4h** de esfuerzo.
 - **Valor Diferencial:** El **Fuerte de Bahla (UNESCO)** es necesario por su carga histórica masiva. El **Balcony Walk** en Jebel Shams es el hito visual; caminar colgado de un abismo de 1000m es la experiencia de montaña definitiva. La **Via Ferrata** final añade el componente técnico necesario para vuestro perfil.
 
-<table>
-  <tr>
-    <td width="50%"><b>Jebel Shams</b></td>
-    <td width="50%"><b>Vistas Cañón</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/jebel-shams.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7 y 8: El Snake Canyon y el Reset de Altura
 - **Logística:** **2h de pista 4x4** hasta Wadi Bani Awf. Canyoning de **5h**. Día 8: **1.5h** al hotel Alila.
@@ -99,16 +81,7 @@ El Snake Canyon es vuestro hito de adrenalina técnica; una grieta en la roca qu
 - **Logística:** **2.5h de descenso** + **45 min de lancha rápida** a las islas.
 - **Valor Diferencial:** Las **Islas Dimaniyat (UNESCO)** son necesarias por vuestro perfil de buceadores. Es una reserva donde los corales están intactos y la visibilidad es de cristal. Es el cierre de relax técnico antes del vuelo de regreso el día 10.
 
-<table>
-  <tr>
-    <td width="50%"><b>Snake Canyon</b></td>
-    <td width="50%"><b>Buceo Dimaniyat</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/oman/wadi-shab.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/oman/diving.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ---
 

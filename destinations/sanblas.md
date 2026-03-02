@@ -59,46 +59,19 @@ No es un tour de un día. Llegar a los Cayos Holandeses requiere un velero capaz
 - **Logística:** **3h de 4x4** por la cordillera (curvas extremas). Zarpe en **lancha rápida (30 min)** al velero.
 - **Valor Diferencial:** **Panamá Ciudad** es necesaria para entender el contraste; pasar de los rascacielos al aislamiento total de Guna Yala en pocas horas es el hito de desconexión. El zarpe al atardecer en los Cayos Limones marca el inicio del silencio digital.
 
-<table>
-  <tr>
-    <td width="50%"><b>Acceso en 4x4</b></td>
-    <td width="50%"><b>Vida a Bordo</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/sanblas/island.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/sanblas/boat.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El Pecio de Coral y el Viento Alisio
 - **Logística:** **30 min de navegación** entre cayos. Día 4 incluye una travesía de **3h a vela**.
 - **Valor Diferencial:** **Isla Perro** es necesaria por su hito visual: un barco hundido a solo 2 metros de profundidad. El valor diferencial es la sensación de navegar entre 365 islas; es una aventura de geografía líquida donde cada hora el paisaje cambia por completo.
 
-<table>
-  <tr>
-    <td width="50%"><b>Pecio de Isla Perro</b></td>
-    <td width="50%"><b>Navegación a Vela</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/sanblas/shipwreck.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/sanblas/boat.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: El Paraíso Olvidado (Cayos Holandeses)
 - **Logística:** **4h de navegación** técnica fuera del canal principal.
 - **Valor Diferencial:** Los **Cayos Holandeses** son el valor diferencial de San Blas; la mayoría de los turistas nunca llegan aquí. El hito es la soledad radical y la pureza del ecosistema. Dormir fondeados en mitad de la nada, con el sonido del oleaje rompiendo en la barrera lejana, es la experiencia de "isla desierta" definitiva.
 
-<table>
-  <tr>
-    <td width="50%"><b>Cayos Holandeses</b></td>
-    <td width="50%"><b>Cultura Indígena</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/sanblas/holandeses.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/sanblas/culture.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: La despedida de Chichime y el regreso
 - **Logística:** **3h de navegación** de regreso. Día 8: **3h de 4x4** de vuelta a PTY.

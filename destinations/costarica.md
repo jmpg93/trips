@@ -60,61 +60,25 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 - **Logística:** **3h de conducción** a La Pavona + **1h de lancha rápida**.
 - **Valor Diferencial:** **Tortuguero** es necesario por su aislamiento radical; no hay carreteras. El valor diferencial es recorrer los canales en kayak al amanecer, donde el sonido de la selva caribeña es el hito de inmersión total.
 
-<table>
-  <tr>
-    <td width="50%"><b>Canales de Tortuguero</b></td>
-    <td width="50%"><b>Fauna Salvaje</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/costarica/tortuguero.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/fauna.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El Pacuare y el Coloso (La Fortuna)
 - **Logística:** Traslados en 4x4. El rafting del día 4 dura **5h** de acción pura.
 - **Valor Diferencial:** **Arenal** es el hito geológico. El **Pacuare** es obligatorio por ser vuestro hito de adrenalina; sus paredes de roca de 100m con cascadas cayendo al río lo hacen visualmente imbatible frente a cualquier otro río del país.
 
-<table>
-  <tr>
-    <td width="50%"><b>Volcán Arenal</b></td>
-    <td width="50%"><b>Rafting Pacuare</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/costarica/arenal.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/pacuare.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: El dosel del mundo (Monteverde)
 - **Logística:** **3.5h de 4x4** por pistas de lastre.
 - **Valor Diferencial:** **Monteverde** aporta la perspectiva vertical. El valor diferencial es caminar sobre puentes colgantes a 50m de altura, un ecosistema místico que contrasta con el calor de la costa.
 
-<table>
-  <tr>
-    <td width="50%"><b>Puentes Colgantes</b></td>
-    <td width="50%"><b>Bosque Nuboso</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/monteverde.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: El Pacífico salvaje (Santa Teresa)
 - **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**. Día 9: **5h de conducción** de regreso a SJO.
 - **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas. El regreso a San José marca el cierre de un ciclo de inmersión total en la "Pura Vida".
 
-<table>
-  <tr>
-    <td width="50%"><b>Playa Santa Teresa</b></td>
-    <td width="50%"><b>Sunset en el Pacífico</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/costarica/santa-teresa.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/costarica/santa-teresa.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ---
 

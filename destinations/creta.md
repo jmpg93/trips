@@ -59,46 +59,19 @@ Ha Gorge es vuestro "Hang Va" mediterráneo: una falla tectónica tan estrecha q
 - **Logística:** **20 min de taxi** al puerto. Día 2: **1.5h de 4x4** para subir a la meseta.
 - **Valor Diferencial:** Chania es necesaria para el contraste histórico. Las **Lefka Ori** en marzo son el valor diferencial: ver nieve profunda a pocos km del mar azul, cruzando dolinas kársticas en soledad total. Es el hito visual de contraste.
 
-<table>
-  <tr>
-    <td width="50%"><b>Puerto de Chania</b></td>
-    <td width="50%"><b>Nieve en Lefka Ori</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/creta/chania.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/creta/mountains.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: Abismos y lanchas rápidas
 - **Logística:** **3h de trekking** técnico en Aradena. Día 4: lancha rápida privada (**15 min**).
 - **Valor Diferencial:** **Aradena** es necesaria por su verticalidad extrema. **Loutro** aporta el valor de la inaccesibilidad; un pueblo donde el tiempo se detuvo porque nunca llegó la carretera.
 
-<table>
-  <tr>
-    <td width="50%"><b>Cañón de Aradena</b></td>
-    <td width="50%"><b>Costa de Loutro</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/creta/gorge.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/creta/beach.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: Raid Asterousia y el Desafío Ha
 - **Logística:** **5h de conducción técnica** off-road. Día 6: **7h de actividad técnica** en cañón.
 - **Valor Diferencial:** Las **Asterousia** son el valor diferencial de la Creta más remota. **Ha Gorge** es el hito del viaje: no hay otro cañón en Europa con esa configuración tectónica y nivel de compromiso técnico.
 
-<table>
-  <tr>
-    <td width="50%"><b>Ruta Asterousia</b></td>
-    <td width="50%"><b>Tajo de Ha Gorge</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/creta/mountains.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/creta/gorge.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ---
 

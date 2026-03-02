@@ -59,46 +59,19 @@ Inmersión técnica en el *SS Frankenwald* o el doble pecio *Ferndale & Parat*. 
 - **Logística:** **3h 45m de vuelo** MAD-BGO. Traslado de **2.5h en coche** hacia el norte por la E39.
 - **Valor Diferencial:** **Bergen** es necesaria por **Bryggen (UNESCO)**; las casas de madera del siglo XIV son el hito histórico. **Gulen** es obligatorio porque ofrece el buceo técnico más puro de Noruega, lejos de las rutas turísticas.
 
-<table>
-  <tr>
-    <td width="50%"><b>Bryggen (UNESCO)</b></td>
-    <td width="50%"><b>Costa de Gulen</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/noruega/bergen.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/noruega/diving.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El abismo de hierro y el tren de los sueños
 - **Logística:** **30 min en bote** a los puntos de buceo. Día 4: **3h de conducción** por túneles kilométricos.
 - **Valor Diferencial:** Bucear en pecios de la II GM con visibilidad infinita es vuestro reto técnico. El **Tren de Flåm** y el **Nærøyfjord (UNESCO)** son necesarios por su escala visual masiva; el fiordo es tan estrecho que parece cerrarse sobre el barco.
 
-<table>
-  <tr>
-    <td width="50%"><b>Buceo en Pecios</b></td>
-    <td width="50%"><b>Tren de Flåm</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/noruega/diving.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/noruega/flam.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: Vértigo en Loen y arquitectura en Juvet
 - **Logística:** **4h de coche** hacia el Nordfjord. El Skylift sube en **5 min**. Día 6: **3h** por la Ruta Nacional Turística.
 - **Valor Diferencial:** **Loen** es necesario por el Skylift; estar a 1000m sobre el fiordo con raquetas de nieve es el hito de adrenalina visual. **Juvet Landscape Hotel** es el valor diferencial del lujo: dormir en una caja de cristal donde la pared es el bosque vivo.
 
-<table>
-  <tr>
-    <td width="50%"><b>Loen Skylift</b></td>
-    <td width="50%"><b>Juvet Landscape</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/noruega/loen.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/noruega/juvet.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: La ciudad del fuego y el largo regreso
 - **Logística:** **2h de conducción** hasta Ålesund. Día 8: **6h de coche** Bergen.

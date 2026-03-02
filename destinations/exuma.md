@@ -59,46 +59,19 @@ No es una excursión turística. Thunderball Grotto exige entrar buceando bajo l
 - **Logística:** **9h de vuelo** MAD-NAS. Al día siguiente, **35 min de avioneta** ligera a Staniel Cay.
 - **Valor Diferencial:** **Nassau** es necesaria para la transición; el contraste entre la capital comercial y el aislamiento visual de los cayos es masivo. **Staniel Cay** es el valor diferencial: estar en el epicentro náutico del mundo, donde el ritmo lo marcan las mareas y no los relojes.
 
-<table>
-  <tr>
-    <td width="50%"><b>Llegada a Nassau</b></td>
-    <td width="50%"><b>Puerto de Staniel Cay</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/exuma/island.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/exuma/boat.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: La Cueva de Cristal y los Guardianes del Arrecife
 - **Logística:** **10 min en lancha rápida** desde Staniel Cay. El día 4 incluye una navegación de **45 min** hacia el norte.
 - **Valor Diferencial:** **Thunderball Grotto** es necesario por su valor cinematográfico y geológico; es una catedral natural iluminada por tragaluces. **Compass Cay** es el hito de adrenalina: nadar entre decenas de tiburones nodriza que patrullan los muelles y arrecifes, un encuentro táctico de gran impacto visual.
 
-<table>
-  <tr>
-    <td width="50%"><b>Thunderball Grotto</b></td>
-    <td width="50%"><b>Tiburones Nodriza</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/exuma/thunderball.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/exuma/sharks.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: Navegación de Élite y Agujeros Azules
 - **Logística:** Día 5: **Ruta de lancha de 6h** recorriendo 50 cayos. Día 6: **Buceo guiado** en el Mystery Blue Hole.
 - **Valor Diferencial:** La navegación por los **365 cayos** es necesaria para entender la escala del archipiélago. El valor diferencial es el acceso a bancos de arena privados (Sandbars) que solo aparecen con marea baja. Los **Blue Holes** locales aportan el hito técnico; son inmersiones oscuras y místicas que contrastan con el azul neón de la superficie.
 
-<table>
-  <tr>
-    <td width="50%"><b>Bancos de Arena</b></td>
-    <td width="50%"><b>Cerdos Nadadores</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/exuma/island.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/exuma/pigs.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: Little Exuma y el cierre en Nassau
 - **Logística:** **45 min en lancha** hacia el sur. Día 8: **35 min de avioneta** de regreso.

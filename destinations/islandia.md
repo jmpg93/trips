@@ -59,46 +59,19 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 - **Logística:** **20 min en 4x4** desde el aeropuerto. Día 2: **45 min** de Reikiavik a Þingvellir.
 - **Valor Diferencial:** **Blue Lagoon** es vital para aclimatar el cuerpo al choque térmico. **Silfra** (UNESCO) es el hito técnico más potente de Europa; es el único lugar donde puedes tocar dos continentes bajo el agua con visibilidad de cristal. Es una inmersión geológica pura.
 
-<table>
-  <tr>
-    <td width="50%"><b>Fisura de Silfra</b></td>
-    <td width="50%"><b>Geysir / Gullfoss</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/silfra.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/geysir.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El rugido del agua y la cueva volcánica
 - **Logística:** **2h de conducción** por la Route 1. Día 4: **45 min en Super Jeep** al interior del glaciar.
 - **Valor Diferencial:** **Skógafoss** ofrece la escala de poder del agua. La **Cueva de Katla** es necesaria por su valor visual: hielo mezclado con ceniza negra de erupciones históricas, un vibe dramático muy diferente a las cuevas azules estándar.
 
-<table>
-  <tr>
-    <td width="50%"><b>Skógafoss</b></td>
-    <td width="50%"><b>Auroras Boreales</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/skogafoss.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/northern-lights.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: El reino del hielo cristalino
 - **Logística:** **2.5h de coche** hacia el Este. El día 6 requiere **3h de actividad física** intensa con crampones.
 - **Valor Diferencial:** **Jökulsárlón** es el hito visual del viaje; icebergs del tamaño de camiones flotando hacia el mar. El trekking en **Falljökull** es necesario para vivir la escala real del glaciar y sus grietas milenarias, un reto físico que recompensa con paisajes de otro mundo.
 
-<table>
-  <tr>
-    <td width="50%"><b>Laguna Glaciar</b></td>
-    <td width="50%"><b>Diamond Beach</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/islandia/glacier-lagoon.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/islandia/diamond-beach.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: El ritual del Sky Lagoon y el Harpa
 - **Logística:** **4h de conducción** de regreso al Oeste. Día 8: movimiento a pie por el centro de Reikiavik.

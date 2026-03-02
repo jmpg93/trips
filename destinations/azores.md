@@ -59,46 +59,19 @@ São Jorge ofrece el canyoning más espectacular de Europa; descensos técnicos 
 - **Logística:** **45 min de conducción** por carreteras de hortensias.
 - **Valor Diferencial:** **Sete Cidades** es necesaria por su escala visual masiva. El valor diferencial es el trekking por la cresta de la caldera, donde ves el azul y el verde en un entorno volcánico único.
 
-<table>
-  <tr>
-    <td width="50%"><b>Sete Cidades</b></td>
-    <td width="50%"><b>Costa Volcánica</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/azores/sete-cidades.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/azores/sete-cidades.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El vapor de la tierra (Furnas)
 - **Logística:** **40 min de coche**. Movimiento lento entre calderas.
 - **Valor Diferencial:** **Furnas** es necesaria por la inmersión geotérmica. El valor diferencial es el baño nocturno en aguas ferrosas a 38°C bajo la lluvia atlántica, un hito de relax técnico.
 
-<table>
-  <tr>
-    <td width="50%"><b>Termas de Furnas</b></td>
-    <td width="50%"><b>Fumarolas</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/azores/furnas.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/azores/furnas.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: El verticalismo de São Jorge
 - **Logística:** **50 min de vuelo** inter-islas. El canyoning dura **5h** de actividad intensa.
 - **Valor Diferencial:** **São Jorge** es el valor diferencial de aventura. El canyoning aquí es obligatorio porque no existe otro lugar con esa configuración de cascadas que vierten directamente al mar.
 
-<table>
-  <tr>
-    <td width="50%"><b>Canyoning Técnico</b></td>
-    <td width="50%"><b>Fajãs de São Jorge</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/azores/canyoning.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/azores/canyoning.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: El regreso a la capital
 - **Logística:** Trekking costero por las fajãs. Vuelo de regreso a PDL el día 8.

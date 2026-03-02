@@ -59,31 +59,13 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
 - **Logística:** **20 min de transfer** al Riad. Día 2: **6h de conducción** técnica por el Tizi n'Tichka.
 - **Valor Diferencial:** **Marrakech** es necesaria por el impacto sensorial de Jemaa el-Fna. Cruzar el **Alto Atlas** aporta el valor geográfico; pasar de la ciudad a las montañas nevadas y luego al valle árido en un solo día es el hito de contraste térmico.
 
-<table>
-  <tr>
-    <td width="50%"><b>Medina de Marrakech</b></td>
-    <td width="50%"><b>Alto Atlas</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/marruecos/marrakech.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/marruecos/marrakech.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: El abrazo del Sáhara
 - **Logística:** **4h de 4x4** desde Dades. El día 4 es un raid de **5h** por el interior de las dunas.
 - **Valor Diferencial:** **Merzouga** es necesaria por la escala de sus dunas (Erg Chebbi). El valor diferencial es la navegación 4x4 pura; sentir la potencia del motor mientras escalas montañas de arena naranja. La noche bajo las estrellas es el hito de desconexión radical.
 
-<table>
-  <tr>
-    <td width="50%"><b>Dunas de Merzouga</b></td>
-    <td width="50%"><b>Raid 4x4 Técnico</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/marruecos/desert.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/marruecos/quads.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5: Barro y Cine (Ait Ben Haddou)
 - **Logística:** **5h de 4x4** hacia el Oeste.
@@ -93,16 +75,7 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
 - **Logística:** **6h de traslado** cruzando el Atlas. El día 7 son **4h de quad** por la costa.
 - **Valor Diferencial:** **Essaouira (UNESCO)** es necesaria por su arquitectura blanca y azul y su historia pirata. El valor diferencial es el quad por las dunas que mueren en el mar; un paisaje que mezcla el desierto con el Atlántico salvaje.
 
-<table>
-  <tr>
-    <td width="50%"><b>Medina de Essaouira</b></td>
-    <td width="50%"><b>Aventura en Quad</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/marruecos/essaouira.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/marruecos/quads.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 8 y 9: El regreso a la ciudad roja
 - **Logística:** **3h de conducción** rectilínea hacia Marrakech.

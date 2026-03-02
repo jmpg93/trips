@@ -60,61 +60,25 @@ Tanzania ofrece vuestro "Hang Va" africano: bajar a pie 300m por una pared selv�
 - **Logística:** **1h de transfer** al llegar. El día 2, **3h de 4x4** hasta Tarangire.
 - **Valor Diferencial:** **Tarangire** es necesario por sus baobabs gigantes. **Empakaai** aporta el valor de la conexión física; es el único lugar donde dejarás el coche para sentir el pulso de la tierra volcánica entre flamencos en un trekking salvaje escoltado.
 
-<table>
-  <tr>
-    <td width="50%"><b>Ngorongoro Highlands</b></td>
-    <td width="50%"><b>Cráter Empakaai</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/tanzania/ngorongoro.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/tanzania/crater.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 3 y 4: La Gran Migración en el lodo
 - **Logística:** **4-5h de conducción técnica** diaria buscando las manadas.
 - **Valor Diferencial:** El **Serengeti (UNESCO)** en abril es vuestro hito de exclusividad. Verás a los depredadores activos en un entorno vibrante sin las caravanas de jeeps del verano. Navegar el lodo es una expedición táctica que requiere un 4x4 real y pericia.
 
-<table>
-  <tr>
-    <td width="50%"><b>Serengeti Green Season</b></td>
-    <td width="50%"><b>Fauna Salvaje</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/tanzania/serengeti.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 5 y 6: El salto al Índico
 - **Logística:** **1.5h de vuelo interno** desde Seronera a Zanzíbar (ZNZ).
 - **Valor Diferencial:** **Stone Town (UNESCO)** es necesaria por su carga histórica. El valor diferencial es el laberinto de coral que huele a especias, un reset cultural antes del buceo profundo en el Índico.
 
-<table>
-  <tr>
-    <td width="50%"><b>Stone Town</b></td>
-    <td width="50%"><b>Zanzíbar Vibe</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/tanzania/zanzibar.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ### Día 7, 8 y 9: El espejo del Índico y el Abismo
 - **Logística:** **45 min de lancha rápida** desde Nungwi. El día 8, **1h** a mar abierto.
 - **Valor Diferencial:** **Mnemba Atoll** en abril ofrece una visibilidad récord (hasta 60m) porque no hay viento. **Leven Bank** es el hito técnico para buceadores avanzados: una montaña submarina con corrientes fuertes y bancos masivos de pelágicos. Es el cierre de alta intensidad.
 
-<table>
-  <tr>
-    <td width="50%"><b>Buceo en Zanzíbar</b></td>
-    <td width="50%"><b>Arrecifes Coral</b></td>
-  </tr>
-  <tr>
-    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
-    <td><img src="../assets/destinations/tanzania/diving.jpg" width="100%"></td>
-  </tr>
-</table>
+
 
 ---
 
