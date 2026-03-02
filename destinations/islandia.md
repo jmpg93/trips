@@ -108,7 +108,7 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
 - **Ruta (Costa Sur vs Ring Road):** Se ha **descartado la vuelta completa** para evitar 40h de conducción. Se prioriza la Costa Sur para asegurar los hitos técnicos sin fatiga logística.
-- **Transporte (4x4 vs SUV Estándar):** Se justifica el **4x4 con piggdekk** por las ventiscas frecuentes en los pasos de montaña del sur en marzo.
+- **Transporte (4x4 SUV vs Caravana):** Se **descarta la caravana** por el factor "Viento Ártico" (riesgo de vuelco y cancelaciones) y la necesidad de recuperación térmica en hoteles boutique tras el buceo en Silfra (2°C). Se elige **4x4 con piggdekk** para máxima agilidad y seguridad frente a las ventiscas de marzo.
 - **UNESCO:** Se ha priorizado **Þingvellir** por su valor geológico y histórico incalculable.
 
 ---
