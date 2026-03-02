@@ -43,13 +43,13 @@
 ---
 
 ## 🗺️ Estrategia por Fases
-- **Fase 1 (San Blas):** Desconexión tecnológica total. Autonomía en islas autogestionadas.
-- **Fase 2 (Coiba):** El "Galápagos" de Centroamérica. Aventura técnica en un ecosistema marino virgen.
+- **Fase 1 (San Blas):** Desconexión tecnológica total. Autonomía en islas autogestionadas en el Caribe.
+- **Fase 2 (Coiba):** El "Galápagos" de Centroamérica en el Pacífico. Aventura técnica marina.
 
 ---
 
 ## 🔥 Hito de Aventura Real: Buceo en Coiba y Vida Guna
-El buceo en Coiba no es recreativo suave; sus corrientes y la escala de sus bancos de peces exigen compromiso técnico. San Blas representa el reto logístico: vivir en una isla sin electricidad, conectando con la cultura nativa pura.
+El buceo en Coiba es vuestro hito técnico; sus corrientes y la escala de sus bancos de peces exigen compromiso real. San Blas representa el reto logístico: vivir en una isla sin electricidad, conectando con la cultura nativa pura.
 
 ---
 
@@ -57,23 +57,23 @@ El buceo en Coiba no es recreativo suave; sus corrientes y la escala de sus banc
 
 ### Día 1: El contraste del Casco Viejo
 - **Logística:** **30 min de taxi** desde PTY.
-- **Valor Diferencial:** El **Casco Viejo (UNESCO)** es necesario por su contraste; ver rascacielos del siglo XXI desde una calle del siglo XVII define la personalidad de Panamá.
+- **Valor Diferencial:** El **Casco Viejo (UNESCO)** es necesario por su contraste; ver rascacielos del siglo XXI desde una calle colonial define la personalidad de Panamá. Es el hito cultural de bienvenida.
 
 ### Día 2 y 3: El archipiélago prohibido (San Blas)
-- **Logística:** **3h de 4x4** por selva + **30 min de lancha rápida**.
-- **Valor Diferencial:** **Guna Yala** es obligatorio por su exclusividad cultural. El valor diferencial es dormir en una cabaña de paja sin luz, gestionada al 100% por indígenas, algo imposible de replicar en otros destinos del Caribe.
+- **Logística:** **3h de 4x4** por selva + **30 min de lancha rápida** saltando olas.
+- **Valor Diferencial:** **Guna Yala** es obligatorio por su exclusividad cultural. El valor diferencial es dormir en una cabaña de paja sin luz gestionada por indígenas, algo imposible de replicar en otros destinos.
 
 ### Día 5 y 6: El santuario de pelágicos (Coiba)
 - **Logística:** **1h de vuelo** a David + **1.5h de lancha rápida** a mar abierto.
-- **Valor Diferencial:** **Isla Coiba (UNESCO)** es el hito de aventura real. El buceo técnico aquí es obligatorio por la densidad de fauna: es el único sitio de la región donde verás tiburones punta blanca en cada inmersión garantizado.
+- **Valor Diferencial:** **Isla Coiba (UNESCO)** es el hito de aventura real. El buceo técnico aquí es obligatorio por la densidad de fauna: es el único sitio de la región donde verás tiburones punta blanca en cada inmersión.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Ruta (Coiba vs Bocas):** Se ha **descartado Bocas del Toro** por ser demasiado fiestero y comercial. Se elige Coiba por su buceo técnico y naturaleza virgen (fue un penal inaccesible durante décadas).
-- **Transporte (Vuelo vs Bus):** Se justifica el **vuelo interno a David** para ahorrar 7h de bus, ganando un día completo de buceo en el Pacífico.
-- **Alojamiento (Cabañas vs Velero):** Se eligen las cabañas en tierra en San Blas para priorizar la interacción con los Kunas, valorando más la cultura que la comodidad del barco.
-- **Utilidad:** Se ha eliminado la parada en centros comerciales de Albrook para maximizar el tiempo en las islas.
+- **Ruta (Coiba vs Bocas):** Se ha **descartado Bocas del Toro** por ser demasiado fiestero. Se elige Coiba por su buceo técnico y naturaleza virgen protegida.
+- **Transporte (Vuelo vs Bus):** Se justifica el **vuelo interno a David** para ahorrar 7h de bus, ganando un día completo de buceo real.
+- **Utilidad:** Se ha eliminado cualquier tiempo de "shopping" en la capital para maximizar el tiempo en las islas.
+- **UNESCO:** Se ha integrado **Coiba y Casco Viejo** como ejes fundamentales del viaje.
 
 ---
 
@@ -86,16 +86,39 @@ El buceo en Coiba no es recreativo suave; sus corrientes y la escala de sus banc
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([8.98, -79.52], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Panamá City (UNESCO)');
-  L.circleMarker([9.55, -78.95], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('San Blas (Guna Yala)');
-  L.circleMarker([7.43, -81.78], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Isla Coiba (UNESCO)');
+
+  var points = [
+    [8.98, -79.52], // 1. Panamá City
+    [9.55, -78.95], // 2. San Blas (Guna Yala)
+    [8.98, -79.52], // 3. Regreso Capital
+    [8.24, -82.43], // 4. David / Coiba Access
+    [7.43, -81.78], // 5. Isla Coiba
+    [8.98, -79.52]  // 6. Regreso PTY
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Panamá City (Casco Viejo)');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. San Blas (Archipiélago)');
+  createLabel(3, points[3]).addTo(map).bindPopup('3. David (Salto Pacífico)');
+  createLabel(4, points[4]).addTo(map).bindPopup('4. Isla Coiba (UNESCO)');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No ir a San Blas esperando resorts; es supervivencia básica. Llevar dólares americanos en efectivo (billetes de $1 y $5) para las comunidades.
-- **Buceo:** Coiba tiene termoclinas bruscas en el Pacífico; traje de 3mm o 5mm recomendado incluso con calor.
+- **Factor "Ni de Coña":** No vayas a San Blas esperando resorts; es supervivencia básica. Llevar dólares americanos en billetes pequeños ($1 y $5) innegociable.
+- **Buceo:** Coiba tiene termoclinas bruscas; traje de 3mm o 5mm recomendado.
 
 ---
 

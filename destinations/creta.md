@@ -57,7 +57,7 @@ Ha Gorge es vuestro "Hang Va" mediterráneo: una falla tectónica tan estrecha q
 
 ### Día 1 y 2: El puerto veneciano y la nieve eterna
 - **Logística:** **20 min de taxi** al puerto. Día 2: **1.5h de 4x4** para subir a la meseta.
-- **Valor Diferencial:** Chania es necesaria para el contraste histórico. Las **Lefka Ori** en marzo son el valor diferencial: ver nieve profunda a pocos km del mar azul, cruzando dolinas kársticas en soledad total.
+- **Valor Diferencial:** Chania es necesaria para el contraste histórico. Las **Lefka Ori** en marzo son el valor diferencial: ver nieve profunda a pocos km del mar azul, cruzando dolinas kársticas en soledad total. Es el hito visual de contraste.
 
 ### Día 3 y 4: Abismos y lanchas rápidas
 - **Logística:** **3h de trekking** técnico en Aradena. Día 4: lancha rápida privada (**15 min**).
@@ -65,15 +65,15 @@ Ha Gorge es vuestro "Hang Va" mediterráneo: una falla tectónica tan estrecha q
 
 ### Día 5 y 6: Raid Asterousia y el Desafío Ha
 - **Logística:** **5h de conducción técnica** off-road. Día 6: **7h de actividad técnica** en cañón.
-- **Valor Diferencial:** Las **Asterousia** son el valor diferencial de la Creta más remota y pastoril. **Ha Gorge** es el hito del viaje: no hay otro cañón en Europa con esa configuración tectónica y nivel de compromiso técnico una vez entras.
+- **Valor Diferencial:** Las **Asterousia** son el valor diferencial de la Creta más remota. **Ha Gorge** es el hito del viaje: no hay otro cañón en Europa con esa configuración tectónica y nivel de compromiso técnico.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
 - **Transporte (4x4 Real):** Se elige un **Suzuki Jimny o SUV con reductora** porque las pistas de Asterousia y el acceso a Ha Gorge son impracticables para un SUV de ciudad.
-- **Ruta (Sur vs Norte):** Se **descarta el norte** por ser un modelo turístico masivo. Se elige el sur para asegurar la soledad y la aventura técnica.
-- **Actividad (Ha Gorge vs Samaria):** Se prioriza **Ha** porque Samaria en marzo suele estar cerrada o demasiado húmeda para ser disfrutada, mientras que Ha está en su pico de agua espectacular.
-- **Utilidad:** Se han eliminado visitas a centros comerciales de Heraklion para ganar horas de luz en el Raid de Asterousia.
+- **Ruta (Sur vs Norte):** Se **descarta el norte** por ser un modelo turístico masivo. Se elige el sur para asegurar la soledad.
+- **Actividad (Ha Gorge vs Samaria):** Se prioriza **Ha** porque Samaria en marzo suele estar cerrada o demasiado húmeda, mientras que Ha está en su pico de agua.
+- **Utilidad:** Se ha eliminado cualquier parada en centros comerciales de Heraklion para ganar horas de luz en el Raid de Asterousia.
 
 ---
 
@@ -86,18 +86,41 @@ Ha Gorge es vuestro "Hang Va" mediterráneo: una falla tectónica tan estrecha q
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
-  L.circleMarker([35.51, 24.02], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Chania');
-  L.circleMarker([35.22, 24.09], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Lefka Ori (Nieve)');
-  L.circleMarker([35.20, 24.08], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Loutro (Inaccesible)');
-  L.circleMarker([35.08, 25.83], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Ha Gorge (Hito)');
-  L.circleMarker([35.37, 24.47], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('Rethymno');
+
+  var points = [
+    [35.51, 24.02], // 1. Chania
+    [35.22, 24.09], // 2. Lefka Ori
+    [35.20, 24.08], // 3. Loutro
+    [34.95, 25.05], // 4. Asterousia
+    [35.08, 25.83], // 5. Ha Gorge
+    [35.34, 25.14]  // 6. Heraklion
+  ];
+
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Chania');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Lefka Ori (Expedición Nieve)');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Loutro (Desconexión)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Asterousia (Off-road)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Ha Gorge (Hito Técnico)');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Regreso Heraklion');
+
+  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
 
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No entrar en Ha Gorge si hay nubes en la meseta de Thripti. No conducir en Asterousia sin rueda de repuesto real y herramientas.
-- **Logística:** Las gasolineras en el sur son escasas; llenar siempre que veas una.
+- **Factor "Ni de Coña":** No entrar en Ha Gorge si hay nubes en la meseta. No conducir en Asterousia sin rueda de repuesto real.
+- **Logística:** Gasolineras escasas en el sur profundo.
 
 ---
 
