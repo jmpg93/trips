@@ -112,12 +112,22 @@ Inmersión técnica en el *SS Frankenwald* o el doble pecio *Ferndale & Parat*. 
     [60.39, 5.32]  // 7. Regreso Bergen
   ];
 
-  L.circleMarker(points[0], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('1. Bergen (UNESCO)');
-  L.circleMarker(points[1], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('2. Gulen (Buceo)');
-  L.circleMarker(points[2], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('3. Flåm (Tren)');
-  L.circleMarker(points[3], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('4. Loen (Skylift)');
-  L.circleMarker(points[4], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('5. Juvet Landscape');
-  L.circleMarker(points[5], {radius: 8, fillColor: "#ff3333", color: "#fff", weight: 2, opacity: 1, fillOpacity: 0.8}).addTo(map).bindPopup('6. Ålesund');
+  function createLabel(number, label) {
+    var icon = L.divIcon({
+      className: 'custom-div-icon',
+      html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
+      iconSize: [24, 24],
+      iconAnchor: [12, 12]
+    });
+    return L.marker(label, {icon: icon});
+  }
+
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Bergen (UNESCO)');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Gulen (Buceo)');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Flåm (Tren)');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Loen (Skylift)');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Juvet Landscape');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Ålesund');
 
   L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
