@@ -30,7 +30,7 @@
 
 | Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
 |:---:|:---:|:---|:---|:---|:---|
-| 28 Mar | 1 | Koh Samui | Vuelo (13h + 1h) | Llegada y Relax Boutique | Recogida en USM. Cena en Bophut. |
+| 28 Mar | 1 | Koh Samui | Vuelo (13h + escala BKK + 1.5h) | Llegada y Relax Boutique | Total puerta a puerta ~18h con escala en Bangkok. Recogida en USM. |
 | 29 Mar | 2 | Ang Thong | Lancha Rápida (1h) | **Hito: Archipiélago** | Kayak y Mirador Central. |
 | 30 Mar | 3 | Koh Tao | Speedboat (1.5h) | Nang Yuan | Snorkel en la lengua de arena. |
 | 31 Mar | 4 | Koh Tao | Barco Buceo | **Buceo Sail Rock** | Hito Aventura: Pináculo pelágico. |
@@ -56,7 +56,7 @@ Sail Rock es vuestro hito técnico; un pináculo volcánico en mitad del océano
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
 ### Día 1 y 2: La puerta del Golfo y las 42 islas
-- **Logística:** **14h de viaje** desde MAD. Día 2: **1h de lancha rápida** a mar abierto.
+- **Logística:** **~18h de viaje puerta a puerta** desde MAD (vuelo MAD→BKK ~13h + escala + vuelo BKK→USM ~1.5h). Día 2: **1h de lancha rápida** a mar abierto.
 - **Valor Diferencial:** **Koh Samui** es necesaria por su infraestructura boutique. El **P.N. Ang Thong** es el valor diferencial; es el único lugar donde puedes ver el archipiélago kárstico virgen que inspiró "The Beach". El hito es el trekking vertical al mirador central.
 
 ### Día 3, 4 y 5: El abismo de cristal (Koh Tao)

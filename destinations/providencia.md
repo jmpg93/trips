@@ -9,7 +9,7 @@
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
 | Vuelos | €1,100 - €1,500 | MAD -> ADZ (Vía BOG) + Salto Satena |
-| Transportes | €200 - €400 | Alquiler de Mulas (4x4) + Lanchas Rápidas |
+| Transportes | €200 - €400 | Alquiler de Mulas (Moto-taxis locales) + Lanchas Rápidas |
 | Alojamiento | €1,200 - €2,000 | Posadas Nativas Boutique (Deep Blue / Monasterio) |
 | Actividades | €700 - €1,100 | Buceo con Tiburones + Expedición McBean |
 | Comida/Extras | €500 - €800 | Langosta local + Sodas en la playa |
@@ -36,9 +36,9 @@
 | 31 Mar | 4 | McBean Lagoon | Kayak / Lancha | Cayo Cangrejo | Snorkel extremo en la reserva. |
 | 01 Abr | 5 | El Pico | Trekking (3h) | **Hito: Amanecer 360º** | Salida 03:00 AM. Punto más alto. |
 | 02 Abr | 6 | Santa Catalina | Pie / Kayak | Fuerte de Morgan | Exploración de cuevas piratas y cañones. |
-| 03 Abr | 7 | Manzanillo | Mula (4x4) | Relax y Vibe Raizal | Playa salvaje y música reggae en vivo. |
+| 03 Abr | 7 | Manzanillo | Mula (Moto) | Relax y Vibe Raizal | Playa salvaje y música reggae en vivo. |
 | 04 Abr | 8 | San Andrés | Avioneta (20m) | Regreso a ADZ | Últimas compras y cena en San Andrés. |
-| 05 Abr | 9 | Madrid | Vuelo (13h) | Regreso | Conexión vía BOG. |
+| 05 Abr | 9 | Madrid | Vuelo ADZ→BOG (2h) + Vuelo BOG→MAD (10h) | Regreso | Conexión obligatoria en Bogotá. Salir de ADZ con 4h de margen. |
 
 ---
 
@@ -74,7 +74,7 @@ No es solo buceo. Es una incursión en la barrera externa de la **Reserva Seaflo
 
 
 ### Día 7, 8 y 9: La Bahía de Manzanillo y el retorno
-- **Logística:** Movimiento en **Mula (4x4)** por la carretera perimetral. Día 8: regreso a San Andrés (ADZ) en vuelo de mañana.
+- **Logística:** Movimiento en **Mula (moto-taxi local)** por la carretera perimetral. Día 8: regreso a San Andrés (ADZ) en vuelo de mañana.
 - **Valor Diferencial:** **Manzanillo** es necesaria por su cultura raizal intacta; es el lugar para procesar el viaje con música reggae y comida local. El regreso a **San Andrés** permite una última inmersión urbana antes del vuelo nocturno a Madrid, cerrando el ciclo de aislamiento.
 
 

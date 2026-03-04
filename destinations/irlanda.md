@@ -35,7 +35,7 @@
 | 30 Mar | 3 | Connemara | SUV (1.5h) | Diamond Hill Trekking | Paisaje de turberas y lagos. |
 | 31 Mar | 4 | Aran Islands | Ferry (40m) | Inis Mór (Bici Técnica) | Visita a Dun Aengus (Edad de Hierro). |
 | 01 Abr | 5 | Doolin / Moher | SUV (1.5h) | Cliffs of Moher & The Burren | Acantilados y geología kárstica. |
-| 02 Abr | 6 | Portmagee | SUV (3h) | **Expedición Skellig Michael** | Hito Aventura: Escalada 600 peldaños. |
+| 02 Abr | 6 | Portmagee | SUV (3h) | **Expedición Skellig Michael** | ⚠️ Cancelación ~40-50% por tiempo atlántico. Plan B: Beehive Huts de Fahan + Slea Head Drive. |
 | 03 Abr | 7 | Dingle | SUV (1.5h) | Península de Dingle | Slea Head Drive (Carretera extrema). |
 | 04 Abr | 8 | Kilkenny | SUV (3h) | Rock of Cashel | Regreso hacia el Este. Ciudad medieval. |
 | 05 Abr | 9 | Madrid | SUV + Vuelo | Regreso | Devolución coche en DUB. |
@@ -126,7 +126,7 @@ No es una visita turística estándar. Es una travesía en barco por aguas del A
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No intentar subir a Skellig Michael con mareo severo o vértigo extremo; no hay vuelta atrás una vez el barco se va. No confiar en el GPS para tiempos de llegada en el oeste; las distancias cortas tardan el doble.
+- **Factor "Ni de Coña":** No intentar subir a Skellig Michael con mareo severo o vértigo extremo; no hay vuelta atrás una vez el barco se va. No confiar en el GPS para tiempos de llegada en el oeste; las distancias cortas tardan el doble. ⚠️ **Skellig Michael:** Reservar el barco con 2-3 meses de antelación, pero asumir probabilidad de cancelación del 40-50% por viento atlántico. Plan B obligatorio confirmado: Beehive Huts de Fahan + Slea Head Drive completo.
 - **Vestimenta:** Capas técnicas (Sistema de 3 capas) obligatorio incluso en verano. El tiempo cambia en 5 minutos.
 
 ---

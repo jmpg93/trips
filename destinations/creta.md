@@ -34,7 +34,7 @@
 | 29 Mar | 2 | Lefka Ori | 4x4 (1.5h) | **Expedición Nieve** | Hito Aventura: High Desert con grampones. |
 | 30 Mar | 3 | Anopolis | 4x4 (30m) | Cañón de Aradena | Descenso técnico a Playa Marmara (3h). |
 | 31 Mar | 4 | Loutro | Lancha (15m) | Cuevas Marinas | Navegación privada por el Mar de Libia. |
-| 01 Abr | 5 | Asterousia | 4x4 Off-road | Raid Montañas Sur | Ruta de 5h por cordillera virgen. |
+| 01 Abr | 5 | Asterousia | 4x4 Off-road | Raid Montañas Sur | ⚠️ Requiere conductor con experiencia en off-road real y rueda de repuesto. SUV de alquiler básico insuficiente. |
 | 02 Abr | 6 | Ierapetra | 4x4 (1h) | **Ha Gorge (Technical)**| Hito Aventura: 26 rápeles. 6-8h actividad. |
 | 03 Abr | 7 | Elounda | 4x4 (1.5h) | Relax / Historia | Isla Spinalonga y hotel lujo. |
 | 04 Abr | 8 | Rethymno | 4x4 (2h) | Ciudad Vieja | Exploración veneciana y cena final. |

@@ -35,7 +35,7 @@
 | 30 Mar | 3 | Seoraksan | Bus Express (2.5h)| Sokcho & Mar del Este | Preparación equipo montaña. |
 | 31 Mar | 4 | Seoraksan | Trekking | **Hito: Dino Ridge** | 12h actividad técnica. Crestas granito. |
 | 01 Abr | 5 | Gyeongju | KTX (3h) | **UNESCO Gyeongju** | Museo sin paredes. Alquiler bicis. |
-| 02 Abr | 6 | Jeju | Vuelo (1h) | Alquiler Coche & Jeju | Vuelo desde Busan/Daegu. |
+| 02 Abr | 6 | Jeju | Bus/Taxi (35m) + Vuelo PUS→CJU (55m) | Alquiler Coche & Jeju | Traslado Gyeongju→Busan (35m) antes del vuelo. No hay vuelo directo desde Gyeongju. |
 | 03 Abr | 7 | Jeju | Coche | **UNESCO Lava Tubes** | Manjanggul & Seongsan Ilchulbong. |
 | 04 Abr | 8 | Seúl | Vuelo (1h) | Myeongdong & Spa | Compras técnicas y relax final. |
 | 05 Abr | 9 | Madrid | Vuelo (13h) | Regreso | Traslado aeropuerto ICN. |

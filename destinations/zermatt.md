@@ -11,9 +11,9 @@
 | Vuelos | €200 - €450 | Madrid - Ginebra (GVA) / Zúrich (ZRH) |
 | Transportes | €350 - €500 | Tren SBB (Half Fare Card) + Taxis Eléctricos |
 | Alojamiento | €2,500 - €4,500 | Riffelalp Resort / The Omnia |
-| Actividades | €1,200 - €1,800 | Ski Pass Int. + Gorge Adventure + Breithorn |
+| Actividades | €1,400 - €2,050 | Ski Pass Int. + Gorge Adventure + Breithorn (guía €300-€400) + Parapente tándem (€150-€250) |
 | Extras | €1,000 - €1,500 | Mix Fondue Suiza + Pasta en Cervinia |
-| **Total** | **€5,250 - €8,750** | **Presupuesto por pareja / 8-9 días** |
+| **Total** | **€5,250 - €8,750** | **Presupuesto por pareja / 9 días** |
 
 ---
 

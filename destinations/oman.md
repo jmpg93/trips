@@ -13,7 +13,7 @@
 | Alojamiento | €1,500 - €2,500 | Alila Jabal Akhdar + Wild Camping + The Chedi |
 | Actividades | €600 - €900 | Guías Snake Canyon + Buceo Dimaniyat |
 | Comida/Extras | €500 - €800 | Supermercados Lulu + Cenas en Mascate |
-| **Total** | **€4,200 - €6,700** | **Presupuesto por pareja / 10 días** |
+| **Total** | **€4,200 - €6,700** | **Presupuesto por pareja / 10 días** ⚠️ Este itinerario regresa el 6 Abr (un día más que el resto de destinos). Planificarlo solo si la Semana Santa se extiende hasta el lunes. |
 
 ---
 

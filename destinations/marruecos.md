@@ -37,7 +37,7 @@
 | 01 Abr | 5 | Ouarzazate | 4x4 (5h) | Ait Ben Haddou (UNESCO) | Ciudad de barro y cine. |
 | 02 Abr | 6 | Essaouira | 4x4 (6h) | Traslado a la Costa | Llegada al Atlántico. Vibe bohemio. |
 | 03 Abr | 7 | Essaouira | Quad | **Dunas Móviles y Playa** | Hito Aventura: 4h de quad extremo. |
-| 04 Abr | 8 | Marrakech | Coche (3h) | Relax y Compras Técnicas | Regreso a la ciudad roja. |
+| 04 Abr | 8 | Marrakech | Coche (3.5-4.5h) | Relax y Compras Técnicas | Tráfico Semana Santa en la N9. Salir antes de las 09:00 AM. |
 | 05 Abr | 9 | Madrid | Vuelo (2h) | Regreso | Vuelo tarde para aprovechar el día. |
 
 ---
@@ -78,7 +78,7 @@ No es un paseo en camello para turistas. El raid en 4x4 por las dunas de Merzoug
 
 
 ### Día 8 y 9: El regreso a la ciudad roja
-- **Logística:** **3h de conducción** rectilínea hacia Marrakech.
+- **Logística:** **3.5-4.5h de conducción** hacia Marrakech (N9). Salir antes de las 09:00 AM para evitar el tráfico de Semana Santa.
 - **Valor Diferencial:** El último día en Marrakech es necesario para el "debriefing" del viaje en un hammam tradicional. Es el valor diferencial del relax tras la intensidad del desierto y los quads, cerrando el viaje con la gastronomía de autor marroquí.
 
 ---

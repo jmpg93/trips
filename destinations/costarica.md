@@ -36,7 +36,7 @@
 | 02 Abr | 6 | Monteverde | 4x4 | Canopy / Puentes | Adrenalina a 50m de altura. |
 | 03 Abr | 7 | Santa Teresa | 4x4 (4h) + Ferry | Pacífico Salvaje | Ferry Puntarenas (1.5h). Surf sunset. |
 | 04 Abr | 8 | Santa Teresa | 4x4 / Relax | Playa y Desconexión | Fogatas en la playa y villas privadas. |
-| 05 Abr | 9 | Madrid | 4x4 (5h) + Vuelo | Regreso | Tráfico Semana Santa. Salir con margen. |
+| 05 Abr | 9 | Madrid | 4x4 (7-8h) + Vuelo | Regreso | Salir a las 04:00 AM. Ferry + carretera montaña = mínimo 7h. Tráfico Semana Santa crítico. |
 
 ---
 
@@ -75,7 +75,7 @@ No es una actividad turística suave. Es una expedición por un cañón tropical
 
 
 ### Día 7, 8 y 9: El Pacífico salvaje (Santa Teresa)
-- **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**. Día 9: **5h de conducción** de regreso a SJO.
+- **Logística:** **4h de 4x4** incluyendo el **Ferry de Puntarenas (1.5h)**. Día 9: **7-8h de conducción** de regreso a SJO (ferry de vuelta + carretera de montaña). Salir obligatoriamente antes de las 05:00 AM.
 - **Valor Diferencial:** **Santa Teresa** es necesaria para escapar de la saturación masiva de Manuel Antonio. El valor diferencial es el vibe "hippy-luxe": atardeceres con surfistas y villas privadas en las colinas. El regreso a San José marca el cierre de un ciclo de inmersión total en la "Pura Vida".
 
 
