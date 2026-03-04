@@ -5,6 +5,7 @@
 
 | Destino | Aventura | Relax | Visual | Vuelo (MAD) | Transporte | Presupuesto | Análisis Técnico y Estratégico |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| **[Sicilia](destinations/sicilia.md)** | 6 | 8 | 9 | 2h 30m | Coche | 2.500 € | **✅ En Planning (27 Mar–4 Abr):** Road trip PMO→CTA. Etna + Valle dei Templi + Siracusa Ortigia + Barroco UNESCO. |
 | **Omán** | 10 | 4 | 10 | 10h 30m | 4x4 | 5.450 € | **Ganador Técnico:** Caving (Majlis al Jinn) y Snake Canyon. Clima perfecto. |
 | **San Blas** | 9 | 9 | 10 | 14h 00m* | 4x4 + Velero| 4.500 € | **Hito Salvaje:** Desconexión radical y navegación pura Guna. Logística compleja. |
 | **Islandia** | 8 | 5 | 10 | 4h 30m | 4x4 | 6.400 € | **Top Visual:** Silfra + Ice Caves. Riesgo de viento extremo (Piggdekk obligatorio). |
@@ -26,6 +27,7 @@
 | Destino | Estilo | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | [🌴 Samaná](destinations/samana.md) | Naturaleza y Relax | 🐋 | 🐋 | 🐋 | ✅ | ✅ | ✅ | ☀️ | ☀️ | ❌ | ❌ | 🌧️ | ✅ |
+| [🌋 Sicilia](destinations/sicilia.md) | Road Trip Cultural | ✅ | ✅ | ✅ | ✅ | ☀️ | ☀️ | ☀️ | ☀️ | 🌿 | ✅ | ✅ | ✅ |
 | [🇮🇸 Islandia](destinations/islandia.md) | 4x4 y Frío Épico | ❌ | ❌ | ❄️ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❌ |
 | [🦁 Tanzania](destinations/tanzania.md) | Safari y Playa | ✅ | ✅ | 🌧️ | ❌ | ❌ | 🦁 | 🦁 | 🦁 | 🦁 | 🦁 | 🌧️ | ✅ |
 | [🇳🇴 Noruega](destinations/noruega.md) | Fiordos y Diseño | ❄️ | ❄️ | ✅ | ✅ | ✅ | 🌿 | 🌿 | 🌿 | 🍂 | 🍂 | ❄️ | ❄️ |
