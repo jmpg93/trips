@@ -1,6 +1,6 @@
 # 🌴 Samaná, RD (Plan Estratégico)
 
-**Estado:** 🔄 Planificando (Semana Santa 2026)
+**Estado:** 🔄 Planificando — **24 Mar – 3 Abr 2026** (11 días / 2 fases)
 
 ---
 
@@ -8,21 +8,24 @@
 
 | Categoría | Estimación | Notas |
 |-----------|------------|-------|
-| Vuelos | €1,400 - €1,800 | Madrid - Santo Domingo (Directo) |
-| Transportes | €300 - €500 | Traslado SDQ + Alquiler Quad/Moto |
-| Alojamiento | €1,600 - €2,400 | Chalet Tropical (Boutique) + Cayo Levantado |
-| Actividades | €400 - €600 | Buceo Técnico + Excursiones |
-| Extras | €400 - €600 | Pescado local + Cenas Las Terrenas |
-| **Total** | **€4,100 - €6,000** | **Presupuesto por pareja / 9 días** |
+| Vuelos | €1,400 - €1,800 | Madrid - Santo Domingo (escala MIA o JFK) |
+| Transportes | €200 - €350 | Transfer SDQ + Alquiler Quad + Lanchas excursión |
+| Alojamiento Fase 1 | €400 - €600 | Villa Serena, Las Galeras — 5 noches (~€80-120/noche) |
+| Alojamiento Fase 2 | €1,500 - €2,000 | Grand Bahia Príncipe Cayo Levantado — Todo incluido 5 noches |
+| Actividades | €500 - €700 | Buceo Técnico + Ballenas + Salto del Limón + Excursiones |
+| Extras Fase 1 | €200 - €400 | Cenas y comidas en Las Galeras (no incluidas en Fase 1) |
+| **Total** | **€4,200 - €5,850** | **Por pareja / 11 días** |
 
 ---
 
 ## 🚀 Highlights de Actividades
-- **Buceo en Piedra Bonita:** El pináculo submarino más dramático de la isla (60m).
-- **Playa Frontón:** Acantilado de mármol de 90m accesible solo por mar.
-- **Caño Frío:** Baño en río de agua dulce entre manglares en Playa Rincón.
-- **Cayo Levantado:** Aislamiento total en una isla privada de lujo.
-- **Observación de Ballenas:** Final de la temporada de ballenas jorobadas.
+- **Buceo en Piedra Bonita (The Tower):** Pináculo volcánico vertical hasta los 60m. El reto técnico de la Fase 1.
+- **🐋 Ballenas Jorobadas:** Final de temporada en la Bahía de Samaná, santuario de reproducción nº1 del Caribe.
+- **Playa Frontón:** Acantilado de mármol de 90m accesible solo por lancha. Sin chiringuitos, sin turismo masivo.
+- **Caño Frío:** Río de agua dulce helada bajo manto de manglares. Reset térmico tras los días de sol.
+- **Playa Rincón:** Top 10 del Caribe (Lonely Planet). 3 km sin construcción.
+- **Salto del Limón:** Cascada de 40m con trekking de selva. A pie, sin caballos.
+- **Grand Bahia Príncipe Cayo Levantado:** 5 días de aislamiento absoluto en isla privada con todo incluido.
 
 ---
 
@@ -30,38 +33,51 @@
 
 | Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
 |:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | Las Galeras | Vuelo (~10h) + Taxi (3h) | Llegada y Quad | Escala habitual en MIA o JFK. Traslado SDQ -> Las Galeras. |
-| 29 Mar | 2 | Las Galeras | Bote (25m) / Quad | Playas Frontón y Madama | Snorkel técnico en arrecife de pared. |
-| 30 Mar | 3 | Las Galeras | Quad (45m) | Playa Rincón / Caño Frío | Baño en río dulce para reset térmico. |
-| 31 Mar | 4 | Las Galeras | Bote Buceo (30m) | **Buceo Cabo Cabrón** | Inmersión en "The Tower". |
-| 01 Abr | 5 | L. Terrenas | Transfer (1h) | Traslado y Check-in | Cambio a fase de relax total. |
-| 02 Abr | 6 | C. Levantado | Lancha (15m) | Relax / Isla Privada | Disfrutar de las instalaciones del islote. |
-| 03 Abr | 7 | Las Terrenas | Scooter (15m) | Gastronomía de Autor | Cena en El Pescador (Vibe europeo). |
-| 04 Abr | 8 | Las Terrenas | Scooter / Relax | Exploración Costera | Atardecer en Playa Bonita. |
-| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (~10h) | Regreso | Salir con 6h de margen. Escala habitual en MIA o JFK. |
+| 24 Mar | 1 | Las Galeras | Vuelo (~9-11h) + Taxi (3h) | Llegada. Check-in Villa Serena | Escala en MIA o JFK. Transfer SDQ → Las Galeras en taxi privado reservado. |
+| 25 Mar | 2 | Las Galeras | Lancha (25m) + Quad | Playa Frontón + Playa Madama | Snorkel técnico en arrecife de pared bajo el acantilado. Amanecer en La Playita. |
+| 26 Mar | 3 | Las Galeras | Quad (45m) | Playa Rincón + Caño Frío | 45 min por caminos de tierra roja. Baño en río dulce helado bajo manglares. |
+| 27 Mar | 4 | Las Galeras | Lancha Buceo (30m) + Trek (45m) | **Buceo Cabo Cabrón (The Tower)** + Salto del Limón | Dos inmersiones en pináculo de 60m. Tarde: cascada de 40m por trekking de selva. |
+| 28 Mar | 5 | Bahía de Samaná | Lancha excursión (2h) | **🐋 Avistamiento de Ballenas Jorobadas** | Último tramo de temporada. Salida matinal desde Santa Bárbara de Samaná con Moto Marina. |
+| 29 Mar | 6 | Cayo Levantado | Transfer (1h) + Lancha hotel (15m) | Traslado. Check-in Grand Bahia Príncipe | **INICIO FASE 2.** El hotel organiza el traslado final en lancha privada hasta el islote. |
+| 30 Mar | 7 | Cayo Levantado | A pie | Playa privada + Snorkel arrecife + Spa | Flotación total. Sin logística. Todo incluido activo desde el primer desayuno. |
+| 31 Mar | 8 | Cayo Levantado | A pie / Piscina | Pool day + Restaurante a la carta (sin suplemento) | Semana Santa empieza en tierra. Vosotros ya dentro. |
+| 01 Abr | 9 | Cayo Levantado | Kayak / A pie | Kayak + Snorkel perimetral del islote | Exploración perimetral de la isla. Arrecife con visibilidad perfecta. |
+| 02 Abr | 10 | Cayo Levantado | A pie | Último día de playa + Ritual de cierre | Atardecer desde la punta oeste del islote. |
+| 03 Abr | 11 | Madrid | Lancha hotel + Taxi (3h) + Vuelo (~10h) | Regreso a Madrid | Salida con 5-6h de margen desde el islote. Escala en MIA o JFK. |
 
 ---
 
 ## 🗺️ Estrategia por Fases
-- **Fase 1 (Las Galeras):** Inmersión en el "fin del mundo". El lujo es la ubicación. Foco en naturaleza cruda y buceo técnico.
-- **Fase 2 (Cayo Levantado):** Reset necesario tras la intensidad de la selva. Aislamiento total y spa.
+
+### 🏄 Fase 1 (24–29 Mar) — Base de Aventura: Las Galeras
+
+Las Galeras es el extremo más indómito de la península de Samaná. Acceso difícil, turismo residual y acceso exclusivo en lancha a playas vírgenes de acantilado. El lujo aquí no es el hotel: es la ubicación y la soledad. **5 noches en Villa Serena** con el Quad como herramienta de exploración diaria.
+
+**Hotel recomendado — Villa Serena (Las Galeras):** Hotel boutique de 21 habitaciones en estilo colonial dominicano. Jardín tropical, piscina con vistas al mar y conexión directa con Las Galeras Divers (100m a pie). El único adultos-consolidado del pueblo con acceso inmediato al muelle de lanchas. Precio: ~€80-120/noche.
+
+### 🍹 Fase 2 (29 Mar – 3 Abr) — Todo Incluido: Cayo Levantado
+
+Tras 5 días de intensidad, el cerebro necesita un reset sin fricciones. **5 noches en Grand Bahia Príncipe Cayo Levantado**, todo incluido, en una isla privada de acceso solo por lancha. Cero logística, cero decisiones de restaurante, cero traslados.
+
+**Hotel recomendado — Grand Bahia Príncipe Cayo Levantado:** El único resort del islote, por lo que la isla entera es el hotel. Todo incluido con restaurantes a la carta (no con suplemento), spa, kayak, snorkel, paddle surf y animación. La lancha privada del hotel conecta desde el muelle de Sánchez. La transición de fases se siente físicamente al llegar: el ruido del mundo desaparece. Precio: ~€300-400/noche por pareja (todo incluido).
 
 ---
 
-## 🔥 Hito de Aventura Real: Expedición a Cabo Cabrón
-Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae verticalmente hasta los 60m. Requiere confianza en corrientes atlánticas y ofrece el paisaje submarino más vertical del Caribe.
+## 🔥 Hito de Aventura Real: Buceo en Cabo Cabrón (The Tower)
+
+Buceo técnico en **Piedra Bonita**, un pináculo volcánico que cae verticalmente hasta los 60m bajo el Atlántico. Corrientes activas, visibilidad de 20-30m y fauna de profundidad: tiburones de arrecife, tortugas y cardúmenes de barracuda. Requiere confianza técnica en corrientes abiertas. Operado por **Las Galeras Divers**, el único centro certificado con acceso directo al punto.
 
 ---
 
 ## 📅 Hoja de Ruta Narrativa (Experiencia)
 
-### Día 1: El fin de la carretera
-- **Logística:** **3h de taxi** desde SDQ. El movimiento en el pueblo es a pie o en Quad.
-- **Valor Diferencial:** **Las Galeras** es necesaria por ser el punto más indómito de la isla. El valor diferencial es el atardecer en **La Playita**, donde la selva muere en el mar sin el ruido de los grandes resorts.
+### Día 1 (24 Mar): El fin de la carretera
+- **Logística:** Vuelo desde MAD con escala en MIA o JFK. **3h de taxi privado** desde SDQ hasta Las Galeras. Llegada nocturna. Reservar taxi privado con antelación (no hay taxis en la terminal esperando para Las Galeras).
+- **Valor Diferencial:** **Villa Serena** es vuestra base de operaciones. Hotel boutique adultos, colonial, 21 habitaciones, jardín tropical con piscina. El estilo tranquilo del pueblo contrasta con la brutalidad de las playas que tenéis a 5 minutos en lancha.
 
-### Día 2: El acantilado indómito (Frontón vs Madama)
-- **Logística:** **25 min en lancha rápida** desde el muelle de Las Galeras.
-- **Valor Diferencial:** **Playa Frontón** es necesaria por su escala masiva (acantilado de 90m) y buceo de pared. **Playa Madama** es el contrapunto íntimo para snorkel protegido.
+### Día 2 (25 Mar): El acantilado indómito (Frontón + Madama)
+- **Logística:** **25 min en lancha rápida** desde el muelle de Las Galeras. Coordinar con pescador local o con Villa Serena la noche anterior.
+- **Valor Diferencial:** **Playa Frontón** es la escena de apertura perfecta: acantilado de mármol de 90m cayendo al Atlántico, acceso solo por mar, sin servicio de playa ni turismo masivo. **Playa Madama** como contrapunto íntimo para snorkel protegido en aguas de cristal.
 
 <table>
   <tr>
@@ -74,9 +90,9 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
   </tr>
 </table>
 
-### Día 3: El mix de agua dulce y salada
-- **Logística:** **45 min en Quad** por caminos de tierra roja y cocoteros.
-- **Valor Diferencial:** El **Caño Frío** en Playa Rincón es el valor diferencial; permite bañarse en agua cristalina helada bajo manglares, un reset térmico vital tras la exposición al sol.
+### Día 3 (26 Mar): El mix de agua dulce y salada
+- **Logística:** **45 min en Quad** por caminos de tierra roja entre cocoteros. Alquiler en el pueblo (~€40/día).
+- **Valor Diferencial:** **Playa Rincón** (Top 10 del Caribe según Lonely Planet) con el secreto del **Caño Frío**: río de agua dulce helada bajo manto de manglares que desemboca directamente en la playa. Reset térmico físico y mental tras la exposición solar de los días anteriores.
 
 <table>
   <tr>
@@ -89,14 +105,14 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
   </tr>
 </table>
 
-### Día 4: El abismo submarino
-- **Logística:** **30 min de navegación** a mar abierto. Tarde: **45 min de caminata** al Salto del Limón.
-- **Valor Diferencial:** El buceo en **Cabo Cabrón** es vuestro reto de alto impacto. El **Salto del Limón** es el hito terrestre; la cascada de 40m es impresionante y el valor diferencial es hacer el trekking a pie.
+### Día 4 (27 Mar): El abismo y la cascada (doblete de aventura)
+- **Logística:** **30 min de navegación** a mar abierto hacia Cabo Cabrón con Las Galeras Divers. Tarde: **45 min de trekking** en selva húmeda hasta el Salto del Limón.
+- **Valor Diferencial:** El **Buceo en The Tower** es el pico técnico de la Fase 1: pináculo volcánico a 60m, corrientes atlánticas, tiburones de arrecife. Por la tarde, el **Salto del Limón** en cascada de 40m por trekking de selva sin caballos: el paisaje de selva húmeda dominicana en su estado más crudo.
 
 <table>
   <tr>
     <td width="50%"><b>Salto del Limón</b></td>
-    <td width="50%"></td>
+    <td width="50%"><b>Cabo Cabrón — The Tower</b></td>
   </tr>
   <tr>
     <td><img src="../assets/destinations/samana/salto-del-limon.jpg" width="100%"></td>
@@ -104,69 +120,77 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
   </tr>
 </table>
 
-### Día 5: El reset de lujo
-- **Logística:** **1h de traslado** + **15 min de lancha** al islote.
-- **Valor Diferencial:** El cambio de fase es necesario para procesar la aventura previa. **Cayo Levantado** ofrece el aislamiento total en una isla privada con servicios que Las Galeras no tiene.
+### Día 5 (28 Mar): Las ballenas del Caribe
+- **Logística:** Excursión organizada desde **Moto Marina** en Santa Bárbara de Samaná. Salida matinal (~8:00h). Incluye hidrófonos para escuchar a los cetáceos bajo el agua.
+- **Valor Diferencial:** La Bahía de Samaná es el santuario de reproducción nº1 de las **ballenas jorobadas** (*Megaptera novaeangliae*) en el Caribe. La temporada oficial cierra a finales de marzo, por lo que el 28 es de los últimos días posibles del año. Ver a una hembra con cría a 20 metros del barco es una experiencia irrepetible que cierra el ciclo de aventura de la Fase 1 de forma perfecta.
 
-### Día 6: Silencio en el islote
-- **Logística:** Cero traslados. Movimiento caminando por la playa privada.
-- **Valor Diferencial:** Día dedicado al relax absoluto. Es el momento de disfrutar de la exclusividad del islote sin interrupciones externas.
+### Día 6 (29 Mar): El salto al paraíso
+- **Logística:** **1h de transfer** desde Las Galeras hasta el punto de embarque + **15 min en lancha privada del hotel** hasta el islote. El traslado desde Las Galeras lo organiza el propio Grand Bahia Príncipe (confirmar al reservar).
+- **Valor Diferencial:** Check-in en **Grand Bahia Príncipe Cayo Levantado**. El resort ocupa el 100% de la isla. Acceso solo por lancha privada del hotel. Todo incluido con restaurantes a la carta sin suplemento y spa sin cargo. La transición de fases se siente físicamente: el ruido exterior desaparece al llegar al islote.
 
-### Día 7: La gastronomía de Las Terrenas
-- **Logística:** **20 min en lancha** + **15 min en Scooter**.
-- **Valor Diferencial:** **Las Terrenas** es necesaria por su contraste cultural (mix europeo/dominicano). El valor diferencial es la cena en **El Pescador** para probar la alta cocina del pueblo.
+### Día 7 (30 Mar): El primer día de nada
+- **Logística:** Cero traslados. Movimiento a pie por la playa privada de la isla.
+- **Valor Diferencial:** Primer día de flotación total. El todo incluido incluye kayak, snorkel, paddle surf y tumbonas en playa privada. Recuperación física real tras 5 días de intensidad. El contraste con Las Galeras se nota en cada músculo.
 
-### Día 8: El ritual de despedida
-- **Logística:** Movimiento libre en Scooter.
-- **Valor Diferencial:** Última exploración de calas como Playa Bonita. Es el día de disfrutar de los últimos baños en aguas cristalinas antes del regreso.
+### Días 8-10 (31 Mar – 2 Abr): El silencio del islote
+- **Logística:** Cero logística externa. Movimiento libre en la isla.
+- **Valor Diferencial:** Samaná ya entra en modo Semana Santa. Vosotros ya estáis dentro del paraíso mientras el resto intenta reservar coche de alquiler y mesa en restaurante. Disfrutar del restaurante gourmet del resort, el spa y la exploración del arrecife perimetral en kayak.
 
-### Día 9: El regreso
-- **Logística:** **3h de traslado privado** hasta el aeropuerto SDQ. Vuelo de **~10h** a Madrid (con escala habitual en MIA o JFK).
-- **Valor Diferencial:** Cierre del ciclo. Salida con margen amplio para asegurar el vuelo directo sin estrés.
+### Día 11 (3 Abr): El regreso
+- **Logística:** **15 min de lancha** del hotel hasta el muelle + **3h de traslado privado** hasta SDQ. Vuelo de **~10h** a Madrid (escala en MIA/JFK habitual).
+- **Valor Diferencial:** Cierre del ciclo. Salida el 3 de abril (Lunes de Pascua) reduce la presión en los aeropuertos locales. Salir con margen amplio desde el islote para evitar imprevistos logísticos.
 
 ---
 
 ## ⚖️ Justificación de Decisiones (Lógica Atómica)
-- **Transporte (Quad vs Coche):** Se elige el **Quad (ATV)** porque las lluvias de marzo convierten los accesos a las playas en lodazales; el Quad asegura tracción y estabilidad.
-- **Ruta (Las Galeras vs Bávaro):** Se descarta Punta Cana por ser un modelo comercial saturado. Se elige Samaná para mantener el nivel de aventura.
-- **Alojamiento (Chalet Tropical):** Se elige por su diseño orgánico que replica la sensación de las Karst Villas de Vietnam.
-- **Utilidad:** Se ha eliminado el día de "compras" del borrador inicial para priorizar el relax técnico en playa.
+
+- **Fechas (24 Mar vs 28 Mar):** Entrar el 24 de marzo, cuatro días antes de Semana Santa, es la ventaja táctica del plan. Las Galeras y Cayo Levantado están prácticamente vacíos durante la Fase 1. El todo incluido se activa justo antes de que la ocupación suba al 100% por Semana Santa.
+- **Split 5+5 (vs 4+7 o 6+5):** La Fase 1 necesita 5 días completos para cubrir las 4 actividades principales de Las Galeras (Frontón, Rincón, Buceo, Ballenas) sin forzar. La Fase 2 necesita al menos 4-5 noches para rentabilizar el todo incluido. El split 5+5 es el equilibrio óptimo.
+- **Fase 1 — Villa Serena (vs El Cabito):** Se elige **Villa Serena** por ser el único boutique adultos consolidado en Las Galeras con conexión directa al centro de buceo (Las Galeras Divers, a 100m). El Cabito es más eco-lodge y está alejado del muelle de lanchas, complicando la logística diaria.
+- **Fase 2 — Grand Bahia Príncipe Cayo Levantado (vs Gran Bahía Cayacoa):** Se elige **Cayo Levantado** por el aislamiento absoluto en isla privada, que elimina la tentación de salir a explorar y fuerza el descanso. El Cayacoa, siendo también excelente, está en el continente y mantiene la fricción logística. El todo incluido en isla privada es el antídoto perfecto para los 5 días de aventura previos.
+- **Transporte Fase 1 (Quad vs SUV):** Se elige el Quad porque las lluvias de marzo convierten los accesos a las playas secundarias en lodazales. El Quad garantiza tracción en caminos de tierra donde un SUV convencional podría quedar atascado.
+- **Ballenas (Día 5 vs Día 2):** Se coloca el avistamiento el día 5 (28 de marzo) como transición natural entre la intensidad del buceo/trekking y el inicio de la Fase 2. Es además el último día de temporada garantizada, por lo que se reserva con antelación máxima.
+- **Ruta (Samaná vs Punta Cana):** Descartado Punta Cana por modelo comercial masificado sin actividades de aventura auténticas. Samaná ofrece las mismas aguas caribeñas con el 20% de los turistas y el 100% del carácter.
 
 ---
 
 ## 🗺️ Mapa Interactivo
-<div id="map" style="height: 400px;"></div>
+
+<div id="map" style="height: 450px;"></div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  var map = L.map('map').setView([19.2, -69.4], 10);
+  var map = L.map('map').setView([19.15, -69.35], 10);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
   }).addTo(map);
 
   var points = [
-    [18.43, -69.67], // 1. Aeropuerto SDQ (Estimado)
-    [19.29, -69.20], // 2. Las Galeras
-    [19.17, -69.28], // 3. Cayo Levantado
-    [19.31, -69.53], // 4. Las Terrenas
-    [18.43, -69.67]  // 5. Regreso SDQ
+    [18.43, -69.67],  // 1. SDQ
+    [19.29, -69.20],  // 2. Las Galeras (Fase 1 - 5 noches)
+    [19.34, -69.13],  // 3. Playa Frontón
+    [19.39, -69.07],  // 4. Cabo Cabrón (The Tower)
+    [19.20, -69.33],  // 5. Bahía de Samaná (Ballenas)
+    [19.18, -69.22],  // 6. Cayo Levantado (Fase 2 - 5 noches)
+    [18.43, -69.67]   // 7. SDQ Regreso
   ];
 
-  function createLabel(number, label) {
+  function createLabel(number, coords) {
     var icon = L.divIcon({
       className: 'custom-div-icon',
       html: "<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>" + number + "</div>",
       iconSize: [24, 24],
       iconAnchor: [12, 12]
     });
-    return L.marker(label, {icon: icon});
+    return L.marker(coords, {icon: icon});
   }
 
-  createLabel(1, points[0]).addTo(map).bindPopup('1. Inicio: SDQ');
-  createLabel(2, points[1]).addTo(map).bindPopup('2. Las Galeras (Aventura)');
-  createLabel(3, points[2]).addTo(map).bindPopup('3. Cayo Levantado (Isla)');
-  createLabel(4, points[3]).addTo(map).bindPopup('4. Las Terrenas (Cena)');
-  createLabel(5, points[4]).addTo(map).bindPopup('5. Fin: SDQ');
+  createLabel(1, points[0]).addTo(map).bindPopup('1. Inicio/Fin: Aeropuerto SDQ');
+  createLabel(2, points[1]).addTo(map).bindPopup('2. Las Galeras — FASE 1 (5 noches) · Villa Serena');
+  createLabel(3, points[2]).addTo(map).bindPopup('3. Playa Frontón — Día 2');
+  createLabel(4, points[3]).addTo(map).bindPopup('4. Cabo Cabrón (The Tower) — Buceo Día 4');
+  createLabel(5, points[4]).addTo(map).bindPopup('5. Bahía de Samaná — 🐋 Ballenas Día 5');
+  createLabel(6, points[5]).addTo(map).bindPopup('6. Cayo Levantado — FASE 2 Todo Incluido (5 noches)');
 
   L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);
 </script>
@@ -174,11 +198,19 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No aceptar caballos en Salto del Limón (maltrato y barro). No ir a Frontón si hay viento norte fuerte.
-- **Equipo:** Escarpines (Frontón es roca pura), repelente potente para jejenes.
+
+- **Factor "Ni de Coña":** No aceptar caballos para Salto del Limón (maltrato animal y barro evitable a pie). No ir a Frontón si hay viento norte fuerte (oleaje >2m hace el desembarco en roca imposible).
+- **Ballenas:** Reservar con **Moto Marina** (Samaná), el operador más serio de la bahía. Los barcos sin licencia se acercan demasiado a los animales (estrés del cetáceo y multas para los turistas).
+- **Buceo:** Confirmar el nivel con Las Galeras Divers antes de la inmersión en The Tower. Cabo Cabrón no es para principiantes: corrientes atlánticas y profundidad de 60m exigen soltura técnica real.
+- **Grand Bahia Príncipe:** Confirmar al reservar que el precio incluye el transfer desde Las Galeras (o al menos desde el muelle de Sánchez). El acceso a la isla solo es por lancha del hotel.
+- **Equipo:** Escarpines obligatorios (Frontón es roca pura al salir del agua). Repelente potente para jejenes (especialmente en Caño Frío). Traje de neopreno fino para buceo (agua a 27-28°C en marzo).
 
 ---
 
 ## ✈️ Logística Crítica
-- **Vuelos:** [✈️ Buscar MAD -> Santo Domingo](https://www.skyscanner.es/transport/flights/mad/sdq/260328/260405/?adults=2&currency=EUR)
+
+- **Vuelos:** [✈️ Buscar MAD → SDQ (24 Mar - 3 Abr)](https://www.skyscanner.es/transport/flights/mad/sdq/260324/260403/?adults=2&currency=EUR)
+- **Fase 1 — Hotel Aventura:** [🏡 Villa Serena, Las Galeras (Booking)](https://www.booking.com/hotel/do/villa-serena-las-galeras.html)
+- **Fase 2 — Todo Incluido:** [🏝️ Grand Bahia Príncipe Cayo Levantado (Web Oficial)](https://www.bahia-principe.com/es/hoteles/republica-dominicana/grand-bahia-principe-cayo-levantado/)
 - **Buceo:** [🤿 Las Galeras Divers](https://www.las-galeras-divers.com/)
+- **Ballenas:** [🐋 Moto Marina Samaná](https://www.motomarina.net/)
