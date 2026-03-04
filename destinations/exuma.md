@@ -19,7 +19,7 @@
 
 ## 🚀 Highlights de Actividades
 - **Thunderball Grotto:** Snorkel técnico en la cueva marina de James Bond.
-- **Dean's Blue Hole:** Posibilidad de visita al agujero azul más profundo del mundo (si se incluye Long Island).
+- ***(Extensión opcional) Long Island:*** Dean's Blue Hole, el agujero azul más profundo del mundo, **no está incluido en este itinerario**. Requiere añadir 1-2 días adicionales al sur (Long Island es un destino separado).
 - **Compass Cay:** Inmersión con tiburones nodriza en su hábitat natural.
 - **Staniel Cay:** Expedición en lancha por los 365 cayos.
 - **Sandy Cay:** Visita al banco de arena donde se filmó Piratas del Caribe.
@@ -32,7 +32,7 @@
 |:---:|:---:|:---|:---|:---|:---|
 | 28 Mar | 1 | Nassau | Vuelo (9h) | Llegada y Reset | Noche en Nassau para conexión temprana. |
 | 29 Mar | 2 | Staniel Cay | Avioneta (35m) | Llegada al corazón | Check-in y primera navegación local. |
-| 30 Mar | 3 | Thunderball | Lancha Rápida | **Cueva Submarina** | Snorkel técnico marea baja. |
+| 30 Mar | 3 | Thunderball | Lancha Rápida | **Cueva Submarina** | ⚠️ Solo accesible con marea baja. Verificar tabla de mareas antes de salir. |
 | 31 Mar | 4 | Compass Cay | Lancha Rápida | **Tiburones Nodriza** | Interacción salvaje controlada. |
 | 01 Abr | 5 | Big Major Cay | Lancha Rápida | Pig Beach | Hito visual (Pig Beach) + Navegación norte. |
 | 02 Abr | 6 | Blue Holes | Bote / Buceo | **Exploración Abisal** | Inmersión en agujeros azules locales. |

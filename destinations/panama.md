@@ -34,10 +34,10 @@
 | 29 Mar | 2 | San Blas | 4x4 (3h) + Lancha | Expedición Guna Yala | Traslado al archipiélago Caribe. |
 | 30 Mar | 3 | San Blas | Lancha Rápida | Island Hopping | Snorkel en barcos hundidos y cayos. |
 | 31 Mar | 4 | Panamá City | Lancha + 4x4 | Regreso y Canal | Visita a esclusas de Miraflores. |
-| 01 Abr | 5 | David / Sta Cat. | Vuelo (1h) + SUV | Rumbo a Coiba | Traslado al Pacífico. |
+| 01 Abr | 5 | David / Sta Cat. | Vuelo PTY→DAV (1h) + Lancha (1.5h) | Rumbo a Coiba | Coiba es isla: vuelo a David + lancha desde Santa Catalina. No se llega en coche. |
 | 02 Abr | 6 | Isla Coiba | Lancha (1.5h) | **UNESCO Buceo Coiba** | Hito Aventura: Tiburones y pelágicos. |
 | 03 Abr | 7 | Isla Coiba | Lancha | Exploración Marina | Segundo día de buceo técnico. |
-| 04 Abr | 8 | Panamá City | SUV / Vuelo | Regreso y Cena Autor | Última noche en el hub de las Américas. |
+| 04 Abr | 8 | Panamá City | Lancha (1.5h) + Vuelo DAV→PTY | Regreso y Cena Autor | Lancha Coiba→Sta. Catalina + vuelo a PTY. Última noche en la capital. |
 | 05 Abr | 9 | Madrid | Vuelo (11h) | Regreso | Vuelo directo PTY -> MAD. |
 
 ---

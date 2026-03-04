@@ -37,7 +37,7 @@
 | 01 Abr | 5 | Loen | Coche (4h) | Loen Skylift | Subida al Mt. Hoven. Raquetas de nieve. |
 | 02 Abr | 6 | Valldal | Coche (3h) | Juvet Landscape | Relax en hotel de diseño orgánico. |
 | 03 Abr | 7 | Ålesund | Coche (2h) | Estilo Art Nouveau | Subida al mirador Aksla (418 escalones). |
-| 04 Abr | 8 | Bergen | Coche (6h) | Ruta Panorámica | Regreso a Bergen bordeando fiordos. |
+| 04 Abr | 8 | Bergen | Coche (6h) | Ruta Panorámica | ⚠️ Etapa larga. Salir antes de las 09:00 AM para llegar con margen antes del vuelo del Día 9. |
 | 05 Abr | 9 | Madrid | Vuelo (3h 45m) | Regreso | Devolución coche 3h antes. |
 
 ---

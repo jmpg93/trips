@@ -22,7 +22,7 @@
 - **Buceo en Silfra:** Inmersión entre las placas de Eurasia y América. Visibilidad +100m.
 - **Cuevas de Hielo Azul:** Expedición técnica en el glaciar Vatnajökull.
 - **ION Adventure Hotel:** Diseño brutalista en mitad de un campo de lava.
-- **Auroras Boreales:** Temporada final de avistamiento en cielos oscuros.
+- **Observación Nocturna:** Final de temporada oscura; posibilidad de avistamiento de auroras en noches despejadas de principios de semana (luz escasa antes de las 20:00h en marzo). No garantizado.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 🗺️ Estrategia por Fases
 - **Fase 1 (Círculo Dorado):** Inmersión geológica y el reto técnico de Silfra.
-- **Fase 2 (Hielo y Fuego):** Expediciones glaciares en el sureste y caza de auroras.
+- **Fase 2 (Hielo y Fuego):** Expediciones glaciares en el sureste. ⚠️ En Semana Santa (finales de marzo) el sol se pone ~20:00h; las auroras boreales son casi imposibles de ver. No planificar el viaje en torno a ellas.
 
 ---
 
@@ -126,7 +126,7 @@ Expedición técnica al corazón del hielo. El buceo en Silfra es vuestro reto d
 ---
 
 ## ⚠️ Check de Supervivencia (Agente)
-- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (el viento las arranca). No acercarse al agua en Reynisfjara.
+- **Factor "Ni de Coña":** No abrir la puerta del coche sin sujetarla (el viento las arranca). No acercarse al agua en Reynisfjara. ⚠️ **Auroras boreales:** A finales de marzo hay ~16-17h de luz diaria; el avistamiento de auroras es prácticamente imposible. No incluir como actividad planificada. ⚠️ **Cueva Katla:** Verificar disponibilidad antes del viaje; puede estar cerrada por condiciones del glaciar en marzo/abril.
 - **Seguros:** Contratar **GP** y **SAAP** obligatoriamente.
 
 ---

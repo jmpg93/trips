@@ -13,7 +13,7 @@
 | Alojamiento | €1,600 - €2,400 | Chalet Tropical (Boutique) + Cayo Levantado |
 | Actividades | €400 - €600 | Buceo Técnico + Excursiones |
 | Extras | €400 - €600 | Pescado local + Cenas Las Terrenas |
-| **Total** | **€4,100 - €6,000** | **Presupuesto por pareja / 8 días** |
+| **Total** | **€4,100 - €6,000** | **Presupuesto por pareja / 9 días** |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |
 |:---:|:---:|:---:|:---|:---|:---|
-| 28 Mar | 1 | Las Galeras | Vuelo (8h 30m) + Taxi (3h) | Llegada y Quad | Traslado SDQ -> Las Galeras. |
+| 28 Mar | 1 | Las Galeras | Vuelo (~10h) + Taxi (3h) | Llegada y Quad | Escala habitual en MIA o JFK. Traslado SDQ -> Las Galeras. |
 | 29 Mar | 2 | Las Galeras | Bote (25m) / Quad | Playas Frontón y Madama | Snorkel técnico en arrecife de pared. |
 | 30 Mar | 3 | Las Galeras | Quad (45m) | Playa Rincón / Caño Frío | Baño en río dulce para reset térmico. |
 | 31 Mar | 4 | Las Galeras | Bote Buceo (30m) | **Buceo Cabo Cabrón** | Inmersión en "The Tower". |
@@ -38,7 +38,7 @@
 | 02 Abr | 6 | C. Levantado | Lancha (15m) | Relax / Isla Privada | Disfrutar de las instalaciones del islote. |
 | 03 Abr | 7 | Las Terrenas | Scooter (15m) | Gastronomía de Autor | Cena en El Pescador (Vibe europeo). |
 | 04 Abr | 8 | Las Terrenas | Scooter / Relax | Exploración Costera | Atardecer en Playa Bonita. |
-| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (8h 30m) | Regreso | Salir con 6h de margen respecto al vuelo. |
+| 05 Abr | 9 | Madrid | Taxi (3h) + Vuelo (~10h) | Regreso | Salir con 6h de margen. Escala habitual en MIA o JFK. |
 
 ---
 
@@ -121,7 +121,7 @@ Buceo técnico en **Piedra Bonita (The Tower)**. Un pináculo volcánico que cae
 - **Valor Diferencial:** Última exploración de calas como Playa Bonita. Es el día de disfrutar de los últimos baños en aguas cristalinas antes del regreso.
 
 ### Día 9: El regreso
-- **Logística:** **3h de traslado privado** hasta el aeropuerto SDQ. Vuelo de **8h 30m** a Madrid.
+- **Logística:** **3h de traslado privado** hasta el aeropuerto SDQ. Vuelo de **~10h** a Madrid (con escala habitual en MIA o JFK).
 - **Valor Diferencial:** Cierre del ciclo. Salida con margen amplio para asegurar el vuelo directo sin estrés.
 
 ---

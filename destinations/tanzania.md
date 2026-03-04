@@ -13,7 +13,7 @@
 | Alojamiento | €1,500 - €2,500 | Lodges Gran Lujo (Precios Low Season) |
 | Actividades | €600 - €900 | Safari Migration + Trekking Empakaai |
 | Comida/Extras | €400 - €700 | Pensión completa Safari + Zanzíbar |
-| **Total** | **€4,400 - €6,900** | **Presupuesto por pareja / 9-10 días** |
+| **Total** | **€4,400 - €6,900** | **Presupuesto por pareja / 9 días** |
 
 ---
 
