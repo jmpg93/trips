@@ -1,5 +1,7 @@
 # Control de Viajes
 
+> 🚀 **[→ Abrir Dashboard Interactivo](index.html)** — Vista grid, calendario estacional, filtros por categoría y precios de un vistazo.
+
 ## 📊 Disponibilidad y Estilo de Viaje (Semana Santa 2026)
 - [🗓️ Ver Tabla de Meses](#-calendario-estacional)
 
