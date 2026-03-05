@@ -274,7 +274,7 @@ document.addEventListener('alpine:init', () => {
       return 'https://www.kayak.es/';
     },
     getDetailUrl(dest) {
-      return `/destinations/${dest.id}`;
+      return `destinations/${dest.id}`;
     },
   }));
 });
