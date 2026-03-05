@@ -187,15 +187,8 @@ document.addEventListener('alpine:init', () => {
       return CATEGORIES.find(c => c.id === catId) || {};
     },
 
-    getCategoryBadgeStyle(catId) {
-      const colors = {
-        adventure: 'background:rgba(249,115,22,0.15);color:#c2410c;',
-        relax:     'background:rgba(20,184,166,0.15);color:#0f766e;',
-        beach:     'background:rgba(245,158,11,0.15);color:#b45309;',
-        city:      'background:rgba(100,116,139,0.15);color:#475569;',
-        friends:   'background:rgba(139,92,246,0.15);color:#6d28d9;',
-      };
-      return colors[catId] || 'background:rgba(148,163,184,0.15);color:#64748b;';
+    getCategoryBadgeStyle(_catId) {
+      return '';  // styling handled by .cat-tag in trips.css
     },
 
     getCategoryLabel(catId) {
@@ -227,21 +220,12 @@ document.addEventListener('alpine:init', () => {
       return (score / 10) * 100 + '%';
     },
 
-    getScoreColor(score) {
-      if (score >= 8) return '#22c55e';
-      if (score >= 6) return '#f59e0b';
-      return '#ef4444';
+    getScoreColor(_score) {
+      return '#f97316';
     },
 
-    getCardAccent(dest) {
-      const map = {
-        adventure: '#f97316',
-        relax:     '#14b8a6',
-        beach:     '#f59e0b',
-        city:      '#64748b',
-        friends:   '#8b5cf6',
-      };
-      return map[dest.categories?.[0]] || '#94a3b8';
+    getCardAccent(_dest) {
+      return '#f97316';  // single accent — orange
     },
 
     // ---- METHODS: Formatting ----
