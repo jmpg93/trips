@@ -923,12 +923,12 @@ const HERO_GRADIENTS = {
 
 // Category config
 const CATEGORIES = [
-  { id: "all",       label: "Todos",    emoji: "🗺️", color: "bg-slate-600" },
-  { id: "adventure", label: "Aventura", emoji: "🧗", color: "bg-orange-500", textColor: "text-orange-700", bgLight: "bg-orange-100", darkBg: "dark:bg-orange-900/40", darkText: "dark:text-orange-300" },
-  { id: "relax",     label: "Relax",    emoji: "🌴", color: "bg-teal-500",   textColor: "text-teal-700",   bgLight: "bg-teal-100",   darkBg: "dark:bg-teal-900/40",   darkText: "dark:text-teal-300" },
-  { id: "beach",     label: "Playa",    emoji: "🏖️", color: "bg-amber-400", textColor: "text-amber-700",  bgLight: "bg-amber-100",  darkBg: "dark:bg-amber-900/40",  darkText: "dark:text-amber-300" },
-  { id: "city",      label: "Ciudad",   emoji: "🏛️", color: "bg-slate-500", textColor: "text-slate-700",  bgLight: "bg-slate-100",  darkBg: "dark:bg-slate-700",     darkText: "dark:text-slate-300" },
-  { id: "friends",   label: "Amigos",   emoji: "👥", color: "bg-violet-500", textColor: "text-violet-700", bgLight: "bg-violet-100", darkBg: "dark:bg-violet-900/40", darkText: "dark:text-violet-300" },
+  { id: "all",       label: "Todos",    emoji: "🗺️" },
+  { id: "adventure", label: "Aventura", emoji: "🧗" },
+  { id: "relax",     label: "Relax",    emoji: "🌴" },
+  { id: "beach",     label: "Playa",    emoji: "🏖️" },
+  { id: "city",      label: "Ciudad",   emoji: "🏛️" },
+  { id: "friends",   label: "Amigos",   emoji: "👥" },
 ];
 
 const MONTH_NAMES     = ["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"];

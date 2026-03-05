@@ -11,20 +11,7 @@ layout: null
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: {
-            adventure: { DEFAULT: '#f97316', light: '#fed7aa' },
-            relax:     { DEFAULT: '#14b8a6', light: '#ccfbf1' },
-            beach:     { DEFAULT: '#f59e0b', light: '#fef3c7' },
-            city:      { DEFAULT: '#64748b', light: '#f1f5f9' },
-            friends:   { DEFAULT: '#8b5cf6', light: '#ede9fe' },
-          }
-        }
-      }
-    }
+    tailwind.config = { darkMode: 'class' }
   </script>
 
   <!-- Alpine.js -->
@@ -38,8 +25,8 @@ layout: null
   <script src="assets/js/trips-data.js"></script>
   <script src="assets/js/dashboard.js"></script>
 
-  <!-- Custom styles -->
-  <link rel="stylesheet" href="assets/css/dashboard.css">
+  <!-- Shared design system -->
+  <link rel="stylesheet" href="assets/css/trips.css">
 
   <style>
     /* Prevent FOUC */
@@ -54,13 +41,7 @@ layout: null
      [A] HERO HEADER
 ================================================================ -->
 <header class="header-bg text-white relative overflow-hidden">
-  <!-- Decorative blobs -->
-  <div class="absolute inset-0 overflow-hidden pointer-events-none">
-    <div class="absolute -top-24 -right-24 w-96 h-96 bg-orange-500/10 rounded-full blur-3xl"></div>
-    <div class="absolute -bottom-12 -left-12 w-80 h-80 bg-violet-500/10 rounded-full blur-3xl"></div>
-  </div>
-
-  <div class="relative max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10">
     <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
 
       <!-- Title block -->
@@ -99,24 +80,20 @@ layout: null
     <!-- Stats row -->
     <div class="flex flex-wrap gap-3 mt-6">
       <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-        <span class="text-slate-400">Total destinos</span>
+        <span class="text-slate-400">Destinos</span>
         <span class="ml-2 font-bold text-white" x-text="destinations.length"></span>
       </div>
       <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-        <span class="text-slate-400">Presupuesto mínimo</span>
-        <span class="ml-2 font-bold text-green-400">€1.910</span>
+        <span class="text-slate-400">Desde</span>
+        <span class="ml-2 font-bold text-white">€1.910</span>
       </div>
       <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-        <span class="text-slate-400">Máximo lujo</span>
-        <span class="ml-2 font-bold text-violet-400">€8.900</span>
-      </div>
-      <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-        <span class="text-slate-400">Vuelo más corto</span>
-        <span class="ml-2 font-bold text-orange-400">2h · Sicilia & Marruecos</span>
+        <span class="text-slate-400">Vuelo mínimo</span>
+        <span class="ml-2 font-bold text-white">2h · Sicilia & Marruecos</span>
       </div>
       <div class="stat-pill rounded-xl px-4 py-2 text-sm hidden sm:flex">
         <span class="text-slate-400">Joyas ocultas</span>
-        <span class="ml-2 font-bold text-cyan-400" x-text="destinations.filter(d=>d.isGem).length + ' destinos'"></span>
+        <span class="ml-2 font-bold text-white" x-text="destinations.filter(d=>d.isGem).length"></span>
       </div>
     </div>
   </div>
@@ -158,7 +135,7 @@ layout: null
         <template x-for="cat in categories" :key="cat.id">
           <button @click="toggleCategory(cat.id)"
                   :class="isCategoryActive(cat.id)
-                    ? cat.color + ' text-white shadow-md'
+                    ? 'bg-orange-500 text-white'
                     : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'"
                   class="cat-pill rounded-full px-3 py-1.5 text-xs sm:text-sm font-medium transition-all">
             <span x-text="cat.emoji + ' ' + cat.label"></span>
@@ -307,14 +284,11 @@ layout: null
             <!-- Category tags -->
             <div class="flex flex-wrap gap-1.5 mb-3">
               <template x-for="cat in dest.categories" :key="cat">
-                <span class="text-xs font-semibold px-2 py-0.5 rounded-full"
-                      :style="getCategoryBadgeStyle(cat)"
+                <span class="cat-tag text-xs font-medium px-2 py-0.5 rounded-full"
                       x-text="getCategoryLabel(cat)"></span>
               </template>
               <template x-if="dest.isGem">
-                <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300">
-                  💎 Joya oculta
-                </span>
+                <span class="cat-tag text-xs font-medium px-2 py-0.5 rounded-full">💎 Joya oculta</span>
               </template>
             </div>
 
@@ -323,23 +297,23 @@ layout: null
               <div>
                 <p class="text-[10px] text-slate-400 mb-1">Aventura</p>
                 <div class="score-bar">
-                  <div class="score-fill bg-orange-400" :style="'width:' + getScoreFill(dest.adventureScore)"></div>
+                  <div class="score-fill" :style="'width:' + getScoreFill(dest.adventureScore)"></div>
                 </div>
-                <p class="text-xs font-bold text-orange-500 mt-0.5" x-text="dest.adventureScore + '/10'"></p>
+                <p class="text-xs font-bold text-slate-600 dark:text-slate-300 mt-0.5" x-text="dest.adventureScore + '/10'"></p>
               </div>
               <div>
                 <p class="text-[10px] text-slate-400 mb-1">Relax</p>
                 <div class="score-bar">
-                  <div class="score-fill bg-teal-400" :style="'width:' + getScoreFill(dest.relaxScore)"></div>
+                  <div class="score-fill" :style="'width:' + getScoreFill(dest.relaxScore)"></div>
                 </div>
-                <p class="text-xs font-bold text-teal-500 mt-0.5" x-text="dest.relaxScore + '/10'"></p>
+                <p class="text-xs font-bold text-slate-600 dark:text-slate-300 mt-0.5" x-text="dest.relaxScore + '/10'"></p>
               </div>
               <div>
                 <p class="text-[10px] text-slate-400 mb-1">Visual</p>
                 <div class="score-bar">
-                  <div class="score-fill bg-violet-400" :style="'width:' + getScoreFill(dest.visualScore)"></div>
+                  <div class="score-fill" :style="'width:' + getScoreFill(dest.visualScore)"></div>
                 </div>
-                <p class="text-xs font-bold text-violet-500 mt-0.5" x-text="dest.visualScore + '/10'"></p>
+                <p class="text-xs font-bold text-slate-600 dark:text-slate-300 mt-0.5" x-text="dest.visualScore + '/10'"></p>
               </div>
             </div>
 
@@ -519,8 +493,7 @@ layout: null
             <div class="p-4">
               <div class="flex flex-wrap gap-1.5 mb-2">
                 <template x-for="cat in dest.categories" :key="cat">
-                  <span class="text-xs font-semibold px-2 py-0.5 rounded-full"
-                        :style="getCategoryBadgeStyle(cat)"
+                  <span class="cat-tag text-xs font-medium px-2 py-0.5 rounded-full"
                         x-text="getCategoryLabel(cat)"></span>
                 </template>
               </div>
@@ -638,7 +611,7 @@ layout: null
 
           <!-- CTA buttons -->
           <div class="grid grid-cols-2 gap-2">
-            <a :href="getSkyscannerUrl(selectedDest)" target="_blank" rel="noopener"
+            <a :href="selectedDest.bookingLinks?.flights || getSkyscannerUrl(selectedDest)" target="_blank" rel="noopener"
                class="bg-orange-500 hover:bg-orange-600 text-white rounded-xl py-2.5 text-sm font-bold text-center transition-colors flex items-center justify-center gap-1.5">
               ✈️ Buscar vuelo
             </a>
@@ -673,12 +646,11 @@ layout: null
         <div>
           <div class="flex flex-wrap gap-2 mb-4">
             <template x-for="cat in selectedDest.categories" :key="cat">
-              <span class="font-semibold text-sm px-3 py-1 rounded-full"
-                    :style="getCategoryBadgeStyle(cat)"
+              <span class="cat-tag font-medium text-sm px-3 py-1 rounded-full"
                     x-text="getCategoryLabel(cat)"></span>
             </template>
             <template x-if="selectedDest.isGem">
-              <span class="font-semibold text-sm px-3 py-1 rounded-full bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300">💎 Joya oculta</span>
+              <span class="cat-tag font-medium text-sm px-3 py-1 rounded-full">💎 Joya oculta</span>
             </template>
           </div>
 
@@ -686,23 +658,23 @@ layout: null
             <div class="flex items-center gap-3">
               <span class="text-xs text-slate-400 w-16 shrink-0">Aventura</span>
               <div class="flex-1 score-bar">
-                <div class="score-fill bg-orange-400" :style="'width:' + getScoreFill(selectedDest.adventureScore)"></div>
+                <div class="score-fill" :style="'width:' + getScoreFill(selectedDest.adventureScore)"></div>
               </div>
-              <span class="text-xs font-bold text-orange-500 w-8 text-right" x-text="selectedDest.adventureScore + '/10'"></span>
+              <span class="text-xs font-bold text-slate-600 dark:text-slate-300 w-8 text-right" x-text="selectedDest.adventureScore + '/10'"></span>
             </div>
             <div class="flex items-center gap-3">
               <span class="text-xs text-slate-400 w-16 shrink-0">Relax</span>
               <div class="flex-1 score-bar">
-                <div class="score-fill bg-teal-400" :style="'width:' + getScoreFill(selectedDest.relaxScore)"></div>
+                <div class="score-fill" :style="'width:' + getScoreFill(selectedDest.relaxScore)"></div>
               </div>
-              <span class="text-xs font-bold text-teal-500 w-8 text-right" x-text="selectedDest.relaxScore + '/10'"></span>
+              <span class="text-xs font-bold text-slate-600 dark:text-slate-300 w-8 text-right" x-text="selectedDest.relaxScore + '/10'"></span>
             </div>
             <div class="flex items-center gap-3">
               <span class="text-xs text-slate-400 w-16 shrink-0">Visual</span>
               <div class="flex-1 score-bar">
-                <div class="score-fill bg-violet-400" :style="'width:' + getScoreFill(selectedDest.visualScore)"></div>
+                <div class="score-fill" :style="'width:' + getScoreFill(selectedDest.visualScore)"></div>
               </div>
-              <span class="text-xs font-bold text-violet-500 w-8 text-right" x-text="selectedDest.visualScore + '/10'"></span>
+              <span class="text-xs font-bold text-slate-600 dark:text-slate-300 w-8 text-right" x-text="selectedDest.visualScore + '/10'"></span>
             </div>
           </div>
         </div>
