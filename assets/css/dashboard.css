@@ -1,0 +1,410 @@
+/* ============================================================
+   TRIPS DASHBOARD — Custom CSS
+   Tailwind CDN handles utilities; this file covers:
+   - Animated hero gradients per region
+   - Calendar scroll snap
+   - Seasonal strip cells
+   - Modal / drawer transitions
+   - Leaflet map sizing
+   - Misc polish
+   ============================================================ */
+
+/* ---- Base ---- */
+[x-cloak] { display: none !important; }
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Hero gradient backgrounds per region ---- */
+.hero-mediterranean {
+  background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 50%, #0e7490 100%);
+}
+.hero-caribbean {
+  background: linear-gradient(135deg, #2dd4bf 0%, #0891b2 50%, #1d4ed8 100%);
+}
+.hero-desert {
+  background: linear-gradient(135deg, #f59e0b 0%, #ea580c 50%, #b91c1c 100%);
+}
+.hero-nordic {
+  background: linear-gradient(135deg, #4f46e5 0%, #1e40af 50%, #1e293b 100%);
+}
+.hero-tropical {
+  background: linear-gradient(135deg, #22c55e 0%, #059669 50%, #0f766e 100%);
+}
+.hero-africa {
+  background: linear-gradient(135deg, #d97706 0%, #c2410c 50%, #7f1d1d 100%);
+}
+.hero-atlantic {
+  background: linear-gradient(135deg, #64748b 0%, #1d4ed8 50%, #312e81 100%);
+}
+.hero-mountain {
+  background: linear-gradient(135deg, #7c3aed 0%, #4338ca 50%, #1e3a8a 100%);
+}
+.hero-asia {
+  background: linear-gradient(135deg, #ec4899 0%, #8b5cf6 50%, #6d28d9 100%);
+}
+
+/* ---- Calendar grid ---- */
+.calendar-scroll {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148,163,184,0.4) transparent;
+}
+.calendar-scroll::-webkit-scrollbar { height: 4px; }
+.calendar-scroll::-webkit-scrollbar-track { background: transparent; }
+.calendar-scroll::-webkit-scrollbar-thumb {
+  background: rgba(148,163,184,0.4);
+  border-radius: 2px;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(160px, 1fr));
+  gap: 8px;
+  min-width: 1920px;
+}
+
+.calendar-month-col {
+  scroll-snap-align: start;
+  min-height: 400px;
+}
+
+/* ---- Destination mini-card in calendar ---- */
+.dest-mini-card {
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.dest-mini-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px -8px rgba(0,0,0,0.25);
+}
+
+/* ---- Main grid cards ---- */
+.dest-card {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.dest-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 50px -15px rgba(0,0,0,0.3);
+}
+
+.dest-card .card-hero {
+  height: 160px;
+  position: relative;
+  overflow: hidden;
+}
+
+.dest-card .card-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.dest-card:hover .card-hero img {
+  transform: scale(1.05);
+}
+
+/* ---- Price badge ---- */
+.price-badge {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* ---- Score bars ---- */
+.score-bar {
+  height: 4px;
+  border-radius: 2px;
+  background: #e2e8f0;
+  overflow: hidden;
+}
+.score-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ---- Seasonal strip cells ---- */
+.seasonal-cell {
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-size: 13px;
+  cursor: default;
+  transition: transform 0.1s;
+}
+.seasonal-cell:hover { transform: scale(1.2); }
+.seasonal-cell.active-month { box-shadow: 0 0 0 2px #f97316; }
+
+.seasonal-ok       { background: #dcfce7; }
+.seasonal-hot      { background: #fef9c3; }
+.seasonal-rain     { background: #f1f5f9; opacity: 0.6; }
+.seasonal-snow     { background: #dbeafe; }
+.seasonal-ski      { background: #bfdbfe; }
+.seasonal-wildlife { background: #fef3c7; }
+.seasonal-auroras  { background: #ede9fe; }
+.seasonal-nature   { background: #d1fae5; }
+.seasonal-whales   { background: #cffafe; }
+.seasonal-mountain { background: #e0e7ff; }
+.seasonal-no       { background: #fee2e2; opacity: 0.5; }
+
+/* Dark mode seasonal cells */
+.dark .seasonal-ok       { background: #14532d; }
+.dark .seasonal-hot      { background: #713f12; }
+.dark .seasonal-rain     { background: #1e293b; opacity: 0.6; }
+.dark .seasonal-snow     { background: #1e3a8a; }
+.dark .seasonal-ski      { background: #1e40af; }
+.dark .seasonal-wildlife { background: #78350f; }
+.dark .seasonal-auroras  { background: #2e1065; }
+.dark .seasonal-nature   { background: #064e3b; }
+.dark .seasonal-whales   { background: #164e63; }
+.dark .seasonal-mountain { background: #312e81; }
+.dark .seasonal-no       { background: #450a0a; opacity: 0.5; }
+
+/* ---- Detail drawer / modal ---- */
+.drawer-backdrop {
+  animation: fadeIn 0.2s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.drawer-panel {
+  animation: slideInRight 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@keyframes slideInRight {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+.drawer-panel::-webkit-scrollbar { width: 4px; }
+.drawer-panel::-webkit-scrollbar-track { background: transparent; }
+.drawer-panel::-webkit-scrollbar-thumb {
+  background: rgba(148,163,184,0.3);
+  border-radius: 2px;
+}
+
+/* ---- Leaflet map in drawer ---- */
+#detail-map {
+  height: 200px;
+  border-radius: 12px;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.leaflet-container {
+  font-family: inherit;
+}
+
+/* ---- Budget breakdown box ---- */
+.budget-box {
+  background: linear-gradient(135deg, rgba(249,115,22,0.05) 0%, rgba(234,88,12,0.08) 100%);
+  border: 1px solid rgba(249,115,22,0.2);
+}
+.dark .budget-box {
+  background: linear-gradient(135deg, rgba(249,115,22,0.08) 0%, rgba(234,88,12,0.12) 100%);
+  border-color: rgba(249,115,22,0.25);
+}
+
+/* ---- Status badges ---- */
+.badge-planning {
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+  color: white;
+  animation: pulse-green 2s ease-in-out infinite;
+}
+@keyframes pulse-green {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(34,197,94,0.4); }
+  50% { box-shadow: 0 0 0 6px rgba(34,197,94,0); }
+}
+
+.badge-dreaming {
+  background: rgba(148,163,184,0.15);
+  color: #64748b;
+  border: 1px solid rgba(148,163,184,0.3);
+}
+
+/* ---- Long haul indicator ---- */
+.long-haul-badge {
+  background: linear-gradient(135deg, #7c3aed, #6d28d9);
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* ---- Header gradient animation ---- */
+.header-bg {
+  background: linear-gradient(
+    -45deg,
+    #0f172a, #1e1b4b, #0c1445, #0f2027
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+}
+@keyframes gradientShift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ---- Category filter pills ---- */
+.cat-pill {
+  transition: all 0.15s ease;
+  border: 2px solid transparent;
+}
+.cat-pill:hover {
+  transform: translateY(-1px);
+}
+.cat-pill.active {
+  box-shadow: 0 4px 15px -4px currentColor;
+}
+
+/* ---- Month button ---- */
+.month-btn {
+  transition: all 0.15s ease;
+  border: 2px solid transparent;
+}
+.month-btn:hover { transform: translateY(-1px); }
+.month-btn.current-month {
+  border-color: #f97316;
+  font-weight: 700;
+}
+
+/* ---- Discovery cards ---- */
+.gem-card {
+  position: relative;
+  overflow: hidden;
+}
+.gem-card::after {
+  content: '💎';
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  font-size: 18px;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+}
+
+/* ---- Itinerary accordion ---- */
+.itinerary-row {
+  border-left: 3px solid #f97316;
+  transition: background 0.15s;
+}
+.itinerary-row:hover { background: rgba(249,115,22,0.05); }
+
+/* ---- Stats strip ---- */
+.stat-pill {
+  backdrop-filter: blur(8px);
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  transition: background 0.2s;
+}
+.stat-pill:hover { background: rgba(255,255,255,0.15); }
+
+/* ---- View toggle buttons ---- */
+.view-toggle button {
+  transition: all 0.15s ease;
+}
+
+/* ---- Budget range input ---- */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 4px;
+  border-radius: 2px;
+  background: #e2e8f0;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #f97316;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(249,115,22,0.4);
+}
+input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #f97316;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 2px 6px rgba(249,115,22,0.4);
+}
+.dark input[type="range"] {
+  background: #334155;
+}
+
+/* ---- Responsive helpers ---- */
+@media (max-width: 768px) {
+  .drawer-panel {
+    animation: slideInUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    border-radius: 20px 20px 0 0;
+    max-height: 90vh;
+  }
+  @keyframes slideInUp {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+  }
+  #detail-map { height: 150px; }
+}
+
+/* ---- Tooltip ---- */
+[data-tooltip] {
+  position: relative;
+}
+[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e293b;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  z-index: 100;
+}
+[data-tooltip]:hover::after { opacity: 1; }
+
+/* ---- Scrollbar global ---- */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: rgba(148,163,184,0.3);
+  border-radius: 3px;
+}
+
+/* ---- Filter count badge ---- */
+.filter-count {
+  min-width: 18px;
+  height: 18px;
+  background: #f97316;
+  color: white;
+  border-radius: 9px;
+  font-size: 11px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}

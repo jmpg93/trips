@@ -1,0 +1,802 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="es" x-data="dashboard()" :class="{ 'dark': darkMode }" x-cloak>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mis Viajes — Dashboard</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            adventure: { DEFAULT: '#f97316', light: '#fed7aa' },
+            relax:     { DEFAULT: '#14b8a6', light: '#ccfbf1' },
+            beach:     { DEFAULT: '#f59e0b', light: '#fef3c7' },
+            city:      { DEFAULT: '#64748b', light: '#f1f5f9' },
+            friends:   { DEFAULT: '#8b5cf6', light: '#ede9fe' },
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Alpine.js -->
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Trip data + component (must load before Alpine) -->
+  <script src="/assets/js/trips-data.js"></script>
+  <script src="/assets/js/dashboard.js"></script>
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="/assets/css/dashboard.css">
+
+  <style>
+    /* Prevent FOUC */
+    [x-cloak] { display: none !important; }
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 min-h-screen">
+
+<!-- ================================================================
+     [A] HERO HEADER
+================================================================ -->
+<header class="header-bg text-white relative overflow-hidden">
+  <!-- Decorative blobs -->
+  <div class="absolute inset-0 overflow-hidden pointer-events-none">
+    <div class="absolute -top-24 -right-24 w-96 h-96 bg-orange-500/10 rounded-full blur-3xl"></div>
+    <div class="absolute -bottom-12 -left-12 w-80 h-80 bg-violet-500/10 rounded-full blur-3xl"></div>
+  </div>
+
+  <div class="relative max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10">
+    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+
+      <!-- Title block -->
+      <div>
+        <div class="flex items-center gap-3 mb-2">
+          <span class="text-3xl">✈️</span>
+          <h1 class="text-3xl sm:text-4xl font-black tracking-tight">Mis Viajes</h1>
+        </div>
+        <p class="text-slate-300 text-sm sm:text-base">
+          <span x-text="destinations.length"></span> destinos · desde MAD · 2 personas
+        </p>
+      </div>
+
+      <!-- Header right: stats + dark mode -->
+      <div class="flex items-center gap-3 flex-wrap">
+
+        <!-- Planning trip badges -->
+        <template x-for="trip in planningTrips" :key="trip.id">
+          <button @click="openDetail(trip)"
+                  class="stat-pill rounded-full px-3 py-1.5 text-xs sm:text-sm font-semibold flex items-center gap-1.5 hover:scale-105 transition-transform">
+            <span class="w-1.5 h-1.5 bg-green-400 rounded-full animate-pulse"></span>
+            <span x-text="trip.emoji + ' ' + trip.name"></span>
+            <span class="text-slate-400 font-normal" x-text="'· ' + (trip.plannedDates?.split('–')[0].trim() || '')"></span>
+          </button>
+        </template>
+
+        <!-- Dark mode toggle -->
+        <button @click="darkMode = !darkMode"
+                class="stat-pill rounded-full w-10 h-10 flex items-center justify-center hover:scale-110 transition-transform"
+                :title="darkMode ? 'Modo claro' : 'Modo oscuro'">
+          <span x-text="darkMode ? '☀️' : '🌙'" class="text-base"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Stats row -->
+    <div class="flex flex-wrap gap-3 mt-6">
+      <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+        <span class="text-slate-400">Total destinos</span>
+        <span class="ml-2 font-bold text-white" x-text="destinations.length"></span>
+      </div>
+      <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+        <span class="text-slate-400">Presupuesto mínimo</span>
+        <span class="ml-2 font-bold text-green-400">€1.910</span>
+      </div>
+      <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+        <span class="text-slate-400">Máximo lujo</span>
+        <span class="ml-2 font-bold text-violet-400">€8.900</span>
+      </div>
+      <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+        <span class="text-slate-400">Vuelo más corto</span>
+        <span class="ml-2 font-bold text-orange-400">2h · Sicilia & Marruecos</span>
+      </div>
+      <div class="stat-pill rounded-xl px-4 py-2 text-sm hidden sm:flex">
+        <span class="text-slate-400">Joyas ocultas</span>
+        <span class="ml-2 font-bold text-cyan-400" x-text="destinations.filter(d=>d.isGem).length + ' destinos'"></span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ================================================================
+     [B] STICKY FILTER BAR
+================================================================ -->
+<nav class="sticky top-0 z-40 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 shadow-sm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+
+    <!-- Row 1: View toggle + categories + budget -->
+    <div class="flex flex-wrap items-center gap-2 sm:gap-3 py-3">
+
+      <!-- View mode toggle -->
+      <div class="view-toggle flex rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700 shrink-0">
+        <button @click="viewMode='grid'"
+                :class="viewMode==='grid' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1">
+          <span>⊞</span><span class="hidden sm:inline">Grid</span>
+        </button>
+        <button @click="viewMode='calendar'"
+                :class="viewMode==='calendar' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1 border-x border-slate-200 dark:border-slate-700">
+          <span>📅</span><span class="hidden sm:inline">Calendario</span>
+        </button>
+        <button @click="viewMode='discovery'"
+                :class="viewMode==='discovery' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1">
+          <span>🔭</span><span class="hidden sm:inline">Discovery</span>
+        </button>
+      </div>
+
+      <!-- Separator -->
+      <div class="w-px h-8 bg-slate-200 dark:bg-slate-700 hidden sm:block shrink-0"></div>
+
+      <!-- Category pills -->
+      <div class="flex flex-wrap gap-2">
+        <template x-for="cat in categories" :key="cat.id">
+          <button @click="toggleCategory(cat.id)"
+                  :class="isCategoryActive(cat.id)
+                    ? cat.color + ' text-white shadow-md'
+                    : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'"
+                  class="cat-pill rounded-full px-3 py-1.5 text-xs sm:text-sm font-medium transition-all">
+            <span x-text="cat.emoji + ' ' + cat.label"></span>
+          </button>
+        </template>
+      </div>
+
+      <!-- Budget slider (pushed right on large screens) -->
+      <div class="flex items-center gap-2 ml-auto shrink-0">
+        <span class="text-xs text-slate-500 dark:text-slate-400 hidden sm:inline">Presupuesto</span>
+        <input type="range" min="1000" max="10000" step="500"
+               x-model.number="activeBudgetMax"
+               class="w-20 sm:w-28"
+               :title="'Hasta €' + activeBudgetMax.toLocaleString('es')">
+        <span class="text-sm font-bold text-orange-500 whitespace-nowrap min-w-[56px] text-right"
+              x-text="activeBudgetMax >= 10000 ? 'Sin límite' : '≤€' + (activeBudgetMax/1000).toFixed(1) + 'k'"></span>
+      </div>
+    </div>
+
+    <!-- Row 2: Month filter + region + search + clear -->
+    <div class="flex flex-wrap items-center gap-2 pb-3">
+
+      <!-- Month strip -->
+      <div class="flex gap-1 flex-wrap">
+        <template x-for="(m, i) in monthNames" :key="i">
+          <button @click="selectMonth(i + 1)"
+                  :class="[
+                    activeMonth === i+1 ? 'bg-orange-500 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700',
+                    currentMonth === i+1 ? 'current-month ring-2 ring-orange-400 ring-offset-1' : ''
+                  ]"
+                  class="month-btn w-8 h-8 rounded-lg text-xs font-semibold"
+                  :data-tooltip="monthNamesFull[i]"
+                  x-text="m"></button>
+        </template>
+      </div>
+
+      <!-- Region filter -->
+      <select x-model="activeRegion"
+              class="ml-auto text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-1.5 outline-none focus:ring-2 focus:ring-orange-400">
+        <option value="all">🌍 Todas las regiones</option>
+        <template x-for="r in regions.filter(x => x !== 'all')" :key="r">
+          <option :value="r" x-text="r"></option>
+        </template>
+      </select>
+
+      <!-- Search -->
+      <div class="relative">
+        <span class="absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400 text-xs">🔍</span>
+        <input type="search"
+               x-model="searchQuery"
+               placeholder="Buscar destino…"
+               class="pl-7 pr-3 py-1.5 text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 outline-none focus:ring-2 focus:ring-orange-400 w-36 sm:w-48">
+      </div>
+
+      <!-- Active filter count + clear -->
+      <template x-if="activeFilterCount > 0">
+        <button @click="clearFilters()"
+                class="flex items-center gap-1.5 text-xs text-slate-500 hover:text-orange-500 transition-colors">
+          <span class="filter-count" x-text="activeFilterCount"></span>
+          <span>Limpiar filtros</span>
+        </button>
+      </template>
+
+      <!-- Results count -->
+      <span class="text-xs text-slate-400 ml-auto">
+        <span x-text="filteredDestinations.length"></span>
+        <span> de </span>
+        <span x-text="destinations.length"></span>
+        <span> destinos</span>
+      </span>
+    </div>
+  </div>
+</nav>
+
+<!-- ================================================================
+     MAIN CONTENT
+================================================================ -->
+<main class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+
+  <!-- ============================================================
+       [E] GRID VIEW
+  ============================================================ -->
+  <div x-show="viewMode === 'grid'">
+
+    <!-- Empty state -->
+    <div x-show="filteredDestinations.length === 0" class="text-center py-20">
+      <p class="text-5xl mb-4">🗺️</p>
+      <p class="text-xl font-semibold text-slate-500">Sin destinos para estos filtros</p>
+      <button @click="clearFilters()" class="mt-4 text-orange-500 hover:underline text-sm">Limpiar filtros</button>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+      <template x-for="dest in filteredDestinations" :key="dest.id">
+        <div @click="openDetail(dest)"
+             class="dest-card bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800 shadow-sm"
+             :class="dest.isGem ? 'gem-card' : ''">
+
+          <!-- Hero image / gradient -->
+          <div class="card-hero" :class="getHeroGradientClass(dest)">
+            <!-- Overlay gradient -->
+            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+
+            <!-- Destination name overlay -->
+            <div class="absolute bottom-3 left-3 right-16">
+              <p class="text-white font-black text-lg leading-tight drop-shadow-lg"
+                 x-text="dest.emoji + ' ' + dest.name"></p>
+              <p class="text-white/70 text-xs mt-0.5" x-text="dest.flag + ' ' + dest.country"></p>
+            </div>
+
+            <!-- Price badge — THE KEY VISUAL -->
+            <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
+              <p class="text-orange-600 dark:text-orange-400 font-black text-sm leading-tight whitespace-nowrap">
+                <span x-text="formatPrice(dest.budget.totalMin)"></span>
+                <span class="text-slate-300 font-light">–</span>
+                <span x-text="formatPrice(dest.budget.totalMax)"></span>
+              </p>
+              <p class="text-slate-400 text-[10px] text-right leading-none mt-0.5">2 pax</p>
+            </div>
+
+            <!-- Status badge -->
+            <template x-if="dest.status === 'planning'">
+              <div class="badge-planning absolute top-3 left-3 text-xs font-bold px-2 py-1 rounded-full">
+                ✅ Planning
+              </div>
+            </template>
+
+            <!-- Long haul indicator -->
+            <template x-if="dest.isLongHaul">
+              <div class="long-haul-badge absolute bottom-3 right-3">✈️ Largo</div>
+            </template>
+          </div>
+
+          <!-- Card body -->
+          <div class="p-4">
+            <!-- Flight info row -->
+            <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mb-3">
+              <span>✈️ MAD</span>
+              <span>→</span>
+              <span x-text="dest.destinationAirport"></span>
+              <span class="text-slate-300 dark:text-slate-600">·</span>
+              <span x-text="dest.flightTime" class="font-medium"></span>
+              <span class="text-slate-300 dark:text-slate-600">·</span>
+              <span x-text="dest.duration + 'd'" class="font-medium"></span>
+            </div>
+
+            <!-- Category tags -->
+            <div class="flex flex-wrap gap-1.5 mb-3">
+              <template x-for="cat in dest.categories" :key="cat">
+                <span class="text-xs font-semibold px-2 py-0.5 rounded-full"
+                      :style="getCategoryBadgeStyle(cat)"
+                      x-text="getCategoryLabel(cat)"></span>
+              </template>
+              <template x-if="dest.isGem">
+                <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300">
+                  💎 Joya oculta
+                </span>
+              </template>
+            </div>
+
+            <!-- Score bars -->
+            <div class="grid grid-cols-3 gap-2 text-center">
+              <div>
+                <p class="text-[10px] text-slate-400 mb-1">Aventura</p>
+                <div class="score-bar">
+                  <div class="score-fill bg-orange-400" :style="'width:' + getScoreFill(dest.adventureScore)"></div>
+                </div>
+                <p class="text-xs font-bold text-orange-500 mt-0.5" x-text="dest.adventureScore + '/10'"></p>
+              </div>
+              <div>
+                <p class="text-[10px] text-slate-400 mb-1">Relax</p>
+                <div class="score-bar">
+                  <div class="score-fill bg-teal-400" :style="'width:' + getScoreFill(dest.relaxScore)"></div>
+                </div>
+                <p class="text-xs font-bold text-teal-500 mt-0.5" x-text="dest.relaxScore + '/10'"></p>
+              </div>
+              <div>
+                <p class="text-[10px] text-slate-400 mb-1">Visual</p>
+                <div class="score-bar">
+                  <div class="score-fill bg-violet-400" :style="'width:' + getScoreFill(dest.visualScore)"></div>
+                </div>
+                <p class="text-xs font-bold text-violet-500 mt-0.5" x-text="dest.visualScore + '/10'"></p>
+              </div>
+            </div>
+
+            <!-- Quick highlight -->
+            <p class="mt-3 text-xs text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed"
+               x-text="dest.highlights[0]"></p>
+          </div>
+        </div>
+      </template>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       [D] CALENDAR VIEW
+  ============================================================ -->
+  <div x-show="viewMode === 'calendar'">
+    <p class="text-sm text-slate-500 dark:text-slate-400 mb-4">
+      Haz clic en un mes para filtrar. El mes actual está resaltado.
+    </p>
+
+    <div class="calendar-scroll rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm">
+      <div class="calendar-grid p-3">
+
+        <template x-for="(m, i) in monthNames" :key="i">
+          <div class="calendar-month-col rounded-xl overflow-hidden"
+               :class="currentMonth === i+1
+                 ? 'bg-orange-50 dark:bg-orange-950/20 ring-2 ring-orange-400'
+                 : 'bg-slate-50 dark:bg-slate-800/50'">
+
+            <!-- Month header -->
+            <button @click="selectMonth(i+1); viewMode='grid'"
+                    class="w-full text-center px-2 py-2 font-bold text-xs uppercase tracking-widest transition-colors hover:text-orange-500"
+                    :class="[
+                      currentMonth === i+1 ? 'text-orange-600' : 'text-slate-400 dark:text-slate-500',
+                      activeMonth === i+1 ? 'text-orange-500' : ''
+                    ]">
+              <span x-text="m"></span>
+              <span class="block text-[10px] font-normal opacity-60"
+                    x-text="destinationsForMonth(i+1).length + ' destinos'"></span>
+            </button>
+
+            <!-- Destination mini-cards -->
+            <div class="px-1.5 pb-2 space-y-1.5">
+              <template x-for="dest in destinationsForMonth(i+1)" :key="dest.id">
+                <div @click="openDetail(dest)"
+                     class="dest-mini-card bg-white dark:bg-slate-900 rounded-lg p-2 border border-slate-100 dark:border-slate-700"
+                     :style="'border-left: 3px solid ' + getCardAccent(dest)">
+
+                  <!-- Flag + name -->
+                  <div class="flex items-center gap-1 mb-1">
+                    <span x-text="dest.flag" class="text-base leading-none"></span>
+                    <span x-text="dest.name" class="text-xs font-bold truncate text-slate-800 dark:text-slate-200"></span>
+                  </div>
+
+                  <!-- Price — prominent -->
+                  <p class="text-orange-600 dark:text-orange-400 font-black text-xs leading-tight">
+                    <span x-text="formatPrice(dest.budget.totalMin)"></span>
+                    <span class="text-slate-300 font-normal">–</span>
+                    <span x-text="formatPrice(dest.budget.totalMax)"></span>
+                  </p>
+
+                  <!-- Season status for this month -->
+                  <div class="flex items-center gap-1 mt-1">
+                    <span class="seasonal-cell text-[11px]"
+                          :class="getSeasonClass(dest, i+1)"
+                          x-text="getSeasonIcon(dest, i+1)"></span>
+                    <span class="text-[10px] text-slate-400"
+                          x-text="getSeasonLabel(dest, i+1)"></span>
+                  </div>
+                </div>
+              </template>
+
+              <!-- Empty state -->
+              <div x-show="destinationsForMonth(i+1).length === 0"
+                   class="text-center py-6 text-slate-300 dark:text-slate-600 text-sm">
+                —
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       [F] DISCOVERY VIEW
+  ============================================================ -->
+  <div x-show="viewMode === 'discovery'">
+
+    <!-- Hidden Gems section -->
+    <section class="mb-12">
+      <div class="flex items-center gap-3 mb-6">
+        <div class="text-4xl">💎</div>
+        <div>
+          <h2 class="text-2xl font-black">Joyas Ocultas</h2>
+          <p class="text-slate-500 dark:text-slate-400 text-sm">Destinos fuera del radar turístico. Acceso difícil, recompensa única.</p>
+        </div>
+      </div>
+
+      <div x-show="gems.length === 0" class="text-center py-8 text-slate-400">
+        No hay joyas ocultas con los filtros actuales
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        <template x-for="dest in gems" :key="dest.id">
+          <div @click="openDetail(dest)"
+               class="dest-card gem-card bg-white dark:bg-slate-900 border border-cyan-200 dark:border-cyan-900/50 shadow-sm">
+
+            <div class="card-hero" :class="getHeroGradientClass(dest)">
+              <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+              <div class="absolute bottom-3 left-3 right-16">
+                <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
+                <p class="text-white/70 text-xs" x-text="dest.flag + ' ' + dest.country"></p>
+              </div>
+              <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
+                <p class="text-orange-600 dark:text-orange-400 font-black text-sm whitespace-nowrap">
+                  <span x-text="formatPrice(dest.budget.totalMin)"></span>
+                  <span class="text-slate-300 font-light">–</span>
+                  <span x-text="formatPrice(dest.budget.totalMax)"></span>
+                </p>
+                <p class="text-slate-400 text-[10px] text-right mt-0.5">2 pax</p>
+              </div>
+            </div>
+
+            <div class="p-4">
+              <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed mb-3" x-text="dest.description"></p>
+              <div class="flex items-center gap-2 text-xs text-slate-500">
+                <span>✈️ <span x-text="dest.flightTime"></span></span>
+                <span class="text-slate-300">·</span>
+                <span x-text="dest.duration + ' días'"></span>
+                <template x-if="dest.isLongHaul">
+                  <span class="long-haul-badge">Largo recorrido</span>
+                </template>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </section>
+
+    <!-- Classics section -->
+    <section>
+      <div class="flex items-center gap-3 mb-6">
+        <div class="text-4xl">🌍</div>
+        <div>
+          <h2 class="text-2xl font-black">Destinos Icónicos</h2>
+          <p class="text-slate-500 dark:text-slate-400 text-sm">Los grandes clásicos. Bien conocidos, siempre justificados.</p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+        <template x-for="dest in classics" :key="dest.id">
+          <div @click="openDetail(dest)"
+               class="dest-card bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800 shadow-sm">
+
+            <div class="card-hero" :class="getHeroGradientClass(dest)">
+              <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+              <div class="absolute bottom-3 left-3 right-16">
+                <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
+                <p class="text-white/70 text-xs" x-text="dest.flag + ' ' + dest.country"></p>
+              </div>
+              <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
+                <p class="text-orange-600 dark:text-orange-400 font-black text-sm whitespace-nowrap">
+                  <span x-text="formatPrice(dest.budget.totalMin)"></span>
+                  <span class="text-slate-300 font-light">–</span>
+                  <span x-text="formatPrice(dest.budget.totalMax)"></span>
+                </p>
+                <p class="text-slate-400 text-[10px] text-right mt-0.5">2 pax</p>
+              </div>
+              <template x-if="dest.status === 'planning'">
+                <div class="badge-planning absolute top-3 left-3 text-xs font-bold px-2 py-1 rounded-full">
+                  ✅ Planning
+                </div>
+              </template>
+            </div>
+
+            <div class="p-4">
+              <div class="flex flex-wrap gap-1.5 mb-2">
+                <template x-for="cat in dest.categories" :key="cat">
+                  <span class="text-xs font-semibold px-2 py-0.5 rounded-full"
+                        :style="getCategoryBadgeStyle(cat)"
+                        x-text="getCategoryLabel(cat)"></span>
+                </template>
+              </div>
+              <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed" x-text="dest.description"></p>
+            </div>
+          </div>
+        </template>
+      </div>
+    </section>
+  </div>
+
+</main>
+
+<!-- ================================================================
+     FOOTER
+================================================================ -->
+<footer class="border-t border-slate-200 dark:border-slate-800 mt-16">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-500 dark:text-slate-400">
+      <div class="flex items-center gap-4">
+        <a href="/README.md" class="hover:text-orange-500 transition-colors">📋 README</a>
+        <a href="/history.md" class="hover:text-orange-500 transition-colors">📊 Historial</a>
+        <a href="https://www.skyscanner.es" target="_blank" class="hover:text-orange-500 transition-colors">✈️ Skyscanner</a>
+        <a href="https://www.booking.com" target="_blank" class="hover:text-orange-500 transition-colors">🏨 Booking</a>
+      </div>
+      <div class="flex items-center gap-2">
+        <span>💡 Precios en tiempo real</span>
+        <span class="px-2 py-0.5 text-xs bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400 rounded-full">Próximamente</span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ================================================================
+     [G] DESTINATION DETAIL DRAWER
+================================================================ -->
+<template x-if="selectedDest">
+  <div class="fixed inset-0 z-50 flex justify-end">
+
+    <!-- Backdrop -->
+    <div class="drawer-backdrop absolute inset-0 bg-black/50 backdrop-blur-sm"
+         @click="closeDetail()"></div>
+
+    <!-- Drawer panel -->
+    <div class="drawer-panel relative w-full max-w-md bg-white dark:bg-slate-900 h-full overflow-y-auto shadow-2xl flex flex-col"
+         @keydown.escape.window="closeDetail()">
+
+      <!-- Close button -->
+      <button @click="closeDetail()"
+              class="absolute top-4 right-4 z-20 w-9 h-9 rounded-full bg-black/20 hover:bg-black/40 text-white flex items-center justify-center text-lg transition-colors font-bold">
+        ×
+      </button>
+
+      <!-- Hero -->
+      <div class="h-52 relative shrink-0" :class="getHeroGradientClass(selectedDest)">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
+        <div class="absolute bottom-4 left-4 right-4">
+          <div class="flex items-end gap-2">
+            <span class="text-3xl" x-text="selectedDest.emoji"></span>
+            <div>
+              <h2 class="text-white font-black text-2xl leading-tight" x-text="selectedDest.name"></h2>
+              <p class="text-white/70 text-sm" x-text="selectedDest.flag + ' ' + selectedDest.country + ' · ' + selectedDest.region"></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Status badge in hero -->
+        <div class="absolute top-4 left-4">
+          <span class="text-xs font-bold px-3 py-1.5 rounded-full"
+                :class="selectedDest.status === 'planning' ? 'badge-planning' : 'badge-dreaming'"
+                x-text="selectedDest.statusLabel"></span>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="flex-1 p-5 space-y-6">
+
+        <!-- ---- PRICE BLOCK (most prominent element) ---- -->
+        <div class="budget-box rounded-2xl p-4">
+          <!-- Total price — very large -->
+          <div class="text-center mb-3">
+            <p class="text-xs font-semibold text-slate-500 uppercase tracking-widest mb-1">Total estimado · 2 personas</p>
+            <p class="text-4xl font-black text-orange-600 dark:text-orange-400 leading-tight">
+              <span x-text="formatPriceFull(selectedDest.budget.totalMin)"></span>
+              <span class="text-2xl text-slate-400 font-normal mx-1">–</span>
+              <span x-text="formatPriceFull(selectedDest.budget.totalMax)"></span>
+            </p>
+            <p class="text-sm text-slate-400 mt-1">
+              <span x-text="selectedDest.duration + ' días'"></span>
+              <template x-if="selectedDest.plannedDates">
+                <span> · <span x-text="selectedDest.plannedDates"></span></span>
+              </template>
+            </p>
+          </div>
+
+          <!-- Breakdown grid -->
+          <div class="grid grid-cols-2 gap-2 mb-4">
+            <div class="bg-white/60 dark:bg-slate-800/60 rounded-xl p-3">
+              <p class="text-xs text-slate-400 mb-1">✈️ Vuelos</p>
+              <p class="font-bold text-sm">
+                €<span x-text="selectedDest.budget.flightMin"></span>
+                <span class="text-slate-400 font-normal">–</span>
+                €<span x-text="selectedDest.budget.flightMax"></span>
+              </p>
+            </div>
+            <div class="bg-white/60 dark:bg-slate-800/60 rounded-xl p-3">
+              <p class="text-xs text-slate-400 mb-1">🏨 Alojamiento</p>
+              <p class="font-bold text-sm">
+                €<span x-text="selectedDest.budget.accommodationMin"></span>
+                <span class="text-slate-400 font-normal">–</span>
+                €<span x-text="selectedDest.budget.accommodationMax"></span>
+              </p>
+            </div>
+          </div>
+
+          <!-- CTA buttons -->
+          <div class="grid grid-cols-2 gap-2">
+            <a :href="getSkyscannerUrl(selectedDest)" target="_blank" rel="noopener"
+               class="bg-orange-500 hover:bg-orange-600 text-white rounded-xl py-2.5 text-sm font-bold text-center transition-colors flex items-center justify-center gap-1.5">
+              ✈️ Buscar vuelo
+            </a>
+            <a :href="selectedDest.bookingLinks?.accommodation || 'https://www.booking.com'" target="_blank" rel="noopener"
+               class="bg-blue-600 hover:bg-blue-700 text-white rounded-xl py-2.5 text-sm font-bold text-center transition-colors flex items-center justify-center gap-1.5">
+              🏨 Booking
+            </a>
+          </div>
+
+          <!-- Future API note -->
+          <p class="text-center text-[11px] text-slate-400 mt-2.5">
+            💡 Precios en tiempo real <span class="bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-400 px-1.5 py-0.5 rounded-full">próximamente</span>
+          </p>
+        </div>
+
+        <!-- ---- FLIGHT INFO ---- -->
+        <div class="flex items-center gap-3 bg-slate-50 dark:bg-slate-800/50 rounded-xl p-3">
+          <span class="text-2xl">✈️</span>
+          <div>
+            <p class="font-semibold text-sm">MAD → <span x-text="selectedDest.destinationAirport"></span></p>
+            <p class="text-xs text-slate-400">
+              <span x-text="selectedDest.flightTime"></span>
+              · <span x-text="selectedDest.transport"></span>
+              <template x-if="selectedDest.isLongHaul">
+                <span class="long-haul-badge ml-2">Largo recorrido</span>
+              </template>
+            </p>
+          </div>
+        </div>
+
+        <!-- ---- CATEGORIES + SCORES ---- -->
+        <div>
+          <div class="flex flex-wrap gap-2 mb-4">
+            <template x-for="cat in selectedDest.categories" :key="cat">
+              <span class="font-semibold text-sm px-3 py-1 rounded-full"
+                    :style="getCategoryBadgeStyle(cat)"
+                    x-text="getCategoryLabel(cat)"></span>
+            </template>
+            <template x-if="selectedDest.isGem">
+              <span class="font-semibold text-sm px-3 py-1 rounded-full bg-cyan-100 text-cyan-700 dark:bg-cyan-900/40 dark:text-cyan-300">💎 Joya oculta</span>
+            </template>
+          </div>
+
+          <div class="space-y-3">
+            <div class="flex items-center gap-3">
+              <span class="text-xs text-slate-400 w-16 shrink-0">Aventura</span>
+              <div class="flex-1 score-bar">
+                <div class="score-fill bg-orange-400" :style="'width:' + getScoreFill(selectedDest.adventureScore)"></div>
+              </div>
+              <span class="text-xs font-bold text-orange-500 w-8 text-right" x-text="selectedDest.adventureScore + '/10'"></span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="text-xs text-slate-400 w-16 shrink-0">Relax</span>
+              <div class="flex-1 score-bar">
+                <div class="score-fill bg-teal-400" :style="'width:' + getScoreFill(selectedDest.relaxScore)"></div>
+              </div>
+              <span class="text-xs font-bold text-teal-500 w-8 text-right" x-text="selectedDest.relaxScore + '/10'"></span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="text-xs text-slate-400 w-16 shrink-0">Visual</span>
+              <div class="flex-1 score-bar">
+                <div class="score-fill bg-violet-400" :style="'width:' + getScoreFill(selectedDest.visualScore)"></div>
+              </div>
+              <span class="text-xs font-bold text-violet-500 w-8 text-right" x-text="selectedDest.visualScore + '/10'"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ---- SEASONAL CALENDAR STRIP ---- -->
+        <div>
+          <p class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-2">Calendario estacional</p>
+          <div class="flex gap-1.5 flex-wrap">
+            <template x-for="(m, i) in monthNames" :key="i">
+              <div class="text-center">
+                <div class="seasonal-cell"
+                     :class="[getSeasonClass(selectedDest, i+1), currentMonth === i+1 ? 'active-month' : '']"
+                     :data-tooltip="monthNamesFull[i] + ': ' + getSeasonLabel(selectedDest, i+1)"
+                     x-text="getSeasonIcon(selectedDest, i+1)"></div>
+                <p class="text-[9px] text-slate-400 mt-0.5" x-text="m"></p>
+              </div>
+            </template>
+          </div>
+        </div>
+
+        <!-- ---- DESCRIPTION ---- -->
+        <template x-if="selectedDest.description">
+          <p class="text-sm text-slate-600 dark:text-slate-400 leading-relaxed italic"
+             x-text="'«' + selectedDest.description + '»'"></p>
+        </template>
+
+        <!-- ---- HIGHLIGHTS ---- -->
+        <div>
+          <p class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3">Highlights</p>
+          <ul class="space-y-2">
+            <template x-for="(h, i) in selectedDest.highlights" :key="i">
+              <li class="flex items-start gap-2 text-sm">
+                <span class="text-orange-500 mt-0.5 shrink-0">●</span>
+                <span class="text-slate-700 dark:text-slate-300" x-text="h"></span>
+              </li>
+            </template>
+          </ul>
+        </div>
+
+        <!-- ---- ITINERARY PREVIEW ---- -->
+        <template x-if="selectedDest.itineraryPreview && selectedDest.itineraryPreview.length > 0">
+          <div>
+            <p class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3">Itinerario (preview)</p>
+            <div class="space-y-1.5">
+              <template x-for="(row, i) in selectedDest.itineraryPreview" :key="i">
+                <div class="itinerary-row pl-3 py-2 rounded-r-xl">
+                  <div class="flex items-start gap-2">
+                    <span class="text-xs font-black text-orange-500 shrink-0 mt-0.5"
+                          x-text="'Día ' + row.day"></span>
+                    <div>
+                      <p class="text-xs font-semibold text-slate-700 dark:text-slate-200" x-text="row.zone"></p>
+                      <p class="text-xs text-slate-500 dark:text-slate-400" x-text="row.highlight"></p>
+                    </div>
+                  </div>
+                </div>
+              </template>
+            </div>
+          </div>
+        </template>
+
+        <!-- ---- LEAFLET MAP ---- -->
+        <template x-if="selectedDest.mapWaypoints && selectedDest.mapWaypoints.length > 0">
+          <div>
+            <p class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-2">Ruta</p>
+            <div id="detail-map" class="rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700"></div>
+          </div>
+        </template>
+
+        <!-- ---- TAGS ---- -->
+        <template x-if="selectedDest.tags && selectedDest.tags.length > 0">
+          <div class="flex flex-wrap gap-1.5">
+            <template x-for="tag in selectedDest.tags" :key="tag">
+              <span class="text-xs px-2 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400"
+                    x-text="'#' + tag"></span>
+            </template>
+          </div>
+        </template>
+
+        <!-- ---- SECONDARY CTAs ---- -->
+        <div class="grid grid-cols-2 gap-2 pt-2 border-t border-slate-100 dark:border-slate-800">
+          <a :href="getDetailUrl(selectedDest)"
+             class="text-center py-2.5 rounded-xl border-2 border-slate-200 dark:border-slate-700 text-sm font-semibold text-slate-600 dark:text-slate-400 hover:border-orange-400 hover:text-orange-500 transition-colors">
+            📄 Plan completo
+          </a>
+          <a :href="getKayakUrl(selectedDest)" target="_blank" rel="noopener"
+             class="text-center py-2.5 rounded-xl border-2 border-slate-200 dark:border-slate-700 text-sm font-semibold text-slate-600 dark:text-slate-400 hover:border-orange-400 hover:text-orange-500 transition-colors">
+            🔍 Ver en Kayak
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</template>
+
+</body>
+</html>
