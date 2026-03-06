@@ -124,8 +124,24 @@ document.addEventListener('alpine:init', () => {
       this.searchQuery = '';
     },
 
+    // Returns the 3 peak months for a destination, ranked by token quality.
+    // Special tokens (wildlife, whales, auroras, ski) > ok > nature/mountain.
+    // Tiebreaker: shoulder-season months (Apr, Oct, Mar, Sep, Nov) preferred over deep winter/summer.
+    getPeakMonths(dest, n = 3) {
+      const tokenScore = { wildlife: 4, whales: 4, auroras: 4, ski: 4, ok: 3, nature: 2, mountain: 2, snow: 1, hot: 0, rain: -1, no: -1 };
+      const monthPref  = { 4:5, 10:5, 3:4, 9:4, 5:4, 11:4, 6:3, 8:3, 1:2, 2:2, 12:2, 7:1 };
+      const scored = [];
+      for (let m = 1; m <= 12; m++) {
+        const token = dest.seasonalAvailability?.[String(m)] || 'no';
+        const score = tokenScore[token] ?? -1;
+        if (score > 0) scored.push({ m, score });
+      }
+      scored.sort((a, b) => b.score - a.score || (monthPref[b.m] || 0) - (monthPref[a.m] || 0));
+      return scored.slice(0, n).map(x => x.m);
+    },
+
     destinationsForMonth(month) {
-      return this.filteredDestinations.filter(d => d.bestMonths.includes(month));
+      return this.filteredDestinations.filter(d => this.getPeakMonths(d).includes(month));
     },
 
     // ---- METHODS: Detail ----
