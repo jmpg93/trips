@@ -1,0 +1,369 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Destino — Mis Viajes</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>tailwind.config = { darkMode: 'class' }</script>
+
+  <link rel="stylesheet" href="/assets/css/trips.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    [x-cloak] { display: none !important; }
+    html { scroll-behavior: smooth; }
+
+    /* ---- Prose styles for rendered markdown ---- */
+    .prose h1 { display: none; } /* Title shown in header, not content */
+    .prose h2 {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: #1e293b;
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .dark .prose h2 { color: #f1f5f9; border-color: #334155; }
+
+    .prose h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #334155;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .dark .prose h3 { color: #cbd5e1; }
+
+    .prose p {
+      font-size: 0.9rem;
+      line-height: 1.75;
+      color: #475569;
+      margin-bottom: 0.75rem;
+    }
+    .dark .prose p { color: #94a3b8; }
+
+    .prose strong { color: #1e293b; font-weight: 700; }
+    .dark .prose strong { color: #f1f5f9; }
+
+    .prose ul {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 1rem;
+    }
+    .prose ul li {
+      font-size: 0.875rem;
+      color: #475569;
+      padding: 0.35rem 0 0.35rem 1.25rem;
+      position: relative;
+      line-height: 1.65;
+    }
+    .prose ul li::before {
+      content: '●';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+      font-size: 0.5rem;
+      top: 0.55rem;
+    }
+    .dark .prose ul li { color: #94a3b8; }
+
+    .prose hr {
+      border: none;
+      border-top: 1px solid #e2e8f0;
+      margin: 1.75rem 0;
+    }
+    .dark .prose hr { border-color: #334155; }
+
+    /* Tables */
+    .prose table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+      margin-bottom: 1.25rem;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .prose thead th {
+      background: #f8fafc;
+      color: #64748b;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.05em;
+      padding: 0.6rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .dark .prose thead th {
+      background: #1e293b;
+      color: #64748b;
+      border-color: #334155;
+    }
+    .prose tbody td {
+      padding: 0.55rem 0.75rem;
+      color: #475569;
+      border-bottom: 1px solid #f1f5f9;
+      vertical-align: top;
+    }
+    .dark .prose tbody td { color: #94a3b8; border-color: #1e293b; }
+    .prose tbody tr:last-child td { border-bottom: none; }
+    .prose tbody tr:hover td { background: rgba(249,115,22,0.03); }
+    .prose tbody tr td strong { color: var(--accent); }
+
+    /* Inline image tables from MD */
+    .prose table img { max-width: 100%; border-radius: 8px; display: block; }
+
+    /* Map container */
+    #dest-map { height: 400px; border-radius: 12px; overflow: hidden; }
+
+    /* Loading / error states */
+    #loading, #error-state { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  </style>
+</head>
+
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen">
+
+<!-- ── LOADING ──────────────────────────────────────────────── -->
+<div id="loading" class="text-slate-400 text-sm gap-3">
+  <svg class="animate-spin w-6 h-6 text-orange-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+  </svg>
+  <span>Cargando destino…</span>
+</div>
+
+<!-- ── ERROR ────────────────────────────────────────────────── -->
+<div id="error-state" style="display:none" class="gap-3 text-center px-4">
+  <span class="text-4xl">🗺️</span>
+  <h2 class="text-xl font-bold text-slate-700 dark:text-slate-300">Destino no encontrado</h2>
+  <p class="text-slate-500 text-sm max-w-sm" id="error-msg"></p>
+  <a href="/" class="mt-4 inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm px-5 py-2.5 rounded-xl transition-colors">← Volver al dashboard</a>
+</div>
+
+<!-- ── DESTINATION PAGE ─────────────────────────────────────── -->
+<div id="dest-page" style="display:none">
+
+  <!-- HEADER -->
+  <header class="header-bg text-white" id="dest-header">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-6">
+
+      <!-- Back link -->
+      <a href="/" class="inline-flex items-center gap-1.5 text-sm text-slate-400 hover:text-white transition-colors mb-5 group">
+        <span class="group-hover:-translate-x-0.5 transition-transform">←</span>
+        <span>Dashboard</span>
+      </a>
+
+      <!-- Identity row -->
+      <div class="flex items-end gap-4">
+        <span id="dest-emoji" class="text-5xl leading-none"></span>
+        <div>
+          <h1 id="dest-name" class="text-3xl sm:text-4xl font-black leading-tight"></h1>
+          <p class="text-slate-300 text-sm mt-1">
+            <span id="dest-flag"></span>
+            <span id="dest-country"></span>
+            <span class="text-slate-500 mx-1">·</span>
+            <span id="dest-region"></span>
+          </p>
+        </div>
+        <!-- Status badge -->
+        <div class="ml-auto shrink-0">
+          <span id="dest-status-badge"></span>
+        </div>
+      </div>
+
+      <!-- Quick-stats strip -->
+      <div class="flex flex-wrap gap-3 mt-6">
+        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+          <span class="text-slate-400">Presupuesto</span>
+          <span id="dest-budget" class="ml-2 font-bold text-white"></span>
+          <span class="ml-1 text-slate-500 text-xs">2 pax</span>
+        </div>
+        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+          <span class="text-slate-400">MAD →</span>
+          <span id="dest-airport" class="ml-1 font-bold text-white"></span>
+          <span id="dest-flight-time" class="ml-2 text-slate-300"></span>
+        </div>
+        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+          <span class="text-slate-400">Duración</span>
+          <span id="dest-duration" class="ml-2 font-bold text-white"></span>
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- HERO GRADIENT BAR -->
+  <div id="dest-gradient-bar" class="h-1.5"></div>
+
+  <!-- MAIN CONTENT -->
+  <main class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+
+    <!-- CTA buttons -->
+    <div class="flex flex-wrap gap-3 mb-8">
+      <a id="cta-flights" href="#" target="_blank" rel="noopener"
+         class="inline-flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white font-bold text-sm px-5 py-2.5 rounded-xl transition-colors">
+        ✈️ Buscar vuelo
+      </a>
+      <a id="cta-accommodation" href="#" target="_blank" rel="noopener"
+         class="inline-flex items-center gap-2 bg-slate-800 hover:bg-slate-700 dark:bg-slate-700 dark:hover:bg-slate-600 text-white font-bold text-sm px-5 py-2.5 rounded-xl transition-colors">
+        🏨 Alojamiento
+      </a>
+      <a id="cta-kayak" href="https://www.kayak.es" target="_blank" rel="noopener"
+         class="inline-flex items-center gap-2 border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-orange-400 hover:text-orange-500 font-semibold text-sm px-5 py-2.5 rounded-xl transition-colors">
+        🔍 Kayak
+      </a>
+    </div>
+
+    <!-- Markdown content -->
+    <div id="dest-content" class="prose bg-white dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm p-6 sm:p-8 mb-8">
+    </div>
+
+    <!-- Interactive map -->
+    <div id="map-section" class="bg-white dark:bg-slate-900 rounded-2xl border border-slate-100 dark:border-slate-800 shadow-sm p-6 sm:p-8">
+      <h2 class="text-base font-bold text-slate-700 dark:text-slate-300 mb-4">🗺️ Mapa Interactivo</h2>
+      <div id="dest-map"></div>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="border-t border-slate-200 dark:border-slate-800 mt-12">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-6 flex items-center justify-between gap-4 text-sm text-slate-400">
+      <a href="/" class="hover:text-orange-500 transition-colors">← Volver al dashboard</a>
+      <span class="text-xs">2 personas · desde MAD</span>
+    </div>
+  </footer>
+
+</div><!-- /#dest-page -->
+
+<script>
+(function () {
+  // ── Helpers ──────────────────────────────────────────────
+  function qs(id) { return document.getElementById(id); }
+  function fmt(n) { return '€' + Number(n).toLocaleString('es'); }
+
+  function showError(msg) {
+    qs('loading').style.display = 'none';
+    qs('error-msg').textContent = msg;
+    qs('error-state').style.display = 'flex';
+  }
+
+  // ── Dark mode (respect saved preference) ──────────────────
+  const saved = localStorage.getItem('trips-dark');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (saved === 'true' || (saved === null && prefersDark)) {
+    document.documentElement.classList.add('dark');
+  }
+
+  // ── Read destination id from URL ──────────────────────────
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  if (!id) { showError('No se especificó ningún destino. Usa ?id=sicilia'); return; }
+
+  // ── Fetch the destination JSON ────────────────────────────
+  fetch('/data/destinations/' + encodeURIComponent(id) + '.json')
+    .then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function (d) { renderDestination(d); })
+    .catch(function (err) {
+      showError('No se encontró el destino "' + id + '". Comprueba la URL.');
+    });
+
+  // ── Render ────────────────────────────────────────────────
+  function renderDestination(d) {
+    // Page title
+    document.title = (d.title || d.name) + ' — Mis Viajes';
+    qs('page-title').textContent = (d.title || d.name) + ' — Mis Viajes';
+
+    // Header: identity
+    qs('dest-emoji').textContent   = d.emoji || '';
+    qs('dest-name').textContent    = d.dest_name || d.name || '';
+    qs('dest-flag').textContent    = d.flag ? d.flag + ' ' : '';
+    qs('dest-country').textContent = d.country || '';
+    qs('dest-region').textContent  = d.region || '';
+
+    // Hero gradient bar
+    qs('dest-gradient-bar').className = 'h-1.5 hero-' + (d.heroGradient || 'mediterranean');
+
+    // Status badge
+    var badge = qs('dest-status-badge');
+    if (d.status === 'planning') {
+      badge.innerHTML = '<span class="inline-flex items-center gap-1.5 text-xs font-bold px-3 py-1.5 rounded-full badge-planning"><span class="w-1.5 h-1.5 bg-green-500 rounded-full"></span>Planificando</span>';
+    } else {
+      badge.innerHTML = '<span class="inline-flex items-center gap-1.5 text-xs font-bold px-3 py-1.5 rounded-full badge-dreaming">Soñando</span>';
+    }
+
+    // Quick stats
+    var b = d.budget || {};
+    qs('dest-budget').textContent     = fmt(b.totalMin || 0) + ' – ' + fmt(b.totalMax || 0);
+    qs('dest-airport').textContent    = d.airport || d.destinationAirport || '';
+    qs('dest-flight-time').textContent = d.flightTime || '';
+    qs('dest-duration').textContent   = (d.duration || 0) + ' días';
+
+    // CTA buttons
+    var links = d.bookingLinks || {};
+    qs('cta-flights').href       = links.flights       || 'https://www.skyscanner.es/';
+    qs('cta-accommodation').href = links.accommodation || 'https://www.booking.com/';
+
+    // Kayak URL (derived from airport IATA)
+    var iata = (d.airport || d.destinationAirport || '').split('/')[0].toUpperCase().replace(/\+.*/, '');
+    if (iata.length === 3) {
+      qs('cta-kayak').href = 'https://www.kayak.es/flights/MAD-' + iata + '/2adults';
+    }
+
+    // Markdown content (strip the H1 — it's shown in the header)
+    var md = (d.content || '').replace(/^#\s+[^\n]*\n/, '');
+    qs('dest-content').innerHTML = marked.parse(md, { breaks: false, gfm: true });
+
+    // Map
+    if (d.mapWaypoints && d.mapWaypoints.length > 0) {
+      initMap(d);
+    } else {
+      qs('map-section').style.display = 'none';
+    }
+
+    // Show the page
+    qs('loading').style.display = 'none';
+    qs('dest-page').style.display = 'block';
+  }
+
+  // ── Leaflet map ───────────────────────────────────────────
+  function initMap(d) {
+    var map = L.map('dest-map', { zoomControl: true, attributionControl: false })
+      .setView(d.mapCenter || [0, 0], d.mapZoom || 8);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    var coords = d.mapWaypoints.map(function (w) { return [w[0], w[1]]; });
+
+    d.mapWaypoints.forEach(function (w, i) {
+      var icon = L.divIcon({
+        className: '',
+        html: '<div style="background:#f97316;color:white;border-radius:50%;width:22px;height:22px;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;border:2px solid white;box-shadow:0 2px 6px rgba(0,0,0,0.3);">' + (i + 1) + '</div>',
+        iconSize: [22, 22],
+        iconAnchor: [11, 11]
+      });
+      L.marker([w[0], w[1]], { icon: icon }).addTo(map).bindPopup(w[2] || '');
+    });
+
+    L.polyline(coords, { color: '#f97316', weight: 2.5, opacity: 0.7, dashArray: '8,8' })
+      .addTo(map);
+  }
+
+})();
+</script>
+
+</body>
+</html>
