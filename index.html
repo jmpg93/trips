@@ -5,7 +5,7 @@ layout: null
 <html lang="es" x-data="dashboard()" :class="{ 'dark': darkMode }" x-cloak>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <title>Mis Viajes — Dashboard</title>
 
   <!-- Tailwind CSS CDN -->
@@ -143,7 +143,7 @@ layout: null
         </template>
       </div>
 
-      <!-- Budget slider (pushed right on large screens) -->
+      <!-- Budget slider + collapse toggle (pushed right) -->
       <div class="flex items-center gap-2 ml-auto shrink-0">
         <span class="text-xs text-slate-500 dark:text-slate-400 hidden sm:inline">Presupuesto</span>
         <input type="range" min="1000" max="10000" step="500"
@@ -152,10 +152,29 @@ layout: null
                :title="'Hasta €' + activeBudgetMax.toLocaleString('es')">
         <span class="text-sm font-bold text-orange-500 whitespace-nowrap min-w-[56px] text-right"
               x-text="activeBudgetMax >= 10000 ? 'Sin límite' : '≤€' + (activeBudgetMax/1000).toFixed(1) + 'k'"></span>
+
+        <!-- Collapse / expand filter row 2 -->
+        <button @click="filterBarOpen = !filterBarOpen"
+                class="ml-1 flex items-center justify-center w-7 h-7 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors shrink-0"
+                :title="filterBarOpen ? 'Ocultar filtros' : 'Mostrar filtros'">
+          <svg :class="filterBarOpen ? '' : 'rotate-180'"
+               class="w-3.5 h-3.5 text-slate-500 dark:text-slate-400 transition-transform duration-300"
+               fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+          </svg>
+        </button>
       </div>
     </div>
 
-    <!-- Row 2: Month filter + region + search + clear -->
+    <!-- Row 2: Month filter + region + search + clear (collapsible) -->
+    <div x-show="filterBarOpen"
+         x-transition:enter="transition-all duration-200 ease-out"
+         x-transition:enter-start="opacity-0 max-h-0"
+         x-transition:enter-end="opacity-100 max-h-24"
+         x-transition:leave="transition-all duration-150 ease-in"
+         x-transition:leave-start="opacity-100 max-h-24"
+         x-transition:leave-end="opacity-0 max-h-0"
+         class="overflow-hidden">
     <div class="flex flex-wrap items-center gap-2 pb-3">
 
       <!-- Month strip -->
@@ -207,6 +226,7 @@ layout: null
         <span> destinos</span>
       </span>
     </div>
+    </div><!-- /collapsible row 2 -->
   </div>
 </nav>
 
