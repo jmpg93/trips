@@ -161,39 +161,55 @@ layout: null
         <span>Dashboard</span>
       </a>
 
-      <!-- Identity row -->
-      <div class="flex items-end gap-4">
-        <span id="dest-emoji" class="text-5xl leading-none"></span>
-        <div>
-          <h1 id="dest-name" class="text-3xl sm:text-4xl font-black leading-tight"></h1>
-          <p class="text-slate-300 text-sm mt-1">
+      <!-- Identity row (always visible) -->
+      <div class="flex items-center gap-3">
+        <span id="dest-emoji" class="text-4xl sm:text-5xl leading-none shrink-0"></span>
+        <div class="min-w-0 flex-1">
+          <h1 id="dest-name" class="text-2xl sm:text-4xl font-black leading-tight truncate"></h1>
+          <!-- Country/region: part of collapsible on mobile -->
+          <p id="dest-meta" class="text-slate-300 text-sm mt-0.5 sm:block hidden">
             <span id="dest-flag"></span>
             <span id="dest-country"></span>
             <span class="text-slate-500 mx-1">·</span>
             <span id="dest-region"></span>
           </p>
         </div>
-        <!-- Status badge -->
-        <div class="ml-auto shrink-0">
+        <!-- Status badge + chevron toggle (mobile only) -->
+        <div class="shrink-0 flex items-center gap-2">
           <span id="dest-status-badge"></span>
+          <button id="header-toggle" class="sm:hidden flex items-center justify-center w-7 h-7 rounded-full bg-white/10 hover:bg-white/20 transition-colors" aria-label="Ver detalles">
+            <svg id="header-chevron" class="w-4 h-4 text-slate-300 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </button>
         </div>
       </div>
 
-      <!-- Quick-stats strip -->
-      <div class="flex flex-wrap gap-3 mt-6">
-        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-          <span class="text-slate-400">Presupuesto</span>
-          <span id="dest-budget" class="ml-2 font-bold text-white"></span>
-          <span class="ml-1 text-slate-500 text-xs">2 pax</span>
-        </div>
-        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-          <span class="text-slate-400">MAD →</span>
-          <span id="dest-airport" class="ml-1 font-bold text-white"></span>
-          <span id="dest-flight-time" class="ml-2 text-slate-300"></span>
-        </div>
-        <div class="stat-pill rounded-xl px-4 py-2 text-sm">
-          <span class="text-slate-400">Duración</span>
-          <span id="dest-duration" class="ml-2 font-bold text-white"></span>
+      <!-- Collapsible section: meta (mobile) + stats strip -->
+      <div id="header-details" class="overflow-hidden transition-all duration-300 ease-in-out" style="max-height:0" data-expanded="false">
+        <!-- Country/region visible only on mobile inside collapsible -->
+        <p class="sm:hidden text-slate-300 text-sm mt-3">
+          <span id="dest-flag-m"></span>
+          <span id="dest-country-m"></span>
+          <span class="text-slate-500 mx-1">·</span>
+          <span id="dest-region-m"></span>
+        </p>
+        <!-- Quick-stats strip -->
+        <div class="flex flex-wrap gap-3 mt-4">
+          <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+            <span class="text-slate-400">Presupuesto</span>
+            <span id="dest-budget" class="ml-2 font-bold text-white"></span>
+            <span class="ml-1 text-slate-500 text-xs">2 pax</span>
+          </div>
+          <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+            <span class="text-slate-400">MAD →</span>
+            <span id="dest-airport" class="ml-1 font-bold text-white"></span>
+            <span id="dest-flight-time" class="ml-2 text-slate-300"></span>
+          </div>
+          <div class="stat-pill rounded-xl px-4 py-2 text-sm">
+            <span class="text-slate-400">Duración</span>
+            <span id="dest-duration" class="ml-2 font-bold text-white"></span>
+          </div>
         </div>
       </div>
 
@@ -291,6 +307,10 @@ layout: null
     qs('dest-flag').textContent    = d.flag ? d.flag + ' ' : '';
     qs('dest-country').textContent = d.country || '';
     qs('dest-region').textContent  = d.region || '';
+    // Mobile collapsible copies
+    qs('dest-flag-m').textContent    = d.flag ? d.flag + ' ' : '';
+    qs('dest-country-m').textContent = d.country || '';
+    qs('dest-region-m').textContent  = d.region || '';
 
     // Hero gradient bar
     qs('dest-gradient-bar').className = 'h-1.5 hero-' + (d.heroGradient || 'mediterranean');
@@ -335,6 +355,8 @@ layout: null
     // Show the page
     qs('loading').style.display = 'none';
     qs('dest-page').style.display = 'block';
+    // Trigger correct initial state for collapsible after content is in DOM
+    syncDesktop();
   }
 
   // ── Leaflet map ───────────────────────────────────────────
@@ -361,6 +383,36 @@ layout: null
     L.polyline(coords, { color: '#f97316', weight: 2.5, opacity: 0.7, dashArray: '8,8' })
       .addTo(map);
   }
+
+  // ── Header collapse toggle (mobile) ──────────────────────
+  var toggle  = qs('header-toggle');
+  var details = qs('header-details');
+  var chevron = qs('header-chevron');
+
+  // On desktop (sm+) always expand — reset inline max-height so CSS wins
+  function syncDesktop() {
+    if (window.innerWidth >= 640) {
+      details.style.maxHeight = '500px'; // always open on desktop
+      chevron.style.transform = '';
+    } else if (details.dataset.expanded !== 'true') {
+      details.style.maxHeight = '0';
+    }
+  }
+  syncDesktop();
+  window.addEventListener('resize', syncDesktop);
+
+  toggle.addEventListener('click', function () {
+    var open = details.dataset.expanded === 'true';
+    if (open) {
+      details.style.maxHeight = '0';
+      details.dataset.expanded = 'false';
+      chevron.style.transform = '';
+    } else {
+      details.style.maxHeight = details.scrollHeight + 'px';
+      details.dataset.expanded = 'true';
+      chevron.style.transform = 'rotate(180deg)';
+    }
+  });
 
 })();
 </script>
