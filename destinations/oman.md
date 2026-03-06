@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Omán
+dest_name: Omán
+emoji: "🏜️"
+flag: "🇴🇲"
+country: Omán
+region: Oriente Medio
+hero_gradient: desert
+budget_min: 4200
+budget_max: 6700
+flight_time: 10h 30m
+duration: 10
+status: dreaming
+airport: MCT
+link_flights: https://www.skyscanner.es/transport/flights/mad/mct/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Om%C3%A1n
+---
 # 🇴🇲 Omán (Plan Estratégico - Estilo Amigos)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

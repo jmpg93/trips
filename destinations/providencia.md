@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Providencia, Colombia
+dest_name: Providencia
+emoji: "🐠"
+flag: "🇨🇴"
+country: Colombia
+region: Caribe
+hero_gradient: caribbean
+budget_min: 3700
+budget_max: 5800
+flight_time: 13h 00m
+duration: 9
+status: dreaming
+airport: ADZ+Satena
+link_flights: https://www.skyscanner.es/transport/flights/mad/adz/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Providencia+Colombia
+---
 # 🇨🇴 Providencia: La Frontera del Caribe (Colombia)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

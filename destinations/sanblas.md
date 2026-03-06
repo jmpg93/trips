@@ -1,3 +1,21 @@
+---
+layout: destination
+title: San Blas (Guna Yala), Panamá
+dest_name: San Blas
+emoji: "⛵"
+flag: "🇵🇦"
+country: Panamá
+region: Caribe
+hero_gradient: caribbean
+budget_min: 3000
+budget_max: 4900
+flight_time: 14h 00m
+duration: 9
+status: dreaming
+airport: PTY+Avioneta
+link_flights: https://www.skyscanner.es/transport/flights/mad/pty/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=San+Blas+Panam%C3%A1
+---
 # 🇵🇦 San Blas (Guna Yala): El Último Archipiélago (Panamá)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

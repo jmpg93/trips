@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Samaná, Rep. Dominicana
+dest_name: Samaná
+emoji: "🌴"
+flag: "🇩🇴"
+country: Rep. Dominicana
+region: Caribe
+hero_gradient: caribbean
+budget_min: 4200
+budget_max: 5850
+flight_time: 8h 30m
+duration: 11
+status: planning
+airport: SDQ
+link_flights: https://www.skyscanner.es/transport/flights/mad/sdq/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Saman%C3%A1
+---
 # 🌴 Samaná, RD (Plan Estratégico)
 
 **Estado:** 🔄 Planificando — **24 Mar – 3 Abr 2026** (11 días / 2 fases)

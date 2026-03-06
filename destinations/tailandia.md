@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Tailandia
+dest_name: Tailandia
+emoji: "🏝️"
+flag: "🇹🇭"
+country: Tailandia
+region: Asia
+hero_gradient: tropical
+budget_min: 3700
+budget_max: 6000
+flight_time: 14h 00m
+duration: 9
+status: dreaming
+airport: USM
+link_flights: https://www.skyscanner.es/transport/flights/mad/usm/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Koh+Samui
+---
 # 🇹🇭 Tailandia: El Triángulo del Golfo (Samui, Tao & Phangan)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)
