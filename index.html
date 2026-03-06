@@ -111,17 +111,17 @@ layout: null
       <!-- View mode toggle -->
       <div class="view-toggle flex rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700 shrink-0">
         <button @click="viewMode='grid'"
-                :class="viewMode==='grid' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                :class="viewMode==='grid' ? 'bg-teal-600 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
                 class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1">
           <span>⊞</span><span class="hidden sm:inline">Grid</span>
         </button>
         <button @click="viewMode='calendar'"
-                :class="viewMode==='calendar' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                :class="viewMode==='calendar' ? 'bg-teal-600 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
                 class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1 border-x border-slate-200 dark:border-slate-700">
           <span>📅</span><span class="hidden sm:inline">Calendario</span>
         </button>
         <button @click="viewMode='discovery'"
-                :class="viewMode==='discovery' ? 'bg-orange-500 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
+                :class="viewMode==='discovery' ? 'bg-teal-600 text-white' : 'text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'"
                 class="px-3 py-2 text-sm font-medium transition-colors flex items-center gap-1">
           <span>🔭</span><span class="hidden sm:inline">Discovery</span>
         </button>
@@ -135,7 +135,7 @@ layout: null
         <template x-for="cat in categories" :key="cat.id">
           <button @click="toggleCategory(cat.id)"
                   :class="isCategoryActive(cat.id)
-                    ? 'bg-orange-500 text-white'
+                    ? 'bg-teal-600 text-white'
                     : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'"
                   class="cat-pill rounded-full px-3 py-1.5 text-xs sm:text-sm font-medium transition-all">
             <span x-text="cat.emoji + ' ' + cat.label"></span>
@@ -150,7 +150,7 @@ layout: null
                x-model.number="activeBudgetMax"
                class="w-20 sm:w-28"
                :title="'Hasta €' + activeBudgetMax.toLocaleString('es')">
-        <span class="text-sm font-bold text-orange-500 whitespace-nowrap min-w-[56px] text-right"
+        <span class="text-sm font-bold text-teal-600 whitespace-nowrap min-w-[56px] text-right"
               x-text="activeBudgetMax >= 10000 ? 'Sin límite' : '≤€' + (activeBudgetMax/1000).toFixed(1) + 'k'"></span>
 
         <!-- Collapse / expand filter row 2 -->
@@ -170,9 +170,9 @@ layout: null
     <div x-show="filterBarOpen"
          x-transition:enter="transition-all duration-200 ease-out"
          x-transition:enter-start="opacity-0 max-h-0"
-         x-transition:enter-end="opacity-100 max-h-24"
+         x-transition:enter-end="opacity-100 max-h-40"
          x-transition:leave="transition-all duration-150 ease-in"
-         x-transition:leave-start="opacity-100 max-h-24"
+         x-transition:leave-start="opacity-100 max-h-40"
          x-transition:leave-end="opacity-0 max-h-0"
          class="overflow-hidden">
     <div class="flex flex-wrap items-center gap-2 pb-3">
@@ -182,8 +182,8 @@ layout: null
         <template x-for="(m, i) in monthNames" :key="i">
           <button @click="selectMonth(i + 1)"
                   :class="[
-                    activeMonth === i+1 ? 'bg-orange-500 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700',
-                    currentMonth === i+1 ? 'current-month ring-2 ring-orange-400 ring-offset-1' : ''
+                    activeMonth === i+1 ? 'bg-teal-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700',
+                    currentMonth === i+1 ? 'current-month ring-2 ring-teal-500 ring-offset-1' : ''
                   ]"
                   class="month-btn w-8 h-8 rounded-lg text-xs font-semibold"
                   :data-tooltip="monthNamesFull[i]"
@@ -193,7 +193,7 @@ layout: null
 
       <!-- Region filter -->
       <select x-model="activeRegion"
-              class="ml-auto text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-1.5 outline-none focus:ring-2 focus:ring-orange-400">
+              class="ml-auto text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-1.5 outline-none focus:ring-2 focus:ring-teal-500">
         <option value="all">🌍 Todas las regiones</option>
         <template x-for="r in regions.filter(x => x !== 'all')" :key="r">
           <option :value="r" x-text="r"></option>
@@ -206,13 +206,13 @@ layout: null
         <input type="search"
                x-model="searchQuery"
                placeholder="Buscar destino…"
-               class="pl-7 pr-3 py-1.5 text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 outline-none focus:ring-2 focus:ring-orange-400 w-36 sm:w-48">
+               class="pl-7 pr-3 py-1.5 text-xs sm:text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 outline-none focus:ring-2 focus:ring-teal-500 w-36 sm:w-48">
       </div>
 
       <!-- Active filter count + clear -->
       <template x-if="activeFilterCount > 0">
         <button @click="clearFilters()"
-                class="flex items-center gap-1.5 text-xs text-slate-500 hover:text-orange-500 transition-colors">
+                class="flex items-center gap-1.5 text-xs text-slate-500 hover:text-teal-600 transition-colors">
           <span class="filter-count" x-text="activeFilterCount"></span>
           <span>Limpiar filtros</span>
         </button>
@@ -244,7 +244,7 @@ layout: null
     <div x-show="filteredDestinations.length === 0" class="text-center py-20">
       <p class="text-5xl mb-4">🗺️</p>
       <p class="text-xl font-semibold text-slate-500">Sin destinos para estos filtros</p>
-      <button @click="clearFilters()" class="mt-4 text-orange-500 hover:underline text-sm">Limpiar filtros</button>
+      <button @click="clearFilters()" class="mt-4 text-teal-600 hover:underline text-sm">Limpiar filtros</button>
     </div>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
@@ -254,7 +254,10 @@ layout: null
              :class="dest.isGem ? 'gem-card' : ''">
 
           <!-- Hero image / gradient -->
-          <div class="card-hero" :class="getHeroGradientClass(dest)">
+          <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+            <template x-if="dest.image">
+              <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+            </template>
             <!-- Overlay gradient -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
 
@@ -267,7 +270,7 @@ layout: null
 
             <!-- Price badge — THE KEY VISUAL -->
             <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
-              <p class="text-orange-600 dark:text-orange-400 font-black text-sm leading-tight whitespace-nowrap">
+              <p class="text-teal-700 dark:text-teal-500 font-black text-sm leading-tight whitespace-nowrap">
                 <span x-text="formatPrice(dest.budget.totalMin)"></span>
                 <span class="text-slate-300 font-light">–</span>
                 <span x-text="formatPrice(dest.budget.totalMax)"></span>
@@ -360,15 +363,15 @@ layout: null
         <template x-for="(m, i) in monthNames" :key="i">
           <div class="calendar-month-col rounded-xl overflow-hidden"
                :class="currentMonth === i+1
-                 ? 'bg-orange-50 dark:bg-orange-950/20 ring-2 ring-orange-400'
+                 ? 'bg-teal-50 dark:bg-teal-950/20 ring-2 ring-teal-500'
                  : 'bg-slate-50 dark:bg-slate-800/50'">
 
             <!-- Month header -->
             <button @click="selectMonth(i+1); viewMode='grid'"
-                    class="w-full text-center px-2 py-2 font-bold text-xs uppercase tracking-widest transition-colors hover:text-orange-500"
+                    class="w-full text-center px-2 py-2 font-bold text-xs uppercase tracking-widest transition-colors hover:text-teal-600"
                     :class="[
-                      currentMonth === i+1 ? 'text-orange-600' : 'text-slate-400 dark:text-slate-500',
-                      activeMonth === i+1 ? 'text-orange-500' : ''
+                      currentMonth === i+1 ? 'text-teal-700' : 'text-slate-400 dark:text-slate-500',
+                      activeMonth === i+1 ? 'text-teal-600' : ''
                     ]">
               <span x-text="m"></span>
               <span class="block text-[10px] font-normal opacity-60"
@@ -389,7 +392,7 @@ layout: null
                   </div>
 
                   <!-- Price — prominent -->
-                  <p class="text-orange-600 dark:text-orange-400 font-black text-xs leading-tight">
+                  <p class="text-teal-700 dark:text-teal-500 font-black text-xs leading-tight">
                     <span x-text="formatPrice(dest.budget.totalMin)"></span>
                     <span class="text-slate-300 font-normal">–</span>
                     <span x-text="formatPrice(dest.budget.totalMax)"></span>
@@ -442,14 +445,17 @@ layout: null
           <div @click="openDetail(dest)"
                class="dest-card gem-card bg-white dark:bg-slate-900 border border-cyan-200 dark:border-cyan-900/50 shadow-sm">
 
-            <div class="card-hero" :class="getHeroGradientClass(dest)">
+            <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+              <template x-if="dest.image">
+                <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+              </template>
               <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               <div class="absolute bottom-3 left-3 right-16">
                 <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
                 <p class="text-white/70 text-xs" x-text="dest.flag + ' ' + dest.country"></p>
               </div>
               <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
-                <p class="text-orange-600 dark:text-orange-400 font-black text-sm whitespace-nowrap">
+                <p class="text-teal-700 dark:text-teal-500 font-black text-sm whitespace-nowrap">
                   <span x-text="formatPrice(dest.budget.totalMin)"></span>
                   <span class="text-slate-300 font-light">–</span>
                   <span x-text="formatPrice(dest.budget.totalMax)"></span>
@@ -489,14 +495,17 @@ layout: null
           <div @click="openDetail(dest)"
                class="dest-card bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800 shadow-sm">
 
-            <div class="card-hero" :class="getHeroGradientClass(dest)">
+            <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+              <template x-if="dest.image">
+                <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+              </template>
               <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               <div class="absolute bottom-3 left-3 right-16">
                 <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
                 <p class="text-white/70 text-xs" x-text="dest.flag + ' ' + dest.country"></p>
               </div>
               <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-3 py-2 shadow-xl">
-                <p class="text-orange-600 dark:text-orange-400 font-black text-sm whitespace-nowrap">
+                <p class="text-teal-700 dark:text-teal-500 font-black text-sm whitespace-nowrap">
                   <span x-text="formatPrice(dest.budget.totalMin)"></span>
                   <span class="text-slate-300 font-light">–</span>
                   <span x-text="formatPrice(dest.budget.totalMax)"></span>
@@ -534,14 +543,13 @@ layout: null
   <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
     <div class="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-500 dark:text-slate-400">
       <div class="flex items-center gap-4">
-        <a href="README.md" class="hover:text-orange-500 transition-colors">📋 README</a>
-        <a href="history.md" class="hover:text-orange-500 transition-colors">📊 Historial</a>
-        <a href="https://www.skyscanner.es" target="_blank" class="hover:text-orange-500 transition-colors">✈️ Skyscanner</a>
-        <a href="https://www.booking.com" target="_blank" class="hover:text-orange-500 transition-colors">🏨 Booking</a>
+        <a href="history.md" class="hover:text-teal-600 transition-colors">📊 Historial</a>
+        <a href="https://www.skyscanner.es" target="_blank" class="hover:text-teal-600 transition-colors">✈️ Skyscanner</a>
+        <a href="https://www.booking.com" target="_blank" class="hover:text-teal-600 transition-colors">🏨 Booking</a>
       </div>
       <div class="flex items-center gap-2">
         <span>💡 Precios en tiempo real</span>
-        <span class="px-2 py-0.5 text-xs bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400 rounded-full">Próximamente</span>
+        <span class="px-2 py-0.5 text-xs bg-slate-100 text-slate-600 dark:bg-teal-900/20 dark:text-teal-400 rounded-full">Próximamente</span>
       </div>
     </div>
   </div>
@@ -568,7 +576,10 @@ layout: null
       </button>
 
       <!-- Hero -->
-      <div class="h-52 relative shrink-0" :class="getHeroGradientClass(selectedDest)">
+      <div class="h-52 relative shrink-0" :class="selectedDest.image ? '' : getHeroGradientClass(selectedDest)">
+        <template x-if="selectedDest.image">
+          <img :src="selectedDest.image" :alt="selectedDest.name" class="absolute inset-0 w-full h-full object-cover">
+        </template>
         <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
         <div class="absolute bottom-4 left-4 right-4">
           <div class="flex items-end gap-2">
@@ -592,19 +603,17 @@ layout: null
       <div class="flex-1 p-5 space-y-6">
 
         <!-- ---- PLAN COMPLETO CTA (top, prominent) ---- -->
-        <template x-if="selectedDest.detailFile">
-          <a :href="getDetailUrl(selectedDest)"
-             class="flex items-center justify-center gap-2 w-full py-3 rounded-2xl font-black text-sm text-white bg-gradient-to-r from-orange-500 to-amber-400 hover:from-orange-600 hover:to-amber-500 shadow-md shadow-orange-200 dark:shadow-orange-900/30 transition-all active:scale-95">
-            📄 Ver plan completo
-          </a>
-        </template>
+        <a :href="getDetailUrl(selectedDest)"
+           class="flex items-center justify-center gap-2 w-full py-3 rounded-2xl font-black text-sm text-white bg-gradient-to-r from-teal-600 to-teal-500 hover:from-teal-700 hover:to-teal-600 shadow-md shadow-teal-200 dark:shadow-teal-900/20 transition-all active:scale-95">
+          📄 Ver plan completo
+        </a>
 
         <!-- ---- PRICE BLOCK (most prominent element) ---- -->
         <div class="budget-box rounded-2xl p-4">
           <!-- Total price — very large -->
           <div class="text-center mb-3">
             <p class="text-xs font-semibold text-slate-500 uppercase tracking-widest mb-1">Total estimado · 2 personas</p>
-            <p class="text-4xl font-black text-orange-600 dark:text-orange-400 leading-tight">
+            <p class="text-4xl font-black text-teal-700 dark:text-teal-500 leading-tight">
               <span x-text="formatPriceFull(selectedDest.budget.totalMin)"></span>
               <span class="text-2xl text-slate-400 font-normal mx-1">–</span>
               <span x-text="formatPriceFull(selectedDest.budget.totalMax)"></span>
@@ -640,7 +649,7 @@ layout: null
           <!-- CTA buttons -->
           <div class="grid grid-cols-2 gap-2">
             <a :href="selectedDest.bookingLinks?.flights || getSkyscannerUrl(selectedDest)" target="_blank" rel="noopener"
-               class="bg-orange-500 hover:bg-orange-600 text-white rounded-xl py-2.5 text-sm font-bold text-center transition-colors flex items-center justify-center gap-1.5">
+               class="bg-teal-600 hover:bg-teal-700 text-white rounded-xl py-2.5 text-sm font-bold text-center transition-colors flex items-center justify-center gap-1.5">
               ✈️ Buscar vuelo
             </a>
             <a :href="selectedDest.bookingLinks?.accommodation || 'https://www.booking.com'" target="_blank" rel="noopener"
@@ -651,7 +660,7 @@ layout: null
 
           <!-- Future API note -->
           <p class="text-center text-[11px] text-slate-400 mt-2.5">
-            💡 Precios en tiempo real <span class="bg-amber-100 dark:bg-amber-900/30 text-amber-600 dark:text-amber-400 px-1.5 py-0.5 rounded-full">próximamente</span>
+            💡 Precios en tiempo real <span class="bg-slate-100 dark:bg-teal-900/20 text-slate-500 dark:text-teal-400 px-1.5 py-0.5 rounded-full">próximamente</span>
           </p>
         </div>
 
@@ -735,7 +744,7 @@ layout: null
           <ul class="space-y-2">
             <template x-for="(h, i) in selectedDest.highlights" :key="i">
               <li class="flex items-start gap-2 text-sm">
-                <span class="text-orange-500 mt-0.5 shrink-0">●</span>
+                <span class="text-teal-600 mt-0.5 shrink-0">●</span>
                 <span class="text-slate-700 dark:text-slate-300" x-text="h"></span>
               </li>
             </template>
@@ -750,7 +759,7 @@ layout: null
               <template x-for="(row, i) in selectedDest.itineraryPreview" :key="i">
                 <div class="itinerary-row pl-3 py-2 rounded-r-xl">
                   <div class="flex items-start gap-2">
-                    <span class="text-xs font-black text-orange-500 shrink-0 mt-0.5"
+                    <span class="text-xs font-black text-teal-600 shrink-0 mt-0.5"
                           x-text="'Día ' + row.day"></span>
                     <div>
                       <p class="text-xs font-semibold text-slate-700 dark:text-slate-200" x-text="row.zone"></p>
@@ -781,13 +790,6 @@ layout: null
           </div>
         </template>
 
-        <!-- ---- SECONDARY CTAs ---- -->
-        <div class="pt-2 border-t border-slate-100 dark:border-slate-800">
-          <a :href="getKayakUrl(selectedDest)" target="_blank" rel="noopener"
-             class="block text-center py-2.5 rounded-xl border-2 border-slate-200 dark:border-slate-700 text-sm font-semibold text-slate-600 dark:text-slate-400 hover:border-orange-400 hover:text-orange-500 transition-colors">
-            🔍 Ver en Kayak
-          </a>
-        </div>
 
       </div>
     </div>
