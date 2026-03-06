@@ -1,0 +1,125 @@
+{
+  "id": "corea",
+  "name": "Corea del Sur",
+  "title": "Corea del Sur",
+  "dest_name": "Corea del Sur",
+  "emoji": "⛩️",
+  "flag": "🇰🇷",
+  "country": "Corea del Sur",
+  "region": "Asia",
+  "status": "dreaming",
+  "statusLabel": "Candidato",
+  "plannedDates": "Semana Santa 2026",
+  "duration": 9,
+  "airport": "ICN",
+  "destinationAirport": "ICN",
+  "flightTime": "13h 00m",
+  "flightHours": 13,
+  "transport": "KTX + Coche",
+  "categories": [
+    "city",
+    "adventure"
+  ],
+  "adventureScore": 8,
+  "relaxScore": 6,
+  "visualScore": 9,
+  "budget": {
+    "flightMin": 900,
+    "flightMax": 1300,
+    "accommodationMin": 1800,
+    "accommodationMax": 2800,
+    "totalMin": 4200,
+    "totalMax": 6400
+  },
+  "highlights": [
+    "Seoraksan — Dino Ridge: crestas de granito más espectaculares de Asia",
+    "DMZ — incursión en la frontera más vigilada del mundo",
+    "UNESCO Jeju — túneles de lava y Seongsan Ilchulbong",
+    "Gyeongju — el 'museo sin paredes': tumuli, templos, cerezos"
+  ],
+  "itineraryPreview": [
+    {
+      "day": 1,
+      "zone": "Seúl",
+      "highlight": "Llegada. Hongdae. Bukchon Hanok."
+    },
+    {
+      "day": 4,
+      "zone": "Seoraksan",
+      "highlight": "Dino Ridge — 12h de trekking técnico."
+    },
+    {
+      "day": 7,
+      "zone": "Jeju",
+      "highlight": "UNESCO: tubos de lava y cráter Ilchulbong."
+    }
+  ],
+  "seasonalAvailability": {
+    "1": "no",
+    "2": "no",
+    "3": "ok",
+    "4": "ok",
+    "5": "ok",
+    "6": "nature",
+    "7": "nature",
+    "8": "nature",
+    "9": "nature",
+    "10": "ok",
+    "11": "no",
+    "12": "no"
+  },
+  "bestMonths": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "heroGradient": "asia",
+  "isGem": false,
+  "isLongHaul": true,
+  "mapCenter": [
+    36.5,
+    127.5
+  ],
+  "mapZoom": 7,
+  "mapWaypoints": [
+    [
+      37.55,
+      126.98,
+      "1. Seúl — Días 1-2"
+    ],
+    [
+      38.12,
+      128.46,
+      "3. Seoraksan — Dino Ridge"
+    ],
+    [
+      35.84,
+      129.21,
+      "5. Gyeongju (UNESCO)"
+    ],
+    [
+      33.49,
+      126.53,
+      "7. Jeju — Tubos de Lava"
+    ]
+  ],
+  "bookingLinks": {
+    "flights": "https://www.skyscanner.es/transport/flights/mad/icn/",
+    "accommodation": "https://www.booking.com/searchresults.es.html?ss=Corea+del+Sur"
+  },
+  "tags": [
+    "trekking",
+    "UNESCO",
+    "cultura",
+    "KTX",
+    "granito",
+    "tecnología"
+  ],
+  "description": "Granito, cerezos y alta tecnología. El trekking en Seoraksan es el hito; Jeju, el final volcánico.",
+  "content": "# 🇰🇷 Corea del Sur: Crestas de Granito y Fuego Volcánico\n\n**Estado:** 🔄 Planificando (Semana Santa 2026)\n\n---\n\n## 💰 Presupuesto Global Estimado\n\n| Categoría | Estimación | Notas |\n|-----------|------------|-------|\n| Vuelos | €900 - €1,300 | Madrid - Seúl (ICN) - Directo / Escala |\n| Transportes | €400 - €600 | KTX Pass + Vuelo Jeju + Alquiler Coche Jeju |\n| Alojamiento | €1,800 - €2,800 | Mix Hanoks Tradicionales + Hoteles Design |\n| Actividades | €500 - €800 | Guías Seoraksan + Entradas UNESCO + Spa |\n| Comida/Extras | €600 - €900 | Gastronomía local + Cenas Estrelladas |\n| **Total** | **€4,200 - €6,400** | **Presupuesto por pareja / 9 días** |\n\n---\n\n## 🚀 Highlights de Actividades\n- **UNESCO World Heritage:** Isla Volcánica y Túneles de Lava de Jeju.\n- **UNESCO World Heritage:** Áreas Históricas de Gyeongju.\n- **UNESCO World Heritage:** Palacio Changdeokgung y Santuario Jongmyo (Seúl).\n- **Seoraksan National Park:** Ascenso a las crestas de granito más espectaculares de Asia.\n- **DMZ (Zona Desmilitarizada):** Incursión técnica en la frontera más vigilada del mundo.\n\n---\n\n## 🗓️ Itinerario Detallado (Logística)\n\n| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |\n|:---:|:---:|:---|:---|:---|:---|\n| 28 Mar | 1 | Seúl | Vuelo (13h) | Llegada y Hongdae | Traslado AREX (1h) al centro. |\n| 29 Mar | 2 | Seúl | Metro / Pie | UNESCO Changdeokgung | Palacio Secreto y Bukchon Hanok. |\n| 30 Mar | 3 | Seoraksan | Bus Express (2.5h)| Sokcho & Mar del Este | Preparación equipo montaña. |\n| 31 Mar | 4 | Seoraksan | Trekking | **Hito: Dino Ridge** | 12h actividad técnica. Crestas granito. |\n| 01 Abr | 5 | Gyeongju | KTX (3h) | **UNESCO Gyeongju** | Museo sin paredes. Alquiler bicis. |\n| 02 Abr | 6 | Jeju | Bus/Taxi (35m) + Vuelo PUS→CJU (55m) | Alquiler Coche & Jeju | Traslado Gyeongju→Busan (35m) antes del vuelo. No hay vuelo directo desde Gyeongju. |\n| 03 Abr | 7 | Jeju | Coche | **UNESCO Lava Tubes** | Manjanggul & Seongsan Ilchulbong. |\n| 04 Abr | 8 | Seúl | Vuelo (1h) | Myeongdong & Spa | Compras técnicas y relax final. |\n| 05 Abr | 9 | Madrid | Vuelo (13h) | Regreso | Traslado aeropuerto ICN. |\n\n---\n\n## 🗺️ Estrategia por Fases\n- **Fase 1 (Tradición y Altura):** Contraste entre la historia dinástica de Seúl y el esfuerzo físico extremo en Seoraksan.\n- **Fase 2 (Fuego y Pacífico):** Exploración geológica en la isla volcánica de Jeju y cierre urbano tecnológico.\n\n---\n\n## 🔥 Hito de Aventura Real: Gongnyong Ridge (Dino Ridge) en Seoraksan\nConsiderada la ruta de un día más exigente de Corea del Sur. No es un sendero para turistas; es una sucesión técnica de picos de granito que parecen la espalda de un dinosaurio. Requiere trepadas, excelente condición física y gestión de 1200m de desnivel acumulado en un entorno de alta montaña real.\n\n---\n\n## 📅 Hoja de Ruta Narrativa (Experiencia)\n\n### Día 1 y 2: El pulso del neón y la historia secreta\n- **Logística:** **1h de tren rápido** AREX desde el aeropuerto. Día 2 totalmente a pie por el centro histórico.\n- **Valor Diferencial:** **Seúl** es necesaria para entender la dualidad coreana. El valor diferencial es el **Palacio Changdeokgung (UNESCO)**; su Jardín Secreto es el hito visual que equilibra la agresividad de los rascacielos.\n\n### Día 3 y 4: La espalda del Dinosaurio (Seoraksan)\n- **Logística:** **2.5h de bus premium** a Sokcho. El día 4 comienza a las 03:00 AM para completar la circular.\n- **Valor Diferencial:** **Seoraksan** es vuestro hito técnico. El valor diferencial de la **Dino Ridge** es la exclusividad; mientras los turistas suben en teleférico a picos bajos, vosotros estaréis en la cresta de granito más técnica de Asia, con vistas al Mar del Este.\n\n### Día 5 y 6: El reino de Silla y el salto al volcán\n- **Logística:** **3h de KTX** hacia el sur. Salto a Jeju en vuelo corto.\n- **Valor Diferencial:** **Gyeongju (UNESCO)** es obligatoria por su valor histórico puro; túmulos reales y templos milenarios. El salto a **Jeju** marca el cambio de geografía: del granito continental al basalto volcánico del Pacífico.\n\n### Día 7, 8 y 9: El inframundo de lava y el reset tecnológico\n- **Logística:** Alquiler de coche en Jeju (4x4 o EV). Día 8: regreso a la capital.\n- **Valor Diferencial:** **Manjanggul (UNESCO)** es el valor diferencial geológico; caminar por uno de los túneles de lava más largos del mundo es el hito de espeleología suave. El cierre en un **Jjimjilbang** (spa coreano) en Seúl es necesario para recuperar el cuerpo antes del vuelo.\n\n---\n\n## ⚖️ Justificación de Decisiones (Lógica Atómica)\n- **Ruta (Seoraksan vs Hallasan):** Se prioriza **Seoraksan** por ser una ruta mucho más técnica y visualmente agresiva (granito) frente al ascenso lineal de Hallasan en Jeju.\n- **Transporte (KTX vs Coche):** Se justifica el **KTX** en el continente por velocidad (300 km/h) y eficiencia, dejando el coche solo para la autonomía necesaria en la isla de Jeju.\n- **Temporada:** Abril es el hito visual del florecimiento (Cherry Blossom), añadiendo un valor estético masivo a la dureza del trekking.\n\n---\n\n## 🗺️ Mapa Interactivo\n<script>\n  var map = L.map('map').setView([36.5, 127.5], 7);\n  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    attribution: '© OpenStreetMap'\n  }).addTo(map);\n\n  var points = [\n    [37.56, 126.97], // 1. Seúl\n    [38.12, 128.46], // 2. Seoraksan (Sokcho)\n    [35.85, 129.22], // 3. Gyeongju\n    [33.49, 126.53]  // 4. Jeju\n  ];\n\n  function createLabel(number, label) {\n    var icon = L.divIcon({\n      className: 'custom-div-icon',\n      html: \"<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>\" + number + \"</div>\",\n      iconSize: [24, 24],\n      iconAnchor: [12, 12]\n    });\n    return L.marker(label, {icon: icon});\n  }\n\n  createLabel(1, points[0]).addTo(map).bindPopup('1. Seúl (UNESCO)');\n  createLabel(2, points[1]).addTo(map).bindPopup('2. Seoraksan (Dino Ridge)');\n  createLabel(3, points[2]).addTo(map).bindPopup('3. Gyeongju (UNESCO)');\n  createLabel(4, points[3]).addTo(map).bindPopup('4. Jeju (Isla Volcánica)');\n\n  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);\n</script>\n\n---\n\n## ⚠️ Check de Supervivencia (Agente)\n- **Factor \"Ni de Coña\":** No intentar la Dino Ridge en Seoraksan si hay lluvia o niebla densa; las rocas son resbaladizas y la navegación es visual. No olvidar descargar **Naver Maps** o **KakaoMaps** (Google Maps no funciona bien en Corea).\n- **Logística:** Alquilar el coche en Jeju con permiso internacional de conducir (IDP) físico obligatorio.\n\n---\n\n## ✈️ Logística Crítica\n- **Vuelos:** [✈️ Buscar MAD -> Seúl](https://www.skyscanner.es/transport/flights/mad/icn/260328/260405/?adults=2&currency=EUR)\n- **Trenes:** [🚅 KTX Rail Pass (Korail)](https://www.letskorail.com/)\n- **Clima:** [🌸 Korea Meteorological Administration](https://web.kma.go.kr/eng/)"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "panama",
+  "name": "Panamá",
+  "title": "Panamá",
+  "dest_name": "Panamá",
+  "emoji": "🛶",
+  "flag": "🇵🇦",
+  "country": "Panamá",
+  "region": "Centroamérica",
+  "status": "dreaming",
+  "statusLabel": "Candidato",
+  "plannedDates": "Semana Santa 2026",
+  "duration": 9,
+  "airport": "PTY",
+  "destinationAirport": "PTY",
+  "flightTime": "11h 00m",
+  "flightHours": 11,
+  "transport": "Lancha + Avión interno",
+  "categories": [
+    "adventure",
+    "beach"
+  ],
+  "adventureScore": 7,
+  "relaxScore": 6,
+  "visualScore": 7,
+  "budget": {
+    "flightMin": 800,
+    "flightMax": 1200,
+    "accommodationMin": 1500,
+    "accommodationMax": 2500,
+    "totalMin": 3900,
+    "totalMax": 6200
+  },
+  "highlights": [
+    "Coiba — buceo con pelágicos en el Pacífico (UNESCO)",
+    "San Blas day trip — archipiélago Guna desde Ciudad de Panamá",
+    "Canal de Panamá — visita técnica a las esclusas de Miraflores",
+    "Casco Viejo — barrio histórico colonial (UNESCO)"
+  ],
+  "itineraryPreview": [
+    {
+      "day": 1,
+      "zone": "Panamá City",
+      "highlight": "Llegada. UNESCO Casco Viejo."
+    },
+    {
+      "day": 2,
+      "zone": "San Blas",
+      "highlight": "Expedición Guna Yala. Cayos remotos."
+    },
+    {
+      "day": 6,
+      "zone": "Isla Coiba",
+      "highlight": "Buceo UNESCO. Tiburones y pelágicos."
+    }
+  ],
+  "seasonalAvailability": {
+    "1": "ok",
+    "2": "ok",
+    "3": "ok",
+    "4": "ok",
+    "5": "rain",
+    "6": "rain",
+    "7": "nature",
+    "8": "nature",
+    "9": "no",
+    "10": "no",
+    "11": "rain",
+    "12": "ok"
+  },
+  "bestMonths": [
+    1,
+    2,
+    3,
+    4,
+    12
+  ],
+  "heroGradient": "tropical",
+  "isGem": false,
+  "isLongHaul": true,
+  "mapCenter": [
+    8.5,
+    -80
+  ],
+  "mapZoom": 8,
+  "mapWaypoints": [
+    [
+      8.99,
+      -79.51,
+      "1. Ciudad de Panamá — Casco Viejo"
+    ],
+    [
+      9.35,
+      -79,
+      "2. San Blas — Guna Yala"
+    ],
+    [
+      8.61,
+      -79.68,
+      "3. Canal de Panamá — Miraflores"
+    ],
+    [
+      7.5,
+      -81.7,
+      "4. Isla Coiba — Buceo UNESCO"
+    ]
+  ],
+  "bookingLinks": {
+    "flights": "https://www.skyscanner.es/transport/flights/mad/pty/",
+    "accommodation": "https://www.booking.com/searchresults.es.html?ss=Panam%C3%A1"
+  },
+  "tags": [
+    "buceo",
+    "UNESCO",
+    "canal",
+    "Guna",
+    "Pacífico",
+    "selva"
+  ],
+  "description": "Dos mares en uno. El Canal, el buceo pelágico de Coiba y la cultura Guna de San Blas.",
+  "content": "# 🛶 Panamá (Plan Estratégico)\n\n**Estado:** 🔄 Planificando (Semana Santa 2026)\n\n---\n\n## 💰 Presupuesto Global Estimado\n\n| Categoría | Estimación | Notas |\n|-----------|------------|-------|\n| Vuelos | €800 - €1,200 | Madrid - Ciudad de Panamá (PTY) - Directo Iberia |\n| Transportes | €400 - €700 | Vuelo interno a David + Lanchas rápidas |\n| Alojamiento | €1,500 - €2,500 | Mix Casco Viejo + Cabañas Guna + Lodge Coiba |\n| Actividades | €700 - €1,000 | Buceo en Coiba + Expedición San Blas |\n| Comida/Extras | €500 - €800 | Mix mariscos locales + Restaurantes Autor |\n| **Total** | **€3,900 - €6,200** | **Presupuesto por pareja / 9 días** |\n\n---\n\n## 🚀 Highlights de Actividades\n- **UNESCO World Heritage:** Distrito Histórico de Panamá (Casco Viejo).\n- **UNESCO World Heritage:** Parque Nacional Coiba (Santuario Marino).\n- **Expedición San Blas:** Inmersión cultural con la comunidad Guna.\n- **Buceo con Pelágicos:** Tiburones y mantas en el Pacífico salvaje.\n- **Canal de Panamá:** Visita técnica a las esclusas de Miraflores.\n\n---\n\n## 🗓️ Itinerario Detallado (Logística)\n\n| Fecha | Día | Ciudad/Zona | Transporte | Actividades | Notas |\n|:---:|:---:|:---|:---|:---|:---|\n| 28 Mar | 1 | Panamá City | Vuelo (11h) | Llegada y UNESCO Casco | Cena en el Casco Antiguo. |\n| 29 Mar | 2 | San Blas | 4x4 (3h) + Lancha | Expedición Guna Yala | Traslado al archipiélago Caribe. |\n| 30 Mar | 3 | San Blas | Lancha Rápida | Island Hopping | Snorkel en barcos hundidos y cayos. |\n| 31 Mar | 4 | Panamá City | Lancha + 4x4 | Regreso y Canal | Visita a esclusas de Miraflores. |\n| 01 Abr | 5 | David / Sta Cat. | Vuelo PTY→DAV (1h) + Lancha (1.5h) | Rumbo a Coiba | Coiba es isla: vuelo a David + lancha desde Santa Catalina. No se llega en coche. |\n| 02 Abr | 6 | Isla Coiba | Lancha (1.5h) | **UNESCO Buceo Coiba** | Hito Aventura: Tiburones y pelágicos. |\n| 03 Abr | 7 | Isla Coiba | Lancha | Exploración Marina | Segundo día de buceo técnico. |\n| 04 Abr | 8 | Panamá City | Lancha (1.5h) + Vuelo DAV→PTY | Regreso y Cena Autor | Lancha Coiba→Sta. Catalina + vuelo a PTY. Última noche en la capital. |\n| 05 Abr | 9 | Madrid | Vuelo (11h) | Regreso | Vuelo directo PTY -> MAD. |\n\n---\n\n## 🗺️ Estrategia por Fases\n- **Fase 1 (San Blas):** Desconexión tecnológica total. Autonomía en islas autogestionadas en el Caribe.\n- **Fase 2 (Coiba):** El \"Galápagos\" de Centroamérica en el Pacífico. Aventura técnica marina.\n\n---\n\n## 🔥 Hito de Aventura Real: Buceo en Coiba y Vida Guna\nEl buceo en Coiba es vuestro hito técnico; sus corrientes y la escala de sus bancos de peces exigen compromiso real. San Blas representa el reto logístico: vivir en una isla sin electricidad, conectando con la cultura nativa pura.\n\n---\n\n## 📅 Hoja de Ruta Narrativa (Experiencia)\n\n### Día 1: El contraste del Casco Viejo\n- **Logística:** **30 min de taxi** desde PTY.\n- **Valor Diferencial:** El **Casco Viejo (UNESCO)** es necesario por su contraste; ver rascacielos del siglo XXI desde una calle colonial define la personalidad de Panamá. Es el hito cultural de bienvenida.\n\n\n\n### Día 2 y 3: El archipiélago prohibido (San Blas)\n- **Logística:** **3h de 4x4** por selva + **30 min de lancha rápida** saltando olas.\n- **Valor Diferencial:** **Guna Yala** es obligatorio por su exclusividad cultural. El valor diferencial es dormir en una cabaña de paja sin luz gestionada por indígenas, algo imposible de replicar en otros destinos.\n\n\n\n### Día 4: El canal y el salto al Pacífico\n- **Logística:** **3h de 4x4** de regreso a la capital. Tarde de logística para el vuelo a David.\n- **Valor Diferencial:** El **Canal de Panamá** es necesario por su valor técnico e ingeniería. El valor diferencial es observar el paso de los Panamax desde las esclusas de Miraflores, un hito de escala industrial antes de volver a la naturaleza salvaje.\n\n### Día 5 y 6: El santuario de pelágicos (Coiba)\n- **Logística:** **1h de vuelo** a David + **1.5h de lancha rápida** a mar abierto.\n- **Valor Diferencial:** **Isla Coiba (UNESCO)** es el hito de aventura real. El buceo técnico aquí es obligatorio por la densidad de fauna: es el único sitio de la región donde verás tiburones punta blanca en cada inmersión.\n\n\n\n### Día 7 y 8: Exploración final y el Hub\n- **Logística:** Movimiento en lancha entre los islotes de Coiba. Día 8: regreso a PTY en vuelo de la tarde.\n- **Valor Diferencial:** La exploración del **Granito de Oro** es necesaria para ver la pureza de los arrecifes del Pacífico. El regreso a **Panamá City** permite una cena de autor en el Casco, cerrando el viaje con el lujo gastronómico del hub.\n\n### Día 9: El regreso logístico\n- **Logística:** **30 min de transfer** al aeropuerto PTY.\n- **Valor Diferencial:** Cierre del ciclo. Tiempo para procesar la dualidad Caribe/Pacífico antes del vuelo directo a Madrid.\n\n---\n\n## ⚖️ Justificación de Decisiones (Lógica Atómica)\n- **Ruta (Coiba vs Bocas):** Se ha **descartado Bocas del Toro** por ser demasiado fiestero. Se elige Coiba por su buceo técnico y naturaleza virgen protegida.\n- **Transporte (Vuelo vs Bus):** Se justifica el **vuelo interno a David** para ahorrar 7h de bus, ganando un día completo de buceo real.\n- **Utilidad:** Se ha eliminado cualquier tiempo de \"shopping\" en la capital para maximizar el tiempo en las islas.\n- **UNESCO:** Se ha integrado **Coiba y Casco Viejo** como ejes fundamentales del viaje.\n\n---\n\n## 🗺️ Mapa Interactivo\n<script>\n  var map = L.map('map').setView([8.5, -80.0], 7);\n  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    attribution: '© OpenStreetMap'\n  }).addTo(map);\n\n  var points = [\n    [8.98, -79.52], // 1. Panamá City\n    [9.55, -78.95], // 2. San Blas (Guna Yala)\n    [8.98, -79.52], // 3. Regreso Capital\n    [8.24, -82.43], // 4. David / Coiba Access\n    [7.43, -81.78], // 5. Isla Coiba\n    [8.98, -79.52]  // 6. Regreso PTY\n  ];\n\n  function createLabel(number, label) {\n    var icon = L.divIcon({\n      className: 'custom-div-icon',\n      html: \"<div style='background-color:#ff3333; color:white; border-radius:50%; width:24px; height:24px; display:flex; justify-content:center; align-items:center; font-size:12px; font-weight:bold; border:2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.5);'>\" + number + \"</div>\",\n      iconSize: [24, 24],\n      iconAnchor: [12, 12]\n    });\n    return L.marker(label, {icon: icon});\n  }\n\n  createLabel(1, points[0]).addTo(map).bindPopup('1. Panamá City (Casco Viejo)');\n  createLabel(2, points[1]).addTo(map).bindPopup('2. San Blas (Archipiélago)');\n  createLabel(3, points[3]).addTo(map).bindPopup('3. David (Salto Pacífico)');\n  createLabel(4, points[4]).addTo(map).bindPopup('4. Isla Coiba (UNESCO)');\n\n  L.polyline(points, {color: '#ff3333', weight: 3, opacity: 0.6, dashArray: '10, 10'}).addTo(map);\n</script>\n\n---\n\n## ⚠️ Check de Supervivencia (Agente)\n- **Factor \"Ni de Coña\":** No vayas a San Blas esperando resorts; es supervivencia básica. Llevar dólares americanos en billetes pequeños ($1 y $5) innegociable.\n- **Buceo:** Coiba tiene termoclinas bruscas; traje de 3mm o 5mm recomendado.\n\n---\n\n## ✈️ Logística Crítica\n- **Vuelos:** [✈️ Buscar MAD -> Panamá](https://www.skyscanner.es/transport/flights/mad/pty/260328/260405/?adults=2&currency=EUR)\n- **Buceo:** [🤿 Scuba Coiba](https://scubacoiba.com/)"
+}
