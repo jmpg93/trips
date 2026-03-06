@@ -345,6 +345,15 @@ layout: null
     var md = (d.content || '').replace(/^#\s+[^\n]*\n/, '');
     qs('dest-content').innerHTML = marked.parse(md, { breaks: false, gfm: true });
 
+    // Wrap every table in a scrollable container so wide tables don't overflow
+    qs('dest-content').querySelectorAll('table').forEach(function(t) {
+      var wrap = document.createElement('div');
+      wrap.style.overflowX = 'auto';
+      wrap.style.WebkitOverflowScrolling = 'touch';
+      t.parentNode.insertBefore(wrap, t);
+      wrap.appendChild(t);
+    });
+
     // Map
     if (d.mapWaypoints && d.mapWaypoints.length > 0) {
       initMap(d);
