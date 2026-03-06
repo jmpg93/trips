@@ -254,7 +254,10 @@ layout: null
              :class="dest.isGem ? 'gem-card' : ''">
 
           <!-- Hero image / gradient -->
-          <div class="card-hero" :class="getHeroGradientClass(dest)">
+          <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+            <template x-if="dest.image">
+              <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+            </template>
             <!-- Overlay gradient -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
 
@@ -442,7 +445,10 @@ layout: null
           <div @click="openDetail(dest)"
                class="dest-card gem-card bg-white dark:bg-slate-900 border border-cyan-200 dark:border-cyan-900/50 shadow-sm">
 
-            <div class="card-hero" :class="getHeroGradientClass(dest)">
+            <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+              <template x-if="dest.image">
+                <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+              </template>
               <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               <div class="absolute bottom-3 left-3 right-16">
                 <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
@@ -489,7 +495,10 @@ layout: null
           <div @click="openDetail(dest)"
                class="dest-card bg-white dark:bg-slate-900 border border-slate-100 dark:border-slate-800 shadow-sm">
 
-            <div class="card-hero" :class="getHeroGradientClass(dest)">
+            <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+              <template x-if="dest.image">
+                <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+              </template>
               <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
               <div class="absolute bottom-3 left-3 right-16">
                 <p class="text-white font-black text-lg drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
@@ -568,7 +577,10 @@ layout: null
       </button>
 
       <!-- Hero -->
-      <div class="h-52 relative shrink-0" :class="getHeroGradientClass(selectedDest)">
+      <div class="h-52 relative shrink-0" :class="selectedDest.image ? '' : getHeroGradientClass(selectedDest)">
+        <template x-if="selectedDest.image">
+          <img :src="selectedDest.image" :alt="selectedDest.name" class="absolute inset-0 w-full h-full object-cover">
+        </template>
         <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
         <div class="absolute bottom-4 left-4 right-4">
           <div class="flex items-end gap-2">
