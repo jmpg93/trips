@@ -32,6 +32,8 @@
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
+  min-width: 320px;
+  overflow-x: hidden;
 }
 
 /* ---- Hero gradient backgrounds per region ---- */

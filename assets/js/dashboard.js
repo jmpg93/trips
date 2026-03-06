@@ -16,6 +16,7 @@ document.addEventListener('alpine:init', () => {
     viewMode: 'grid',          // 'grid' | 'calendar' | 'discovery'
     searchQuery: '',
     darkMode: false,
+    filterBarOpen: true,
     detailMap: null,
     detailMapMarkers: [],
     openItineraryDays: {},     // { dayIndex: true/false }
@@ -45,9 +46,13 @@ document.addEventListener('alpine:init', () => {
       if (savedBudget) this.activeBudgetMax = parseInt(savedBudget);
 
       // Watch preferences
+      const savedFilter = localStorage.getItem('trips-filterbar');
+      if (savedFilter !== null) this.filterBarOpen = savedFilter !== 'false';
+
       this.$watch('darkMode', v => localStorage.setItem('trips-dark', v));
       this.$watch('viewMode', v => localStorage.setItem('trips-view', v));
       this.$watch('activeBudgetMax', v => localStorage.setItem('trips-budget', v));
+      this.$watch('filterBarOpen', v => localStorage.setItem('trips-filterbar', v));
     },
 
     // ---- COMPUTED ----
