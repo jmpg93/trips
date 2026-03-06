@@ -52,7 +52,6 @@
 ---
 
 ## 🛠️ Recursos Rápidos
-- [📊 Historial de Viajes](history.md)
-- [⚙️ Reglas del Agente (GEMINI.md)](GEMINI.md)
+- [🗺️ Destinos visitados](history.md)
 - [✈️ Skyscanner (MAD)](https://www.skyscanner.es/)
 - [🏨 Booking](https://www.booking.com/)
