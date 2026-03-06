@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Islandia
+dest_name: Islandia
+emoji: "🧊"
+flag: "🇮🇸"
+country: Islandia
+region: Europa
+hero_gradient: nordic
+budget_min: 5100
+budget_max: 7700
+flight_time: 4h 30m
+duration: 9
+status: dreaming
+airport: KEF
+link_flights: https://www.skyscanner.es/transport/flights/mad/kef/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Islandia
+---
 # 🇮🇸 Islandia (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Irlanda
+dest_name: Irlanda
+emoji: "🧱"
+flag: "🇮🇪"
+country: Irlanda
+region: Europa
+hero_gradient: atlantic
+budget_min: 3850
+budget_max: 6000
+flight_time: 2h 45m
+duration: 9
+status: dreaming
+airport: DUB
+link_flights: https://www.skyscanner.es/transport/flights/mad/dub/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Irlanda
+---
 # 🇮🇪 Irlanda: Wild Atlantic Way & Skellig Expedition
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

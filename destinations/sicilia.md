@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Sicilia, Italia
+dest_name: Sicilia
+emoji: "🌋"
+flag: "🇮🇹"
+country: Italia
+region: Europa
+hero_gradient: mediterranean
+budget_min: 1910
+budget_max: 2790
+flight_time: 2h 30m
+duration: 9
+status: planning
+airport: PMO/CTA
+link_flights: https://www.skyscanner.es/transport/flights/mad/pmo/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Sicilia
+---
 # 🌋 Sicilia, Italia (Road Trip)
 
 **Estado:** 🔄 Planificando — **27 Mar – 4 Abr 2026** (9 días / 8 noches)

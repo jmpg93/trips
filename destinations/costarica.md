@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Costa Rica
+dest_name: Costa Rica
+emoji: "🌿"
+flag: "🇨🇷"
+country: Costa Rica
+region: Centroamérica
+hero_gradient: tropical
+budget_min: 4600
+budget_max: 7100
+flight_time: 11h 00m
+duration: 9
+status: dreaming
+airport: SJO
+link_flights: https://www.skyscanner.es/transport/flights/mad/sjo/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Costa+Rica
+---
 # 🇨🇷 Costa Rica (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

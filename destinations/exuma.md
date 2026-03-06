@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Exuma, Bahamas
+dest_name: Exuma
+emoji: "🦈"
+flag: "🇧🇸"
+country: Bahamas
+region: Caribe
+hero_gradient: caribbean
+budget_min: 5100
+budget_max: 8900
+flight_time: 9h 35m
+duration: 9
+status: dreaming
+airport: NAS+avioneta
+link_flights: https://www.skyscanner.es/transport/flights/mad/nas/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Exuma+Bahamas
+---
 # 🇧🇸 Exuma: El Archipiélago de Cristal (Bahamas)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

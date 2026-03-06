@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Corea del Sur
+dest_name: Corea del Sur
+emoji: "⛩️"
+flag: "🇰🇷"
+country: Corea del Sur
+region: Asia
+hero_gradient: asia
+budget_min: 4200
+budget_max: 6400
+flight_time: 13h 00m
+duration: 9
+status: dreaming
+airport: ICN
+link_flights: https://www.skyscanner.es/transport/flights/mad/icn/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Corea+del+Sur
+---
 # 🇰🇷 Corea del Sur: Crestas de Granito y Fuego Volcánico
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

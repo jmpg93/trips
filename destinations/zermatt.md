@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Zermatt, Suiza
+dest_name: Zermatt
+emoji: "⛷️"
+flag: "🇨🇭"
+country: Suiza
+region: Europa
+hero_gradient: mountain
+budget_min: 5250
+budget_max: 8750
+flight_time: 2h 30m
+duration: 9
+status: dreaming
+airport: GVA/ZRH
+link_flights: https://www.skyscanner.es/transport/flights/mad/gva/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Zermatt+Suiza
+---
 # 🏔️ Zermatt (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

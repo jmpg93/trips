@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Azores, Portugal
+dest_name: Azores
+emoji: "🌋"
+flag: "🇵🇹"
+country: Portugal
+region: Europa
+hero_gradient: atlantic
+budget_min: 2750
+budget_max: 4350
+flight_time: 3h 00m
+duration: 9
+status: dreaming
+airport: PDL
+link_flights: https://www.skyscanner.es/transport/flights/mad/pdl/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Azores+Portugal
+---
 # 🌋 Azores, Portugal (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

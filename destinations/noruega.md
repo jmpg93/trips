@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Noruega
+dest_name: Noruega
+emoji: "🏔️"
+flag: "🇳🇴"
+country: Noruega
+region: Europa
+hero_gradient: nordic
+budget_min: 5300
+budget_max: 8600
+flight_time: 3h 45m
+duration: 9
+status: dreaming
+airport: BGO
+link_flights: https://www.skyscanner.es/transport/flights/mad/bgo/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Noruega
+---
 # 🇳🇴 Noruega (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

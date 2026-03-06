@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Creta, Grecia
+dest_name: Creta
+emoji: "🏔️"
+flag: "🇬🇷"
+country: Grecia
+region: Europa
+hero_gradient: mediterranean
+budget_min: 3000
+budget_max: 4900
+flight_time: 3h 30m
+duration: 9
+status: dreaming
+airport: CHQ/HER
+link_flights: https://www.skyscanner.es/transport/flights/mad/chq/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Creta+Grecia
+---
 # 🇬🇷 Creta, Grecia (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

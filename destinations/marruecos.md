@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Marruecos
+dest_name: Marruecos
+emoji: "🐪"
+flag: "🇲🇦"
+country: Marruecos
+region: África
+hero_gradient: desert
+budget_min: 2850
+budget_max: 4900
+flight_time: 2h 00m
+duration: 9
+status: dreaming
+airport: RAK
+link_flights: https://www.skyscanner.es/transport/flights/mad/rak/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Marruecos
+---
 # 🇲🇦 Marruecos: Essaouira & Sáhara (Expedición)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Tanzania y Zanzíbar
+dest_name: Tanzania
+emoji: "🦁"
+flag: "🇹🇿"
+country: Tanzania
+region: África
+hero_gradient: africa
+budget_min: 4400
+budget_max: 6900
+flight_time: 12h 00m
+duration: 9
+status: dreaming
+airport: JRO/ZNZ
+link_flights: https://www.skyscanner.es/transport/flights/mad/jro/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Tanzania+Zanzibar
+---
 # 🦁 Tanzania y Zanzíbar (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)

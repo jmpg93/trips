@@ -1,3 +1,21 @@
+---
+layout: destination
+title: Panamá
+dest_name: Panamá
+emoji: "🛶"
+flag: "🇵🇦"
+country: Panamá
+region: Centroamérica
+hero_gradient: tropical
+budget_min: 3900
+budget_max: 6200
+flight_time: 11h 00m
+duration: 9
+status: dreaming
+airport: PTY
+link_flights: https://www.skyscanner.es/transport/flights/mad/pty/
+link_accommodation: https://www.booking.com/searchresults.es.html?ss=Panam%C3%A1
+---
 # 🛶 Panamá (Plan Estratégico)
 
 **Estado:** 🔄 Planificando (Semana Santa 2026)
