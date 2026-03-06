@@ -11,7 +11,7 @@ layout: null
   <script src="https://cdn.tailwindcss.com"></script>
   <script>tailwind.config = { darkMode: 'class' }</script>
 
-  <link rel="stylesheet" href="/assets/css/trips.css">
+  <link rel="stylesheet" href="../assets/css/trips.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -269,7 +269,7 @@ layout: null
   if (!id) { showError('No se especificó ningún destino. Usa ?id=sicilia'); return; }
 
   // ── Fetch the destination JSON ────────────────────────────
-  fetch('/data/destinations/' + encodeURIComponent(id) + '.json')
+  fetch('../data/destinations/' + encodeURIComponent(id) + '.json')
     .then(function (res) {
       if (!res.ok) throw new Error('HTTP ' + res.status);
       return res.json();
