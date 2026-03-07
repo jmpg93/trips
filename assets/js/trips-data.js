@@ -923,6 +923,59 @@ const TRIPS_DATA = [
     bookingLinks: { flights: "https://www.skyscanner.es/transport/flights/mad/sjo/", accommodation: "https://www.booking.com/searchresults.es.html?ss=Costa+Rica" },
     tags: ["rafting", "selva", "volcán", "surf", "naturaleza", "Pura Vida"],
     description: "Pura Vida al máximo. Selva, volcanes, rafting clase IV y el Pacífico más salvaje de Centroamérica."
+  },
+  {
+    id: "malta",
+    name: "Malta",
+    country: "Malta",
+    flag: "🇲🇹",
+    emoji: "🏛️",
+    region: "Europa",
+    status: "planning",
+    statusLabel: "En Planning",
+    plannedDates: "29 Mar – 5 Abr 2026",
+    duration: 8,
+    destinationAirport: "MLA",
+    flightTime: "3h",
+    flightHours: 3.0,
+    transport: "Coche + Ferry",
+    categories: ["city", "beach"],
+    adventureScore: 5,
+    relaxScore: 8,
+    visualScore: 9,
+    budget: { flightMin: 180, flightMax: 350, accommodationMin: 700, accommodationMax: 1000, totalMin: 1550, totalMax: 2100 },
+    highlights: [
+      "Valletta — capital barroca más pequeña de la UE, declarada Patrimonio UNESCO",
+      "Blue Lagoon en Comino — aguas turquesas entre acantilados vírgenes sin coches",
+      "Mdina, la Ciudad Silenciosa — medieval y laberíntica con vistas al Mediterráneo",
+      "Gozo en ferry — Cittadella, Dwejra Bay y buceo en aguas cristalinas"
+    ],
+    itineraryPreview: [
+      { day: 1, zone: "Valletta", highlight: "Llegada. Co-Catedral de San Juan y Upper Barrakka Gardens al atardecer." },
+      { day: 3, zone: "Mdina / Gozo", highlight: "Mañana en Mdina (Ciudad Silenciosa). Tarde: ferry a Gozo." },
+      { day: 6, zone: "Comino", highlight: "Excursión en barco al Blue Lagoon. Aguas turquesas y cuevas marinas." }
+    ],
+    seasonalAvailability: { "1":"ok","2":"ok","3":"ok","4":"ok","5":"ok","6":"hot","7":"hot","8":"hot","9":"ok","10":"ok","11":"ok","12":"ok" },
+    bestMonths: [3,4,5,9,10,11],
+    heroGradient: "mediterranean",
+    image: "assets/images/destinations/malta.jpg",
+    isGem: false,
+    isLongHaul: false,
+    mapCenter: [35.95, 14.37],
+    mapZoom: 10,
+    mapWaypoints: [
+      [35.8989, 14.5146, "1. Valletta — Días 1-2"],
+      [35.8877, 14.5250, "2. Las Tres Ciudades"],
+      [35.8864, 14.4018, "3. Mdina / Rabat — Día 3"],
+      [35.8178, 14.4360, "4. Blue Grotto — Día 4"],
+      [36.0453, 14.2391, "5. Gozo — Victoria/Cittadella — Días 4-5"],
+      [36.0455, 14.1844, "6. Dwejra Bay — Día 5"],
+      [36.0131, 14.3360, "7. Comino — Blue Lagoon — Día 6"],
+      [35.8400, 14.5430, "8. Marsaxlokk — Mercado del domingo"]
+    ],
+    bookingLinks: { flights: "https://www.skyscanner.es/transport/flights/mad/mla/", accommodation: "https://www.booking.com/searchresults.es.html?ss=Malta" },
+    tags: ["UNESCO", "barroco", "mediterráneo", "historia", "isla", "buceo"],
+    description: "Tres islas, 7.000 años de historia y el Mediterráneo más turquesa. Valletta, Gozo y el Blue Lagoon en un solo viaje."
   }
 ];
 

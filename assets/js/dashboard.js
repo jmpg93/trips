@@ -102,9 +102,45 @@ document.addEventListener('alpine:init', () => {
       const r = [...new Set(this.destinations.map(d => d.region))].sort();
       return ['all', ...r];
     },
+
+    // Top destinations for the current month, sorted by season quality + vibe score
+    get recommendedNow() {
+      const tokenScore = { wildlife: 4, whales: 4, auroras: 4, ski: 4, ok: 3, nature: 2, mountain: 2 };
+      return this.destinations
+        .map(d => {
+          const token = d.seasonalAvailability?.[String(this.currentMonth)] || 'no';
+          const s = tokenScore[token] || 0;
+          return { dest: d, score: s * 3 + (d.visualScore + d.adventureScore) / 2 };
+        })
+        .filter(x => x.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 3)
+        .map(x => x.dest);
+    },
     get budgetRange() {
       if (this.activeBudgetMax >= 10000) return 'Todos';
       return 'Hasta €' + this.activeBudgetMax.toLocaleString('es');
+    },
+
+    // Returns up to n destinations most similar to dest (shared categories, region, scores, tags)
+    getSimilarDestinations(dest, n = 3) {
+      return this.destinations
+        .filter(d => d.id !== dest.id)
+        .map(d => {
+          let score = 0;
+          const sharedCats = dest.categories.filter(c => d.categories.includes(c));
+          score += sharedCats.length * 3;
+          if (d.region === dest.region) score += 2;
+          if (Math.abs(d.adventureScore - dest.adventureScore) <= 2) score += 1;
+          if (Math.abs(d.relaxScore - dest.relaxScore) <= 2) score += 1;
+          const sharedTags = (dest.tags || []).filter(t => (d.tags || []).includes(t));
+          score += sharedTags.length * 0.5;
+          return { dest: d, score };
+        })
+        .filter(x => x.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, n)
+        .map(x => x.dest);
     },
 
     // ---- METHODS: Filtering ----
