@@ -976,6 +976,63 @@ const TRIPS_DATA = [
     bookingLinks: { flights: "https://www.skyscanner.es/transport/flights/mad/mla/", accommodation: "https://www.booking.com/searchresults.es.html?ss=Malta" },
     tags: ["UNESCO", "barroco", "mediterráneo", "historia", "isla", "buceo"],
     description: "Tres islas, 7.000 años de historia y el Mediterráneo más turquesa. Valletta, Gozo y el Blue Lagoon en un solo viaje."
+  },
+  {
+    id: "lanzarote",
+    name: "Lanzarote",
+    country: "España",
+    flag: "🇪🇸",
+    emoji: "🌋",
+    region: "Europa",
+    status: "planning",
+    statusLabel: "En Planning",
+    plannedDates: "29 Mar – 4 Abr 2026",
+    duration: 7,
+    destinationAirport: "ACE",
+    flightTime: "2h 30m",
+    flightHours: 2.5,
+    transport: "Caravana + Apartamento",
+    categories: ["beach", "relax", "adventure"],
+    adventureScore: 6,
+    relaxScore: 8,
+    visualScore: 9,
+    budget: { flightMin: 80, flightMax: 250, accommodationMin: 300, accommodationMax: 600, totalMin: 530, totalMax: 1300 },
+    highlights: [
+      "Timanfaya — Ruta de los Volcanes + Restaurante del Diablo encima de la lava",
+      "Caravana libre 2-3 días — norte volcánico con total libertad de movimiento",
+      "Mirador del Río + La Graciosa — acantilado de César Manrique sobre el mar",
+      "Jameos del Agua + Cueva de los Verdes — cuevas volcánicas únicas en el mundo"
+    ],
+    itineraryPreview: [
+      { day: 1, zone: "Arrecife / Costa Teguise", highlight: "Llegada. Apartamento. Paseo por el pueblo." },
+      { day: 2, zone: "Timanfaya", highlight: "Ruta de los Volcanes. El Golfo (lago verde). Restaurante del Diablo." },
+      { day: 3, zone: "Norte — Caravana", highlight: "Inicio caravana. Jameos del Agua. Cueva de los Verdes. Mirador del Río." },
+      { day: 4, zone: "La Graciosa — Caravana", highlight: "Ferry desde Órzola a La Graciosa. Isla sin asfalto. Playa de Las Conchas." },
+      { day: 5, zone: "Famara — Caravana", highlight: "Playa de Famara. Acantilados de Famara. Devolver caravana en Arrecife." },
+      { day: 6, zone: "Sur — Papagayo", highlight: "Playas del Papagayo. Playa Blanca. Atardecer en El Golfo." },
+      { day: 7, zone: "Arrecife", highlight: "Vuelo de regreso a Madrid." }
+    ],
+    seasonalAvailability: { "1":"ok","2":"ok","3":"ok","4":"ok","5":"ok","6":"ok","7":"hot","8":"hot","9":"ok","10":"ok","11":"ok","12":"ok" },
+    bestMonths: [1,2,3,4,5,6,9,10,11,12],
+    heroGradient: "desert",
+    image: "assets/images/destinations/lanzarote.jpg",
+    isGem: false,
+    isLongHaul: false,
+    mapCenter: [29.02, -13.63],
+    mapZoom: 10,
+    mapWaypoints: [
+      [28.96, -13.55, "1. Arrecife — llegada y base"],
+      [29.01, -13.76, "2. Timanfaya — Montañas del Fuego"],
+      [28.99, -13.83, "3. El Golfo — Lago Verde"],
+      [29.18, -13.45, "4. Jameos del Agua + Cueva de los Verdes"],
+      [29.22, -13.48, "5. Mirador del Río — César Manrique"],
+      [29.39, -13.50, "6. La Graciosa — ferry desde Órzola"],
+      [29.12, -13.56, "7. Playa de Famara"],
+      [28.86, -13.83, "8. Playas del Papagayo"]
+    ],
+    bookingLinks: { flights: "https://www.skyscanner.es/transport/flights/mad/ace/", accommodation: "https://www.booking.com/searchresults.es.html?ss=Lanzarote" },
+    tags: ["volcán", "caravana", "UNESCO", "playa", "Manrique", "Canarias"],
+    description: "Marte en el Atlántico. Lanzarote a tu ritmo: 2-3 días libre en caravana por el norte volcánico, La Graciosa y las playas vírgenes del Papagayo."
   }
 ];
 
