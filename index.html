@@ -240,6 +240,51 @@ layout: null
   ============================================================ -->
   <div x-show="viewMode === 'grid'">
 
+    <!-- Recommended this month -->
+    <template x-if="activeFilterCount === 0 && recommendedNow.length > 0">
+      <section class="mb-10">
+        <div class="flex items-center gap-3 mb-4">
+          <span class="text-2xl">✨</span>
+          <div>
+            <h2 class="text-lg font-black">Recomendado para <span x-text="monthNamesFull[currentMonth - 1]"></span></h2>
+            <p class="text-xs text-slate-500 dark:text-slate-400">Mejor temporada ahora mismo</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <template x-for="dest in recommendedNow" :key="dest.id">
+            <div @click="openDetail(dest)"
+                 class="dest-card relative bg-white dark:bg-slate-900 border-2 border-teal-200 dark:border-teal-800 shadow-md cursor-pointer">
+              <div class="card-hero" :class="dest.image ? '' : getHeroGradientClass(dest)">
+                <template x-if="dest.image">
+                  <img :src="dest.image" :alt="dest.name" class="absolute inset-0 w-full h-full object-cover">
+                </template>
+                <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+                <div class="absolute bottom-3 left-3 right-14">
+                  <p class="text-white font-black text-base leading-tight drop-shadow-lg" x-text="dest.emoji + ' ' + dest.name"></p>
+                  <p class="text-white/70 text-xs mt-0.5" x-text="dest.flag + ' ' + dest.country"></p>
+                </div>
+                <div class="price-badge absolute top-3 right-3 bg-white/95 dark:bg-slate-900/95 rounded-2xl px-2.5 py-1.5 shadow-xl">
+                  <p class="text-teal-700 dark:text-teal-500 font-black text-xs whitespace-nowrap">
+                    <span x-text="formatPrice(dest.budget.totalMin)"></span>
+                    <span class="text-slate-300 font-light">–</span>
+                    <span x-text="formatPrice(dest.budget.totalMax)"></span>
+                  </p>
+                </div>
+                <div class="absolute top-3 left-3 bg-teal-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">
+                  <span x-text="getSeasonIcon(dest, currentMonth)"></span>
+                  <span class="ml-1" x-text="getSeasonLabel(dest, currentMonth)"></span>
+                </div>
+              </div>
+              <div class="p-3">
+                <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2" x-text="dest.description"></p>
+              </div>
+            </div>
+          </template>
+        </div>
+        <div class="mt-5 border-t border-slate-200 dark:border-slate-800"></div>
+      </section>
+    </template>
+
     <!-- Empty state -->
     <div x-show="filteredDestinations.length === 0" class="text-center py-20">
       <p class="text-5xl mb-4">🗺️</p>
@@ -790,6 +835,37 @@ layout: null
           </div>
         </template>
 
+        <!-- ---- SIMILAR DESTINATIONS ---- -->
+        <template x-if="getSimilarDestinations(selectedDest).length > 0">
+          <div>
+            <p class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-3">Destinos similares</p>
+            <div class="space-y-2">
+              <template x-for="sim in getSimilarDestinations(selectedDest)" :key="sim.id">
+                <div @click="openDetail(sim)"
+                     class="flex items-center gap-3 p-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 hover:bg-teal-50 dark:hover:bg-teal-900/20 cursor-pointer transition-colors border border-slate-100 dark:border-slate-700">
+                  <div class="w-12 h-12 rounded-lg overflow-hidden shrink-0 relative"
+                       :class="sim.image ? '' : getHeroGradientClass(sim)">
+                    <template x-if="sim.image">
+                      <img :src="sim.image" :alt="sim.name" class="w-full h-full object-cover">
+                    </template>
+                    <template x-if="!sim.image">
+                      <span class="absolute inset-0 flex items-center justify-center text-xl" x-text="sim.emoji"></span>
+                    </template>
+                  </div>
+                  <div class="flex-1 min-w-0">
+                    <p class="text-sm font-bold text-slate-800 dark:text-slate-200 truncate"
+                       x-text="sim.emoji + ' ' + sim.name"></p>
+                    <p class="text-xs text-slate-400 truncate" x-text="sim.flag + ' ' + sim.country + ' · ' + sim.region"></p>
+                  </div>
+                  <div class="text-right shrink-0">
+                    <p class="text-xs font-black text-teal-600 dark:text-teal-400" x-text="formatPrice(sim.budget.totalMin) + '+'"></p>
+                    <p class="text-[10px] text-slate-400" x-text="sim.duration + 'd'"></p>
+                  </div>
+                </div>
+              </template>
+            </div>
+          </div>
+        </template>
 
       </div>
     </div>
