@@ -30,6 +30,8 @@ PHOTOS=(
   "tanzania:1516026672322-71ab47853fde"       # Africa safari
   "zermatt:1515488035-f52d23da3ef0"           # Matterhorn / Alps
   "azores:1580502304784-8985b7eb7260"         # Volcanic island
+  "malta:1555993258105-0b9099b7de88"          # Malta Valletta harbor
+  "lanzarote:1548178042536-89d6f61d9e36"      # Lanzarote volcanic landscape
 )
 
 for entry in "${PHOTOS[@]}"; do
